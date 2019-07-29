@@ -1,0 +1,4250 @@
+# Copyright (C) 2017 PressLayouts
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EmallShop 1.0\n"
+"Report-Msgid-Bugs-To: http://demo.presslayouts.com/emallshop/\n"
+"POT-Creation-Date: 2017-09-08 09:55+0530\n"
+"PO-Revision-Date: 2017-09-08 10:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Image Not Set"
+msgstr "لم يتم تعيين الصورة"
+
+#: admin/admin-function.php:19
+msgid "Header Style 1"
+msgstr "رأس النمط 1"
+
+#: admin/admin-function.php:20
+msgid "Header Style 2"
+msgstr "رأس نمط 2"
+
+#: admin/admin-function.php:21
+msgid "Header Style 3"
+msgstr "رأس النمط 3"
+
+#: admin/admin-function.php:22
+msgid "Header Style 4"
+msgstr "رأس نمط 4"
+
+#: admin/admin-function.php:23
+msgid "Header Style 5"
+msgstr "رأس نمط 5"
+
+#: admin/admin-function.php:24
+msgid "Header Style 6"
+msgstr "رأس نمط 6"
+
+#: admin/admin-function.php:25
+msgid "Header Style 7"
+msgstr "رأس نمط 7"
+
+#: admin/admin-function.php:26
+msgid "Header Style 8"
+msgstr "رأس نمط 8"
+
+#: admin/admin-function.php:27
+msgid "Header Style 9"
+msgstr "رأس النمط 9"
+
+#: admin/admin-function.php:28
+msgid "Header Style 10"
+msgstr "رأس النمط 10"
+
+#: admin/admin-function.php:38
+msgid "Page Heading Style 1"
+msgstr "نمط عنوان الصفحة 1"
+
+#: admin/admin-function.php:39
+msgid "Page Heading Style 2"
+msgstr "نمط عنوان الصفحة 2"
+
+#: admin/admin-function.php:40
+msgid "Page Heading Style 3"
+msgstr "نمط عنوان الصفحة 3"
+
+#: admin/admin-function.php:41
+msgid "Page Heading Style 4"
+msgstr "نمط عنوان الصفحة 4"
+
+#: admin/admin-function.php:51
+msgid "Footer Style 1"
+msgstr "نمط تذييل الصفحة 1"
+
+#: admin/admin-function.php:52
+msgid "Footer Style 2"
+msgstr "نمط تذييل الصفحة 2"
+
+#: admin/admin-function.php:53
+msgid "Footer Style 3"
+msgstr "نمط تذييل الصفحة 3"
+
+#: admin/theme_options.php:47 admin/theme_options.php:48
+msgid "Theme Options"
+msgstr "خيارات الموضوع"
+
+#: admin/theme_options.php:125
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr "<p> هل تعلم أن ريدوكس يحدد متغيرا عالميا لك؟ للدخول إلى أي من الخيارات المحفوظة من داخل الشفرة، يمكنك استخدام المتغير العالمي: <سترونغ> $ %1$s </ سترونغ> </ p>"
+
+#: admin/theme_options.php:127
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr "<p> يتم عرض هذا النص أعلى لوحة الخيارات. ليس مطلوبا، ولكن مزيد من المعلومات هو دائما أفضل! يقبل حقل intro_text كل هتمل. </ p>"
+
+#: admin/theme_options.php:131
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr "<p> يتم عرض هذا النص أسفل لوحة الخيارات. ليس مطلوبا، ولكن مزيد من المعلومات هو دائما أفضل! يقبل حقل footer_text كل هتمل. </ p>"
+
+#: admin/theme_options.php:152
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: admin/theme_options.php:159
+msgid "Theme Layout"
+msgstr "تخطيط الموضوع"
+
+#: admin/theme_options.php:160
+msgid "Choose theme wide or boxed layout."
+msgstr "اختيار موضوع واسعة أو تخطيط محاصر."
+
+#: admin/theme_options.php:177
+msgid "Page Width"
+msgstr "عرض الصفحة"
+
+#: admin/theme_options.php:178
+msgid "Choose one of the pre-defined widths or enter custom one."
+msgstr "اختر أحد العروض المحددة مسبقا أو أدخل عرضا مخصصا."
+
+#: admin/theme_options.php:188
+msgid "Pre-defined Page Width"
+msgstr "عرض صفحة محدد مسبقا"
+
+#: admin/theme_options.php:190
+msgid "Wide Screen"
+msgstr "شاشة عريضة"
+
+#: admin/theme_options.php:191
+msgid "NoteBook"
+msgstr "مذكرة/دفتر"
+
+#: admin/theme_options.php:199
+msgid "Custom Page Width"
+msgstr "عرض صفحة مخصص"
+
+#: admin/theme_options.php:207
+msgid "Header Logo"
+msgstr "رأس الشعار"
+
+#: admin/theme_options.php:209
+msgid "Upload header logo."
+msgstr "تحميل شعار الرأس."
+
+#: admin/theme_options.php:216
+msgid "Sticky Header Logo"
+msgstr "شعار رأس مثبت"
+
+#: admin/theme_options.php:218
+msgid "Upload sticky header logo."
+msgstr "تحميل شعار رأس مثبت."
+
+#: admin/theme_options.php:225
+msgid "Favicon Icon"
+msgstr "رمز أيقونة المفضلة"
+
+#: admin/theme_options.php:227
+msgid "Upload site favicon icon."
+msgstr "رمز تحميل رمز موقع الويب."
+
+#: admin/theme_options.php:233
+msgid "Show Back To Top Button"
+msgstr "عرض العودة إلى الأعلى"
+
+#: admin/theme_options.php:234
+msgid "Show back to top button."
+msgstr "عرض العودة إلى أعلى زر."
+
+#: admin/theme_options.php:236 admin/theme_options.php:245
+#: admin/theme_options.php:1338 admin/theme_options.php:1359
+msgid "On"
+msgstr "على"
+
+#: admin/theme_options.php:237 admin/theme_options.php:246
+#: admin/theme_options.php:1339 admin/theme_options.php:1360
+#: admin/theme_options.php:1665 framework/woocommerce/woo-functions.php:922
+msgid "Off"
+msgstr "إيقاف"
+
+#: admin/theme_options.php:242
+msgid "Show Login Register Popup"
+msgstr "شو تسجيل الدخول تسجيل بوبوب"
+
+#: admin/theme_options.php:243
+msgid "Show login register in popen or redirect on My Account page."
+msgstr "إظهار سجل تسجيل الدخول في بوبين أو إعادة توجيه على صفحة حسابي."
+
+#: admin/theme_options.php:251
+msgid "Tracking Code"
+msgstr "شفرة التتبع"
+
+#: admin/theme_options.php:252
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "الصق شفرة تتبع غوغل أناليتيكش (أو غيرها) هنا. ستتم إضافة ذلك إلى نموذج التذييل الخاص بموضوعك."
+
+#: admin/theme_options.php:260
+msgid "Theme Styling"
+msgstr "موضوع التصميم"
+
+#: admin/theme_options.php:268
+msgid "Body"
+msgstr "تفاصيل"
+
+#: admin/theme_options.php:275
+msgid "Theme Primary Color"
+msgstr "موضوع اللون الأساسي"
+
+#: admin/theme_options.php:281
+msgid "Theme Secondary Color"
+msgstr "موضوع اللون الثانوي"
+
+#: admin/theme_options.php:287
+msgid "Body Wrapper Background"
+msgstr "الخلفية"
+
+#: admin/theme_options.php:288
+msgid "Body wrapper background with image, color, etc."
+msgstr "خلفية مظلة الجسم مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:301 admin/theme_options.php:420
+#: admin/theme_options.php:550 admin/theme_options.php:626
+#: admin/theme_options.php:702 admin/theme_options.php:829
+#: admin/theme_options.php:921 admin/theme_options.php:953
+#: admin/theme_options.php:1050
+msgid "Background Opacity"
+msgstr "Background Opacity"
+
+#: admin/theme_options.php:302
+msgid "Body wrapper background opacity."
+msgstr "الجسم، المجمع، الخلفية.، أوباسيتي."
+
+#: admin/theme_options.php:313 admin/theme_options.php:473
+#: admin/theme_options.php:562 admin/theme_options.php:580
+#: admin/theme_options.php:650 admin/theme_options.php:721
+#: admin/theme_options.php:777 admin/theme_options.php:848
+#: admin/theme_options.php:972 admin/theme_options.php:1062
+#: admin/theme_options.php:3515
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: admin/theme_options.php:319
+msgid "Heading/Title Color"
+msgstr "عنوان العنوان / العنوان"
+
+#: admin/theme_options.php:320
+msgid "Body heading color h1, h2, h3, h4, h5, and h6."
+msgstr "لون لون الجسم h1، h2، h3، h4، h5، h6."
+
+#: admin/theme_options.php:326 admin/theme_options.php:479
+#: admin/theme_options.php:568 admin/theme_options.php:638
+#: admin/theme_options.php:727 admin/theme_options.php:978
+msgid "Input Field Background( TextBox, SelectBox, etc..)"
+msgstr "إدخال حقل الخلفية (مربع نص، سيليكبوكس، الخ ..)"
+
+#: admin/theme_options.php:332 admin/theme_options.php:485
+#: admin/theme_options.php:574 admin/theme_options.php:644
+#: admin/theme_options.php:733 admin/theme_options.php:984
+msgid "Input Field Color( TextBox, SelectBox, etc..)"
+msgstr "الإدخال حقل اللون (مربع نص، سيليكبوكس، الخ ..)"
+
+#: admin/theme_options.php:338 admin/theme_options.php:491
+#: admin/theme_options.php:656 admin/theme_options.php:739
+#: admin/theme_options.php:783 admin/theme_options.php:854
+#: admin/theme_options.php:990 admin/theme_options.php:1068
+msgid "Link Color"
+msgstr "لون الروابط"
+
+#: admin/theme_options.php:352
+msgid "Theme Border"
+msgstr "حدود الموضوع"
+
+#: admin/theme_options.php:353
+msgid "General border of theme."
+msgstr "الحدود العامة للموضوع."
+
+#: admin/theme_options.php:366
+msgid "Theme Border Radius"
+msgstr "دائرة نصف قطرها الحدود الموضوع"
+
+#: admin/theme_options.php:367
+msgid "General border radius of theme."
+msgstr "دائرة نصف قطرها الحدود العامة للموضوع."
+
+#: admin/theme_options.php:381
+msgid "Body Wrapper Padding"
+msgstr "الجسم التفاف الحشو"
+
+#: admin/theme_options.php:382
+msgid "Default padding in px: 0 0"
+msgstr "الحشو الافتراضي في بس: 0 0"
+
+#: admin/theme_options.php:393 admin/theme_options.php:1152
+#: admin/theme_options.php:3484
+msgid "Header"
+msgstr "الهيدر"
+
+#: admin/theme_options.php:401
+msgid "Header Wrapper Background."
+msgstr "رأس التفاف الخلفية."
+
+#: admin/theme_options.php:406 admin/theme_options.php:447
+#: admin/theme_options.php:536 admin/theme_options.php:688
+#: admin/theme_options.php:771 admin/theme_options.php:815
+#: admin/theme_options.php:907 admin/theme_options.php:939
+#: admin/theme_options.php:1036 admin/theme_options.php:3578
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: admin/theme_options.php:407
+msgid "Header wrapper background with image, color, etc."
+msgstr "خلفية التفاف الرأس مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:421
+msgid "Header wrapper background opacity."
+msgstr "رأس، المجمع، الخلفية.، أوباسيتي."
+
+#: admin/theme_options.php:432
+msgid "Header Overlay"
+msgstr "تراكب الرأس"
+
+#: admin/theme_options.php:433
+msgid "Header overlay on home page slider. Note:- When you use header overlay on home page slider, at this time no any effect background color on topbar, header and navigation in home page header. But background color  work/effect in other all pages."
+msgstr "تراكب الرأس على شريط تمرير الصفحة الرئيسية. ملاحظة: - عند استخدام تراكب رأس الصفحة على شريط تمرير الصفحة الرئيسية، في الوقت الحالي لا يوجد أي لون خلفية تأثير على توبار، رأس والملاحة في رأس الصفحة الرئيسية. ولكن لون الخلفية العمل / تأثير في جميع الصفحات الأخرى."
+
+#: admin/theme_options.php:434 admin/theme_options.php:1169
+#: admin/theme_options.php:1177 admin/theme_options.php:1329
+#: admin/theme_options.php:1627 admin/theme_options.php:1958
+#: admin/theme_options.php:2112 admin/theme_options.php:2403
+#: admin/theme_options.php:2412 admin/theme_options.php:2421
+#: admin/theme_options.php:2685 admin/theme_options.php:2704
+#: admin/theme_options.php:3337 admin/theme_options.php:3367
+#: admin/theme_options.php:3424 admin/theme_options.php:3449
+#: admin/theme_options.php:3539 admin/theme_options.php:3619
+#: admin/theme_options.php:3695
+msgid "Enable"
+msgstr "تمكين"
+
+#: admin/theme_options.php:435 admin/theme_options.php:1170
+#: admin/theme_options.php:1178 admin/theme_options.php:1330
+#: admin/theme_options.php:1628 admin/theme_options.php:1959
+#: admin/theme_options.php:2113 admin/theme_options.php:2404
+#: admin/theme_options.php:2413 admin/theme_options.php:2422
+#: admin/theme_options.php:2686 admin/theme_options.php:2705
+#: admin/theme_options.php:3338 admin/theme_options.php:3368
+#: admin/theme_options.php:3425 admin/theme_options.php:3450
+#: admin/theme_options.php:3540 admin/theme_options.php:3620
+#: admin/theme_options.php:3696
+msgid "Disable"
+msgstr "تعطيل"
+
+#: admin/theme_options.php:442
+msgid "Header Middle Background."
+msgstr "الخلفية الرأسية."
+
+#: admin/theme_options.php:448
+msgid "Header middle background with image, color, etc."
+msgstr "هيدر خلفية متوسطة مع صورة، لون، الخ."
+
+#: admin/theme_options.php:461
+msgid "Opacity"
+msgstr "Opacity"
+
+#: admin/theme_options.php:462
+msgid "Header background opacity."
+msgstr "تعتيم خلفية الرأس."
+
+#: admin/theme_options.php:501
+msgid "Header Border"
+msgstr "رأس الحد"
+
+#: admin/theme_options.php:502 admin/theme_options.php:591
+msgid "Set Header border."
+msgstr "تعيين حد الرأس."
+
+#: admin/theme_options.php:519 admin/theme_options.php:882
+#: admin/theme_options.php:1017 admin/theme_options.php:1095
+msgid "Content Padding"
+msgstr "حشو المحتوى"
+
+#: admin/theme_options.php:520
+msgid "Default padding in px: 24 24"
+msgstr "الحشو الافتراضي في بس: 24 ​​24"
+
+#: admin/theme_options.php:531 admin/theme_options.php:1168
+msgid "Sticky Header"
+msgstr "رأس مثبت"
+
+#: admin/theme_options.php:537
+msgid "Sticky Header background with image, color, etc."
+msgstr "خلفية رأس مثبت مع صورة أو لون أو غير ذلك."
+
+#: admin/theme_options.php:551
+msgid "Sticky header background opacity."
+msgstr "رأس مثبت خلفية التعتيم."
+
+#: admin/theme_options.php:590
+msgid "Sticky Header Border"
+msgstr "رأس مثبت الرأس"
+
+#: admin/theme_options.php:605
+msgid "Topbar"
+msgstr "Topbar"
+
+#: admin/theme_options.php:612
+msgid " Topbar Background"
+msgstr " خلفية توبار"
+
+#: admin/theme_options.php:613
+msgid "Topbar background with image, color, etc."
+msgstr "خلفية توبار مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:627
+msgid "Topbar background opacity."
+msgstr "تعتيم خلفية توبار."
+
+#: admin/theme_options.php:666
+msgid "Topbar Border"
+msgstr "حدود توبار"
+
+#: admin/theme_options.php:667
+msgid "Set topbar border."
+msgstr "تعيين حدود توبار."
+
+#: admin/theme_options.php:681
+msgid "Navigation"
+msgstr "التنقل"
+
+#: admin/theme_options.php:689
+msgid "Navigation background with image, color, etc."
+msgstr "خلفية التنقل مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:703
+msgid "Navigation background opacity."
+msgstr "تعتيم خلفية التنقل."
+
+#: admin/theme_options.php:714
+msgid "Secondary Background Color"
+msgstr "لون الخلفية الثانوي"
+
+#: admin/theme_options.php:715
+msgid "Secondary navigation background color."
+msgstr "لون خلفية التنقل الثانوي."
+
+#: admin/theme_options.php:749
+msgid "Navigation Border"
+msgstr "حدود التنقل"
+
+#: admin/theme_options.php:750
+msgid "Set Navigation border."
+msgstr "تعيين حد التنقل."
+
+#: admin/theme_options.php:764 inc/theme-function.php:805
+msgid "Menu"
+msgstr "القائمة"
+
+#: admin/theme_options.php:793
+msgid "Menu Border"
+msgstr "حد القائمة:"
+
+#: admin/theme_options.php:794
+msgid "Set Menu border."
+msgstr "تعيين حدود القائمة."
+
+#: admin/theme_options.php:808 admin/theme_options.php:1466
+msgid "Page Heading"
+msgstr "عنوان الصفحة"
+
+#: admin/theme_options.php:816
+msgid "Page heading background with image, color, etc."
+msgstr "خلفية عنوان الصفحة مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:830
+msgid "Page heading background opacity."
+msgstr "عنوان الصفحة تعتيم الخلفية."
+
+#: admin/theme_options.php:841
+msgid "Page Heading/Title Color"
+msgstr "صفحة عنوان العنوان / العنوان"
+
+#: admin/theme_options.php:842
+msgid "Page heading/title color."
+msgstr "عنوان عنوان الصفحة / العنوان."
+
+#: admin/theme_options.php:864
+msgid "Page Heading Border"
+msgstr "حدود عنوان الصفحة"
+
+#: admin/theme_options.php:865
+msgid "Set page heading border."
+msgstr "تعيين حد عنوان الصفحة."
+
+#: admin/theme_options.php:883
+msgid "Default padding in px: 10 10"
+msgstr "الحشو الافتراضي في بس: 10 10"
+
+#: admin/theme_options.php:894 admin/theme_options.php:1523
+#: admin/theme_options.php:3485
+msgid "Footer"
+msgstr "تذييل"
+
+#: admin/theme_options.php:902
+msgid "Footer Wrapper Background."
+msgstr "تذييل التفاف الخلفية."
+
+#: admin/theme_options.php:908
+msgid "Footer wrapper background with image, color, etc."
+msgstr "خلفية تذييل الصفحة مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:922
+msgid "Footer wrapper background opacity."
+msgstr "تذييل، المجمع، الخلفية."
+
+#: admin/theme_options.php:934
+msgid "Footer Top/Middle Background."
+msgstr "تذييل أعلى / الخلفية الوسطى."
+
+#: admin/theme_options.php:940
+msgid "Footer top/middle background with image, color, etc."
+msgstr "أعلى تذييل / خلفية متوسطة مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:954
+msgid "Footer background opacity."
+msgstr "تذييل الخلفية التذييل."
+
+#: admin/theme_options.php:965
+msgid "Heading Color"
+msgstr "لون التروسية"
+
+#: admin/theme_options.php:966
+msgid "Footer heading color."
+msgstr "تذييل عنوان العنوان."
+
+#: admin/theme_options.php:1000
+msgid "Footer Border"
+msgstr "تذييل الحدود"
+
+#: admin/theme_options.php:1018
+msgid "Default padding in px: 42 42"
+msgstr "الحشو الافتراضي في بس: 42 42"
+
+#: admin/theme_options.php:1029 admin/theme_options.php:1549
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: admin/theme_options.php:1037
+msgid "Copyright background with image, color, etc."
+msgstr "خلفية حقوق الطبع والنشر مع صورة أو لون أو غير ذلك."
+
+#: admin/theme_options.php:1051
+msgid "Copyright background opacity."
+msgstr "الخلفية."
+
+#: admin/theme_options.php:1078
+msgid "Copyright Border"
+msgstr "حدود حقوق الطبع والنشر"
+
+#: admin/theme_options.php:1096
+msgid "Default padding: 14 14"
+msgstr "الحشو الافتراضي: 14 14"
+
+#: admin/theme_options.php:1108
+msgid "Theme Typography"
+msgstr "موضوع الطباعة"
+
+#: admin/theme_options.php:1116
+msgid "Google Font Character Sets"
+msgstr "مجموعات أحرف غوغل فونت"
+
+#: admin/theme_options.php:1117
+msgid "Select google font character sets"
+msgstr "حدد مجموعات الأحرف الخط جوجل"
+
+#: admin/theme_options.php:1132
+msgid "Body Font"
+msgstr "خط الجسم"
+
+#: admin/theme_options.php:1160
+msgid "Header Layout"
+msgstr "تخطيط الرأس"
+
+#: admin/theme_options.php:1161
+msgid "Choose Your header style/layout."
+msgstr "اختر نمط / تنسيق رأسك."
+
+#: admin/theme_options.php:1176
+msgid "Sticky Header In Mobile"
+msgstr "رأس مثبت في الجوال"
+
+#: admin/theme_options.php:1185
+msgid "Select Sticky Header Part"
+msgstr "حدد جزء رأس مثبت"
+
+#: admin/theme_options.php:1187
+msgid "Topbar Header"
+msgstr "رأس توبار"
+
+#: admin/theme_options.php:1188
+msgid "Middle Header"
+msgstr "رأس الأوسط"
+
+#: admin/theme_options.php:1189
+msgid "Navigation Header"
+msgstr "رأس التنقل"
+
+#: admin/theme_options.php:1197
+msgid "Show Header Topbar"
+msgstr "عرض رأس الصفحة"
+
+#: admin/theme_options.php:1198
+msgid "Show header topbar on header."
+msgstr "إظهار رأس الصفحة العلوي على رأس الصفحة."
+
+#: admin/theme_options.php:1199 admin/theme_options.php:1208
+#: admin/theme_options.php:1218 admin/theme_options.php:1228
+#: admin/theme_options.php:1246 admin/theme_options.php:1264
+#: admin/theme_options.php:1282 admin/theme_options.php:1292
+#: admin/theme_options.php:1310 admin/theme_options.php:1369
+#: admin/theme_options.php:1378 admin/theme_options.php:1387
+#: admin/theme_options.php:1558 admin/theme_options.php:1618
+#: admin/theme_options.php:1636 admin/theme_options.php:1644
+#: admin/theme_options.php:1686 admin/theme_options.php:1720
+#: admin/theme_options.php:1743 admin/theme_options.php:1839
+#: admin/theme_options.php:1976 admin/theme_options.php:1984
+#: admin/theme_options.php:1992 admin/theme_options.php:2001
+#: admin/theme_options.php:2009 admin/theme_options.php:2018
+#: admin/theme_options.php:2027 admin/theme_options.php:2036
+#: admin/theme_options.php:2045 admin/theme_options.php:2054
+#: admin/theme_options.php:2139 admin/theme_options.php:2147
+#: admin/theme_options.php:2156 admin/theme_options.php:2165
+#: admin/theme_options.php:2174 admin/theme_options.php:2183
+#: admin/theme_options.php:2191 admin/theme_options.php:2199
+#: admin/theme_options.php:2207 admin/theme_options.php:2225
+#: admin/theme_options.php:2247 admin/theme_options.php:2255
+#: admin/theme_options.php:2294 admin/theme_options.php:2302
+#: admin/theme_options.php:2363 admin/theme_options.php:2383
+#: admin/theme_options.php:2492 admin/theme_options.php:2500
+#: admin/theme_options.php:2545 admin/theme_options.php:2553
+#: admin/theme_options.php:2561 admin/theme_options.php:2585
+#: admin/theme_options.php:2605 admin/theme_options.php:2652
+#: admin/theme_options.php:2660 admin/theme_options.php:2668
+#: admin/theme_options.php:2694 admin/theme_options.php:2714
+#: admin/theme_options.php:2774 admin/theme_options.php:2782
+#: admin/theme_options.php:2880 admin/theme_options.php:2888
+#: admin/theme_options.php:2896 admin/theme_options.php:2904
+#: admin/theme_options.php:2948 admin/theme_options.php:2957
+#: admin/theme_options.php:3019 admin/theme_options.php:3027
+#: admin/theme_options.php:3087 admin/theme_options.php:3095
+#: admin/theme_options.php:3132 admin/theme_options.php:3244
+#: admin/theme_options.php:3263 admin/theme_options.php:3272
+#: admin/theme_options.php:3281 admin/theme_options.php:3290
+#: admin/theme_options.php:3299 admin/theme_options.php:3308
+#: admin/theme_options.php:3317
+msgid "Show"
+msgstr "تبين"
+
+#: admin/theme_options.php:1200 admin/theme_options.php:1209
+#: admin/theme_options.php:1219 admin/theme_options.php:1229
+#: admin/theme_options.php:1247 admin/theme_options.php:1265
+#: admin/theme_options.php:1283 admin/theme_options.php:1293
+#: admin/theme_options.php:1311 admin/theme_options.php:1370
+#: admin/theme_options.php:1379 admin/theme_options.php:1388
+#: admin/theme_options.php:1559 admin/theme_options.php:1619
+#: admin/theme_options.php:1637 admin/theme_options.php:1645
+#: admin/theme_options.php:1687 admin/theme_options.php:1721
+#: admin/theme_options.php:1744 admin/theme_options.php:1840
+#: admin/theme_options.php:1977 admin/theme_options.php:1985
+#: admin/theme_options.php:1993 admin/theme_options.php:2002
+#: admin/theme_options.php:2010 admin/theme_options.php:2019
+#: admin/theme_options.php:2028 admin/theme_options.php:2037
+#: admin/theme_options.php:2046 admin/theme_options.php:2055
+#: admin/theme_options.php:2140 admin/theme_options.php:2148
+#: admin/theme_options.php:2157 admin/theme_options.php:2166
+#: admin/theme_options.php:2175 admin/theme_options.php:2184
+#: admin/theme_options.php:2192 admin/theme_options.php:2200
+#: admin/theme_options.php:2208 admin/theme_options.php:2226
+#: admin/theme_options.php:2248 admin/theme_options.php:2256
+#: admin/theme_options.php:2295 admin/theme_options.php:2303
+#: admin/theme_options.php:2364 admin/theme_options.php:2384
+#: admin/theme_options.php:2493 admin/theme_options.php:2501
+#: admin/theme_options.php:2546 admin/theme_options.php:2554
+#: admin/theme_options.php:2562 admin/theme_options.php:2586
+#: admin/theme_options.php:2606 admin/theme_options.php:2653
+#: admin/theme_options.php:2661 admin/theme_options.php:2669
+#: admin/theme_options.php:2695 admin/theme_options.php:2715
+#: admin/theme_options.php:2775 admin/theme_options.php:2783
+#: admin/theme_options.php:2881 admin/theme_options.php:2889
+#: admin/theme_options.php:2897 admin/theme_options.php:2905
+#: admin/theme_options.php:2949 admin/theme_options.php:2958
+#: admin/theme_options.php:3020 admin/theme_options.php:3028
+#: admin/theme_options.php:3088 admin/theme_options.php:3096
+#: admin/theme_options.php:3133 admin/theme_options.php:3245
+#: admin/theme_options.php:3264 admin/theme_options.php:3273
+#: admin/theme_options.php:3282 admin/theme_options.php:3291
+#: admin/theme_options.php:3300 admin/theme_options.php:3309
+#: admin/theme_options.php:3318
+msgid "Hide"
+msgstr "إخفاء "
+
+#: admin/theme_options.php:1206
+msgid "Show Language Switcher"
+msgstr "إظهار الجلاد اللغة"
+
+#: admin/theme_options.php:1207
+msgid "Show language switcher on topbar."
+msgstr "عرض الجلاد اللغة على توبار."
+
+#: admin/theme_options.php:1216
+msgid "Show Currency Switcher"
+msgstr "إظهار محول العملات"
+
+#: admin/theme_options.php:1217
+msgid "Show currency switcher on topbar."
+msgstr "عرض مفتاح تحويل العملات على توبار."
+
+#: admin/theme_options.php:1226
+msgid "Show Topbar Email"
+msgstr "عرض البريد الإلكتروني توبار"
+
+#: admin/theme_options.php:1227
+msgid "Show email address on topbar."
+msgstr "عرض عنوان البريد الإلكتروني على توبار."
+
+#: admin/theme_options.php:1236
+msgid "Enter Topbar Email"
+msgstr "أدخل البريد الإلكتروني ل توبار"
+
+#: admin/theme_options.php:1237
+msgid "Enter topbar email address."
+msgstr "أدخل عنوان البريد الإلكتروني الخاص بشركة توببار."
+
+#: admin/theme_options.php:1244
+msgid "Show Topbar Number"
+msgstr "إظهار رقم توبار"
+
+#: admin/theme_options.php:1245
+msgid "Show mobile number on topbar."
+msgstr "عرض رقم الجوال على توبار."
+
+#: admin/theme_options.php:1254
+msgid "Enter Topbar Number"
+msgstr "أدخل رقم توبار"
+
+#: admin/theme_options.php:1255
+msgid "Enter topbar mobile number."
+msgstr "أدخل رقم جوال توبار."
+
+#: admin/theme_options.php:1262
+msgid "Show Topbar News"
+msgstr "عرض أخبار توبار"
+
+#: admin/theme_options.php:1263
+msgid "Show news on topbar."
+msgstr "عرض الأخبار على توبار."
+
+#: admin/theme_options.php:1272
+msgid "Enter Topbar News"
+msgstr "أدخل أخبار توبار"
+
+#: admin/theme_options.php:1273
+msgid "Enter topbar news in \"a\" tab."
+msgstr "أدخل أخبار توبار في علامة التبويب \\ \"a \"."
+
+#: admin/theme_options.php:1280
+msgid "Show Topbar Social Link"
+msgstr "إظهار الرابط الاجتماعي توبار"
+
+#: admin/theme_options.php:1281
+msgid "Show social link on topbar."
+msgstr "إظهار الارتباط الاجتماعي على توبار."
+
+#: admin/theme_options.php:1290
+msgid "Show Topbar Welcome Message"
+msgstr "عرض رسالة ترحيب توبار"
+
+#: admin/theme_options.php:1291
+msgid "Show welcome message on topbar."
+msgstr "عرض رسالة الترحيب على توبار."
+
+#: admin/theme_options.php:1300
+msgid "Enter Topbar Welcome Message"
+msgstr "أدخل رسالة ترحيب توبار"
+
+#: admin/theme_options.php:1301
+msgid "Enter topbar welcome message."
+msgstr "أدخل رسالة ترحيب توببار."
+
+#: admin/theme_options.php:1308
+msgid "Show Topbar Help"
+msgstr "عرض مساعدة توبار"
+
+#: admin/theme_options.php:1309
+msgid "Show help on topbar."
+msgstr "إظهار المساعدة على توبار."
+
+#: admin/theme_options.php:1318
+msgid "Enter Help Link"
+msgstr "أدخل رابط المساعدة"
+
+#: admin/theme_options.php:1319
+msgid "Enter help link. of topbar"
+msgstr "أدخل رابط المساعدة. من توبار"
+
+#: admin/theme_options.php:1327
+msgid "Product Live/Ajax Search"
+msgstr "المنتج لايف / البحث أجاكس"
+
+#: admin/theme_options.php:1328
+msgid "Live product search or not on header."
+msgstr "البحث عن منتج مباشر أو لا على رأس الصفحة."
+
+#: admin/theme_options.php:1336
+msgid "Show Categories Dropdown"
+msgstr "عرض الفئات المنسدلة"
+
+#: admin/theme_options.php:1337
+msgid "Show categories dropdow in product search."
+msgstr "عرض الفئات دروبدو في البحث عن المنتجات."
+
+#: admin/theme_options.php:1345
+msgid "Search Categories Dropdown"
+msgstr "بحث الفئات المنسدلة"
+
+#: admin/theme_options.php:1346
+msgid "Display categories in search categories dropdow."
+msgstr "عرض الفئات في فئات البحث دروبدو."
+
+#: admin/theme_options.php:1348
+msgid "Show All Categories"
+msgstr "مشاهدة جميع الفئات"
+
+#: admin/theme_options.php:1349
+msgid "Only Parent(top level) Categories"
+msgstr "فقط الوالدين (المستوى الأعلى) الفئات"
+
+#: admin/theme_options.php:1357
+msgid "Show Categories Hierarchical"
+msgstr "شو كاتيغوريز هرميكال"
+
+#: admin/theme_options.php:1358
+msgid "Show categories in hierarchical (Must be need to select above option Show All Categories)."
+msgstr "إظهار الفئات في التسلسل الهرمي (يجب أن تحتاج إلى تحديد الخيار أعلاه عرض جميع الفئات)."
+
+#: admin/theme_options.php:1367
+msgid "Show Cart"
+msgstr "عرض السلة"
+
+#: admin/theme_options.php:1368
+msgid "Show cart on header."
+msgstr "عرض العربة على رأس."
+
+#: admin/theme_options.php:1376
+msgid "Show Wishlist"
+msgstr "عرض قائمة الأمنيات"
+
+#: admin/theme_options.php:1377
+msgid "Show wishlist on header."
+msgstr "إظهار قائمة الأماني على رأس الصفحة."
+
+#: admin/theme_options.php:1385
+msgid "Show Campare"
+msgstr "عرض كامباري"
+
+#: admin/theme_options.php:1386
+msgid "Show campare on header."
+msgstr "عرض كامبار على رأس."
+
+#: admin/theme_options.php:1394
+msgid "Header Services Icon 1"
+msgstr "رأس الخدمات رمز 1"
+
+#: admin/theme_options.php:1400
+msgid "Enter Service Title 1."
+msgstr "أدخل عنوان الخدمة 1."
+
+#: admin/theme_options.php:1406
+msgid "Enter Service Sort Description 1"
+msgstr "أدخل الخدمة تصنيف الوصف 1"
+
+#: admin/theme_options.php:1412 admin/theme_options.php:1430
+msgid "Header Services Icon 3"
+msgstr "رأس الخدمات رمز 3"
+
+#: admin/theme_options.php:1418
+msgid "Enter Service Title 2"
+msgstr "أدخل عنوان الخدمة 2"
+
+#: admin/theme_options.php:1419 inc/theme-function.php:622
+#: inc/theme-function.php:631
+msgid "Free Shipping"
+msgstr "شحن مجان."
+
+#: admin/theme_options.php:1424
+msgid "Enter Service Sort Description 2"
+msgstr "أدخل سيرفيس سورت دسكريبتيون 2"
+
+#: admin/theme_options.php:1425 inc/theme-function.php:623
+msgid "all order over $100."
+msgstr "كل أمر أكثر من 100 دولار."
+
+#: admin/theme_options.php:1436
+msgid "Enter Service Title 3"
+msgstr "أدخل عنوان الخدمة 3"
+
+#: admin/theme_options.php:1437 inc/theme-function.php:632
+msgid "Return & Exchange"
+msgstr "العودة وتبادل"
+
+#: admin/theme_options.php:1442
+msgid "Enter Service Sort Description 3"
+msgstr "أدخل الخدمة تصنيف الوصف 3"
+
+#: admin/theme_options.php:1448
+msgid "Open Categories(Vertical) Menu In Home Page"
+msgstr "فتح الفئات (عمودي) القائمة في الصفحة الرئيسية"
+
+#: admin/theme_options.php:1449
+msgid "Categories(Vertical) menu open in home page. See demo ex. Electronic."
+msgstr "فئات (عمودي) القائمة مفتوحة في الصفحة الرئيسية. انظر العرض التوضيحي السابق. الالكترونية."
+
+#: admin/theme_options.php:1450
+msgid "Open"
+msgstr " فتح "
+
+#: admin/theme_options.php:1451
+msgid "Close"
+msgstr "إغلا"
+
+#: admin/theme_options.php:1457
+msgid "Shopping Categories Title"
+msgstr "التسوق الفئات العنوان"
+
+#: admin/theme_options.php:1473
+msgid "Show Page Heading"
+msgstr "إظهار عنوان الصفحة"
+
+#: admin/theme_options.php:1474 admin/theme_options.php:1492
+#: admin/theme_options.php:1513 admin/theme_options.php:1587
+#: admin/theme_options.php:1609 admin/theme_options.php:1904
+#: admin/theme_options.php:2121 admin/theme_options.php:2130
+#: admin/theme_options.php:2277 admin/theme_options.php:2286
+#: admin/theme_options.php:2929 admin/theme_options.php:2939
+#: framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:206
+#: inc/meta-boxes.php:218
+msgid "Yes"
+msgstr "نعم "
+
+#: admin/theme_options.php:1475 admin/theme_options.php:1493
+#: admin/theme_options.php:1514 admin/theme_options.php:1588
+#: admin/theme_options.php:1610 admin/theme_options.php:1905
+#: admin/theme_options.php:2122 admin/theme_options.php:2131
+#: admin/theme_options.php:2278 admin/theme_options.php:2287
+#: admin/theme_options.php:2930 admin/theme_options.php:2940
+#: admin/theme_options.php:3434 framework/meta-box/inc/fields/checkbox.php:85
+#: inc/meta-boxes.php:207 inc/meta-boxes.php:219
+msgid "No"
+msgstr "لا "
+
+#: admin/theme_options.php:1482
+msgid "Page Heading Layout"
+msgstr "تخطيط عنوان الصفحة"
+
+#: admin/theme_options.php:1483
+msgid "Choose Your page heading style/layout."
+msgstr "اختر نمط / تنسيق عنوان الصفحة."
+
+#: admin/theme_options.php:1491 admin/theme_options.php:2781
+#: admin/theme_options.php:3026 admin/theme_options.php:3094
+msgid "Show Page Title"
+msgstr "عرض عنوان الصفحة"
+
+#: admin/theme_options.php:1500
+msgid "Show Title In Page Heading Or Page Content"
+msgstr "عرض العنوان في عنوان الصفحة أو محتوى الصفحة"
+
+#: admin/theme_options.php:1501
+msgid "Show page title in page heading area or page content area."
+msgstr "عرض عنوان الصفحة في منطقة عنوان الصفحة أو منطقة محتوى الصفحة."
+
+#: admin/theme_options.php:1503
+msgid "In  Page Heading"
+msgstr "في عنوان الصفحة"
+
+#: admin/theme_options.php:1504
+msgid "In Page Content"
+msgstr "في محتوى الصفحة"
+
+#: admin/theme_options.php:1512 admin/theme_options.php:2773
+#: admin/theme_options.php:3018 admin/theme_options.php:3086
+msgid "Show Page Breadcrumb"
+msgstr "عرض صفحة البحث التفصيلي"
+
+#: admin/theme_options.php:1531
+msgid "Footer Layout"
+msgstr "تخطيط تذييل الصفحة"
+
+#: admin/theme_options.php:1532
+msgid "Choose Your footer style/layout."
+msgstr "اختر نمط / تذييل التذييل."
+
+#: admin/theme_options.php:1542
+msgid "Select Your Popular Categories"
+msgstr "حدد الفئات الشائعة"
+
+#: admin/theme_options.php:1543
+msgid "Select your populare categories and display on footer. But need to be first select footer style third. "
+msgstr "حدد فئات بوبولار وعرض على تذييل الصفحة. ولكن تحتاج إلى أن يكون أولا حدد نمط تذييل الثالثة. "
+
+#: admin/theme_options.php:1550
+msgid "Enter copyright text."
+msgstr "أدخل نص حقوق الطبع والنشر."
+
+#: admin/theme_options.php:1551
+msgid "&copy; 2017 presslayouts.com. All Rights Reserved."
+msgstr "&نسخ؛ 2017 presslayouts.com. كل الحقوق محفوظة."
+
+#: admin/theme_options.php:1556
+msgid "Show Payments Logo"
+msgstr "عرض شعار الدفعات"
+
+#: admin/theme_options.php:1565
+msgid "Payments Logo Image"
+msgstr "المدفوعات صورة الشعار"
+
+#: admin/theme_options.php:1567
+msgid "Upload payments logo image."
+msgstr "تحميل الدفعات شعار الصورة."
+
+#: admin/theme_options.php:1578
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/theme_options.php:1585
+msgid "Manage Password Strength"
+msgstr "إدارة قوة كلمة المرور"
+
+#: admin/theme_options.php:1586
+msgid "Reduce the strength requirement on the woocommerce use login/signup password "
+msgstr "تقليل متطلبات القوة على استخدام كلمة المرور تسجيل الدخول / ووكومرس استخدام "
+
+#: admin/theme_options.php:1594
+msgid "User Password Strength"
+msgstr "قوة كلمة مرور المستخدم"
+
+#: admin/theme_options.php:1596
+msgid "Strong (default)"
+msgstr "قوي (افتراضي)"
+
+#: admin/theme_options.php:1597
+msgid "Medium"
+msgstr "متوسطة"
+
+#: admin/theme_options.php:1598
+msgid "Weak"
+msgstr "ضعيف"
+
+#: admin/theme_options.php:1599
+msgid "Very Weak"
+msgstr "ضعيف جدا"
+
+#: admin/theme_options.php:1607
+msgid "Live Search By Product SKU"
+msgstr "البحث المباشر حسب سكو للمنتج"
+
+#: admin/theme_options.php:1608
+msgid "Live search by product sku or not."
+msgstr "بحث مباشر من قبل سكو المنتج أم لا."
+
+#: admin/theme_options.php:1616
+msgid "Show Cart Popup"
+msgstr "عرض السلة المنبثقة"
+
+#: admin/theme_options.php:1617
+msgid "Show cart popup after added product in cart. "
+msgstr "عرض العربة المنبثقة بعد إضافة منتج في العربة. "
+
+#: admin/theme_options.php:1625 framework/woocommerce/template-tags.php:208
+#: framework/woocommerce/template-tags.php:284
+msgid "Login To See Price"
+msgstr "تسجيل الدخول لرؤية السعر"
+
+#: admin/theme_options.php:1626
+msgid "Show product price after login user. "
+msgstr "عرض سعر المنتج بعد مستخدم تسجيل الدخول. "
+
+#: admin/theme_options.php:1634 admin/theme_options.php:2137
+msgid "Show Product Highlight Labels"
+msgstr "عرض تسميات تسميات المنتج"
+
+#: admin/theme_options.php:1635 admin/theme_options.php:2138
+msgid "Show product highlight labels sale, featured, new and out of stock on product."
+msgstr "عرض تسميات تسليط الضوء على المنتج بيع، واردة، جديدة ومن المخزون على المنتج."
+
+#: admin/theme_options.php:1643
+msgid "Show Sale Product Highlight Label"
+msgstr "عرض بيع تسليط الضوء على المنتج"
+
+#: admin/theme_options.php:1653
+msgid "Show sale product label in percentages or text."
+msgstr "عرض تصنيف المنتج للبيع بنسب مئوية أو نص."
+
+#: admin/theme_options.php:1655
+msgid "Percentages"
+msgstr "النسب المئوية"
+
+#: admin/theme_options.php:1656 inc/meta-boxes.php:136
+msgid "Text"
+msgstr "نص"
+
+#: admin/theme_options.php:1664
+msgid "Sale product highlight percentages label text."
+msgstr "بيع تسليط الضوء على المنتج النسب المئوية نص التسمية."
+
+#: admin/theme_options.php:1671
+msgid "Sale product highlight label text."
+msgstr "بيع النص تسمية المنتج تسليط الضوء."
+
+#: admin/theme_options.php:1672 framework/classes/mega-menus.php:547
+#: framework/woocommerce/woo-functions.php:956
+msgid "Sale"
+msgstr "بيع"
+
+#: admin/theme_options.php:1678
+msgid "Sale product highlight label color."
+msgstr "بيع المنتج تسليط الضوء على لون التسمية."
+
+#: admin/theme_options.php:1685
+msgid "Show New Product Highlight Label"
+msgstr "عرض تسمية تسليط الضوء على منتج جديد"
+
+#: admin/theme_options.php:1694
+msgid "New product highlight label text."
+msgstr "نص تسمية تسليط الضوء على منتج جديد."
+
+#: admin/theme_options.php:1695 framework/classes/mega-menus.php:541
+#: framework/woocommerce/woo-functions.php:903
+msgid "New"
+msgstr "جديد"
+
+#: admin/theme_options.php:1701
+msgid "Enter number of days to newness."
+msgstr "أدخل عدد الأيام إلى حداثة."
+
+#: admin/theme_options.php:1712
+msgid "New product highlight label color."
+msgstr "منتج جديد تسليط الضوء على لون التسمية."
+
+#: admin/theme_options.php:1719
+msgid "Show Featured Product Highlight Label"
+msgstr "عرض المنتجات المميزة هايليت لابيل"
+
+#: admin/theme_options.php:1728
+msgid "Featured product highlight label text."
+msgstr "نص تسمية تسليط الضوء على منتج مميز."
+
+#: admin/theme_options.php:1729 dokan/store-lists-loop.php:24
+#: framework/woocommerce/woo-functions.php:913 inc/template-tags.php:50
+msgid "Featured"
+msgstr "مميز"
+
+#: admin/theme_options.php:1735
+msgid "Featured product highlight label color."
+msgstr "لون مميز لتصنيف تسليط الضوء على المنتج."
+
+#: admin/theme_options.php:1742
+msgid "Show Out Of Stock Product Highlight Label"
+msgstr "تخرج من المخزون المنتج تسليط الضوء على التسمية"
+
+#: admin/theme_options.php:1751
+msgid "out of stock product highlight label text."
+msgstr "من المخزون المنتج تسليط الضوء على النص التسمية."
+
+#: admin/theme_options.php:1752 framework/woocommerce/woo-functions.php:891
+msgid "Out Of Stock"
+msgstr "غير متاح المخزن "
+
+#: admin/theme_options.php:1758
+msgid "out of stock product highlight label color."
+msgstr "من المخزون المنتج تسليط الضوء على لون التسمية."
+
+#: admin/theme_options.php:1765
+msgid "Apply opacity on out of stock product."
+msgstr "تطبيق التعتيم على الخروج من المنتج الأسهم."
+
+#: admin/theme_options.php:1781
+msgid "Shop/Category"
+msgstr "السوق بالفئة"
+
+#: admin/theme_options.php:1788
+msgid "Shop Page Layout"
+msgstr "تصميم صفحة المتجر"
+
+#: admin/theme_options.php:1789
+msgid "Select shop page layout with sidebar postion."
+msgstr "حدد تخطيط الصفحة متجر مع الجانب الشريط."
+
+#: admin/theme_options.php:1810
+msgid "Select widget and display in sidebar on shop page."
+msgstr "حدد القطعة وعرض في الشريط الجانبي على صفحة المحل."
+
+#: admin/theme_options.php:1818
+msgid "Show Banner, Sub Categories & Brands"
+msgstr "عرض راية، الفئات الفرعية والعلامات التجارية"
+
+#: admin/theme_options.php:1819
+msgid "Show category banner, sub categories and brands on category page."
+msgstr "إظهار بانر الفئة والفئات الفرعية والعلامات التجارية على صفحة الفئة."
+
+#: admin/theme_options.php:1822
+msgid "Category Banner"
+msgstr "فئة بانر"
+
+#: admin/theme_options.php:1823
+msgid "Sub Category"
+msgstr "التصنيف الرئيسي"
+
+#: admin/theme_options.php:1824
+msgid "Category Brands"
+msgstr "فئة الماركات"
+
+#: admin/theme_options.php:1831
+msgid "Sub Categories Style"
+msgstr "الفئات الفرعية ستايل"
+
+#: admin/theme_options.php:1832
+msgid "Only Sub Categories"
+msgstr "الفئات الفرعية فقط"
+
+#: admin/theme_options.php:1832
+msgid "Sub Categories With Inner"
+msgstr "الفئات الفرعية مع الداخلية"
+
+#: admin/theme_options.php:1838
+msgid "Show Product Category Description"
+msgstr "إظهار وصف فئة المنتج"
+
+#: admin/theme_options.php:1846
+msgid "Show Product Description Position"
+msgstr "عرض وصف المنتج موقف"
+
+#: admin/theme_options.php:1848 admin/theme_options.php:3495
+msgid "Top"
+msgstr "أعلى"
+
+#: admin/theme_options.php:1849 admin/theme_options.php:3496
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: admin/theme_options.php:1857
+msgid "Product Layout Style"
+msgstr "نمط تخطيط المنتج"
+
+#: admin/theme_options.php:1859
+msgid "Product Style 1"
+msgstr "نمط المنتج 1"
+
+#: admin/theme_options.php:1860
+msgid "Product Style 2"
+msgstr "نمط المنتج 2"
+
+#: admin/theme_options.php:1861
+msgid "Product Style 3"
+msgstr "نمط المنتج 3"
+
+#: admin/theme_options.php:1868
+msgid "Product Image Hover Style"
+msgstr "صورة المنتج تحوم نمط"
+
+#: admin/theme_options.php:1869 admin/theme_options.php:1940
+#: admin/theme_options.php:2621 admin/theme_options.php:2813
+#: admin/theme_options.php:2851 inc/customizer.php:92
+msgid "Default"
+msgstr "افتراضي"
+
+#: admin/theme_options.php:1869
+msgid "Image Switch"
+msgstr "تبديل الصورة"
+
+#: admin/theme_options.php:1869
+msgid "Image Auto Play Slider"
+msgstr "صورة السيارات تلعب المنزلق"
+
+#: admin/theme_options.php:1869
+msgid "Image Slider"
+msgstr "صورة شريط التمرير"
+
+#: admin/theme_options.php:1875
+msgid "Show Products Per Row"
+msgstr "عرض المنتجات لكل صف"
+
+#: admin/theme_options.php:1879
+msgid "6 (In full width)"
+msgstr "6 (بالعرض الكامل)"
+
+#: admin/theme_options.php:1886
+msgid "Show Products Per Row In Mobile"
+msgstr "عرض المنتجات لكل صف في الجوال"
+
+#: admin/theme_options.php:1896
+msgid "Show Number Of Products Per Page"
+msgstr "عرض عدد المنتجات لكل صفحة"
+
+#: admin/theme_options.php:1903
+msgid "Show Grid/List View Button"
+msgstr "عرض زر الشبكة / عرض القائمة"
+
+#: admin/theme_options.php:1911
+msgid "Enable Product View Style"
+msgstr "تمكين نمط عرض المنتج"
+
+#: admin/theme_options.php:1914 admin/theme_options.php:1927
+msgid "Grid"
+msgstr "شبكة"
+
+#: admin/theme_options.php:1915 admin/theme_options.php:1928
+msgid "Expand Grid"
+msgstr "توسيع الشبكة"
+
+#: admin/theme_options.php:1916 admin/theme_options.php:1929
+msgid "List"
+msgstr "قائمة"
+
+#: admin/theme_options.php:1917 admin/theme_options.php:1930
+msgid "Thin List"
+msgstr "قائمة رقيقة"
+
+#: admin/theme_options.php:1925
+msgid "Default Product View Style"
+msgstr "نمط عرض المنتج الافتراضي"
+
+#: admin/theme_options.php:1938
+msgid "Products Pagination Style"
+msgstr "المنتجات ترقيم الصفحات"
+
+#: admin/theme_options.php:1941 admin/theme_options.php:2622
+#: admin/theme_options.php:2852
+msgid "Infinity Scroll"
+msgstr "إنفينيتي التمرير"
+
+#: admin/theme_options.php:1942 admin/theme_options.php:2623
+#: admin/theme_options.php:2853
+msgid "Load More Button"
+msgstr "تحميل المزيد من زر"
+
+#: admin/theme_options.php:1943 admin/theme_options.php:2624
+#: admin/theme_options.php:2854
+msgid "AJAX Pagination"
+msgstr "ترقيم صفحات أجاكس"
+
+#: admin/theme_options.php:1950 admin/theme_options.php:2631
+#: admin/theme_options.php:2861
+msgid "Load More Button Text"
+msgstr "تحميل المزيد من النص زر"
+
+#: admin/theme_options.php:1956
+msgid "Enable Lazy Load"
+msgstr "تمكين تحميل كسول"
+
+#: admin/theme_options.php:1957
+msgid "Enable lazy load product image."
+msgstr "تمكين كسول صورة المنتج الحمل."
+
+#: admin/theme_options.php:1965
+msgid "Lazy Load Animation Style"
+msgstr "كسول تحميل الرسوم المتحركة نمط"
+
+#: admin/theme_options.php:1966
+msgid "Different styles of lazy load animation."
+msgstr "أنماط مختلفة من الرسوم المتحركة الحمل كسول."
+
+#: admin/theme_options.php:1974
+msgid "Show Products Per Page Dropdown"
+msgstr "عرض المنتجات في الصفحة المنسدلة"
+
+#: admin/theme_options.php:1975
+msgid "Show products per page dropdow on shop page."
+msgstr "عرض المنتجات في الصفحة دروبدو على صفحة المحل."
+
+#: admin/theme_options.php:1983
+msgid "Show Product Price"
+msgstr "عرض سعر المنتج"
+
+#: admin/theme_options.php:1991 admin/theme_options.php:2190
+msgid "Show Product Rating"
+msgstr "عرض تقييم المنتج"
+
+#: admin/theme_options.php:1999
+msgid "Show Product Buttons"
+msgstr "عرض أزرار المنتج"
+
+#: admin/theme_options.php:2000
+msgid "Show product buttons cart, wishlist, compare, quick view etc."
+msgstr "عرض سلة أزرار المنتجات، قائمة المفضلات، المقارنة، العرض السريع، الخ."
+
+#: admin/theme_options.php:2008
+msgid "Show Cart Button"
+msgstr "عرض زر العربة"
+
+#: admin/theme_options.php:2017
+msgid "Show Wishlist Button"
+msgstr "عرض قائمة الأمنيات"
+
+#: admin/theme_options.php:2026
+msgid "Show Compare Button"
+msgstr "إظهار زر المقارنة"
+
+#: admin/theme_options.php:2035
+msgid "Show Quick View Button"
+msgstr "عرض زر العرض السريع"
+
+#: admin/theme_options.php:2044
+msgid "Show short Description"
+msgstr "عرض الوصف القصير"
+
+#: admin/theme_options.php:2052
+msgid "Show Product Variation(Options)"
+msgstr "عرض تغيير المنتج (خيارات)"
+
+#: admin/theme_options.php:2053
+msgid "Show product variation(attribute) on product hover. Like Color, Size, ..."
+msgstr "عرض تنوع المنتج (السمة) في تمرير المنتج. مثل اللون، الحجم، ..."
+
+#: admin/theme_options.php:2065
+msgid "Single Product"
+msgstr "Single Product"
+
+#: admin/theme_options.php:2072
+msgid "Single Product Page Layout"
+msgstr "تصميم صفحة منتج واحد"
+
+#: admin/theme_options.php:2073
+msgid "Select product page layout with sidebar postion."
+msgstr "حدد تخطيط صفحة المنتج مع إضافة الشريط الجانبي."
+
+#: admin/theme_options.php:2102 admin/theme_options.php:2341
+#: admin/theme_options.php:2483 admin/theme_options.php:2765
+#: admin/theme_options.php:3077
+msgid "Select Sidebar Widget Area"
+msgstr "حدد منطقة الشريط الجانبي"
+
+#: admin/theme_options.php:2103
+msgid "Select widget and display in sidebar on single product page."
+msgstr "حدد القطعة وعرض في الشريط الجانبي على صفحة منتج واحد."
+
+#: admin/theme_options.php:2111
+msgid "Product Image Zoom"
+msgstr "تكبير صورة المنتج"
+
+#: admin/theme_options.php:2119
+msgid "Sticky Product Image Part"
+msgstr "مثبت صورة المنتج الجزء"
+
+#: admin/theme_options.php:2120
+msgid "When you scroll the product page at this time you want to stick product image part or not."
+msgstr "عند التمرير صفحة المنتج في هذا الوقت كنت ترغب في التمسك صورة المنتج جزء أم لا."
+
+#: admin/theme_options.php:2128
+msgid "Sticky Product Summary Part"
+msgstr "جزء ملخص المنتج الملصق"
+
+#: admin/theme_options.php:2129
+msgid "When you scroll the product page at this time you want to stick product summary part or not."
+msgstr "عند التمرير صفحة المنتج في هذا الوقت كنت ترغب في عصا جزء المنتج ملخص أم لا."
+
+#: admin/theme_options.php:2146
+msgid "Show Product Highlight Label Sale"
+msgstr "عرض المنتج تسليط الضوء على بيع التسمية"
+
+#: admin/theme_options.php:2155
+msgid "Show Product Highlight Label Featured"
+msgstr "عرض المنتج تسليط الضوء على تسمية مميزة"
+
+#: admin/theme_options.php:2164
+msgid "Show Product Highlight Label New"
+msgstr "عرض المنتج تسليط الضوء على تسمية جديدة"
+
+#: admin/theme_options.php:2173
+msgid "Show Product Highlight Label Out Of Stock"
+msgstr "عرض المنتج تسليط الضوء على تسمية من المخزون"
+
+#: admin/theme_options.php:2182
+msgid "Show Product Next/Previous Navigation"
+msgstr "عرض المنتج التالي / التنقل السابق"
+
+#: admin/theme_options.php:2198
+msgid "Show Product CountDown"
+msgstr "عرض كونتدون المنتج"
+
+#: admin/theme_options.php:2206
+msgid "Show Size Guide"
+msgstr "عرض دليل الحجم"
+
+#: admin/theme_options.php:2215
+msgid "Choose Size Guide Image"
+msgstr "اختر صورة دليل المقاسات"
+
+#: admin/theme_options.php:2223
+msgid "Show Product Meta"
+msgstr "إظهار المنتج ميتا"
+
+#: admin/theme_options.php:2224
+msgid "Show or hide product brand, category, tag, etc..."
+msgstr "إظهار أو إخفاء العلامة التجارية للمنتج أو الفئة أو العلامة أو غير ذلك ..."
+
+#: admin/theme_options.php:2232
+msgid "Show Specific Product Meta"
+msgstr "عرض منتج معين ميتا"
+
+#: admin/theme_options.php:2235
+msgid "Brand"
+msgstr "العلامة التجارية"
+
+#: admin/theme_options.php:2236
+msgid "SKU"
+msgstr "كود المنتج"
+
+#: admin/theme_options.php:2237 single-portfolio.php:87
+msgid "Category"
+msgstr "الفئة"
+
+#: admin/theme_options.php:2238
+msgid "Tag"
+msgstr "وسم"
+
+#: admin/theme_options.php:2246
+msgid "Show Related Products"
+msgstr "عرض المنتجات ذات الصلة"
+
+#: admin/theme_options.php:2254
+msgid "Show Up Sell Products"
+msgstr "اظهار بيع المنتجات"
+
+#: admin/theme_options.php:2262
+msgid "Show Number Of Related/Up Sell Products"
+msgstr "عرض عدد من المنتجات ذات الصلة / حتى بيع"
+
+#: admin/theme_options.php:2269
+msgid "Select Related/Up Sell Products Show Per Row"
+msgstr "حدد المنتجات ذات الصلة / ما يصل بيع عرض لكل صف"
+
+#: admin/theme_options.php:2276 admin/theme_options.php:2684
+#: admin/theme_options.php:2928
+msgid "Enable Carousel Autoplay Mode"
+msgstr "تمكين وضع التشغيل التلقائي في دائري"
+
+#: admin/theme_options.php:2284 admin/theme_options.php:2937
+msgid "Enables Carousel Inifnity Loop"
+msgstr "تمكين حلقة دائرية إينفنيتي حلقة"
+
+#: admin/theme_options.php:2285
+msgid "Enables related/up sell products carousel Inifnity loop. Duplicate last and first products to get loop illusion."
+msgstr "تمكين ذات الصلة / ما يصل بيع المنتجات دائري حلقة إينفنيتي. تكرار آخر وأول المنتجات للحصول على حلقة الوهم."
+
+#: admin/theme_options.php:2293 admin/theme_options.php:2693
+#: admin/theme_options.php:2947
+msgid "Show Carousel Navigation"
+msgstr "عرض التنقل دائري"
+
+#: admin/theme_options.php:2301 admin/theme_options.php:2956
+msgid "Show Carousel Dots Navigation"
+msgstr "عرض كاروسيل دوتس نافيغاتيون"
+
+#: admin/theme_options.php:2313
+msgid "Dokan"
+msgstr "Dokan"
+
+#: admin/theme_options.php:2320
+msgid "Dokan Store Page Layout"
+msgstr "دوكان مخزن تخطيط الصفحة"
+
+#: admin/theme_options.php:2321
+msgid "Select dokan store page layout with sidebar postion."
+msgstr "حدد دوكان تخطيط الصفحة مخزن مع الشريط الجانبي بوستيون."
+
+#: admin/theme_options.php:2342
+msgid "Select widget area and display in sidebar on dokan store page."
+msgstr "حدد منطقة القطعة وعرض في الشريط الجانبي على دوكان مخزن الصفحة."
+
+#: admin/theme_options.php:2354
+msgid "WC Vendors"
+msgstr "موردو مرحاض"
+
+#: admin/theme_options.php:2361
+msgid "Show Sold By Label"
+msgstr "عرض تم البيع بواسطة لابيل"
+
+#: admin/theme_options.php:2362
+msgid "Show sold by label or not on product."
+msgstr "عرض تباع من قبل التسمية أو لا على المنتج."
+
+#: admin/theme_options.php:2374 content-page.php:33 content.php:62 image.php:62
+#: page.php:52
+msgid "Page"
+msgstr "صفح"
+
+#: admin/theme_options.php:2381
+msgid "Show Page Comment"
+msgstr "إظهار تعليق الصفحة"
+
+#: admin/theme_options.php:2382
+msgid "Show page comments and comment form or not."
+msgstr "عرض تعليقات الصفحة ونموذج التعليق أم لا."
+
+#: admin/theme_options.php:2394 inc/meta-boxes.php:242 inc/meta-boxes.php:284
+msgid "Sidebar Widget"
+msgstr "الشريط الجانبي القطعة"
+
+#: admin/theme_options.php:2401
+msgid "Enable Widget Toggle"
+msgstr "تمكين تبديل القطعة"
+
+#: admin/theme_options.php:2402
+msgid "Enable page widget toggle or not."
+msgstr "تمكين تبديل أداة الصفحة أو لا."
+
+#: admin/theme_options.php:2410
+msgid "Enable Widget Menu Toggle"
+msgstr "تمكين تبديل قائمة الأدوات"
+
+#: admin/theme_options.php:2411
+msgid "Enable page widget menu toggle or not."
+msgstr "تمكين تبديل أداة أداة الصفحة أو لا."
+
+#: admin/theme_options.php:2419
+msgid "Enable Widget Items Hide"
+msgstr "تمكين عناصر القطعة إخفاء"
+
+#: admin/theme_options.php:2420
+msgid "Enable widget items hide max limit."
+msgstr "يؤدي تمكين عناصر الأداة إلى إخفاء الحد الأقصى."
+
+#: admin/theme_options.php:2428
+msgid "Show Number Of Widget Items"
+msgstr "عرض عدد العناصر القطعة"
+
+#: admin/theme_options.php:2443
+msgid "Blog"
+msgstr "بلوق"
+
+#: admin/theme_options.php:2455
+msgid "Blog/Archive Page"
+msgstr "صفحة المدونة / الأرشيف"
+
+#: admin/theme_options.php:2462
+msgid "Select Blog Page Layout"
+msgstr "حدد تخطيط صفحة المدونة"
+
+#: admin/theme_options.php:2463
+msgid "Select blog/archive page layout with sidebar postion."
+msgstr "حدد بلوق / أرشيف تخطيط الصفحة مع الشريط الجانبي بوستيون."
+
+#: admin/theme_options.php:2491
+msgid "Show Blog Page Breadcrumb"
+msgstr "إظهار صفحة المدونة مسار التنقل"
+
+#: admin/theme_options.php:2499
+msgid "Show Blog Page Title"
+msgstr "عرض عنوان صفحة المدونة"
+
+#: admin/theme_options.php:2507
+msgid "Select Blog Style"
+msgstr "حدد نمط المدونة"
+
+#: admin/theme_options.php:2508
+msgid "Large Image"
+msgstr "صورة كبيرة"
+
+#: admin/theme_options.php:2508
+msgid "Small Image"
+msgstr "صورة صغيرة"
+
+#: admin/theme_options.php:2508
+msgid "Grid Column (Masonry Grid)"
+msgstr "عمود الشبكة (شبكة البناء)"
+
+#: admin/theme_options.php:2514 admin/theme_options.php:2534
+msgid "Select Blog Grid Columns"
+msgstr "حدد أعمدة شبكة المدونة"
+
+#: admin/theme_options.php:2515 admin/theme_options.php:2535
+msgid "Show blog grid column of the post/blog page. Column option apply only on above masorny grid column option."
+msgstr "عرض عمود شبكة المدونة في صفحة المشاركة / المدونة. ينطبق خيار العمود فقط على خيار العمود شبكة ماسورني أعلاه."
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536
+#: admin/theme_options.php:2828 admin/theme_options.php:3036
+msgid "2 Columns"
+msgstr "الأعمدة"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536
+#: admin/theme_options.php:2829 admin/theme_options.php:3037
+msgid "3 Columns"
+msgstr "الأعمدة"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536
+#: admin/theme_options.php:3038
+msgid "4 Columns (In Full Width)"
+msgstr "4 أعمدة (في العرض الكامل)"
+
+#: admin/theme_options.php:2523
+msgid "Show Post Per Page"
+msgstr "عرض المشاركة لكل صفحة"
+
+#: admin/theme_options.php:2524
+msgid "Show number of post per page."
+msgstr "عرض عدد المشاركات لكل صفحة."
+
+#: admin/theme_options.php:2543
+msgid "Show Blogs Thumbnail"
+msgstr "عرض المدونات ثومبنايل"
+
+#: admin/theme_options.php:2544
+msgid "Show blogs thumbnail or not."
+msgstr "عرض الصورة المصغرة للمدونات أم لا."
+
+#: admin/theme_options.php:2552
+msgid "Show Blogs Date"
+msgstr "إظهار المدونات التاريخ"
+
+#: admin/theme_options.php:2560
+msgid "Show Blogs Meta"
+msgstr "إظهار المدونات ميتا"
+
+#: admin/theme_options.php:2568
+msgid "Show Specific Post Meta"
+msgstr "عرض ميتا مشاركة محددة"
+
+#: admin/theme_options.php:2571
+msgid "Post Format"
+msgstr "تنسيق المشاركة"
+
+#: admin/theme_options.php:2572
+msgid "Post Author"
+msgstr "مؤلف آخر"
+
+#: admin/theme_options.php:2573
+msgid "Post Cats"
+msgstr "آخر القطط"
+
+#: admin/theme_options.php:2574
+msgid "Post Tags"
+msgstr "علامات المشاركة"
+
+#: admin/theme_options.php:2575
+msgid "Comments"
+msgstr "تعليقات"
+
+#: admin/theme_options.php:2584
+msgid "Show Excerpt"
+msgstr "عرض مقتطفات"
+
+#: admin/theme_options.php:2592
+msgid "Excerpt Length (words)"
+msgstr "مقتطف طول (كلمات)"
+
+#: admin/theme_options.php:2593
+msgid "Show blogs listing content length (words)."
+msgstr "عرض المدونات التي تعرض طول المحتوى (الكلمات)."
+
+#: admin/theme_options.php:2604
+msgid "Show Read More Button"
+msgstr "إظهار المزيد زر"
+
+#: admin/theme_options.php:2612
+msgid "Read More Button Text"
+msgstr "اقرأ المزيد نص الزر"
+
+#: admin/theme_options.php:2613 admin/theme_options.php:3377
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: admin/theme_options.php:2619
+msgid "Select Pagination Style Of Blog Page"
+msgstr "حدد نمط ترقيم صفحات المدونة"
+
+#: admin/theme_options.php:2632 admin/theme_options.php:2862
+#: inc/theme-function.php:1341 inc/theme-function.php:1392
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: admin/theme_options.php:2643
+msgid "Single Post"
+msgstr "مشاركة واحدة"
+
+#: admin/theme_options.php:2650
+msgid "Show Post Thumbnail"
+msgstr "عرض المشاركة صورة مصغرة"
+
+#: admin/theme_options.php:2651
+msgid "Show post thumbnail or not."
+msgstr "عرض صورة مصغرة أو لا."
+
+#: admin/theme_options.php:2659
+msgid "Show Post Navigation"
+msgstr "عرض مشاركة التنقل"
+
+#: admin/theme_options.php:2667
+msgid "Show Related Post"
+msgstr "عرض مشاركة ذات صلة"
+
+#: admin/theme_options.php:2675
+msgid "Show Post Per Row"
+msgstr "عرض المشاركة لكل صف"
+
+#: admin/theme_options.php:2676
+msgid "Show number of post per row."
+msgstr "عرض عدد المشاركات لكل صف."
+
+#: admin/theme_options.php:2702
+msgid "Enable Carousel loop"
+msgstr "تمكين حلقة دائري"
+
+#: admin/theme_options.php:2703
+msgid "Enable blog carousel continue loop."
+msgstr "تمكين حلقة دائري مواصلة حلقة."
+
+#: admin/theme_options.php:2712
+msgid "Show Post Comment"
+msgstr "إظهار تعليق"
+
+#: admin/theme_options.php:2713
+msgid "Show post comments and comment form or not."
+msgstr "عرض تعليقات التعليقات ونموذج التعليق أم لا."
+
+#: admin/theme_options.php:2725
+msgid "Portfolio"
+msgstr "المحفظة"
+
+#: admin/theme_options.php:2737
+msgid "Portfolio Archive"
+msgstr "أرشيف المحفظة"
+
+#: admin/theme_options.php:2744
+msgid "Select Archive Page Layout"
+msgstr "حدد تخطيط صفحة الأرشيف"
+
+#: admin/theme_options.php:2745
+msgid "Select portfolio archive page layout with sidebar postion."
+msgstr "حدد تخطيط الصفحة أرشيف محفظة مع الشريط الجانبي بوستيون."
+
+#: admin/theme_options.php:2789
+msgid "Portfolio Listing Style"
+msgstr "محفظة قائمة نمط"
+
+#: admin/theme_options.php:2791
+msgid "Portfolio Grid"
+msgstr "شبكة المحفظة"
+
+#: admin/theme_options.php:2799
+msgid "Portfolio Grid Style"
+msgstr "محفظة نمط الشبكة"
+
+#: admin/theme_options.php:2801
+msgid "Normal Grid"
+msgstr "الشبكة العادية"
+
+#: admin/theme_options.php:2802
+msgid "Masonry Grid"
+msgstr "شبكة البناء"
+
+#: admin/theme_options.php:2810
+msgid "Grid Hover Effect"
+msgstr "الشبكة تحوم تأثير"
+
+#: admin/theme_options.php:2811
+msgid "Select portfolio grid hover effect."
+msgstr "حدد محفظة تأثير الشبكة تحوم."
+
+#: admin/theme_options.php:2814
+msgid "Effect 2"
+msgstr "التأثير التجاري:"
+
+#: admin/theme_options.php:2815
+msgid "Effect 3"
+msgstr "التأثير التجاري:"
+
+#: admin/theme_options.php:2816
+msgid "Effect 4"
+msgstr "التأثير التجاري:"
+
+#: admin/theme_options.php:2817
+msgid "Effect 5"
+msgstr "التأثير التجاري:"
+
+#: admin/theme_options.php:2825
+msgid "Select Portfolio Columns"
+msgstr "حدد أعمدة المحفظة"
+
+#: admin/theme_options.php:2827
+msgid "1 Column"
+msgstr "عمود"
+
+#: admin/theme_options.php:2830
+msgid "4 Columns"
+msgstr "الأعمدة"
+
+#: admin/theme_options.php:2838
+msgid "Show Portfolio Per Page"
+msgstr "عرض محفظة لكل صفحة"
+
+#: admin/theme_options.php:2839
+msgid "Show number of portfolio per page."
+msgstr "عرض عدد المحفظة لكل صفحة."
+
+#: admin/theme_options.php:2849
+msgid "Pagination Type"
+msgstr "نوع ترقيم الصفحات"
+
+#: admin/theme_options.php:2872
+msgid "Single Portfolio"
+msgstr "محفظة واحدة"
+
+#: admin/theme_options.php:2879
+msgid "Show Project Navigation"
+msgstr "عرض مشروع الملاحة"
+
+#: admin/theme_options.php:2887
+msgid "Show Project Informations"
+msgstr "عرض معلومات المشروع"
+
+#: admin/theme_options.php:2895 admin/theme_options.php:3243
+msgid "Show Social Share Links"
+msgstr "إظهار روابط المشاركة الاجتماعية"
+
+#: admin/theme_options.php:2903
+msgid "Show Related Projects"
+msgstr "عرض المشاريع ذات الصلة"
+
+#: admin/theme_options.php:2911
+msgid "Show Number Of Projects"
+msgstr "اعرض عدد المشاريع"
+
+#: admin/theme_options.php:2912
+msgid "Show number of related projects"
+msgstr "عرض عدد من المشاريع ذات الصلة"
+
+#: admin/theme_options.php:2920
+msgid "Show Projects Per Row"
+msgstr "عرض المشاريع لكل صف"
+
+#: admin/theme_options.php:2938
+msgid "Enables portfolios carousel Inifnity loop. Duplicate last and first projects to get loop illusion."
+msgstr "تمكين حلقة دائرية حلقة إينفنيتي. تكرار المشاريع الأخيرة والأولى للحصول على حلقة الوهم."
+
+#: admin/theme_options.php:2969
+msgid "Testimonial"
+msgstr "القراءة"
+
+#: admin/theme_options.php:2981
+msgid "Testimonial Archive"
+msgstr "أرشيف الشهادات"
+
+#: admin/theme_options.php:2988 admin/theme_options.php:3056
+msgid "Select Page Layout"
+msgstr "حدد تخطيط الصفحة"
+
+#: admin/theme_options.php:2989 admin/theme_options.php:3057
+msgid "Select page layout with sidebar postion."
+msgstr "حدد تخطيط الصفحة مع إضافة الشريط الجانبي."
+
+#: admin/theme_options.php:3010
+msgid "Select widget display in sidebar on testimonial archive page."
+msgstr "حدد عرض القطعة في الشريط الجانبي على صفحة أرشيف الشهادات."
+
+#: admin/theme_options.php:3034
+msgid "Select Testimonial Column"
+msgstr "حدد عمود تستيمونيال"
+
+#: admin/theme_options.php:3049
+msgid "Single Testimonial"
+msgstr "شهادة واحدة"
+
+#: admin/theme_options.php:3078
+msgid "Select widget display in sidebar on testimonial page."
+msgstr "حدد عرض القطعة في الشريط الجانبي على شهادة الصفحة."
+
+#: admin/theme_options.php:3106
+msgid "404 Page"
+msgstr "صفحة 2 "
+
+#: admin/theme_options.php:3113
+msgid "Use Text Or Image"
+msgstr "استخدام النص أو الصورة"
+
+#: admin/theme_options.php:3114
+msgid "What a show on 404 page? Text or Image."
+msgstr "ما عرض على صفحة 404؟ نص أو صورة."
+
+#: admin/theme_options.php:3124
+msgid "404 Page Title"
+msgstr "عنوان الصفحة"
+
+#: admin/theme_options.php:3131
+msgid "Show Previous Page Link"
+msgstr "عرض رابط الصفحة السابق"
+
+#: admin/theme_options.php:3140
+msgid "404 Page Tag Line"
+msgstr "خط الصفحة 404"
+
+#: admin/theme_options.php:3147
+msgid "Previous Page Link Title"
+msgstr "عنوان رابط الصفحة السابق"
+
+#: admin/theme_options.php:3155
+msgid "404 Page Image"
+msgstr "صورة الصفحة:"
+
+#: admin/theme_options.php:3157
+msgid "Upload 404 page image and show on 404 page."
+msgstr "تحميل صورة صفحة 404 وعرضها في صفحة 404."
+
+#: admin/theme_options.php:3168
+msgid "Social Link/Share"
+msgstr "رابط اجتماعي / مشاركة"
+
+#: admin/theme_options.php:3176
+msgid "Show or Hide Social link Icon on Header And Footer"
+msgstr "إظهار أو إخفاء رمز الارتباط الاجتماعي على رأس وتذييل الصفحة"
+
+#: admin/theme_options.php:3181
+msgid "Facebook"
+msgstr "فيس بوك "
+
+#: admin/theme_options.php:3182
+msgid "Enter your custom link to show the facebook icon. Leave blank to hide icon."
+msgstr "أدخل رابط مخصص لإظهار رمز الفيسبوك. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3188
+msgid "Twitter"
+msgstr "تويتر"
+
+#: admin/theme_options.php:3189
+msgid "Enter your custom link to show the twitter icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز تويتر. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3195
+msgid "Instagram"
+msgstr "انستگرام"
+
+#: admin/theme_options.php:3196
+msgid "Enter your custom link to show the instagram icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز إنستاغرام. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3202
+msgid "Linkedin"
+msgstr "لينكدين Linkedin"
+
+#: admin/theme_options.php:3203
+msgid "Enter your custom link to show the linkedin icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز لينكيدين. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3209
+msgid "Flickr"
+msgstr "فليكر"
+
+#: admin/theme_options.php:3210
+msgid "Enter your custom link to show the flickr icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز فليكر. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3216
+msgid "Google Plus"
+msgstr "جوجل+"
+
+#: admin/theme_options.php:3217
+msgid "Enter your custom link to show the google plus icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز غوغل بلوس. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3223
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/theme_options.php:3224
+msgid "Enter your custom link to show the rss icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز رسس. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3230
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme_options.php:3231
+msgid "Enter your custom link to show the pinterest icon. Leave blank to hide icon."
+msgstr "أدخل الرابط المخصص لعرض رمز بينتيريست. اتركه فارغا لإخفاء الرمز."
+
+#: admin/theme_options.php:3238
+msgid "Show or Hide Social Sharing Icon on Product, Post and Portfolio"
+msgstr "إظهار أو إخفاء أيقونة المشاركة الاجتماعية على المنتج، وظيفة وحافظة"
+
+#: admin/theme_options.php:3251
+msgid "Social Sharing Style"
+msgstr "نمط مشاركة الاجتماعية"
+
+#: admin/theme_options.php:3253
+msgid "Style 1"
+msgstr "نمط 1"
+
+#: admin/theme_options.php:3254
+msgid "Style 2"
+msgstr "نمط 2"
+
+#: admin/theme_options.php:3262
+msgid "Facebook Icon"
+msgstr "أيقونة فيسبوك"
+
+#: admin/theme_options.php:3271
+msgid "Twitter Icon"
+msgstr "أيقونة تويتر"
+
+#: admin/theme_options.php:3280
+msgid "Linkedin Icon"
+msgstr "ينكدين رمز"
+
+#: admin/theme_options.php:3289
+msgid "Google Plus Icon"
+msgstr "رمز غوغل بلوس"
+
+#: admin/theme_options.php:3298
+msgid "StumbleUpon Icon"
+msgstr "رمز ستمبليوبون"
+
+#: admin/theme_options.php:3307
+msgid "Pinterest Icon"
+msgstr "بينتيريست، ايقونة"
+
+#: admin/theme_options.php:3316
+msgid "Tumblr Icon"
+msgstr "رمز تومبلر"
+
+#: admin/theme_options.php:3329
+msgid "Cookie Notice"
+msgstr "إشعار كوكي"
+
+#: admin/theme_options.php:3336
+msgid "Cookie Enable or Disable."
+msgstr "كوكي تمكين أو تعطيل."
+
+#: admin/theme_options.php:3339
+msgid "Cookie notice enable or disable in your site."
+msgstr "تم تمكين إشعار كوكي أو تعطيله في موقعك."
+
+#: admin/theme_options.php:3346
+msgid "Enter the cookie title/name."
+msgstr "أدخل عنوان / اسم ملف تعريف الارتباط."
+
+#: admin/theme_options.php:3347
+msgid "Cookies Notice"
+msgstr "إشعار ملفات تعريف الارتباط"
+
+#: admin/theme_options.php:3352
+msgid "Message"
+msgstr "رسالة"
+
+#: admin/theme_options.php:3353
+msgid "Enter the cookie notice message."
+msgstr "أدخل رسالة إشعار ملف تعريف الارتباط."
+
+#: admin/theme_options.php:3354
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "نحن نستخدم ملفات تعريف الارتباط للتأكد من أننا نقدم لك أفضل تجربة على موقعنا. إذا كنت لا تزال تستخدم هذا الموقع سوف نفترض أن كنت سعيدا معها."
+
+#: admin/theme_options.php:3359
+msgid "Button text"
+msgstr "نص الزر"
+
+#: admin/theme_options.php:3360
+msgid "The text of the option to accept the usage of the cookies and make the notification disappear."
+msgstr "نص الخيار لقبول استخدام الكوكيز وجعل الإخطار تختفي."
+
+#: admin/theme_options.php:3361
+msgid "Yes, I'm Accept"
+msgstr "نعم، أنا أقبل"
+
+#: admin/theme_options.php:3366
+msgid "More info link"
+msgstr "مزيد من المعلومات رابط"
+
+#: admin/theme_options.php:3369
+msgid "Enable Read more link."
+msgstr "تمكين رابط قراءة المزيد."
+
+#: admin/theme_options.php:3376
+msgid "The text of the more info button."
+msgstr "نص زر مزيد من المعلومات."
+
+#: admin/theme_options.php:3384
+msgid "Select where to redirect user for more information about cookies."
+msgstr "حدد مكان إعادة توجيه المستخدم للحصول على مزيد من المعلومات حول ملفات تعريف الارتباط."
+
+#: admin/theme_options.php:3386
+msgid "Custom link"
+msgstr "رابط مخصص"
+
+#: admin/theme_options.php:3387
+msgid "Page link"
+msgstr "رابط الصفحة:"
+
+#: admin/theme_options.php:3396
+msgid "Enter the full URL starting with http://"
+msgstr "أدخل عنوان ورل الكامل بدءا من هتب: //"
+
+#: admin/theme_options.php:3406
+msgid "Select from one of your site's pages"
+msgstr "حدد من إحدى صفحات موقعك"
+
+#: admin/theme_options.php:3412
+msgid "Link target"
+msgstr "رابط الهدف"
+
+#: admin/theme_options.php:3413 admin/theme_options.php:3466
+msgid "Select the link target for more info page."
+msgstr "حدد هدف الرابط لمزيد من صفحة المعلومات."
+
+#: admin/theme_options.php:3423
+msgid "Refuse button"
+msgstr "زر رفض"
+
+#: admin/theme_options.php:3426
+msgid "Give to the user the possibility to refuse third party non functional cookies."
+msgstr "إعطاء المستخدم إمكانية رفض ملفات تعريف الارتباط الغير وظيفية."
+
+#: admin/theme_options.php:3433
+msgid "The text of the option to refuse the usage of the cookies. To get the cookie notice status use emallshop_cn_cookies_accepted() function."
+msgstr "نص خيار رفض استخدام ملفات تعريف الارتباط. للحصول على حالة إشعار ملف تعريف الارتباط استخدم الدالة emallshop_cn_cookies_accepted ()."
+
+#: admin/theme_options.php:3441
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs). It will be used after cookies are accepted."
+msgstr "أدخل ملفات تعريف الارتباط غير الوظيفية جافا سكريبت هنا (على سبيل المثال جوجل أناليتيكش). سيتم استخدامه بعد قبول ملفات تعريف الارتباط."
+
+#: admin/theme_options.php:3448
+msgid "On scroll"
+msgstr "على التمرير"
+
+#: admin/theme_options.php:3451
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr "تمكين قبول إشعار ملف تعريف الارتباط عند تمرير المستخدمين."
+
+#: admin/theme_options.php:3458
+msgid "Number of pixels user has to scroll to accept the usage of the cookies and make the notification disappear."
+msgstr "يجب أن يمر عدد مستخدمي وحدات البكسل لقبول استخدام ملفات تعريف الارتباط ويختفي الإشعار."
+
+#: admin/theme_options.php:3465
+msgid "Cookie expiry"
+msgstr "انتهاء صلاحية الكوكي"
+
+#: admin/theme_options.php:3468
+msgid "1 day"
+msgstr "يوم"
+
+#: admin/theme_options.php:3469
+msgid "1 week"
+msgstr "أسبوع واحد"
+
+#: admin/theme_options.php:3470
+msgid "1 month"
+msgstr "1 شهر"
+
+#: admin/theme_options.php:3471
+msgid "3 months"
+msgstr "الشهر: {0}%s{/0}"
+
+#: admin/theme_options.php:3472
+msgid "6 months"
+msgstr "6 أشهر"
+
+#: admin/theme_options.php:3473
+msgid "1 year"
+msgstr "سنة"
+
+#: admin/theme_options.php:3474
+msgid "infinity"
+msgstr "اللا نهاية"
+
+#: admin/theme_options.php:3481
+msgid "Script placement"
+msgstr "وضع النص البرمجي"
+
+#: admin/theme_options.php:3482
+msgid "Select where all the plugin scripts should be placed."
+msgstr "حدد المكان الذي يجب أن توضع فيه جميع النصوص البرمجية للبرنامج المساعد."
+
+#: admin/theme_options.php:3492
+msgid "Position"
+msgstr "المسمى الوظيفي "
+
+#: admin/theme_options.php:3493
+msgid "Select location for your cookie notice."
+msgstr "حدد الموقع لإشعار ملف تعريف الارتباط."
+
+#: admin/theme_options.php:3503
+msgid "Cookie Style"
+msgstr "نمط كوكي"
+
+#: admin/theme_options.php:3504
+msgid "Select style of cookie notice on bottom."
+msgstr "حدد نمط إشعار ملف تعريف الارتباط في الأسفل."
+
+#: admin/theme_options.php:3506
+msgid "Bar"
+msgstr "البار"
+
+#: admin/theme_options.php:3507
+msgid "Box"
+msgstr "مغلق"
+
+#: admin/theme_options.php:3521
+msgid "Bar Background Color"
+msgstr "بار لون الخلفية"
+
+#: admin/theme_options.php:3531 templates/footer/footer-2.php:16
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+#: admin/theme_options.php:3538
+msgid "Newsletter Enable or Disable."
+msgstr "النشرة الإخبارية تمكين أو تعطيل."
+
+#: admin/theme_options.php:3541
+msgid "Newsletter popup enable or disable in your site."
+msgstr "تم تمكين أو تعطيل ميزة نشر الرسائل الإخبارية في موقعك."
+
+#: admin/theme_options.php:3548
+msgid "Newsletter Logo"
+msgstr "النشرة الإخبارية لوغو"
+
+#: admin/theme_options.php:3550
+msgid "Upload newsletter logo."
+msgstr "تحميل شعار النشرة الإخبارية."
+
+#: admin/theme_options.php:3557
+msgid "Newsletter Title"
+msgstr "عنوان الرسالة الإخبارية"
+
+#: admin/theme_options.php:3558
+msgid "Join Us Now!"
+msgstr "الانضمام إلينا الآن!"
+
+#: admin/theme_options.php:3564
+msgid "Newsletter Tag Line"
+msgstr "النشرة الإخبارية تاج لاين"
+
+#: admin/theme_options.php:3565
+msgid "Signup today for free and be the first to hear of special promotions, new arrivals and designer news."
+msgstr "اشترك اليوم مجانا وتكون أول من يسمع من العروض الترويجية الخاصة، الوافدين الجدد ومصمم الأخبار."
+
+#: admin/theme_options.php:3571
+msgid "Newsletter Don't Show Msg"
+msgstr "النشرة الإخبارية لا تعرض مسغ"
+
+#: admin/theme_options.php:3572
+msgid "Don't show this popup again"
+msgstr "عدم إظهار هذا المنبثقة مرة أخرى"
+
+#: admin/theme_options.php:3579
+msgid "Newsletter background with image, color, etc."
+msgstr "خلفية النشرة الإخبارية مع الصورة واللون وما إلى ذلك."
+
+#: admin/theme_options.php:3593
+msgid "Newsletter Color"
+msgstr "النشرة الإخبارية اللون"
+
+#: admin/theme_options.php:3600
+msgid "Newsletter Button Color"
+msgstr "لون زر النشرة الإخبارية"
+
+#: admin/theme_options.php:3611
+msgid "Advanced"
+msgstr "متقدم"
+
+#: admin/theme_options.php:3618
+msgid "Site Loader Enable or Disable."
+msgstr "لوادر الموقع تمكين أو تعطيل."
+
+#: admin/theme_options.php:3621
+msgid "Site loader enable or disable in your site."
+msgstr "تم تمكين ميزة تحميل الموقع أو تعطيله في موقعك."
+
+#: admin/theme_options.php:3627
+msgid "Site Loading Image"
+msgstr "الموقع تحميل الصورة"
+
+#: admin/theme_options.php:3628
+msgid "Choose one of the pre-defined Loading Image or choose custom one."
+msgstr "اختر أحد صور التحميل المحددة مسبقا أو اختر صورة مخصصة."
+
+#: admin/theme_options.php:3639
+msgid "Site Loader Image"
+msgstr "صورة محمل الموقع"
+
+#: admin/theme_options.php:3657
+msgid "Choose your Loading Image"
+msgstr "اختر صورة التحميل"
+
+#: admin/theme_options.php:3659
+msgid "Choose your own loading image."
+msgstr "اختر صورة التحميل الخاصة بك."
+
+#: admin/theme_options.php:3666
+msgid "Pagination Loading Image"
+msgstr "ترقيم الصفحات تحميل الصورة"
+
+#: admin/theme_options.php:3694
+msgid "Image Lazy Load Enable or Disable."
+msgstr "صورة تحميل كسول تمكين أو تعطيل."
+
+#: admin/theme_options.php:3702
+msgid "Lazy Loading Image"
+msgstr "كسول تحميل الصورة"
+
+#: admin/theme_options.php:3703
+msgid "Choose one of the pre-defined lazy Loading Image or choose custom one."
+msgstr "اختيار واحد من كسول محددة مسبقا تحميل صورة أو اختيار واحد مخصص."
+
+#: admin/theme_options.php:3714
+msgid "Lazy loading Image"
+msgstr "كسول تحميل الصورة"
+
+#: admin/theme_options.php:3737
+msgid "Choose Your Lazy Loading Image"
+msgstr "اختيار كسول تحميل الصورة"
+
+#: admin/theme_options.php:3739
+msgid "Choose your own lazy loding background image."
+msgstr "اختيار الصورة الخلفية كسول لودينغ الخاصة بك."
+
+#: admin/theme_options.php:3750
+msgid "Custom Code"
+msgstr "التعليمات البرمجية المخصصة"
+
+#: admin/theme_options.php:3757
+msgid "CSS Code"
+msgstr "كود كس"
+
+#: admin/theme_options.php:3758
+msgid "Paste your CSS code here."
+msgstr "الصق شفرة كس هنا."
+
+#: admin/theme_options.php:3767
+msgid "JS Code"
+msgstr "جس رمز"
+
+#: admin/theme_options.php:3768
+msgid "Paste your JS code here."
+msgstr "الصق رمز جس الخاص بك هنا."
+
+#: admin/theme_options.php:3781
+msgid "Import Demo"
+msgstr "استيراد العرض التوضيحي"
+
+#: admin/theme_options.php:3788
+msgid "Import Demo Data"
+msgstr "استيراد البيانات التجريبية"
+
+#: admin/theme_options.php:3789
+msgid "Importing demo content will copy sliders, widget, theme options, products data, posts, pages and portfolio posts, this will replicate the live demo. <br>The Demo Importer will not import the images we have used in our live demos, due to copyright / license reasons. <br>Choose any one preset layout and click on it thumb image. It can also take a minute to complete."
+msgstr "سوف استيراد المحتوى التجريبي نسخ المتزلجون، القطعة، وخيارات الموضوع، بيانات المنتجات، وظائف، صفحات والمشاركات محفظة، وهذا سوف تكرار النسخة الحية. <br> لن يستورد المستورد التجريبي الصور التي استخدمناها في العروض التوضيحية المباشرة، وذلك بسبب أسباب حقوق الطبع والنشر / الترخيص. <br> اختر أي تخطيط مسبق واحد وانقر عليه صورة الإبهام. ويمكن أيضا أن يستغرق دقيقة لإكمال."
+
+#: admin/theme_options.php:3797
+msgid "Choose Preset"
+msgstr "اختر إعداد مسبق"
+
+#: admin/theme_options.php:3884
+msgid "Section via hook"
+msgstr "القسم عبر الخطاف"
+
+#: admin/theme_options.php:3885
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr "<p كلاس = \\ \"دسكريبتيون \"> هذا قسم تم إنشاؤه عن طريق إضافة فلتر إلى مصفوفة الأقسام. يمكن استخدامها من قبل الموضوعات الطفل لإضافة / إزالة أقسام من الخيارات. </ p>"
+
+#: archive-portfolio.php:58 framework/woocommerce/woo-functions.php:552
+#: taxonomy-portfolio_cat.php:59 taxonomy-portfolio_skills.php:58
+msgid "Show All"
+msgstr "مشاهدة الجميع "
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "نشرت من قبل"
+
+#: author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid ""
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "لم يتم العثور على أي شيء"
+
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "على استعداد لنشر أول وظيفة؟ <a href=\" %1$s \"> إبدأ هنا </a>."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "آسف، ولكن لا شيء يضاهي شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى بكلمات مختلفة. "
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نجد ما تبحث عنه،  قد يساعدك البحث مجددًا"
+
+#: content-page.php:29 content.php:58 image.php:58 page.php:48
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: content-page.php:39 content-search.php:24 content-search.php:29
+#: content.php:40 image.php:71 page.php:58 templates/blog/grid_column.php:48
+#: templates/blog/large_image.php:36 templates/blog/small_image.php:39
+#: templates/blog/timeline.php:44 woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "تصحيح"
+
+#: content.php:52 templates/blog/grid_column.php:60
+#: templates/blog/large_image.php:48 templates/blog/small_image.php:51
+#: templates/blog/timeline.php:56
+#, php-format
+msgid "Read more %s"
+msgstr "اقرأ المزيد %s"
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "غير متاح"
+
+#: dokan/store-lists-loop.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "تقييم: %s من 5"
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr "صفحة المتجر"
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr "&larr; السابق"
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr "التالي &rarr;"
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr "لم يتم العثور على بائعين!"
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr "تقييم البائع"
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr "لا توجد نتائج"
+
+#: dokan/store-reviews.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "تقيم %d من 5"
+
+#: dokan/store-reviews.php:60 framework/woocommerce/woo-functions.php:982
+msgid "out of 5"
+msgstr "من اصل 5"
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr "الأحكام والشروط"
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr "لم يتم العثور على اي منتجات من هذا البائع!"
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "تثبيت إضافات مطلوبة"
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "تحديث المكون الإضافي: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugin: %1$s."
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugin: %1$s."
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "يلزم تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق مع هذا الموضوع: %1$s ."
+msgstr[1] "يلزم تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق مع هذا الموضوع: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "هناك تحديث متاح ل: %1$s ."
+msgstr[1] "هناك تحديث متاح ل: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugin is currently inactive: %1$s."
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugin is currently inactive: %1$s."
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "ابدأ تثبيت المكون الإضافي"
+msgstr[1] "ابدأ تثبيت المكون الإضافي"
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "ابدأ تحديث المكون الإضافي"
+msgstr[1] "ابدأ تحديث المكون الإضافي"
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "ابدأ تنشيط المكون الإضافي"
+msgstr[1] "ابدأ تنشيط المكون الإضافي"
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى مطلوب الإضافات المثبت"
+
+#: framework/classes/class-tgm-plugin-activation.php:393
+#: framework/classes/class-tgm-plugin-activation.php:912
+#: framework/classes/class-tgm-plugin-activation.php:2618
+#: framework/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة الرئيسية"
+
+#: framework/classes/class-tgm-plugin-activation.php:394
+#: framework/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الاضافة بنجاح."
+
+#: framework/classes/class-tgm-plugin-activation.php:395
+#: framework/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "تم تفعيل الإضافات التالية بنجاح:"
+msgstr[1] "تم تفعيل الإضافات التالية بنجاح:"
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. المكون الإضافي %1$s نشط بالفعل."
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "لم يتم تنشيط المكون الإضافي. هناك حاجة إلى إصدار أعلى من %s لهذا الموضوع. الرجاء تحديث المكون الإضافي."
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات مثبتة وتم تفعيلها بنجاح. %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "تجاهل هذه الملاحظة"
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "هناك واحد أو أكثر من الإضافات المطلوبة أو الموصى بها لتثبيت أو تحديث أو تنشيط."
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "يرجى الاتصال بمسؤول هذا الموقع للحصول على المساعدة."
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "هذا البرنامج المساعد يحتاج إلى تحديث لتكون متوافقة مع الموضوع الخاص بك."
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "مطلوب التحديث"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "حزمة المساعد عن بعد لا يحتوي على مجلد مع سبيكة المطلوب وإعادة تسمية لم تنجح."
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "يرجى الاتصال بمزود البرنامج المساعد واطلب منهم أن يرفقوا البرنامج المساعد وفقا لإرشادات وردبريس."
+
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "تتكون حزمة البرنامج المساعد البعيد من أكثر من ملف واحد، ولكن لا يتم حزم الملفات في مجلد."
+
+#: framework/classes/class-tgm-plugin-activation.php:1206
+#: framework/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: framework/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr " مطلوب"
+
+#: framework/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "يوصى به"
+
+#: framework/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: framework/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: framework/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "المعلبة"
+
+#: framework/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: framework/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "الإضافة المثبتة غير مفعلة"
+
+#: framework/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "نشيط"
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: framework/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "يتطلب تحديث"
+
+#: framework/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "التحديث الموصى به"
+
+#: framework/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] "ا"
+
+#: framework/classes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "تثبيت <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+msgstr[1] "تثبيت <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "تحديث متوفر <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+msgstr[1] "تحديث متوفر <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "تنشيط <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+msgstr[1] "تنشيط <0تمتد الطبقة = \\ \"العد \"> ( %s ) <0/ SPAN>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "النسخة المثبت"
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "الحد الأدنى للإصدار المطلوب:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "الإصدار المتاح:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "لا الإضافات لتثبيت أو تحديث أو تنشيط."
+
+#: framework/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "إضافة"
+
+#: framework/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "المصدر"
+
+#: framework/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "النوع "
+
+#: framework/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "الإصدار"
+
+#: framework/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "الحالة"
+
+#: framework/classes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "ترقية الرسالة من مؤلف المكون الإضافي:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "تثبيت"
+
+#: framework/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "تحديث"
+
+#: framework/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "تفعيل"
+
+#: framework/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم تحديد أي مكونات إضافية ليتم تثبيتها. لم يتم اتخاذ أي إجراء."
+
+#: framework/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم تحديد أي مكونات إضافية ليتم تحديثها. لم يتم اتخاذ أي إجراء."
+
+#: framework/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "لا تتوفر أي مكونات إضافية ليتم تثبيتها في هذا الوقت."
+
+#: framework/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "لا تتوفر أي إضافات إضافية في هذا الوقت."
+
+#: framework/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم تحديد أية مكونات إضافية يتم تنشيطها. لم يتم اتخاذ أي إجراء."
+
+#: framework/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "لا تتوفر أي إضافات إضافية في الوقت الحالي."
+
+#: framework/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فشلت عملية تفعيل الاضافة."
+
+#: framework/classes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث المكون الإضافي %1$s ( %2$d / %3$d )"
+
+#: framework/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء تثبيت %1$s: <0strong>%2$s<0/strong>."
+
+#: framework/classes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "عملية تثبيت %1$s فشلت."
+
+#: framework/classes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "تبدأ عملية التثبيت والتنشيط. قد تستغرق هذه العملية بعض الوقت في بعض المضيفين، لذا يرجى التحلي بالصبر."
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تم التثبيت و التفعيل بنجاح."
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#: framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "مشاهدة التفاصيل"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#: framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: framework/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تم الإنتهاء من كل التثبيت و التفعيل."
+
+#: framework/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "تبدأ عملية التثبيت. قد تستغرق هذه العملية بعض الوقت في بعض المضيفين، لذا يرجى التحلي بالصبر."
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s  تثبيت بنجاح."
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "وقد تم الانتهاء من التنصيب."
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت الإضافة%1$s ( %2$d / %3$d )"
+
+#: framework/classes/mega-menus.php:27
+msgid "Enable EmallShop Mega Menu (only for main menu)"
+msgstr "تمكين إمالشوب ميجا القائمة (فقط للقائمة الرئيسية)"
+
+#: framework/classes/mega-menus.php:33
+msgid "Full Width Mega Menu (overrides column width)"
+msgstr "عرض ميغا كامل العرض (يتجاهل عرض العمود)"
+
+#: framework/classes/mega-menus.php:38
+msgid "Mega Menu Number of Columns"
+msgstr "قائمة ميجا عدد الأعمدة"
+
+#: framework/classes/mega-menus.php:40
+msgid "Auto"
+msgstr "آلي"
+
+#: framework/classes/mega-menus.php:52
+msgid "Mega Menu Column Width (in percentage, ex: 30%)"
+msgstr "عرض قائمة العمود الضخم (بالنسبة المئوية، مثلا: 30٪)"
+
+#: framework/classes/mega-menus.php:59
+msgid "Disable Mega Menu Column Title"
+msgstr "تعطيل عنوان عمود القائمة الضخمة"
+
+#: framework/classes/mega-menus.php:65
+msgid "Enable Mega Menu Column Title"
+msgstr "تمكين عنوان عمود القائمة الضخمة"
+
+#: framework/classes/mega-menus.php:70
+msgid "Mega Menu Widget Area"
+msgstr "ميجا القائمة القطعة المنطقة"
+
+#: framework/classes/mega-menus.php:72
+msgid "Select Widget Area"
+msgstr "حدد منطقة القطعة"
+
+#: framework/classes/mega-menus.php:86
+msgid "New Label"
+msgstr "تسمية جديدة"
+
+#: framework/classes/mega-menus.php:89
+msgid "Hot Label"
+msgstr "التسمية الساخنة"
+
+#: framework/classes/mega-menus.php:92
+msgid "Sale Label"
+msgstr "بيع التسمية"
+
+#: framework/classes/mega-menus.php:98
+msgid "Menu Icon"
+msgstr "رمز القائمة"
+
+#: framework/classes/mega-menus.php:100
+msgid "Quick search"
+msgstr "بحث سريع"
+
+#: framework/classes/mega-menus.php:109
+msgid "Custom Icon"
+msgstr "رمز مخصص"
+
+#: framework/classes/mega-menus.php:544
+msgid "Hot"
+msgstr "حار"
+
+#: framework/classes/mega-menus.php:760
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (غير صالح)"
+
+#: framework/classes/mega-menus.php:764
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (معلق)"
+
+#: framework/classes/mega-menus.php:777
+msgid "sub item"
+msgstr "البند الفرعي"
+
+#: framework/classes/mega-menus.php:792
+msgid "Move up"
+msgstr "نقل لأعلى"
+
+#: framework/classes/mega-menus.php:805
+msgid "Move down"
+msgstr "نقل لأسفل"
+
+#: framework/classes/mega-menus.php:807 framework/classes/mega-menus.php:809
+msgid "Edit Menu Item"
+msgstr "تعديل عنصر القائمة"
+
+#: framework/classes/mega-menus.php:818
+msgid "URL"
+msgstr "رابط"
+
+#: framework/classes/mega-menus.php:825
+msgid "Navigation Label"
+msgstr "تسمية التنقل"
+
+#: framework/classes/mega-menus.php:831
+msgid "Title Attribute"
+msgstr "سمة العنوان"
+
+#: framework/classes/mega-menus.php:838
+msgid "Open link in a new window/tab"
+msgstr "فتح الرابط في نافذة جديدة / علامة التبويب"
+
+#: framework/classes/mega-menus.php:843
+msgid "CSS Classes (optional)"
+msgstr "فئات CSS (اختياري)"
+
+#: framework/classes/mega-menus.php:849
+msgid "Link Relationship (XFN)"
+msgstr "علاقة الارتباط (XFN)"
+
+#: framework/classes/mega-menus.php:855
+msgid "Description"
+msgstr "الوصف"
+
+#: framework/classes/mega-menus.php:857
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "سيتم عرض الوصف في القائمة إذا كان القالب الحالي يدعم ذلك."
+
+#: framework/classes/mega-menus.php:865
+msgid "Move"
+msgstr "نقل"
+
+#: framework/classes/mega-menus.php:866
+msgid "Up one"
+msgstr "أعلى"
+
+#: framework/classes/mega-menus.php:867
+msgid "Down one"
+msgstr "أسفل واحد"
+
+#: framework/classes/mega-menus.php:870
+msgid "To the top"
+msgstr "أنه يذهب إلى الأعلى."
+
+#: framework/classes/mega-menus.php:877
+#, php-format
+msgid "Original: %s"
+msgstr "الاصلي:  %s"
+
+#: framework/classes/mega-menus.php:890
+#: framework/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "الحذف "
+
+#: framework/classes/mega-menus.php:891
+msgid "Cancel"
+msgstr "إلغاء "
+
+#: framework/classes/sidebar-generator.class.php:14
+msgid "Add Custom Widget Area"
+msgstr "إضافة منطقة القطعة المخصصة"
+
+#: framework/classes/sidebar-generator.class.php:58
+msgid "Enter Name for new Widget Area"
+msgstr "أدخل اسم لمنطقة القطعة الجديدة"
+
+#: framework/classes/sidebar-generator.class.php:59
+msgid "Add Widget Area"
+msgstr "إضافة منطقة القطعة"
+
+#: framework/dokan/dokan-functions.php:30 functions.php:190
+msgid "Dokan Widget Area"
+msgstr "دوكان القطعة المنطقة"
+
+#: framework/dokan/dokan-functions.php:32
+msgid "Add widgets here to appear in your dokan page sidebar."
+msgstr "إضافة الحاجيات هنا لتظهر في الشريط الجانبي الصفحة دوكان الخاص بك."
+
+#: framework/dokan/dokan-functions.php:62
+msgid "Store Category"
+msgstr "مخزن الفئة "
+
+#: framework/dokan/dokan-functions.php:65
+msgid "Store Location"
+msgstr "موقع المتجر"
+
+#: framework/dokan/dokan-functions.php:69
+msgid "Contact Seller"
+msgstr "إتصل بالبائع"
+
+#: framework/dokan/dokan-functions.php:104
+#, php-format
+msgid "Cart %s"
+msgstr "السلة %s"
+
+#: framework/dokan/dokan-functions.php:122
+msgid "Seller Dashboard"
+msgstr "لوحة بيانات البائع"
+
+#: framework/dokan/dokan-functions.php:125
+msgid "Visit your store"
+msgstr "انتقل إلى متجرك"
+
+#: framework/dokan/dokan-functions.php:141 inc/theme-function.php:362
+#: inc/theme-function.php:396
+msgid "My Account"
+msgstr "حسابي"
+
+#: framework/dokan/dokan-functions.php:142
+msgid "Edit Account"
+msgstr "تعديل الحساب"
+
+#: framework/dokan/dokan-functions.php:144
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "عنوان دفع الفواتير"
+
+#: framework/dokan/dokan-functions.php:145
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "عنوان الارسالية"
+
+#: framework/dokan/dokan-functions.php:152
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: framework/dokan/dokan-functions.php:153
+msgid "Sign Up"
+msgstr "انشاء حساب"
+
+#: framework/meta-box/inc/field.php:213
+msgid "+ Add more"
+msgstr "أضف المزيد"
+
+#: framework/meta-box/inc/fields/autocomplete.php:14
+#: framework/meta-box/inc/fields/autocomplete.php:77
+#: framework/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr "حذف"
+
+#: framework/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "انقر فوق لي"
+
+#: framework/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "إختيار الملف"
+
+#: framework/meta-box/inc/fields/file-input.php:41
+#: framework/meta-box/inc/fields/select.php:91
+#: framework/meta-box/inc/fields/sidebars.php:100
+msgid "Select"
+msgstr "تحديد"
+
+#: framework/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "يمكنك تحميل الحد الأقصى للملف %d"
+
+#: framework/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "يمكنك تحميل الحد الأقصى للملفات %d"
+
+#: framework/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "خطأ: لا يمكن حذف الملف"
+
+#: framework/meta-box/inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "تحميل الملفات"
+
+#: framework/meta-box/inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ إضافة ملف جديد"
+
+#: framework/meta-box/inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "حذف"
+
+#: framework/meta-box/inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "تصحيح"
+
+#: framework/meta-box/inc/fields/image.php:61
+#: framework/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "تحميل الصور"
+
+#: framework/meta-box/inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "إضافة صورة جديدة"
+
+#: framework/meta-box/inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "حذف"
+
+#: framework/meta-box/inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "تصحيح"
+
+#: framework/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr "مفتاح (مفاتيح)"
+
+#: framework/meta-box/inc/fields/key-value.php:25
+msgid "Value"
+msgstr "القيمة"
+
+#: framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "إبحث عن عنوان"
+
+#: framework/meta-box/inc/fields/media.php:18
+msgctxt "media"
+msgid "Select or Upload Images"
+msgstr "حدد أو حمل الصور"
+
+#: framework/meta-box/inc/fields/media.php:19
+msgctxt "media"
+msgid " file"
+msgstr " ملف"
+
+#: framework/meta-box/inc/fields/media.php:20
+msgctxt "media"
+msgid " files"
+msgstr " ملفات"
+
+#: framework/meta-box/inc/fields/media.php:21
+msgctxt "media"
+msgid "Remove"
+msgstr "حذف"
+
+#: framework/meta-box/inc/fields/media.php:22
+msgctxt "media"
+msgid "Edit"
+msgstr "تصحيح"
+
+#: framework/meta-box/inc/fields/media.php:23
+msgctxt "media"
+msgid "View"
+msgstr "رأي"
+
+#: framework/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "No Title"
+msgstr "بلا عنوان"
+
+#: framework/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Select Files"
+msgstr "اختر الملفات"
+
+#: framework/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "ضع الملفات هنا ليتم رفعها"
+
+#: framework/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "تضمين هتمل غير متاح."
+
+#: framework/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "معاينة"
+
+#: framework/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "حدد مشاركة"
+
+#: framework/meta-box/inc/fields/post.php:38
+#: framework/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "حدد %s"
+
+#: framework/meta-box/inc/fields/select.php:91
+#: framework/meta-box/inc/fields/sidebars.php:100
+msgid "All"
+msgstr "الكل "
+
+#: framework/meta-box/inc/fields/select.php:91
+#: framework/meta-box/inc/fields/sidebars.php:100
+msgid "None"
+msgstr "لا يوجد ."
+
+#: framework/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "حدد عبارة"
+
+#: framework/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "حدد مستخدما"
+
+#: framework/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "يرجى تصحيح الأخطاء المبينة أدناه وإعادة المحاولة."
+
+#: framework/openswatch/templates/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "هذا المنتج حاليا غير متوفرة."
+
+#: framework/woocommerce/woo-functions.php:29
+msgctxt "placeholder"
+msgid "I'm shopping for..."
+msgstr "أنا تسوق ل ..."
+
+#: framework/woocommerce/woo-functions.php:38
+msgid "All Categories"
+msgstr "جميع التصنيفات"
+
+#: framework/woocommerce/woo-functions.php:111
+msgid "No products found."
+msgstr "لم يتم العثور على منتجات."
+
+#: framework/woocommerce/woo-functions.php:221
+#: framework/woocommerce/woo-functions.php:228 inc/theme-function.php:655
+#: inc/theme-function.php:671
+#, php-format
+msgid "%d item"
+msgid_plural "%d item(s)"
+msgstr[0] "%d عنصر"
+msgstr[1] "%d عنصر"
+
+#: framework/woocommerce/woo-functions.php:247 inc/theme-function.php:416
+#: inc/theme-function.php:670
+msgid "Shopping Cart"
+msgstr "عربة التسوق"
+
+#: framework/woocommerce/woo-functions.php:447
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr " الرئيسية "
+
+#: framework/woocommerce/woo-functions.php:509
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: framework/woocommerce/woo-functions.php:580
+#: framework/woocommerce/woo-functions.php:1229
+msgid "Items"
+msgstr "السلع"
+
+#: framework/woocommerce/woo-functions.php:632
+msgid "Brands"
+msgstr "الماركات التجارية"
+
+#: framework/woocommerce/woo-functions.php:678
+msgid "View as Grid"
+msgstr "عرض كشبكة"
+
+#: framework/woocommerce/woo-functions.php:681
+msgid "View as Expand Grid"
+msgstr "عرض كما توسيع الشبكة"
+
+#: framework/woocommerce/woo-functions.php:684
+msgid "View as List"
+msgstr "عرض كقائمة"
+
+#: framework/woocommerce/woo-functions.php:687
+msgid "View as Thin List "
+msgstr "عرض كقائمة رقيقة "
+
+#: framework/woocommerce/woo-functions.php:728
+msgid "View"
+msgstr "رأي"
+
+#: framework/woocommerce/woo-functions.php:835
+#: framework/woocommerce/woo-functions.php:865
+msgid "Quick View"
+msgstr "نظرة سريعة"
+
+#: framework/woocommerce/woo-functions.php:1063
+#: woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr "في انتظار صورة المنتج"
+
+#: framework/woocommerce/woo-functions.php:1192
+msgid "Product is added in cart"
+msgstr "يتم إضافة المنتج في عربة التسوق"
+
+#: framework/woocommerce/woo-functions.php:1211
+msgid "View Cart"
+msgstr "عرض السلّة"
+
+#: framework/woocommerce/woo-functions.php:1267 inc/theme-function.php:1350
+#: inc/theme-function.php:1401
+msgid "Loading..."
+msgstr "تحميل..."
+
+#: framework/woocommerce/woo-functions.php:1269
+msgid "No more product"
+msgstr "لا مزيد من المنتجات"
+
+#: framework/woocommerce/woo-functions.php:1418
+msgid "In  Stock"
+msgstr "متوفر"
+
+#: framework/woocommerce/woo-functions.php:1472
+msgid "Size Guide"
+msgstr "دليل المقاسات"
+
+#: framework/woocommerce/woo-functions.php:1489
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] "العلامة التجارية"
+msgstr[1] "العلامة التجارية"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: functions.php:115
+msgid "Vertical Menu"
+msgstr "القائمة العمودية"
+
+#: functions.php:163
+msgid "Widget Area"
+msgstr "منطقة القطعة"
+
+#: functions.php:165
+msgid "Add widgets here to appear in your sidebar."
+msgstr "أضف الأدوات هنا لتظهر في الشريط الجانبي."
+
+#: functions.php:172
+msgid "Shop Page Widget Area"
+msgstr "متجر الصفحة القطعة المنطقة"
+
+#: functions.php:174
+msgid "Add widgets here to appear in shop page sidebar."
+msgstr "أضف الأدوات هنا لتظهر في الشريط الجانبي لصفحة المتجر."
+
+#: functions.php:181
+msgid "Single Product Widget Area"
+msgstr "واحد المنتج القطعة المنطقة"
+
+#: functions.php:183
+msgid "Add widgets here to appear in single product page sidebar."
+msgstr "أضف الأدوات هنا لتظهر في الشريط الجانبي لصفحة منتج واحد."
+
+#: functions.php:192
+msgid "Add widgets here to appear in dokan page sidebar."
+msgstr "إضافة الحاجيات هنا لتظهر في دوكان الصفحة الشريط الجانبي."
+
+#: functions.php:199
+msgid "Menu Widget Area 1"
+msgstr "القائمة القطعة منطقة 1"
+
+#: functions.php:201 functions.php:210 functions.php:219
+msgid "Add widgets here to appear in your menu."
+msgstr "إضافة الحاجيات هنا لتظهر في القائمة الخاصة بك."
+
+#: functions.php:208
+msgid "Menu Widget Area 2"
+msgstr "القائمة القطعة منطقة 2"
+
+#: functions.php:217
+msgid "Menu Widget Area 3"
+msgstr "القائمة القطعة منطقة 3"
+
+#: functions.php:227
+msgid "Footer Widget Area 1"
+msgstr "فوتر ويدجيت أريا 1"
+
+#: functions.php:229 functions.php:238 functions.php:247 functions.php:256
+#: functions.php:265 functions.php:274 functions.php:283 functions.php:292
+msgid "Add widgets here to appear in your footer."
+msgstr "أضف الأدوات هنا لتظهر في تذييل الصفحة."
+
+#: functions.php:236
+msgid "Footer Widget Area 2"
+msgstr "فوتر ويدجيت أريا 2"
+
+#: functions.php:245
+msgid "Footer Widget Area 3"
+msgstr "فوتر ويدجيت أريا 3"
+
+#: functions.php:254
+msgid "Footer Widget Area 4"
+msgstr "فوتر ويدجيت أريا 4"
+
+#: functions.php:263
+msgid "Footer Widget Area 5"
+msgstr "فوتر ويدجيت أريا 5"
+
+#: functions.php:272
+msgid "Footer Widget Area 6"
+msgstr "فوتر ويدجيت أريا 6"
+
+#: functions.php:281
+msgid "Footer Widget Area 7"
+msgstr "فوتر ويدجيت أريا 7"
+
+#: functions.php:290
+msgid "Footer Widget Area 8"
+msgstr "فوتر ويدجيت أريا 8"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "الصورة السابقة"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "الصورة التالية"
+
+#: image.php:85
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<سبان كلاس = \\ \"ميتا-ناف \"> تم النشر في </ سبان> <سبان كلاس = \\ \"بوست-تيتل \"> %t إيتل </ سبان>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#, php-format
+msgid "EmallShop requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "يتطلب إمالشوب على الأقل وردبريس الإصدار 4.1. أنت تقوم بتشغيل الإصدار %s . الرجاء الترقية والمحاولة مرة أخرى."
+
+#: inc/breadcrumbs.php:19
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/breadcrumbs.php:58
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:60
+#, php-format
+msgid "Product Tag - %s"
+msgstr "علامة المنتج - %s"
+
+#: inc/breadcrumbs.php:122
+msgid "Go to Home Page"
+msgstr "انتقل إلى الصفحة الرئيسية"
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search - %s"
+msgstr "بحث %s"
+
+#: inc/breadcrumbs.php:187
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "نظام اللون الأساسي"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "رأس النص وشريطه الجانبي"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "تطبق على رأس على الشاشات الصغيرة والشريط الجانبي على شاشات واسعة."
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "رأس ولون خلفية الشريط الجانبي"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "داكن"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "الأصفر"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "وردي"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "ارجواني"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "أزرق "
+
+#: inc/meta-boxes.php:26
+msgid "Post Format: Image"
+msgstr "تنسيق المشاركة: صورة"
+
+#: inc/meta-boxes.php:32
+msgid "Image"
+msgstr "الصورة"
+
+#: inc/meta-boxes.php:36
+msgid "Select a image for post"
+msgstr "حدد صورة للنشر"
+
+#: inc/meta-boxes.php:44
+msgid "Post Format: Gallery"
+msgstr "تنسيق المشاركة: معرض"
+
+#: inc/meta-boxes.php:50
+msgid "Images"
+msgstr "الصور "
+
+#: inc/meta-boxes.php:53
+msgid "Select images gallery for post"
+msgstr "حدد معرض الصور للمشاركة"
+
+#: inc/meta-boxes.php:61
+msgid "Post Format: Video"
+msgstr "تنسيق المشاركة: فيديو"
+
+#: inc/meta-boxes.php:67
+msgid "Video URL or Embeded Code"
+msgstr "عنوان ورل للفيديو أو الرمز المضمن"
+
+#: inc/meta-boxes.php:70
+msgid "Enter the URL or embed code of Vimeo.com or YouTube.com streaming services.<br>To get the code, go to the external video page, click \"share\" button and copy the Embed code."
+msgstr "أدخل عنوان ورل أو شفرة تضمين خدمات بث Vimeo.com أو YouTube.com. <br> للحصول على الشفرة، انتقل إلى صفحة الفيديو الخارجية، وانقر على الزر \\ \"مشاركة \" وانسخ شفرة التضمين."
+
+#: inc/meta-boxes.php:78
+msgid "Post Format: Audio"
+msgstr "تنسيق المشاركة: الصوت"
+
+#: inc/meta-boxes.php:84
+msgid "Audio URL or Embeded Code"
+msgstr "عنوان ورل الصوتي أو الرمز المضمن"
+
+#: inc/meta-boxes.php:87
+msgid "Please enter the URL or Embeded code of the audio."
+msgstr "الرجاء إدخال عنوان ورل أو الشفرة المضمنة للصوت."
+
+#: inc/meta-boxes.php:95
+msgid "Post Format: Quote"
+msgstr "تنسيق المشاركة: اقتباس"
+
+#: inc/meta-boxes.php:101
+msgid "Quote"
+msgstr "اقتباس"
+
+#: inc/meta-boxes.php:104
+msgid "Add a quote."
+msgstr "إضافة عرض أسعار."
+
+#: inc/meta-boxes.php:107
+msgid "Author"
+msgstr "المنشئ"
+
+#: inc/meta-boxes.php:110
+msgid "Add the quote author."
+msgstr "إضافة المؤلف الاقتباس."
+
+#: inc/meta-boxes.php:113
+msgid "Author Url"
+msgstr "عنوان ورل"
+
+#: inc/meta-boxes.php:116
+msgid "Add the quote author URL."
+msgstr "أضف عنوان ورل لمؤلف الاقتباس."
+
+#: inc/meta-boxes.php:124
+msgid "Post Format: Link"
+msgstr "تنسيق المشاركة: رابط"
+
+#: inc/meta-boxes.php:130
+msgid "Url"
+msgstr "رابط"
+
+#: inc/meta-boxes.php:133
+msgid "Add an URL link."
+msgstr "أضف رابط عنوان ورل."
+
+#: inc/meta-boxes.php:139
+msgid "Add text for the URL link."
+msgstr "أضف نصا لرابط ورل."
+
+#: inc/meta-boxes.php:147
+msgid "Portfolio Informations"
+msgstr "معلومات محفظة"
+
+#: inc/meta-boxes.php:154
+msgid "Enter Client Name"
+msgstr "أدخل اسم العميل"
+
+#: inc/meta-boxes.php:157
+msgid "Enter your project client name."
+msgstr "أدخل اسم عميل المشروع."
+
+#: inc/meta-boxes.php:160
+msgid "Enter Live Project URL"
+msgstr "أدخل عنوان ورل للمشروع المباشر"
+
+#: inc/meta-boxes.php:163
+msgid "Enter your live project url."
+msgstr "أدخل عنوان ورل للمشروع المباشر."
+
+#: inc/meta-boxes.php:171
+msgid "Testimonial Informations"
+msgstr "شهادات الشهادات"
+
+#: inc/meta-boxes.php:178
+msgid "Enter Designation"
+msgstr "أدخل التسمية"
+
+#: inc/meta-boxes.php:181
+msgid "Enter client designation."
+msgstr "أدخل تعيين العميل."
+
+#: inc/meta-boxes.php:184
+msgid "Enter Company Name"
+msgstr "أدخل اسم الشركة"
+
+#: inc/meta-boxes.php:187
+msgid "Enter client company name."
+msgstr "أدخل اسم شركة العميل."
+
+#: inc/meta-boxes.php:195
+msgid "Page Layout Options"
+msgstr "خيارات تخطيط الصفحة"
+
+#: inc/meta-boxes.php:201
+msgid "Show Title"
+msgstr "عنوان المعرض"
+
+#: inc/meta-boxes.php:204
+msgid "Show title of the page."
+msgstr "عرض عنوان الصفحة."
+
+#: inc/meta-boxes.php:213
+msgid "Show Breadcrumb"
+msgstr "عرض مسارات التنقل"
+
+#: inc/meta-boxes.php:216
+msgid "Show breadcrumb of the page."
+msgstr "عرض مسار التنقل للصفحة."
+
+#: inc/meta-boxes.php:225
+msgid "Page Sidebar"
+msgstr "الصفحة الشريط الجانبي"
+
+#: inc/meta-boxes.php:245 inc/meta-boxes.php:287
+msgid "Select Sidebar"
+msgstr "اختر الشريط الجانبي"
+
+#: inc/meta-boxes.php:258
+msgid "Product Page Layout Options"
+msgstr "خيارات تخطيط صفحة المنتج"
+
+#: inc/meta-boxes.php:266
+msgid "Product Page Layout"
+msgstr "تخطيط صفحة المنتج"
+
+#: inc/meta-boxes.php:280
+#, php-format
+msgid "Choose product page layout for only this product. You can choose  global for all product page layout at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "اختر تخطيط صفحة المنتج لهذا المنتج فقط. يمكنك اختيار العالمية لجميع تخطيط صفحة المنتج في <a target=\"_blank\" href=\" %1$s \"> هنا </a> (ووكومرس> قسم منتج واحد)."
+
+#: inc/meta-boxes.php:293
+msgid "Product Size Guide Image"
+msgstr "صورة المنتج حجم الصورة"
+
+#: inc/meta-boxes.php:297
+#, php-format
+msgid "Upload product size guide image for only this product. You can use image size guide for all product at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "تحميل صورة دليل حجم المنتج لهذا المنتج فقط. يمكنك استخدام دليل حجم الصورة لجميع المنتجات في <a target=\"_blank\" href=\" %1$s \"> هنا </a> (ووكومرس> قسم منتج واحد)."
+
+#: inc/plugin_activetion_class.php:50
+msgid "PL EmallShop Extensions"
+msgstr "بل إمالشوب ملحقات"
+
+#: inc/plugin_activetion_class.php:57
+msgid "WPBakery Visual Composer"
+msgstr "وباكيري الملحن البصري"
+
+#: inc/plugin_activetion_class.php:64
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/plugin_activetion_class.php:71
+msgid "Ultimate Addons for Visual Composer"
+msgstr "في نهاية المطاف أدونس للملحن البصري"
+
+#: inc/plugin_activetion_class.php:78
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/plugin_activetion_class.php:83
+msgid "YITH WooCommerce Compare"
+msgstr "ييث ووكومرس مقارنة"
+
+#: inc/plugin_activetion_class.php:88
+msgid "YITH WooCommerce Wishlist"
+msgstr "ييث ووكومرس قائمة الامنيات"
+
+#: inc/plugin_activetion_class.php:93
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr "ييث ووكومرس اياكس تصفية المنتج"
+
+#: inc/plugin_activetion_class.php:98
+msgid "MailChimp for WordPress"
+msgstr "ميلشيمب ل وردبريس"
+
+#: inc/plugin_activetion_class.php:103
+msgid "Contact Form 7"
+msgstr "نموذج الاتصال 7"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "تصفح التعليقات"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "تعليقات أقدم"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "تعليقات أحدث"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "تهيئه"
+
+#: inc/template-tags.php:78
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "نشر في"
+
+#: inc/template-tags.php:87
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "المنشئ"
+
+#: inc/template-tags.php:93 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: inc/template-tags.php:104
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "مفاتيح بحث ذكية"
+
+#: inc/template-tags.php:115
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "اترك تعليقا <سبان كلاس = \\ \"سكرين-ريدر-تكست \"> على %s </ سبان>"
+
+#: inc/theme-function.php:151
+msgid "Days"
+msgstr "أيام"
+
+#: inc/theme-function.php:152
+msgid "Hours"
+msgstr "ساعات"
+
+#: inc/theme-function.php:153
+msgid "Mins"
+msgstr "دقائق"
+
+#: inc/theme-function.php:154
+msgid "Secs"
+msgstr "ثواني"
+
+#: inc/theme-function.php:155
+msgid "+ Show more"
+msgstr "أظهر المزيد"
+
+#: inc/theme-function.php:156
+msgid "- Show less"
+msgstr "عرض أقل"
+
+#: inc/theme-function.php:199
+msgid "WARNING: Clicking this button will replace your current theme options, sliders.  It can also take a minute to complete. Importing data is recommended on fresh installs only once. Importing on sites with content or importing twice will duplicate menus, pages and all posts."
+msgstr "تحذير: سيؤدي النقر على هذا الزر إلى استبدال خيارات المظهر الحالية، المتزلجون. ويمكن أيضا أن يستغرق دقيقة لإكمال. يوصى باستيراد البيانات على عمليات التثبيت الجديدة مرة واحدة فقط. سيؤدي الاستيراد على المواقع ذات المحتوى أو الاستيراد مرتين إلى تكرار القوائم والصفحات وجميع المشاركات."
+
+#: inc/theme-function.php:259
+msgid "News"
+msgstr "الأخبار"
+
+#: inc/theme-function.php:325
+msgid "Login/Register"
+msgstr "تسجيل الدخول / تسجيل"
+
+#: inc/theme-function.php:327
+msgid "Logout"
+msgstr "الخروج"
+
+#: inc/theme-function.php:341
+msgid "Register"
+msgstr "تسجيل"
+
+#: inc/theme-function.php:365 inc/theme-function.php:434
+msgid "Checkout"
+msgstr "انهاء الطلب"
+
+#: inc/theme-function.php:366 inc/theme-function.php:663
+msgid "Cart"
+msgstr "سلة"
+
+#: inc/theme-function.php:370
+msgid "My Wishlist"
+msgstr "قائمة امنياتي"
+
+#: inc/theme-function.php:376 inc/theme-function.php:490
+msgid "Compare"
+msgstr "قارن"
+
+#: inc/theme-function.php:379
+msgid "sign Out"
+msgstr "خروج"
+
+#: inc/theme-function.php:450
+msgid "Track Order"
+msgstr "ترتيب المسار"
+
+#: inc/theme-function.php:469
+msgid "Wishlist"
+msgstr "رغبة قائمة"
+
+#: inc/theme-function.php:579
+msgid "Help"
+msgstr "مساعدة"
+
+#: inc/theme-function.php:693
+msgid "Search"
+msgstr "بحث"
+
+#: inc/theme-function.php:821
+msgid "Shopping Categories"
+msgstr "فئات التسوق"
+
+#: inc/theme-function.php:1249
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/theme-function.php:1251
+msgid "Reply"
+msgstr "الرد"
+
+#: inc/theme-function.php:1352 inc/theme-function.php:1403
+msgid "No more blog"
+msgstr "لا مزيد من المدونات"
+
+#: inc/theme-function.php:1438
+msgid "Post Navigation"
+msgstr "تنقل التدوينة"
+
+#: inc/theme-function.php:1521
+msgid "Related Post"
+msgstr "منشور له صلة"
+
+#: inc/theme-function.php:1717
+msgid "Share on Facebook"
+msgstr "أنشرعلى الفيسبوك"
+
+#: inc/theme-function.php:1722
+msgid "Share on Twitter"
+msgstr "اتشرها على تويتر"
+
+#: inc/theme-function.php:1727
+msgid "Share on LinkedIn"
+msgstr "مشاركة على لينكيدين"
+
+#: inc/theme-function.php:1732
+msgid "Share on Google Plus"
+msgstr "شارك على غوغل بلوس"
+
+#: inc/theme-function.php:1737
+msgid "Share on Stumbleupon"
+msgstr "حصة على ستمبليوبون"
+
+#: inc/theme-function.php:1742
+msgid "Share on Pinterest"
+msgstr "حصة على بينتيريست"
+
+#: inc/theme-function.php:1747
+msgid "Share on Tumblr"
+msgstr "حصة على تومبلر"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: single-portfolio.php:55
+msgid "Project Description"
+msgstr "وصف المشروع"
+
+#: single-portfolio.php:65
+msgid "Live Preview"
+msgstr "المعاينة المباشرة"
+
+#: single-portfolio.php:72
+msgid "Project Informations"
+msgstr "معلومات المشروع"
+
+#: single-portfolio.php:77
+msgid "Client"
+msgstr "زبون"
+
+#: single-portfolio.php:82
+msgid "Date"
+msgstr "التاريخ"
+
+#: single-portfolio.php:99
+msgid "Skills"
+msgstr "مهارات"
+
+#: single-portfolio.php:111
+msgid "Share"
+msgstr "شارك"
+
+#: single-portfolio.php:141
+msgid "Related projects"
+msgstr "مشاريع ذات صلة"
+
+#: single.php:36
+msgid "Share This Post"
+msgstr "مشاركة هذه المشاركة"
+
+#: templates/footer/footer-1.php:34 templates/footer/footer-2.php:50
+#: templates/footer/footer-3.php:56
+msgid "&copy; 2016 presslayouts.com. All Rights Reserved."
+msgstr "&نسخ؛ 2016 presslayouts.com. كل الحقوق محفوظة."
+
+#: templates/footer/footer-2.php:22
+msgid "Stay Connected"
+msgstr "ابقى على اتصال"
+
+#: templates/portfolio/portfolio_grid.php:32
+msgid "Skill"
+msgstr "مهارة"
+
+#: woocommerce/cart/cart.php:35
+msgid "Item Details"
+msgstr "تفاصيل الوجبه"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:120
+msgid "Price"
+msgstr "السعر"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:126
+msgid "Quantity"
+msgstr "الكمية"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:143
+#: woocommerce/order/order-details.php:40
+msgid "Total"
+msgstr "المجموع"
+
+#: woocommerce/cart/cart.php:68 woocommerce/order/order-details.php:39
+msgid "Product"
+msgstr "المنتج"
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "متوفر لاعادة الطلب"
+
+#: woocommerce/cart/cart.php:153 woocommerce/cart/mini-cart.php:103
+msgid "Remove this item"
+msgstr "إزالة هذا المنتج"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon:"
+msgstr "كوبون"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr "رمز القسيمة"
+
+#: woocommerce/cart/cart.php:172
+msgid "Apply coupon"
+msgstr "تطبيق القسيمة الشرائية"
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr "تحديث السلة"
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr "قد تكون مهتمة في&hellip;"
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Recent add item"
+msgid_plural "Recent add item(s)"
+msgstr[0] "إضافة عنصر مؤخرا"
+msgstr[1] "إضافة عنصر مؤخرا"
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Subtotal"
+msgstr "حاصل الجمع"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في العربة."
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "يجب أن تكون مسجلا للتسديد."
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "طلبك"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By:"
+msgstr "ترتيب حسب"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "سيتم استخدام العناوين التالية على الصفحة الشراء بشكل تلقائي"
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "لم تقم بإعداد هذا النوع من عنوان حتى الآن."
+
+#: woocommerce/order/order-details.php:33
+msgid "Order details"
+msgstr "تفاصيل الطلب"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "كود المنتج"
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "الفئة:"
+msgstr[1] "الفئة:"
+
+#: woocommerce/single-product/meta.php:45
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "التبويب:"
+msgstr[1] "العلامة:  "
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s مراجعة القارئ"
+msgstr[1] "%s مراجعة القارئ"
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr "المنتجات ذات الصلة"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "قد ترغب أيضا و etyet"

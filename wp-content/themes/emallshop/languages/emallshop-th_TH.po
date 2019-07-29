@@ -1,0 +1,4074 @@
+# Copyright (C) 2017 PressLayouts
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EmallShop 1.0\n"
+"Report-Msgid-Bugs-To: http://demo.presslayouts.com/emallshop/\n"
+"POT-Creation-Date: 2017-09-08 09:55+0530\n"
+"PO-Revision-Date: 2017-09-08 13:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Image Not Set"
+msgstr "ไม่ได้ตั้งรูปภาพ"
+
+#: admin/admin-function.php:19
+msgid "Header Style 1"
+msgstr "สไตล์ส่วนหัว 1"
+
+#: admin/admin-function.php:20
+msgid "Header Style 2"
+msgstr "สไตล์ส่วนหัว 2"
+
+#: admin/admin-function.php:21
+msgid "Header Style 3"
+msgstr "ลักษณะส่วนหัว 3"
+
+#: admin/admin-function.php:22
+msgid "Header Style 4"
+msgstr "ลักษณะส่วนหัว 4"
+
+#: admin/admin-function.php:23
+msgid "Header Style 5"
+msgstr "สไตล์ส่วนหัว 5"
+
+#: admin/admin-function.php:24
+msgid "Header Style 6"
+msgstr "ลักษณะส่วนหัว 6"
+
+#: admin/admin-function.php:25
+msgid "Header Style 7"
+msgstr "ลักษณะส่วนหัว 7"
+
+#: admin/admin-function.php:26
+msgid "Header Style 8"
+msgstr "ลักษณะส่วนหัว 8"
+
+#: admin/admin-function.php:27
+msgid "Header Style 9"
+msgstr "สไตล์ส่วนหัว 9"
+
+#: admin/admin-function.php:28
+msgid "Header Style 10"
+msgstr "สไตล์ส่วนหัว 10"
+
+#: admin/admin-function.php:38
+msgid "Page Heading Style 1"
+msgstr "ลักษณะหัวเรื่องของเพจ 1"
+
+#: admin/admin-function.php:39
+msgid "Page Heading Style 2"
+msgstr "ลักษณะหัวเรื่องของเพจ 2"
+
+#: admin/admin-function.php:40
+msgid "Page Heading Style 3"
+msgstr "ลักษณะหัวเรื่องหน้า 3"
+
+#: admin/admin-function.php:41
+msgid "Page Heading Style 4"
+msgstr "ลักษณะหัวเรื่องของเพจ 4"
+
+#: admin/admin-function.php:51
+msgid "Footer Style 1"
+msgstr "ลักษณะส่วนท้าย 1"
+
+#: admin/admin-function.php:52
+msgid "Footer Style 2"
+msgstr "รูปแบบส่วนท้าย 2"
+
+#: admin/admin-function.php:53
+msgid "Footer Style 3"
+msgstr "รูปแบบส่วนท้าย 3"
+
+#: admin/theme_options.php:47 admin/theme_options.php:48
+msgid "Theme Options"
+msgstr "ตัวเลือกธีม"
+
+#: admin/theme_options.php:125
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr "<p> คุณรู้หรือไม่ว่า Redux กำหนดตัวแปรทั่วโลกสำหรับคุณ หากต้องการเข้าถึงตัวเลือกที่คุณบันทึกไว้จากภายในโค้ดคุณสามารถใช้ตัวแปรส่วนกลางของคุณ: <strong> $ %1$s </ strong> </ p>"
+
+#: admin/theme_options.php:127
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr "<p> ข้อความนี้จะปรากฏเหนือแผงตัวเลือก ไม่จำเป็นต้องมี แต่ข้อมูลเพิ่มเติมดีกว่าเสมอ! ฟิลด์ intro_text ยอมรับ HTML ทั้งหมด </ p>"
+
+#: admin/theme_options.php:131
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr "<p> ข้อความนี้จะปรากฏใต้แผงตัวเลือก ไม่จำเป็นต้องมี แต่ข้อมูลเพิ่มเติมดีกว่าเสมอ! ฟิลด์ footer_text ยอมรับ HTML ทั้งหมด </ p>"
+
+#: admin/theme_options.php:152
+msgid "General Settings"
+msgstr "ตั้งค่าทั่วไป"
+
+#: admin/theme_options.php:159
+msgid "Theme Layout"
+msgstr "เค้าโครงธีม"
+
+#: admin/theme_options.php:160
+msgid "Choose theme wide or boxed layout."
+msgstr "เลือกรูปแบบกว้างหรือแบบบรรจุกล่อง"
+
+#: admin/theme_options.php:177
+msgid "Page Width"
+msgstr "ความกว้างหน้าเว็บ"
+
+#: admin/theme_options.php:178
+msgid "Choose one of the pre-defined widths or enter custom one."
+msgstr "เลือกความกว้างที่ระบุไว้ล่วงหน้าหรือป้อนข้อมูลที่กำหนดเอง"
+
+#: admin/theme_options.php:188
+msgid "Pre-defined Page Width"
+msgstr "ความกว้างหน้าเว็บที่กำหนดไว้ล่วงหน้า"
+
+#: admin/theme_options.php:190
+msgid "Wide Screen"
+msgstr "หน้าจอกว้าง"
+
+#: admin/theme_options.php:191
+msgid "NoteBook"
+msgstr "สมุดบันทึก"
+
+#: admin/theme_options.php:199
+msgid "Custom Page Width"
+msgstr "ความกว้างของหน้าเว็บที่กำหนดเอง"
+
+#: admin/theme_options.php:207
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: admin/theme_options.php:209
+msgid "Upload header logo."
+msgstr "อัปโหลดโลโก้ส่วนหัว"
+
+#: admin/theme_options.php:216
+msgid "Sticky Header Logo"
+msgstr "โลโก้ส่วนหัวที่เหนียว"
+
+#: admin/theme_options.php:218
+msgid "Upload sticky header logo."
+msgstr "อัปโหลดโลโก้ส่วนหัวแบบเหนียว"
+
+#: admin/theme_options.php:225
+msgid "Favicon Icon"
+msgstr "ไอคอน Favicon"
+
+#: admin/theme_options.php:227
+msgid "Upload site favicon icon."
+msgstr "อัปโหลดไอคอน favicon ไซต์"
+
+#: admin/theme_options.php:233
+msgid "Show Back To Top Button"
+msgstr "แสดงปุ่มกลับไปที่ด้านบน"
+
+#: admin/theme_options.php:234
+msgid "Show back to top button."
+msgstr "แสดงปุ่มกลับไปที่ด้านบน"
+
+#: admin/theme_options.php:236 admin/theme_options.php:245 admin/theme_options.php:1338 admin/theme_options.php:1359
+msgid "On"
+msgstr "เปิด"
+
+#: admin/theme_options.php:237 admin/theme_options.php:246 admin/theme_options.php:1339 admin/theme_options.php:1360 admin/theme_options.php:1665 framework/woocommerce/woo-functions.php:922
+msgid "Off"
+msgstr "ปิด"
+
+#: admin/theme_options.php:242
+msgid "Show Login Register Popup"
+msgstr "เข้าสู่ระบบ Popup"
+
+#: admin/theme_options.php:243
+msgid "Show login register in popen or redirect on My Account page."
+msgstr "แสดงการลงทะเบียนเข้าสู่ระบบใน popen หรือ redirect บนหน้า My account"
+
+#: admin/theme_options.php:251
+msgid "Tracking Code"
+msgstr "รหัสติดตาม"
+
+#: admin/theme_options.php:252
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "วางรหัสติดตาม Google Analytics (หรืออื่น ๆ ) ที่นี่ ซึ่งจะถูกเพิ่มลงในเทมเพลตส่วนท้ายของธีมของคุณ"
+
+#: admin/theme_options.php:260
+msgid "Theme Styling"
+msgstr "Theme Styling"
+
+#: admin/theme_options.php:268
+msgid "Body"
+msgstr "Body"
+
+#: admin/theme_options.php:275
+msgid "Theme Primary Color"
+msgstr "ธีมสีหลัก"
+
+#: admin/theme_options.php:281
+msgid "Theme Secondary Color"
+msgstr "ธีมรองสี"
+
+#: admin/theme_options.php:287
+msgid "Body Wrapper Background"
+msgstr "พื้นหลัง Wrapper Body"
+
+#: admin/theme_options.php:288
+msgid "Body wrapper background with image, color, etc."
+msgstr "พื้นหลัง wrapper ร่างกายด้วยรูปภาพสี ฯลฯ"
+
+#: admin/theme_options.php:301 admin/theme_options.php:420 admin/theme_options.php:550 admin/theme_options.php:626 admin/theme_options.php:702 admin/theme_options.php:829 admin/theme_options.php:921 admin/theme_options.php:953 admin/theme_options.php:1050
+msgid "Background Opacity"
+msgstr "ความทึบของพื้นหลัง"
+
+#: admin/theme_options.php:302
+msgid "Body wrapper background opacity."
+msgstr "ความทึบของพื้นผิว wrapper ของร่างกาย"
+
+#: admin/theme_options.php:313 admin/theme_options.php:473 admin/theme_options.php:562 admin/theme_options.php:580 admin/theme_options.php:650 admin/theme_options.php:721 admin/theme_options.php:777 admin/theme_options.php:848 admin/theme_options.php:972 admin/theme_options.php:1062 admin/theme_options.php:3515
+msgid "Text Color"
+msgstr "สีข้อความ"
+
+#: admin/theme_options.php:319
+msgid "Heading/Title Color"
+msgstr "หัวเรื่อง / สีชื่อ"
+
+#: admin/theme_options.php:320
+msgid "Body heading color h1, h2, h3, h4, h5, and h6."
+msgstr "ส่วนหัวของร่างกาย h1, h2, h3, h4, h5 และ h6"
+
+#: admin/theme_options.php:326 admin/theme_options.php:479 admin/theme_options.php:568 admin/theme_options.php:638 admin/theme_options.php:727 admin/theme_options.php:978
+msgid "Input Field Background( TextBox, SelectBox, etc..)"
+msgstr "ป้อนข้อมูลฟิลด์ (TextBox, SelectBox ฯลฯ )"
+
+#: admin/theme_options.php:332 admin/theme_options.php:485 admin/theme_options.php:574 admin/theme_options.php:644 admin/theme_options.php:733 admin/theme_options.php:984
+msgid "Input Field Color( TextBox, SelectBox, etc..)"
+msgstr "ใส่สีฟิลด์ (กล่องข้อความ, SelectBox ฯลฯ )"
+
+#: admin/theme_options.php:338 admin/theme_options.php:491 admin/theme_options.php:656 admin/theme_options.php:739 admin/theme_options.php:783 admin/theme_options.php:854 admin/theme_options.php:990 admin/theme_options.php:1068
+msgid "Link Color"
+msgstr "สีลิงก์"
+
+#: admin/theme_options.php:352
+msgid "Theme Border"
+msgstr "ธีมชายแดน"
+
+#: admin/theme_options.php:353
+msgid "General border of theme."
+msgstr "เส้นขอบทั่วไปของชุดรูปแบบ"
+
+#: admin/theme_options.php:366
+msgid "Theme Border Radius"
+msgstr "รัศมีขอบของธีม"
+
+#: admin/theme_options.php:367
+msgid "General border radius of theme."
+msgstr "รัศมีขอบทั่วไปของชุดรูปแบบ"
+
+#: admin/theme_options.php:381
+msgid "Body Wrapper Padding"
+msgstr "แพ็ดดิ้งผ้า Wrapper"
+
+#: admin/theme_options.php:382
+msgid "Default padding in px: 0 0"
+msgstr "การขยายเริ่มต้นเป็น px: 0 0"
+
+#: admin/theme_options.php:393 admin/theme_options.php:1152 admin/theme_options.php:3484
+msgid "Header"
+msgstr "หัวข้อเรื่อง"
+
+#: admin/theme_options.php:401
+msgid "Header Wrapper Background."
+msgstr "พื้นหลัง Wrapper ส่วนหัว"
+
+#: admin/theme_options.php:406 admin/theme_options.php:447 admin/theme_options.php:536 admin/theme_options.php:688 admin/theme_options.php:771 admin/theme_options.php:815 admin/theme_options.php:907 admin/theme_options.php:939 admin/theme_options.php:1036 admin/theme_options.php:3578
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+#: admin/theme_options.php:407
+msgid "Header wrapper background with image, color, etc."
+msgstr "พื้นหลังกระดาษห่อหุ้มหัวกระดาษพร้อมรูปภาพสี ฯลฯ"
+
+#: admin/theme_options.php:421
+msgid "Header wrapper background opacity."
+msgstr "ความทึบของพื้นผิว wrapper ส่วนหัว"
+
+#: admin/theme_options.php:432
+msgid "Header Overlay"
+msgstr "ส่วนหัวกระดาษซ้อนทับ"
+
+#: admin/theme_options.php:433
+msgid "Header overlay on home page slider. Note:- When you use header overlay on home page slider, at this time no any effect background color on topbar, header and navigation in home page header. But background color  work/effect in other all pages."
+msgstr "ส่วนหัวของการวางซ้อนบนแถบเลื่อนหน้าแรก หมายเหตุ: - เมื่อคุณใช้การวางซ้อนส่วนหัวของแถบเลื่อนหน้าแรกในขณะนี้ไม่มีสีพื้นหลังผลกระทบใด ๆ บนแถบด้านบนส่วนหัวและการนำทางในส่วนหัวของหน้าแรก แต่งานสีพื้นหลัง / ผลในหน้าอื่น ๆ ทั้งหมด"
+
+#: admin/theme_options.php:434 admin/theme_options.php:1169 admin/theme_options.php:1177 admin/theme_options.php:1329 admin/theme_options.php:1627 admin/theme_options.php:1958 admin/theme_options.php:2112 admin/theme_options.php:2403 admin/theme_options.php:2412 admin/theme_options.php:2421 admin/theme_options.php:2685
+#: admin/theme_options.php:2704 admin/theme_options.php:3337 admin/theme_options.php:3367 admin/theme_options.php:3424 admin/theme_options.php:3449 admin/theme_options.php:3539 admin/theme_options.php:3619 admin/theme_options.php:3695
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#: admin/theme_options.php:435 admin/theme_options.php:1170 admin/theme_options.php:1178 admin/theme_options.php:1330 admin/theme_options.php:1628 admin/theme_options.php:1959 admin/theme_options.php:2113 admin/theme_options.php:2404 admin/theme_options.php:2413 admin/theme_options.php:2422 admin/theme_options.php:2686
+#: admin/theme_options.php:2705 admin/theme_options.php:3338 admin/theme_options.php:3368 admin/theme_options.php:3425 admin/theme_options.php:3450 admin/theme_options.php:3540 admin/theme_options.php:3620 admin/theme_options.php:3696
+msgid "Disable"
+msgstr "ปิดใช้งาน"
+
+#: admin/theme_options.php:442
+msgid "Header Middle Background."
+msgstr "หัวเรื่องกลางของส่วนหัว"
+
+#: admin/theme_options.php:448
+msgid "Header middle background with image, color, etc."
+msgstr "ส่วนหัวของพื้นหลังกลางกับภาพสี ฯลฯ"
+
+#: admin/theme_options.php:461
+msgid "Opacity"
+msgstr "ความทึบแสง"
+
+#: admin/theme_options.php:462
+msgid "Header background opacity."
+msgstr "ความทึบของส่วนหัว"
+
+#: admin/theme_options.php:501
+msgid "Header Border"
+msgstr "ชายแดนส่วนหัว"
+
+#: admin/theme_options.php:502 admin/theme_options.php:591
+msgid "Set Header border."
+msgstr "ตั้งค่าส่วนหัวของส่วนหัว"
+
+#: admin/theme_options.php:519 admin/theme_options.php:882 admin/theme_options.php:1017 admin/theme_options.php:1095
+msgid "Content Padding"
+msgstr "เนื้อหาแพ็ดดิ้ง"
+
+#: admin/theme_options.php:520
+msgid "Default padding in px: 24 24"
+msgstr "การต่อรองเริ่มต้นเป็น px: 24 24"
+
+#: admin/theme_options.php:531 admin/theme_options.php:1168
+msgid "Sticky Header"
+msgstr "ส่วนหัวที่เหนียว"
+
+#: admin/theme_options.php:537
+msgid "Sticky Header background with image, color, etc."
+msgstr "พื้นหลังส่วนหัวของสติกเกอร์ที่มีรูปภาพสี ฯลฯ"
+
+#: admin/theme_options.php:551
+msgid "Sticky header background opacity."
+msgstr "ความทึบของส่วนหัวของส่วนหัวที่เหนียว"
+
+#: admin/theme_options.php:590
+msgid "Sticky Header Border"
+msgstr "ส่วนหัวของส่วนหัวที่เหนียว"
+
+#: admin/theme_options.php:605
+msgid "Topbar"
+msgstr "topbar"
+
+#: admin/theme_options.php:612
+msgid " Topbar Background"
+msgstr " พื้นหลังแถบด้านข้าง"
+
+#: admin/theme_options.php:613
+msgid "Topbar background with image, color, etc."
+msgstr "พื้นหลังแถบด้านบนมีภาพสี ฯลฯ"
+
+#: admin/theme_options.php:627
+msgid "Topbar background opacity."
+msgstr "ความทึบของพื้นหลังของ Topbar"
+
+#: admin/theme_options.php:666
+msgid "Topbar Border"
+msgstr "ชายแดน Topbar"
+
+#: admin/theme_options.php:667
+msgid "Set topbar border."
+msgstr "ตั้งค่าขอบด้านบน"
+
+#: admin/theme_options.php:681
+msgid "Navigation"
+msgstr "การเดินเรือ"
+
+#: admin/theme_options.php:689
+msgid "Navigation background with image, color, etc."
+msgstr "พื้นหลังการนำทางด้วยภาพสี ฯลฯ"
+
+#: admin/theme_options.php:703
+msgid "Navigation background opacity."
+msgstr "ความโปร่งแสงของพื้นหลังการนำทาง"
+
+#: admin/theme_options.php:714
+msgid "Secondary Background Color"
+msgstr "สีพื้นรองรอง"
+
+#: admin/theme_options.php:715
+msgid "Secondary navigation background color."
+msgstr "สีพื้นหลังการนำทางรอง"
+
+#: admin/theme_options.php:749
+msgid "Navigation Border"
+msgstr "ขอบเขตการนำทาง"
+
+#: admin/theme_options.php:750
+msgid "Set Navigation border."
+msgstr "ตั้งค่าขอบเขตการนำทาง"
+
+#: admin/theme_options.php:764 inc/theme-function.php:805
+msgid "Menu"
+msgstr "รายการ"
+
+#: admin/theme_options.php:793
+msgid "Menu Border"
+msgstr "ขอบเมนู:"
+
+#: admin/theme_options.php:794
+msgid "Set Menu border."
+msgstr "ตั้งค่าขอบเมนู"
+
+#: admin/theme_options.php:808 admin/theme_options.php:1466
+msgid "Page Heading"
+msgstr "หัวเรื่องหน้าเว็บ"
+
+#: admin/theme_options.php:816
+msgid "Page heading background with image, color, etc."
+msgstr "พื้นหลังหัวเรื่องของหน้าด้วยรูปภาพสี ฯลฯ"
+
+#: admin/theme_options.php:830
+msgid "Page heading background opacity."
+msgstr "ความทึบของพื้นหลังของหน้ากระดาษ"
+
+#: admin/theme_options.php:841
+msgid "Page Heading/Title Color"
+msgstr "สีหัวข้อหัวเรื่อง / ชื่อเรื่อง"
+
+#: admin/theme_options.php:842
+msgid "Page heading/title color."
+msgstr "สีของหัวเรื่อง / ชื่อเรื่องของหน้า"
+
+#: admin/theme_options.php:864
+msgid "Page Heading Border"
+msgstr "หน้าหัวเรื่อง"
+
+#: admin/theme_options.php:865
+msgid "Set page heading border."
+msgstr "ตั้งค่าขอบส่วนหัวของเพจ"
+
+#: admin/theme_options.php:883
+msgid "Default padding in px: 10 10"
+msgstr "การต่อรองเริ่มต้นเป็นพิกเซล: 10 10"
+
+#: admin/theme_options.php:894 admin/theme_options.php:1523 admin/theme_options.php:3485
+msgid "Footer"
+msgstr "ส่วนท้าย"
+
+#: admin/theme_options.php:902
+msgid "Footer Wrapper Background."
+msgstr "พื้นหลัง Wrapper ส่วนท้าย"
+
+#: admin/theme_options.php:908
+msgid "Footer wrapper background with image, color, etc."
+msgstr "พื้นกระดาษห่อหุ้มท้ายด้วยภาพสี ฯลฯ"
+
+#: admin/theme_options.php:922
+msgid "Footer wrapper background opacity."
+msgstr "ความทึบพื้นผิวของ wrapper ท้ายกระดาษ"
+
+#: admin/theme_options.php:934
+msgid "Footer Top/Middle Background."
+msgstr "ส่วนท้ายของภาพบนสุด / กลาง"
+
+#: admin/theme_options.php:940
+msgid "Footer top/middle background with image, color, etc."
+msgstr "ด้านบน / พื้นหลังส่วนท้ายด้วยภาพสี ฯลฯ"
+
+#: admin/theme_options.php:954
+msgid "Footer background opacity."
+msgstr "ความทึบพื้นหลังของส่วนท้าย"
+
+#: admin/theme_options.php:965
+msgid "Heading Color"
+msgstr "หัวเรื่องสี"
+
+#: admin/theme_options.php:966
+msgid "Footer heading color."
+msgstr "สีหัวเรื่องส่วนท้าย"
+
+#: admin/theme_options.php:1000
+msgid "Footer Border"
+msgstr "ส่วนท้ายของขอบ"
+
+#: admin/theme_options.php:1018
+msgid "Default padding in px: 42 42"
+msgstr "การขยายเริ่มต้นเป็น px: 42 42"
+
+#: admin/theme_options.php:1029 admin/theme_options.php:1549
+msgid "Copyright"
+msgstr "ลิขสิทธิื"
+
+#: admin/theme_options.php:1037
+msgid "Copyright background with image, color, etc."
+msgstr "พื้นหลังของลิขสิทธิ์ด้วยภาพสี ฯลฯ"
+
+#: admin/theme_options.php:1051
+msgid "Copyright background opacity."
+msgstr "ความทึบของพื้นหลังของลิขสิทธิ์"
+
+#: admin/theme_options.php:1078
+msgid "Copyright Border"
+msgstr "ขอบเขตลิขสิทธิ์"
+
+#: admin/theme_options.php:1096
+msgid "Default padding: 14 14"
+msgstr "การเว้นวรรคเริ่มต้น: 14 14"
+
+#: admin/theme_options.php:1108
+msgid "Theme Typography"
+msgstr "รูปแบบภาพพื้นหลัง"
+
+#: admin/theme_options.php:1116
+msgid "Google Font Character Sets"
+msgstr "ชุดตัวอักษร Google Font"
+
+#: admin/theme_options.php:1117
+msgid "Select google font character sets"
+msgstr "เลือกชุดอักขระอักษร google"
+
+#: admin/theme_options.php:1132
+msgid "Body Font"
+msgstr "Body Font"
+
+#: admin/theme_options.php:1160
+msgid "Header Layout"
+msgstr "ส่วนหัวเค้าโครง"
+
+#: admin/theme_options.php:1161
+msgid "Choose Your header style/layout."
+msgstr "เลือกสไตล์ / เค้าโครงส่วนหัวของคุณ"
+
+#: admin/theme_options.php:1176
+msgid "Sticky Header In Mobile"
+msgstr "ส่วนหัวที่เหนียวในมือถือ"
+
+#: admin/theme_options.php:1185
+msgid "Select Sticky Header Part"
+msgstr "เลือกส่วนหัวส่วนหัว"
+
+#: admin/theme_options.php:1187
+msgid "Topbar Header"
+msgstr "ส่วนหัวด้านบน"
+
+#: admin/theme_options.php:1188
+msgid "Middle Header"
+msgstr "ส่วนหัวส่วนกลาง"
+
+#: admin/theme_options.php:1189
+msgid "Navigation Header"
+msgstr "ส่วนหัวนำทาง"
+
+#: admin/theme_options.php:1197
+msgid "Show Header Topbar"
+msgstr "แสดง Topbar ส่วนหัว"
+
+#: admin/theme_options.php:1198
+msgid "Show header topbar on header."
+msgstr "แสดงส่วนหัวส่วนหัวของส่วนหัว"
+
+#: admin/theme_options.php:1199 admin/theme_options.php:1208 admin/theme_options.php:1218 admin/theme_options.php:1228 admin/theme_options.php:1246 admin/theme_options.php:1264 admin/theme_options.php:1282 admin/theme_options.php:1292 admin/theme_options.php:1310 admin/theme_options.php:1369 admin/theme_options.php:1378
+#: admin/theme_options.php:1387 admin/theme_options.php:1558 admin/theme_options.php:1618 admin/theme_options.php:1636 admin/theme_options.php:1644 admin/theme_options.php:1686 admin/theme_options.php:1720 admin/theme_options.php:1743 admin/theme_options.php:1839 admin/theme_options.php:1976 admin/theme_options.php:1984
+#: admin/theme_options.php:1992 admin/theme_options.php:2001 admin/theme_options.php:2009 admin/theme_options.php:2018 admin/theme_options.php:2027 admin/theme_options.php:2036 admin/theme_options.php:2045 admin/theme_options.php:2054 admin/theme_options.php:2139 admin/theme_options.php:2147 admin/theme_options.php:2156
+#: admin/theme_options.php:2165 admin/theme_options.php:2174 admin/theme_options.php:2183 admin/theme_options.php:2191 admin/theme_options.php:2199 admin/theme_options.php:2207 admin/theme_options.php:2225 admin/theme_options.php:2247 admin/theme_options.php:2255 admin/theme_options.php:2294 admin/theme_options.php:2302
+#: admin/theme_options.php:2363 admin/theme_options.php:2383 admin/theme_options.php:2492 admin/theme_options.php:2500 admin/theme_options.php:2545 admin/theme_options.php:2553 admin/theme_options.php:2561 admin/theme_options.php:2585 admin/theme_options.php:2605 admin/theme_options.php:2652 admin/theme_options.php:2660
+#: admin/theme_options.php:2668 admin/theme_options.php:2694 admin/theme_options.php:2714 admin/theme_options.php:2774 admin/theme_options.php:2782 admin/theme_options.php:2880 admin/theme_options.php:2888 admin/theme_options.php:2896 admin/theme_options.php:2904 admin/theme_options.php:2948 admin/theme_options.php:2957
+#: admin/theme_options.php:3019 admin/theme_options.php:3027 admin/theme_options.php:3087 admin/theme_options.php:3095 admin/theme_options.php:3132 admin/theme_options.php:3244 admin/theme_options.php:3263 admin/theme_options.php:3272 admin/theme_options.php:3281 admin/theme_options.php:3290 admin/theme_options.php:3299
+#: admin/theme_options.php:3308 admin/theme_options.php:3317
+msgid "Show"
+msgstr "แสดง"
+
+#: admin/theme_options.php:1200 admin/theme_options.php:1209 admin/theme_options.php:1219 admin/theme_options.php:1229 admin/theme_options.php:1247 admin/theme_options.php:1265 admin/theme_options.php:1283 admin/theme_options.php:1293 admin/theme_options.php:1311 admin/theme_options.php:1370 admin/theme_options.php:1379
+#: admin/theme_options.php:1388 admin/theme_options.php:1559 admin/theme_options.php:1619 admin/theme_options.php:1637 admin/theme_options.php:1645 admin/theme_options.php:1687 admin/theme_options.php:1721 admin/theme_options.php:1744 admin/theme_options.php:1840 admin/theme_options.php:1977 admin/theme_options.php:1985
+#: admin/theme_options.php:1993 admin/theme_options.php:2002 admin/theme_options.php:2010 admin/theme_options.php:2019 admin/theme_options.php:2028 admin/theme_options.php:2037 admin/theme_options.php:2046 admin/theme_options.php:2055 admin/theme_options.php:2140 admin/theme_options.php:2148 admin/theme_options.php:2157
+#: admin/theme_options.php:2166 admin/theme_options.php:2175 admin/theme_options.php:2184 admin/theme_options.php:2192 admin/theme_options.php:2200 admin/theme_options.php:2208 admin/theme_options.php:2226 admin/theme_options.php:2248 admin/theme_options.php:2256 admin/theme_options.php:2295 admin/theme_options.php:2303
+#: admin/theme_options.php:2364 admin/theme_options.php:2384 admin/theme_options.php:2493 admin/theme_options.php:2501 admin/theme_options.php:2546 admin/theme_options.php:2554 admin/theme_options.php:2562 admin/theme_options.php:2586 admin/theme_options.php:2606 admin/theme_options.php:2653 admin/theme_options.php:2661
+#: admin/theme_options.php:2669 admin/theme_options.php:2695 admin/theme_options.php:2715 admin/theme_options.php:2775 admin/theme_options.php:2783 admin/theme_options.php:2881 admin/theme_options.php:2889 admin/theme_options.php:2897 admin/theme_options.php:2905 admin/theme_options.php:2949 admin/theme_options.php:2958
+#: admin/theme_options.php:3020 admin/theme_options.php:3028 admin/theme_options.php:3088 admin/theme_options.php:3096 admin/theme_options.php:3133 admin/theme_options.php:3245 admin/theme_options.php:3264 admin/theme_options.php:3273 admin/theme_options.php:3282 admin/theme_options.php:3291 admin/theme_options.php:3300
+#: admin/theme_options.php:3309 admin/theme_options.php:3318
+msgid "Hide"
+msgstr "ซ่อน"
+
+#: admin/theme_options.php:1206
+msgid "Show Language Switcher"
+msgstr "แสดงตัวสลับภาษา"
+
+#: admin/theme_options.php:1207
+msgid "Show language switcher on topbar."
+msgstr "แสดงตัวสลับภาษาในแถบด้านบน"
+
+#: admin/theme_options.php:1216
+msgid "Show Currency Switcher"
+msgstr "แสดงตัวสลับสกุลเงิน"
+
+#: admin/theme_options.php:1217
+msgid "Show currency switcher on topbar."
+msgstr "แสดงตัวสลับสกุลเงินในแถบด้านบน"
+
+#: admin/theme_options.php:1226
+msgid "Show Topbar Email"
+msgstr "แสดงอีเมล Topbar"
+
+#: admin/theme_options.php:1227
+msgid "Show email address on topbar."
+msgstr "แสดงที่อยู่อีเมลในแถบด้านบน"
+
+#: admin/theme_options.php:1236
+msgid "Enter Topbar Email"
+msgstr "ป้อนอีเมล Topbar"
+
+#: admin/theme_options.php:1237
+msgid "Enter topbar email address."
+msgstr "ป้อนที่อยู่อีเมล topbar"
+
+#: admin/theme_options.php:1244
+msgid "Show Topbar Number"
+msgstr "แสดงจำนวนแถบด้านบน"
+
+#: admin/theme_options.php:1245
+msgid "Show mobile number on topbar."
+msgstr "แสดงหมายเลขโทรศัพท์มือถือในแถบด้านบน"
+
+#: admin/theme_options.php:1254
+msgid "Enter Topbar Number"
+msgstr "ป้อนจำนวน Topbar"
+
+#: admin/theme_options.php:1255
+msgid "Enter topbar mobile number."
+msgstr "ป้อนหมายเลขโทรศัพท์มือถือ topbar"
+
+#: admin/theme_options.php:1262
+msgid "Show Topbar News"
+msgstr "แสดงข่าว Topbar"
+
+#: admin/theme_options.php:1263
+msgid "Show news on topbar."
+msgstr "แสดงข่าวใน topbar"
+
+#: admin/theme_options.php:1272
+msgid "Enter Topbar News"
+msgstr "ป้อนข่าว Topbar"
+
+#: admin/theme_options.php:1273
+msgid "Enter topbar news in \"a\" tab."
+msgstr "ป้อนข้อมูลแถบด้านบนในแท็บ \\ \"a \""
+
+#: admin/theme_options.php:1280
+msgid "Show Topbar Social Link"
+msgstr "แสดงลิงก์ทางสังคมบนแถบด้านบน"
+
+#: admin/theme_options.php:1281
+msgid "Show social link on topbar."
+msgstr "แสดงลิงก์ทางสังคมในแถบด้านบน"
+
+#: admin/theme_options.php:1290
+msgid "Show Topbar Welcome Message"
+msgstr "แสดงข้อความต้อนรับ Topbar"
+
+#: admin/theme_options.php:1291
+msgid "Show welcome message on topbar."
+msgstr "แสดงข้อความต้อนรับในแถบด้านบน"
+
+#: admin/theme_options.php:1300
+msgid "Enter Topbar Welcome Message"
+msgstr "ป้อนข้อความต้อนรับ Topbar"
+
+#: admin/theme_options.php:1301
+msgid "Enter topbar welcome message."
+msgstr "ป้อนข้อความต้อนรับ topbar"
+
+#: admin/theme_options.php:1308
+msgid "Show Topbar Help"
+msgstr "แสดงวิธีใช้แถบด้านบน"
+
+#: admin/theme_options.php:1309
+msgid "Show help on topbar."
+msgstr "แสดงความช่วยเหลือในแถบด้านบน"
+
+#: admin/theme_options.php:1318
+msgid "Enter Help Link"
+msgstr "ป้อน Help Link"
+
+#: admin/theme_options.php:1319
+msgid "Enter help link. of topbar"
+msgstr "ป้อนลิงก์ความช่วยเหลือ ของแถบด้านบน"
+
+#: admin/theme_options.php:1327
+msgid "Product Live/Ajax Search"
+msgstr "ผลิตภัณฑ์ Live / Ajax Search"
+
+#: admin/theme_options.php:1328
+msgid "Live product search or not on header."
+msgstr "การค้นหาผลิตภัณฑ์แบบสดหรือไม่อยู่ที่ส่วนหัว"
+
+#: admin/theme_options.php:1336
+msgid "Show Categories Dropdown"
+msgstr "แสดงหมวดหมู่แบบเลื่อนลง"
+
+#: admin/theme_options.php:1337
+msgid "Show categories dropdow in product search."
+msgstr "แสดงหมวดหมู่ dropdow ในการค้นหาผลิตภัณฑ์"
+
+#: admin/theme_options.php:1345
+msgid "Search Categories Dropdown"
+msgstr "ค้นหาหมวดหมู่แบบเลื่อนลง"
+
+#: admin/theme_options.php:1346
+msgid "Display categories in search categories dropdow."
+msgstr "แสดงหมวดหมู่ในหมวดหมู่การค้นหา dropdow"
+
+#: admin/theme_options.php:1348
+msgid "Show All Categories"
+msgstr "แสดงทุกหมวด"
+
+#: admin/theme_options.php:1349
+msgid "Only Parent(top level) Categories"
+msgstr "เฉพาะผู้ปกครอง (ระดับบนสุด) หมวดหมู่"
+
+#: admin/theme_options.php:1357
+msgid "Show Categories Hierarchical"
+msgstr "แสดงหมวดหมู่"
+
+#: admin/theme_options.php:1358
+msgid "Show categories in hierarchical (Must be need to select above option Show All Categories)."
+msgstr "แสดงหมวดหมู่ตามลำดับชั้น (ต้องเลือกตัวเลือกข้างต้นแสดงหมวดทั้งหมด)"
+
+#: admin/theme_options.php:1367
+msgid "Show Cart"
+msgstr "แสดงรถเข็น"
+
+#: admin/theme_options.php:1368
+msgid "Show cart on header."
+msgstr "แสดงรถเข็นในส่วนหัว"
+
+#: admin/theme_options.php:1376
+msgid "Show Wishlist"
+msgstr "แสดงรายการสิ่งที่อยากได้"
+
+#: admin/theme_options.php:1377
+msgid "Show wishlist on header."
+msgstr "แสดงสิ่งที่ปรารถนาในส่วนหัว"
+
+#: admin/theme_options.php:1385
+msgid "Show Campare"
+msgstr "แสดง Campare"
+
+#: admin/theme_options.php:1386
+msgid "Show campare on header."
+msgstr "แสดง campare ในส่วนหัว"
+
+#: admin/theme_options.php:1394
+msgid "Header Services Icon 1"
+msgstr "ไอคอนส่วนหัวบริการ 1"
+
+#: admin/theme_options.php:1400
+msgid "Enter Service Title 1."
+msgstr "ป้อนชื่อบริการ 1"
+
+#: admin/theme_options.php:1406
+msgid "Enter Service Sort Description 1"
+msgstr "ป้อนคำอธิบายการจัดเรียงบริการ 1"
+
+#: admin/theme_options.php:1412 admin/theme_options.php:1430
+msgid "Header Services Icon 3"
+msgstr "ไอคอนส่วนหัวบริการ 3"
+
+#: admin/theme_options.php:1418
+msgid "Enter Service Title 2"
+msgstr "ป้อนชื่อบริการ 2"
+
+#: admin/theme_options.php:1419 inc/theme-function.php:622 inc/theme-function.php:631
+msgid "Free Shipping"
+msgstr "จัดส่งฟรี"
+
+#: admin/theme_options.php:1424
+msgid "Enter Service Sort Description 2"
+msgstr "ใส่คำอธิบายการเรียงลำดับบริการ 2"
+
+#: admin/theme_options.php:1425 inc/theme-function.php:623
+msgid "all order over $100."
+msgstr "คำสั่งซื้อทั้งหมดที่เกิน 100 ดอลลาร์"
+
+#: admin/theme_options.php:1436
+msgid "Enter Service Title 3"
+msgstr "ป้อนชื่อบริการ 3"
+
+#: admin/theme_options.php:1437 inc/theme-function.php:632
+msgid "Return & Exchange"
+msgstr "การส่งคืนและการแลกเปลี่ยน"
+
+#: admin/theme_options.php:1442
+msgid "Enter Service Sort Description 3"
+msgstr "ใส่คำอธิบายการจัดเรียงบริการ 3"
+
+#: admin/theme_options.php:1448
+msgid "Open Categories(Vertical) Menu In Home Page"
+msgstr "เปิดหมวดหมู่ (แนวตั้ง) เมนูในหน้าแรก"
+
+#: admin/theme_options.php:1449
+msgid "Categories(Vertical) menu open in home page. See demo ex. Electronic."
+msgstr "เมนูหมวดหมู่ (Vertical) เปิดในโฮมเพจ ดูการสาธิตตัวอย่าง อิเล็กทรอนิกส์"
+
+#: admin/theme_options.php:1450
+msgid "Open"
+msgstr "เปิด"
+
+#: admin/theme_options.php:1451
+msgid "Close"
+msgstr "ปิด"
+
+#: admin/theme_options.php:1457
+msgid "Shopping Categories Title"
+msgstr "ชื่อสินค้า"
+
+#: admin/theme_options.php:1473
+msgid "Show Page Heading"
+msgstr "แสดงหัวข้อหัวเรื่อง"
+
+#: admin/theme_options.php:1474 admin/theme_options.php:1492 admin/theme_options.php:1513 admin/theme_options.php:1587 admin/theme_options.php:1609 admin/theme_options.php:1904 admin/theme_options.php:2121 admin/theme_options.php:2130 admin/theme_options.php:2277 admin/theme_options.php:2286 admin/theme_options.php:2929
+#: admin/theme_options.php:2939 framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:206 inc/meta-boxes.php:218
+msgid "Yes"
+msgstr "ใช่"
+
+#: admin/theme_options.php:1475 admin/theme_options.php:1493 admin/theme_options.php:1514 admin/theme_options.php:1588 admin/theme_options.php:1610 admin/theme_options.php:1905 admin/theme_options.php:2122 admin/theme_options.php:2131 admin/theme_options.php:2278 admin/theme_options.php:2287 admin/theme_options.php:2930
+#: admin/theme_options.php:2940 admin/theme_options.php:3434 framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:207 inc/meta-boxes.php:219
+msgid "No"
+msgstr "ไม่"
+
+#: admin/theme_options.php:1482
+msgid "Page Heading Layout"
+msgstr "เค้าโครงหน้าหัวเรื่อง"
+
+#: admin/theme_options.php:1483
+msgid "Choose Your page heading style/layout."
+msgstr "เลือกสไตล์ / การจัดวางหน้าเว็บของคุณ"
+
+#: admin/theme_options.php:1491 admin/theme_options.php:2781 admin/theme_options.php:3026 admin/theme_options.php:3094
+msgid "Show Page Title"
+msgstr "แสดงชื่อหน้าเว็บ"
+
+#: admin/theme_options.php:1500
+msgid "Show Title In Page Heading Or Page Content"
+msgstr "แสดงหัวข้อในหน้าหัวเรื่องหรือเนื้อหาหน้า"
+
+#: admin/theme_options.php:1501
+msgid "Show page title in page heading area or page content area."
+msgstr "แสดงชื่อหน้าในส่วนหัวของเพจหรือพื้นที่เนื้อหาของเพจ"
+
+#: admin/theme_options.php:1503
+msgid "In  Page Heading"
+msgstr "ในหัวเรื่องของหน้า"
+
+#: admin/theme_options.php:1504
+msgid "In Page Content"
+msgstr "ในเนื้อหาของหน้า"
+
+#: admin/theme_options.php:1512 admin/theme_options.php:2773 admin/theme_options.php:3018 admin/theme_options.php:3086
+msgid "Show Page Breadcrumb"
+msgstr "แสดงเส้นทาง Breadcrumb"
+
+#: admin/theme_options.php:1531
+msgid "Footer Layout"
+msgstr "เค้าโครงส่วนท้าย"
+
+#: admin/theme_options.php:1532
+msgid "Choose Your footer style/layout."
+msgstr "เลือกสไตล์ / เค้าโครงส่วนท้ายของคุณ"
+
+#: admin/theme_options.php:1542
+msgid "Select Your Popular Categories"
+msgstr "เลือกหมวดหมู่ยอดนิยมของคุณ"
+
+#: admin/theme_options.php:1543
+msgid "Select your populare categories and display on footer. But need to be first select footer style third. "
+msgstr "เลือกประเภทประชากรของคุณและแสดงในส่วนท้าย แต่ต้องเลือกรูปแบบส่วนท้ายที่สามเป็นอันดับแรก "
+
+#: admin/theme_options.php:1550
+msgid "Enter copyright text."
+msgstr "ใส่ข้อความลิขสิทธิ์"
+
+#: admin/theme_options.php:1551
+msgid "&copy; 2017 presslayouts.com. All Rights Reserved."
+msgstr "&สำเนา; 2016 presslayouts.com สงวนลิขสิทธิ์."
+
+#: admin/theme_options.php:1556
+msgid "Show Payments Logo"
+msgstr "แสดงโลโก้การชำระเงิน"
+
+#: admin/theme_options.php:1565
+msgid "Payments Logo Image"
+msgstr "ภาพโลโก้การชำระเงิน"
+
+#: admin/theme_options.php:1567
+msgid "Upload payments logo image."
+msgstr "อัปโหลดภาพโลโก้การชำระเงิน"
+
+#: admin/theme_options.php:1578
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/theme_options.php:1585
+msgid "Manage Password Strength"
+msgstr "จัดการความแรงของรหัสผ่าน"
+
+#: admin/theme_options.php:1586
+msgid "Reduce the strength requirement on the woocommerce use login/signup password "
+msgstr "ลดความต้องการความแข็งแรงลงในรหัสผ่านเข้าสู่ระบบ / ลงชื่อสมัครใช้ของ woocommerce "
+
+#: admin/theme_options.php:1594
+msgid "User Password Strength"
+msgstr "ความแรงของรหัสผ่านผู้ใช้"
+
+#: admin/theme_options.php:1596
+msgid "Strong (default)"
+msgstr "แข็งแรง (ค่าเริ่มต้น)"
+
+#: admin/theme_options.php:1597
+msgid "Medium"
+msgstr "ปานกลาง"
+
+#: admin/theme_options.php:1598
+msgid "Weak"
+msgstr "อ่อน"
+
+#: admin/theme_options.php:1599
+msgid "Very Weak"
+msgstr "อ่อนแอมาก"
+
+#: admin/theme_options.php:1607
+msgid "Live Search By Product SKU"
+msgstr "ค้นหาแบบสดตามผลิตภัณฑ์ SKU"
+
+#: admin/theme_options.php:1608
+msgid "Live search by product sku or not."
+msgstr "ค้นหาแบบสดโดย sku สินค้าหรือไม่"
+
+#: admin/theme_options.php:1616
+msgid "Show Cart Popup"
+msgstr "แสดงป๊อปอัพของรถเข็น"
+
+#: admin/theme_options.php:1617
+msgid "Show cart popup after added product in cart. "
+msgstr "แสดงป๊อปอัปของรถเข็นหลังจากเพิ่มผลิตภัณฑ์ในรถเข็นแล้ว "
+
+#: admin/theme_options.php:1625 framework/woocommerce/template-tags.php:208 framework/woocommerce/template-tags.php:284
+msgid "Login To See Price"
+msgstr "เข้าสู่ระบบเพื่อดูราคา"
+
+#: admin/theme_options.php:1626
+msgid "Show product price after login user. "
+msgstr "แสดงราคาผลิตภัณฑ์หลังจากผู้ใช้ล็อกอิน "
+
+#: admin/theme_options.php:1634 admin/theme_options.php:2137
+msgid "Show Product Highlight Labels"
+msgstr "แสดงผลิตภัณฑ์เน้นป้าย"
+
+#: admin/theme_options.php:1635 admin/theme_options.php:2138
+msgid "Show product highlight labels sale, featured, new and out of stock on product."
+msgstr "แสดงผลิตภัณฑ์เน้นการขายป้ายแนะนำผลิตภัณฑ์ใหม่และที่วางจำหน่ายในผลิตภัณฑ์"
+
+#: admin/theme_options.php:1643
+msgid "Show Sale Product Highlight Label"
+msgstr "แสดงสินค้าขาย Highlight Label"
+
+#: admin/theme_options.php:1653
+msgid "Show sale product label in percentages or text."
+msgstr "แสดงป้ายกำกับผลิตภัณฑ์การขายเป็นเปอร์เซ็นต์หรือข้อความ"
+
+#: admin/theme_options.php:1655
+msgid "Percentages"
+msgstr "ร้อยละ"
+
+#: admin/theme_options.php:1656 inc/meta-boxes.php:136
+msgid "Text"
+msgstr "ข้อความ"
+
+#: admin/theme_options.php:1664
+msgid "Sale product highlight percentages label text."
+msgstr "ยอดขายผลิตภัณฑ์ไฮไลต์ข้อความป้ายข้อความเปอร์เซ็นต์"
+
+#: admin/theme_options.php:1671
+msgid "Sale product highlight label text."
+msgstr "ข้อความไฮไลต์ผลิตภัณฑ์ยอดขาย"
+
+#: admin/theme_options.php:1672 framework/classes/mega-menus.php:547 framework/woocommerce/woo-functions.php:956
+msgid "Sale"
+msgstr "ลดราคา"
+
+#: admin/theme_options.php:1678
+msgid "Sale product highlight label color."
+msgstr "สีป้ายกำกับเน้นการขายผลิตภัณฑ์"
+
+#: admin/theme_options.php:1685
+msgid "Show New Product Highlight Label"
+msgstr "แสดงป้ายสินค้าไฮไลต์ผลิตภัณฑ์ใหม่"
+
+#: admin/theme_options.php:1694
+msgid "New product highlight label text."
+msgstr "ข้อความไฮไลต์ผลิตภัณฑ์ใหม่"
+
+#: admin/theme_options.php:1695 framework/classes/mega-menus.php:541 framework/woocommerce/woo-functions.php:903
+msgid "New"
+msgstr "มีอะไรมาใหม่!"
+
+#: admin/theme_options.php:1701
+msgid "Enter number of days to newness."
+msgstr "ป้อนจำนวนวันที่เป็นความใหม่"
+
+#: admin/theme_options.php:1712
+msgid "New product highlight label color."
+msgstr "สีป้ายกำกับผลิตภัณฑ์ใหม่"
+
+#: admin/theme_options.php:1719
+msgid "Show Featured Product Highlight Label"
+msgstr "แสดงผลิตภัณฑ์เด่นไฮไลต์ป้ายกำกับ"
+
+#: admin/theme_options.php:1728
+msgid "Featured product highlight label text."
+msgstr "ผลิตภัณฑ์เด่นไฮไลต์ข้อความฉลาก"
+
+#: admin/theme_options.php:1729 dokan/store-lists-loop.php:24 framework/woocommerce/woo-functions.php:913 inc/template-tags.php:50
+msgid "Featured"
+msgstr "คุณสมบัติ"
+
+#: admin/theme_options.php:1735
+msgid "Featured product highlight label color."
+msgstr "ผลิตภัณฑ์เด่นเน้นสีฉลาก"
+
+#: admin/theme_options.php:1742
+msgid "Show Out Of Stock Product Highlight Label"
+msgstr "แสดงสินค้าออกจากสต็อก"
+
+#: admin/theme_options.php:1751
+msgid "out of stock product highlight label text."
+msgstr "ข้อความไฮไลต์สินค้าหมดสต็อค"
+
+#: admin/theme_options.php:1752 framework/woocommerce/woo-functions.php:891
+msgid "Out Of Stock"
+msgstr "สินค้าหมด"
+
+#: admin/theme_options.php:1758
+msgid "out of stock product highlight label color."
+msgstr "สีป้ายกำกับผลิตภัณฑ์ไฮไลต์หมด"
+
+#: admin/theme_options.php:1765
+msgid "Apply opacity on out of stock product."
+msgstr "ใช้ความทึบของผลิตภัณฑ์ที่ไม่มีสต็อก"
+
+#: admin/theme_options.php:1781
+msgid "Shop/Category"
+msgstr "ช็อป / หมวดหมู่"
+
+#: admin/theme_options.php:1788
+msgid "Shop Page Layout"
+msgstr "เค้าโครงหน้าร้าน"
+
+#: admin/theme_options.php:1789
+msgid "Select shop page layout with sidebar postion."
+msgstr "เลือกการจัดวางหน้าร้านค้าที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:1810
+msgid "Select widget and display in sidebar on shop page."
+msgstr "เลือกวิดเจ็ตและแสดงในแถบด้านข้างในหน้าร้านค้า"
+
+#: admin/theme_options.php:1818
+msgid "Show Banner, Sub Categories & Brands"
+msgstr "แสดงแบนเนอร์หมวดหมู่ย่อยและแบรนด์"
+
+#: admin/theme_options.php:1819
+msgid "Show category banner, sub categories and brands on category page."
+msgstr "แสดงแบนเนอร์ประเภทย่อยและแบรนด์ในหน้าหมวดหมู่"
+
+#: admin/theme_options.php:1822
+msgid "Category Banner"
+msgstr "แบนเนอร์หมวดหมู่"
+
+#: admin/theme_options.php:1823
+msgid "Sub Category"
+msgstr "หมวดหมู่ย่อย"
+
+#: admin/theme_options.php:1824
+msgid "Category Brands"
+msgstr "หมวดหมู่"
+
+#: admin/theme_options.php:1831
+msgid "Sub Categories Style"
+msgstr "หมวดหมู่ย่อย"
+
+#: admin/theme_options.php:1832
+msgid "Only Sub Categories"
+msgstr "เฉพาะหมวดหมู่ย่อย"
+
+#: admin/theme_options.php:1832
+msgid "Sub Categories With Inner"
+msgstr "หมวดย่อยด้วย Inner"
+
+#: admin/theme_options.php:1838
+msgid "Show Product Category Description"
+msgstr "แสดงคำอธิบายประเภทผลิตภัณฑ์"
+
+#: admin/theme_options.php:1846
+msgid "Show Product Description Position"
+msgstr "แสดงตำแหน่งผลิตภัณฑ์ตำแหน่ง"
+
+#: admin/theme_options.php:1848 admin/theme_options.php:3495
+msgid "Top"
+msgstr "ด้านบน"
+
+#: admin/theme_options.php:1849 admin/theme_options.php:3496
+msgid "Bottom"
+msgstr "ล่าง"
+
+#: admin/theme_options.php:1857
+msgid "Product Layout Style"
+msgstr "รูปแบบ Layout ของผลิตภัณฑ์"
+
+#: admin/theme_options.php:1859
+msgid "Product Style 1"
+msgstr "ลักษณะผลิตภัณฑ์ 1"
+
+#: admin/theme_options.php:1860
+msgid "Product Style 2"
+msgstr "ลักษณะผลิตภัณฑ์ 2"
+
+#: admin/theme_options.php:1861
+msgid "Product Style 3"
+msgstr "ลักษณะผลิตภัณฑ์ 3"
+
+#: admin/theme_options.php:1868
+msgid "Product Image Hover Style"
+msgstr "รูปภาพสไตล์เลื่อนลอย"
+
+#: admin/theme_options.php:1869 admin/theme_options.php:1940 admin/theme_options.php:2621 admin/theme_options.php:2813 admin/theme_options.php:2851 inc/customizer.php:92
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: admin/theme_options.php:1869
+msgid "Image Switch"
+msgstr "สวิทช์ภาพ"
+
+#: admin/theme_options.php:1869
+msgid "Image Auto Play Slider"
+msgstr "ตัวเลื่อนอัตโนมัติเล่น"
+
+#: admin/theme_options.php:1869
+msgid "Image Slider"
+msgstr "เลื่อนภาพ"
+
+#: admin/theme_options.php:1875
+msgid "Show Products Per Row"
+msgstr "แสดงผลิตภัณฑ์ต่อแถว"
+
+#: admin/theme_options.php:1879
+msgid "6 (In full width)"
+msgstr "6 (เต็มความกว้าง)"
+
+#: admin/theme_options.php:1886
+msgid "Show Products Per Row In Mobile"
+msgstr "แสดงผลิตภัณฑ์ต่อแถวในโทรศัพท์มือถือ"
+
+#: admin/theme_options.php:1896
+msgid "Show Number Of Products Per Page"
+msgstr "แสดงจำนวนผลิตภัณฑ์ต่อหน้า"
+
+#: admin/theme_options.php:1903
+msgid "Show Grid/List View Button"
+msgstr "แสดงปุ่มมุมมอง / มุมมองรายการ"
+
+#: admin/theme_options.php:1911
+msgid "Enable Product View Style"
+msgstr "เปิดใช้งานรูปแบบมุมมองผลิตภัณฑ์"
+
+#: admin/theme_options.php:1914 admin/theme_options.php:1927
+msgid "Grid"
+msgstr "ตะแกรง"
+
+#: admin/theme_options.php:1915 admin/theme_options.php:1928
+msgid "Expand Grid"
+msgstr "ขยายตาราง"
+
+#: admin/theme_options.php:1916 admin/theme_options.php:1929
+msgid "List"
+msgstr "รายการ"
+
+#: admin/theme_options.php:1917 admin/theme_options.php:1930
+msgid "Thin List"
+msgstr "บางรายการ"
+
+#: admin/theme_options.php:1925
+msgid "Default Product View Style"
+msgstr "สไตล์ผลิตภัณฑ์เริ่มต้น"
+
+#: admin/theme_options.php:1938
+msgid "Products Pagination Style"
+msgstr "ผลิตภัณฑ์สไตล์ Pagination"
+
+#: admin/theme_options.php:1941 admin/theme_options.php:2622 admin/theme_options.php:2852
+msgid "Infinity Scroll"
+msgstr "สไลด์ Infinity"
+
+#: admin/theme_options.php:1942 admin/theme_options.php:2623 admin/theme_options.php:2853
+msgid "Load More Button"
+msgstr "โหลดปุ่มเพิ่มเติม"
+
+#: admin/theme_options.php:1943 admin/theme_options.php:2624 admin/theme_options.php:2854
+msgid "AJAX Pagination"
+msgstr "การแบ่งหน้า AJAX"
+
+#: admin/theme_options.php:1950 admin/theme_options.php:2631 admin/theme_options.php:2861
+msgid "Load More Button Text"
+msgstr "โหลดข้อความปุ่มเพิ่มเติม"
+
+#: admin/theme_options.php:1956
+msgid "Enable Lazy Load"
+msgstr "เปิดใช้งานโหลดขี้เกียจ"
+
+#: admin/theme_options.php:1957
+msgid "Enable lazy load product image."
+msgstr "เปิดใช้ภาพผลิตภัณฑ์ที่โหลดขี้เกียจ"
+
+#: admin/theme_options.php:1965
+msgid "Lazy Load Animation Style"
+msgstr "รูปแบบแอนิเมชั่โหลดแบบขี้เกียจ"
+
+#: admin/theme_options.php:1966
+msgid "Different styles of lazy load animation."
+msgstr "ลักษณะภาพเคลื่อนไหวที่โหลดขี้เกียจ"
+
+#: admin/theme_options.php:1974
+msgid "Show Products Per Page Dropdown"
+msgstr "แสดงผลิตภัณฑ์ต่อรายการแบบเลื่อนลงต่อหนึ่งหน้า"
+
+#: admin/theme_options.php:1975
+msgid "Show products per page dropdow on shop page."
+msgstr "แสดงผลิตภัณฑ์ต่อหน้า dropdow ในหน้าร้านค้า"
+
+#: admin/theme_options.php:1983
+msgid "Show Product Price"
+msgstr "แสดงราคาสินค้า"
+
+#: admin/theme_options.php:1991 admin/theme_options.php:2190
+msgid "Show Product Rating"
+msgstr "แสดงคะแนนผลิตภัณฑ์"
+
+#: admin/theme_options.php:1999
+msgid "Show Product Buttons"
+msgstr "แสดงปุ่มผลิตภัณฑ์"
+
+#: admin/theme_options.php:2000
+msgid "Show product buttons cart, wishlist, compare, quick view etc."
+msgstr "แสดงปุ่มผลิตภัณฑ์ตะกร้าสินค้าสิ่งที่ปรารถนาเปรียบเทียบดูรวดเร็ว ฯลฯ"
+
+#: admin/theme_options.php:2008
+msgid "Show Cart Button"
+msgstr "ปุ่มแสดงรถเข็น"
+
+#: admin/theme_options.php:2017
+msgid "Show Wishlist Button"
+msgstr "แสดงปุ่มรายการที่ชื่นชอบ"
+
+#: admin/theme_options.php:2026
+msgid "Show Compare Button"
+msgstr "แสดงปุ่มเปรียบเทียบ"
+
+#: admin/theme_options.php:2035
+msgid "Show Quick View Button"
+msgstr "แสดงปุ่มมุมมองด่วน"
+
+#: admin/theme_options.php:2044
+msgid "Show short Description"
+msgstr "แสดงคำอธิบายโดยย่อ"
+
+#: admin/theme_options.php:2052
+msgid "Show Product Variation(Options)"
+msgstr "แสดงรูปแบบผลิตภัณฑ์ (ตัวเลือก)"
+
+#: admin/theme_options.php:2053
+msgid "Show product variation(attribute) on product hover. Like Color, Size, ..."
+msgstr "แสดงรูปแบบผลิตภัณฑ์ (แอตทริบิวต์) ในผลิตภัณฑ์เลื่อนเมาส์ เช่นสีขนาด ..."
+
+#: admin/theme_options.php:2065
+msgid "Single Product"
+msgstr "ผลิตภัณฑ์เดี่ยว"
+
+#: admin/theme_options.php:2072
+msgid "Single Product Page Layout"
+msgstr "เค้าโครงหน้าผลิตภัณฑ์เดี่ยว"
+
+#: admin/theme_options.php:2073
+msgid "Select product page layout with sidebar postion."
+msgstr "เลือกเค้าโครงหน้าผลิตภัณฑ์ที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:2102 admin/theme_options.php:2341 admin/theme_options.php:2483 admin/theme_options.php:2765 admin/theme_options.php:3077
+msgid "Select Sidebar Widget Area"
+msgstr "เลือก Widget Area"
+
+#: admin/theme_options.php:2103
+msgid "Select widget and display in sidebar on single product page."
+msgstr "เลือกวิดเจ็ตและแสดงในแถบด้านข้างในหน้าผลิตภัณฑ์เดียว"
+
+#: admin/theme_options.php:2111
+msgid "Product Image Zoom"
+msgstr "การขยายภาพผลิตภัณฑ์"
+
+#: admin/theme_options.php:2119
+msgid "Sticky Product Image Part"
+msgstr "ส่วนภาพผลิตภัณฑ์ที่มีสติ"
+
+#: admin/theme_options.php:2120
+msgid "When you scroll the product page at this time you want to stick product image part or not."
+msgstr "เมื่อคุณเลื่อนหน้าผลิตภัณฑ์ไปในเวลานี้คุณต้องการติดส่วนภาพผลิตภัณฑ์หรือไม่"
+
+#: admin/theme_options.php:2128
+msgid "Sticky Product Summary Part"
+msgstr "ส่วนสรุปข้อมูลผลิตภัณฑ์ยอดนิยม"
+
+#: admin/theme_options.php:2129
+msgid "When you scroll the product page at this time you want to stick product summary part or not."
+msgstr "เมื่อคุณเลื่อนหน้าผลิตภัณฑ์ไปในขณะนี้คุณต้องการแนบส่วนสรุปผลิตภัณฑ์หรือไม่"
+
+#: admin/theme_options.php:2146
+msgid "Show Product Highlight Label Sale"
+msgstr "แสดงผลิตภัณฑ์เน้นการขายป้ายโฆษณา"
+
+#: admin/theme_options.php:2155
+msgid "Show Product Highlight Label Featured"
+msgstr "แสดงผลิตภัณฑ์เด่นป้ายจุดเด่น"
+
+#: admin/theme_options.php:2164
+msgid "Show Product Highlight Label New"
+msgstr "แสดงผลิตภัณฑ์ไฮไลต์ป้ายสินค้าใหม่"
+
+#: admin/theme_options.php:2173
+msgid "Show Product Highlight Label Out Of Stock"
+msgstr "แสดงผลิตภัณฑ์เน้นฉลากสินค้าหมด"
+
+#: admin/theme_options.php:2182
+msgid "Show Product Next/Previous Navigation"
+msgstr "แสดงผลิตภัณฑ์การนำทางถัดไป / ก่อนหน้า"
+
+#: admin/theme_options.php:2198
+msgid "Show Product CountDown"
+msgstr "แสดงผลิตภัณฑ์นับถอยหลัง"
+
+#: admin/theme_options.php:2206
+msgid "Show Size Guide"
+msgstr "แสดงคู่มือขนาด"
+
+#: admin/theme_options.php:2215
+msgid "Choose Size Guide Image"
+msgstr "เลือกภาพคำแนะนำขนาด"
+
+#: admin/theme_options.php:2223
+msgid "Show Product Meta"
+msgstr "แสดงผลิตภัณฑ์ Meta"
+
+#: admin/theme_options.php:2224
+msgid "Show or hide product brand, category, tag, etc..."
+msgstr "แสดงหรือซ่อนแบรนด์ผลิตภัณฑ์หมวดหมู่แท็ก ฯลฯ ..."
+
+#: admin/theme_options.php:2232
+msgid "Show Specific Product Meta"
+msgstr "แสดงเฉพาะผลิตภัณฑ์ Meta"
+
+#: admin/theme_options.php:2235
+msgid "Brand"
+msgstr "ยี่ห้อ"
+
+#: admin/theme_options.php:2236
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/theme_options.php:2237 single-portfolio.php:87
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: admin/theme_options.php:2238
+msgid "Tag"
+msgstr "แท็ก"
+
+#: admin/theme_options.php:2246
+msgid "Show Related Products"
+msgstr "แสดงผลิตภัณฑ์ที่เกี่ยวข้อง"
+
+#: admin/theme_options.php:2254
+msgid "Show Up Sell Products"
+msgstr "แสดงสินค้าขาย"
+
+#: admin/theme_options.php:2262
+msgid "Show Number Of Related/Up Sell Products"
+msgstr "แสดงจำนวนสินค้าที่เกี่ยวข้อง / ขาย"
+
+#: admin/theme_options.php:2269
+msgid "Select Related/Up Sell Products Show Per Row"
+msgstr "เลือกผลิตภัณฑ์ที่เกี่ยวข้อง / ขายสินค้าแสดงต่อแถว"
+
+#: admin/theme_options.php:2276 admin/theme_options.php:2684 admin/theme_options.php:2928
+msgid "Enable Carousel Autoplay Mode"
+msgstr "เปิดใช้โหมดเล่นอัตโนมัติใน Carousel"
+
+#: admin/theme_options.php:2284 admin/theme_options.php:2937
+msgid "Enables Carousel Inifnity Loop"
+msgstr "เปิดใช้งาน Inifnity Loop ของ Carousel"
+
+#: admin/theme_options.php:2285
+msgid "Enables related/up sell products carousel Inifnity loop. Duplicate last and first products to get loop illusion."
+msgstr "เปิดใช้งาน Inifnity loop ที่เกี่ยวข้อง / ขายผลิตภัณฑ์ ทำซ้ำผลิตภัณฑ์ครั้งสุดท้ายและครั้งแรกเพื่อรับภาพลวงตาของวง"
+
+#: admin/theme_options.php:2293 admin/theme_options.php:2693 admin/theme_options.php:2947
+msgid "Show Carousel Navigation"
+msgstr "นำทาง Carousel Navigation"
+
+#: admin/theme_options.php:2301 admin/theme_options.php:2956
+msgid "Show Carousel Dots Navigation"
+msgstr "แสดงการนำเสนอจุดหมุนของม้าหมุน"
+
+#: admin/theme_options.php:2313
+msgid "Dokan"
+msgstr "Dokan"
+
+#: admin/theme_options.php:2320
+msgid "Dokan Store Page Layout"
+msgstr "เค้าโครงหน้าร้าน Dokan"
+
+#: admin/theme_options.php:2321
+msgid "Select dokan store page layout with sidebar postion."
+msgstr "เลือกเค้าโครงหน้าร้าน dokan ที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:2342
+msgid "Select widget area and display in sidebar on dokan store page."
+msgstr "เลือกพื้นที่วิดเจ็ตและแสดงในแถบด้านข้างบนหน้าร้าน dokan"
+
+#: admin/theme_options.php:2354
+msgid "WC Vendors"
+msgstr "WC Vendors"
+
+#: admin/theme_options.php:2361
+msgid "Show Sold By Label"
+msgstr "แสดงขายตามป้ายกำกับ"
+
+#: admin/theme_options.php:2362
+msgid "Show sold by label or not on product."
+msgstr "แสดงขายโดยฉลากหรือไม่อยู่ในผลิตภัณฑ์"
+
+#: admin/theme_options.php:2374 content-page.php:33 content.php:62 image.php:62 page.php:52
+msgid "Page"
+msgstr "หน้า"
+
+#: admin/theme_options.php:2381
+msgid "Show Page Comment"
+msgstr "แสดงความคิดเห็นหน้า"
+
+#: admin/theme_options.php:2382
+msgid "Show page comments and comment form or not."
+msgstr "แสดงความคิดเห็นของเพจและแบบแสดงความคิดเห็นหรือไม่"
+
+#: admin/theme_options.php:2394 inc/meta-boxes.php:242 inc/meta-boxes.php:284
+msgid "Sidebar Widget"
+msgstr "Widget ของแถบด้านข้าง"
+
+#: admin/theme_options.php:2401
+msgid "Enable Widget Toggle"
+msgstr "เปิดใช้ Widget Toggle"
+
+#: admin/theme_options.php:2402
+msgid "Enable page widget toggle or not."
+msgstr "เปิดใช้งานวิดเจ็ตเพจสลับหรือไม่"
+
+#: admin/theme_options.php:2410
+msgid "Enable Widget Menu Toggle"
+msgstr "เปิดใช้งานเมนูวิดเจ็ตสลับ"
+
+#: admin/theme_options.php:2411
+msgid "Enable page widget menu toggle or not."
+msgstr "เปิดใช้งานวิดเจ็ตเมนูสลับหรือไม่"
+
+#: admin/theme_options.php:2419
+msgid "Enable Widget Items Hide"
+msgstr "เปิดใช้วิดเจ็ตรายการซ่อน"
+
+#: admin/theme_options.php:2420
+msgid "Enable widget items hide max limit."
+msgstr "เปิดใช้งานวิดเจ็ตซ่อนขีด จำกัด สูงสุด"
+
+#: admin/theme_options.php:2428
+msgid "Show Number Of Widget Items"
+msgstr "แสดงจำนวนของวิดเจ็ต"
+
+#: admin/theme_options.php:2443
+msgid "Blog"
+msgstr "บล็อกของ"
+
+#: admin/theme_options.php:2455
+msgid "Blog/Archive Page"
+msgstr "หน้า Blog / Archive"
+
+#: admin/theme_options.php:2462
+msgid "Select Blog Page Layout"
+msgstr "เลือกเค้าโครงหน้าเว็บบล็อก"
+
+#: admin/theme_options.php:2463
+msgid "Select blog/archive page layout with sidebar postion."
+msgstr "เลือกเค้าโครงหน้าบล็อก / ที่เก็บข้อมูลที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:2491
+msgid "Show Blog Page Breadcrumb"
+msgstr "แสดงบล็อกหน้า Breadcrumb"
+
+#: admin/theme_options.php:2499
+msgid "Show Blog Page Title"
+msgstr "แสดงชื่อหน้าบล็อก"
+
+#: admin/theme_options.php:2507
+msgid "Select Blog Style"
+msgstr "เลือกสไตล์ Blog"
+
+#: admin/theme_options.php:2508
+msgid "Large Image"
+msgstr "รูปภาพขนาดใหญ่"
+
+#: admin/theme_options.php:2508
+msgid "Small Image"
+msgstr "รูปภาพขนาดเล็ก"
+
+#: admin/theme_options.php:2508
+msgid "Grid Column (Masonry Grid)"
+msgstr "ตารางกริด (ตารางก่ออิฐ)"
+
+#: admin/theme_options.php:2514 admin/theme_options.php:2534
+msgid "Select Blog Grid Columns"
+msgstr "เลือกคอลัมน์ Blog Grid"
+
+#: admin/theme_options.php:2515 admin/theme_options.php:2535
+msgid "Show blog grid column of the post/blog page. Column option apply only on above masorny grid column option."
+msgstr "แสดงคอลัมน์ตารางบล็อกของหน้าโพสต์ / บล็อก ตัวเลือกคอลัมน์จะใช้เฉพาะกับตัวเลือกคอลัมน์ตารางคอลัมน์ masorny เท่านั้น"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2828 admin/theme_options.php:3036
+msgid "2 Columns"
+msgstr "2 คอลัมน์"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2829 admin/theme_options.php:3037
+msgid "3 Columns"
+msgstr "3 คอลัมน์"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:3038
+msgid "4 Columns (In Full Width)"
+msgstr "4 คอลัมน์ (กว้างเต็ม)"
+
+#: admin/theme_options.php:2523
+msgid "Show Post Per Page"
+msgstr "แสดงโพสต์ต่อหน้า"
+
+#: admin/theme_options.php:2524
+msgid "Show number of post per page."
+msgstr "แสดงจำนวนโพสต์ต่อหน้า"
+
+#: admin/theme_options.php:2543
+msgid "Show Blogs Thumbnail"
+msgstr "แสดงรูปขนาดย่อของบล็อก"
+
+#: admin/theme_options.php:2544
+msgid "Show blogs thumbnail or not."
+msgstr "แสดงภาพขนาดย่อของบล็อกหรือไม่"
+
+#: admin/theme_options.php:2552
+msgid "Show Blogs Date"
+msgstr "แสดงบล็อกวันที่"
+
+#: admin/theme_options.php:2560
+msgid "Show Blogs Meta"
+msgstr "แสดงบล็อก Meta"
+
+#: admin/theme_options.php:2568
+msgid "Show Specific Post Meta"
+msgstr "แสดงเฉพาะบทความ Meta"
+
+#: admin/theme_options.php:2571
+msgid "Post Format"
+msgstr "รูปแบบการโพสต์"
+
+#: admin/theme_options.php:2572
+msgid "Post Author"
+msgstr "โพสต์ผู้แต่ง"
+
+#: admin/theme_options.php:2573
+msgid "Post Cats"
+msgstr "โพสต์แมว"
+
+#: admin/theme_options.php:2574
+msgid "Post Tags"
+msgstr "แท็กโพสต์"
+
+#: admin/theme_options.php:2575
+msgid "Comments"
+msgstr "ความคิดเห็น"
+
+#: admin/theme_options.php:2584
+msgid "Show Excerpt"
+msgstr "แสดงส่วนที่ตัดตอนมา"
+
+#: admin/theme_options.php:2592
+msgid "Excerpt Length (words)"
+msgstr "ข้อความที่ตัดตอนมา (ความยาว)"
+
+#: admin/theme_options.php:2593
+msgid "Show blogs listing content length (words)."
+msgstr "แสดงบล็อกที่ระบุความยาวเนื้อหา (คำ)"
+
+#: admin/theme_options.php:2604
+msgid "Show Read More Button"
+msgstr "แสดงปุ่มอ่านเพิ่มเติม"
+
+#: admin/theme_options.php:2612
+msgid "Read More Button Text"
+msgstr "ข้อความปุ่มอ่านต่อ"
+
+#: admin/theme_options.php:2613 admin/theme_options.php:3377
+msgid "Read more"
+msgstr "อ่านเพิ่มเติม"
+
+#: admin/theme_options.php:2619
+msgid "Select Pagination Style Of Blog Page"
+msgstr "เลือกสไตล์การจัดรูปแบบของหน้า Blog"
+
+#: admin/theme_options.php:2632 admin/theme_options.php:2862 inc/theme-function.php:1341 inc/theme-function.php:1392
+msgid "Load More"
+msgstr "โหลดเพิ่มเติม"
+
+#: admin/theme_options.php:2643
+msgid "Single Post"
+msgstr "โพสต์เดี่ยว"
+
+#: admin/theme_options.php:2650
+msgid "Show Post Thumbnail"
+msgstr "แสดงรูปย่อโพสต์"
+
+#: admin/theme_options.php:2651
+msgid "Show post thumbnail or not."
+msgstr "แสดงภาพขนาดย่อของโพสต์หรือไม่"
+
+#: admin/theme_options.php:2659
+msgid "Show Post Navigation"
+msgstr "แสดงการนำทางโพสต์"
+
+#: admin/theme_options.php:2667
+msgid "Show Related Post"
+msgstr "แสดงโพสต์ที่เกี่ยวข้อง"
+
+#: admin/theme_options.php:2675
+msgid "Show Post Per Row"
+msgstr "แสดงโพสต์ต่อแถว"
+
+#: admin/theme_options.php:2676
+msgid "Show number of post per row."
+msgstr "แสดงจำนวนโพสต์ต่อแถว"
+
+#: admin/theme_options.php:2702
+msgid "Enable Carousel loop"
+msgstr "เปิดใช้งานวงกลม Carousel"
+
+#: admin/theme_options.php:2703
+msgid "Enable blog carousel continue loop."
+msgstr "เปิดใช้งานบล็อกเกอร์หมุนวนต่อไป"
+
+#: admin/theme_options.php:2712
+msgid "Show Post Comment"
+msgstr "แสดงความคิดเห็นโพสต์"
+
+#: admin/theme_options.php:2713
+msgid "Show post comments and comment form or not."
+msgstr "แสดงความคิดเห็นโพสต์และแบบแสดงความคิดเห็นหรือไม่"
+
+#: admin/theme_options.php:2725
+msgid "Portfolio"
+msgstr "ผลงาน"
+
+#: admin/theme_options.php:2737
+msgid "Portfolio Archive"
+msgstr "คลังผลงาน"
+
+#: admin/theme_options.php:2744
+msgid "Select Archive Page Layout"
+msgstr "เลือกเค้าโครงหน้าคลัง"
+
+#: admin/theme_options.php:2745
+msgid "Select portfolio archive page layout with sidebar postion."
+msgstr "เลือกเค้าโครงหน้าคลังสะสมที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:2789
+msgid "Portfolio Listing Style"
+msgstr "รูปแบบ Portfolio Portfolio"
+
+#: admin/theme_options.php:2791
+msgid "Portfolio Grid"
+msgstr "Portfolio Grid"
+
+#: admin/theme_options.php:2799
+msgid "Portfolio Grid Style"
+msgstr "สไตล์พอร์ตการลงทุน"
+
+#: admin/theme_options.php:2801
+msgid "Normal Grid"
+msgstr "ตารางปกติ"
+
+#: admin/theme_options.php:2802
+msgid "Masonry Grid"
+msgstr "ตารางก่ออิฐ"
+
+#: admin/theme_options.php:2810
+msgid "Grid Hover Effect"
+msgstr "เอฟเฟกต์ Hover Grid Hover"
+
+#: admin/theme_options.php:2811
+msgid "Select portfolio grid hover effect."
+msgstr "เลือกผลการเลื่อนกริดของผลงาน"
+
+#: admin/theme_options.php:2814
+msgid "Effect 2"
+msgstr "ผล"
+
+#: admin/theme_options.php:2815
+msgid "Effect 3"
+msgstr "ผล"
+
+#: admin/theme_options.php:2816
+msgid "Effect 4"
+msgstr "ผล"
+
+#: admin/theme_options.php:2817
+msgid "Effect 5"
+msgstr "ผล"
+
+#: admin/theme_options.php:2825
+msgid "Select Portfolio Columns"
+msgstr "เลือก Portfolio Columns"
+
+#: admin/theme_options.php:2827
+msgid "1 Column"
+msgstr "คอลัมน์"
+
+#: admin/theme_options.php:2830
+msgid "4 Columns"
+msgstr "4 คอลัมน์"
+
+#: admin/theme_options.php:2838
+msgid "Show Portfolio Per Page"
+msgstr "แสดงผลงานต่อหน้า"
+
+#: admin/theme_options.php:2839
+msgid "Show number of portfolio per page."
+msgstr "แสดงจำนวนพอร์ตต่อหนึ่งหน้า"
+
+#: admin/theme_options.php:2849
+msgid "Pagination Type"
+msgstr "ประเภทการกำหนดหน้าเว็บ"
+
+#: admin/theme_options.php:2872
+msgid "Single Portfolio"
+msgstr "ผลงานเดี่ยว"
+
+#: admin/theme_options.php:2879
+msgid "Show Project Navigation"
+msgstr "แสดงการนำทางโครงการ"
+
+#: admin/theme_options.php:2887
+msgid "Show Project Informations"
+msgstr "แสดงข้อมูลโครงการ"
+
+#: admin/theme_options.php:2895 admin/theme_options.php:3243
+msgid "Show Social Share Links"
+msgstr "แสดงลิงก์แชร์ทางสังคม"
+
+#: admin/theme_options.php:2903
+msgid "Show Related Projects"
+msgstr "แสดงโครงการที่เกี่ยวข้อง"
+
+#: admin/theme_options.php:2911
+msgid "Show Number Of Projects"
+msgstr "แสดงจำนวนโครงการ"
+
+#: admin/theme_options.php:2912
+msgid "Show number of related projects"
+msgstr "แสดงจำนวนโครงการที่เกี่ยวข้อง"
+
+#: admin/theme_options.php:2920
+msgid "Show Projects Per Row"
+msgstr "แสดงโปรเจ็กต์ต่อแถว"
+
+#: admin/theme_options.php:2938
+msgid "Enables portfolios carousel Inifnity loop. Duplicate last and first projects to get loop illusion."
+msgstr "เปิดใช้งาน Inifnity loop ของกลุ่มการผลิต ทำซ้ำโครงการสุดท้ายและครั้งแรกเพื่อให้ได้ภาพลวงตาวง"
+
+#: admin/theme_options.php:2969
+msgid "Testimonial"
+msgstr "ใบรับรอง"
+
+#: admin/theme_options.php:2981
+msgid "Testimonial Archive"
+msgstr "คลังเอกสารรับรอง"
+
+#: admin/theme_options.php:2988 admin/theme_options.php:3056
+msgid "Select Page Layout"
+msgstr "เลือกเค้าโครงหน้าเว็บ"
+
+#: admin/theme_options.php:2989 admin/theme_options.php:3057
+msgid "Select page layout with sidebar postion."
+msgstr "เลือกเค้าโครงหน้าเว็บที่มีตำแหน่งด้านข้าง"
+
+#: admin/theme_options.php:3010
+msgid "Select widget display in sidebar on testimonial archive page."
+msgstr "เลือกวิดเจ็ตที่แสดงในแถบด้านข้างของหน้าเอกสารรับรอง"
+
+#: admin/theme_options.php:3034
+msgid "Select Testimonial Column"
+msgstr "เลือกคอลัมน์ข้อความรับรอง"
+
+#: admin/theme_options.php:3049
+msgid "Single Testimonial"
+msgstr "รับรองเดียว"
+
+#: admin/theme_options.php:3078
+msgid "Select widget display in sidebar on testimonial page."
+msgstr "เลือกวิดเจ็ตที่แสดงในแถบด้านข้างในหน้ารับรอง"
+
+#: admin/theme_options.php:3106
+msgid "404 Page"
+msgstr "หน้า"
+
+#: admin/theme_options.php:3113
+msgid "Use Text Or Image"
+msgstr "ใช้ข้อความหรือรูปภาพ"
+
+#: admin/theme_options.php:3114
+msgid "What a show on 404 page? Text or Image."
+msgstr "อะไรแสดงบนหน้า 404? ข้อความหรือรูปภาพ"
+
+#: admin/theme_options.php:3124
+msgid "404 Page Title"
+msgstr "ชื่อหน้า 404"
+
+#: admin/theme_options.php:3131
+msgid "Show Previous Page Link"
+msgstr "แสดงลิงค์ของหน้าก่อนหน้า"
+
+#: admin/theme_options.php:3140
+msgid "404 Page Tag Line"
+msgstr "บรรทัดแท็กหน้า 404"
+
+#: admin/theme_options.php:3147
+msgid "Previous Page Link Title"
+msgstr "ชื่อลิงก์ก่อนหน้า"
+
+#: admin/theme_options.php:3155
+msgid "404 Page Image"
+msgstr "รูปภาพของหน้า:"
+
+#: admin/theme_options.php:3157
+msgid "Upload 404 page image and show on 404 page."
+msgstr "อัปโหลดภาพหน้า 404 และแสดงในหน้า 404"
+
+#: admin/theme_options.php:3168
+msgid "Social Link/Share"
+msgstr "Social Link / Share"
+
+#: admin/theme_options.php:3176
+msgid "Show or Hide Social link Icon on Header And Footer"
+msgstr "แสดงหรือซ่อนไอคอนลิงก์สังคมในส่วนหัวและท้ายกระดาษ"
+
+#: admin/theme_options.php:3181
+msgid "Facebook"
+msgstr "เฟสบุ๊ค"
+
+#: admin/theme_options.php:3182
+msgid "Enter your custom link to show the facebook icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน facebook เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3188
+msgid "Twitter"
+msgstr "ทวิตเตอร์"
+
+#: admin/theme_options.php:3189
+msgid "Enter your custom link to show the twitter icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน twitter เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3195
+msgid "Instagram"
+msgstr "อินสตาแกรม"
+
+#: admin/theme_options.php:3196
+msgid "Enter your custom link to show the instagram icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน instagram เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3202
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/theme_options.php:3203
+msgid "Enter your custom link to show the linkedin icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน linkedin เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3209
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/theme_options.php:3210
+msgid "Enter your custom link to show the flickr icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน flickr เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3216
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/theme_options.php:3217
+msgid "Enter your custom link to show the google plus icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน google plus เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3223
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/theme_options.php:3224
+msgid "Enter your custom link to show the rss icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน rss เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3230
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme_options.php:3231
+msgid "Enter your custom link to show the pinterest icon. Leave blank to hide icon."
+msgstr "ป้อนลิงก์ที่กำหนดเองเพื่อแสดงไอคอน pinterest เว้นว่างไว้เพื่อซ่อนไอคอน"
+
+#: admin/theme_options.php:3238
+msgid "Show or Hide Social Sharing Icon on Product, Post and Portfolio"
+msgstr "แสดงหรือซ่อนไอคอนการแบ่งปันทางสังคมในผลิตภัณฑ์โพสต์และผลงาน"
+
+#: admin/theme_options.php:3251
+msgid "Social Sharing Style"
+msgstr "สไตล์การแบ่งปันทางสังคม"
+
+#: admin/theme_options.php:3253
+msgid "Style 1"
+msgstr "สไตล์ 1"
+
+#: admin/theme_options.php:3254
+msgid "Style 2"
+msgstr "สไตล์ 2"
+
+#: admin/theme_options.php:3262
+msgid "Facebook Icon"
+msgstr "ไอคอน Facebook"
+
+#: admin/theme_options.php:3271
+msgid "Twitter Icon"
+msgstr "ไอคอน Twitter"
+
+#: admin/theme_options.php:3280
+msgid "Linkedin Icon"
+msgstr "ไอคอน Linkedin"
+
+#: admin/theme_options.php:3289
+msgid "Google Plus Icon"
+msgstr "ไอคอน Google Plus"
+
+#: admin/theme_options.php:3298
+msgid "StumbleUpon Icon"
+msgstr "ไอคอน StumbleUpon"
+
+#: admin/theme_options.php:3307
+msgid "Pinterest Icon"
+msgstr "ไอคอน Pinterest"
+
+#: admin/theme_options.php:3316
+msgid "Tumblr Icon"
+msgstr "ไอคอน Tumblr"
+
+#: admin/theme_options.php:3329
+msgid "Cookie Notice"
+msgstr "ประกาศเกี่ยวกับคุกกี้"
+
+#: admin/theme_options.php:3336
+msgid "Cookie Enable or Disable."
+msgstr "เปิดใช้งานคุกกี้หรือปิดการใช้งาน"
+
+#: admin/theme_options.php:3339
+msgid "Cookie notice enable or disable in your site."
+msgstr "มีการเปิดใช้งานหรือปิดใช้งานการแจ้งเตือนคุกกี้ในไซต์ของคุณ"
+
+#: admin/theme_options.php:3346
+msgid "Enter the cookie title/name."
+msgstr "ป้อนชื่อ / ชื่อคุกกี้"
+
+#: admin/theme_options.php:3347
+msgid "Cookies Notice"
+msgstr "ประกาศเกี่ยวกับคุกกี้"
+
+#: admin/theme_options.php:3352
+msgid "Message"
+msgstr "ข้อความ"
+
+#: admin/theme_options.php:3353
+msgid "Enter the cookie notice message."
+msgstr "ป้อนข้อความแจ้งเตือนคุกกี้"
+
+#: admin/theme_options.php:3354
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "เราใช้คุกกี้เพื่อให้มั่นใจว่าเราจะมอบประสบการณ์ที่ดีที่สุดในเว็บไซต์ของเรา หากคุณยังคงใช้เว็บไซต์นี้ต่อไปเราจะถือว่าคุณพอใจกับเรื่องนี้"
+
+#: admin/theme_options.php:3359
+msgid "Button text"
+msgstr "ข้อความปุ่ม"
+
+#: admin/theme_options.php:3360
+msgid "The text of the option to accept the usage of the cookies and make the notification disappear."
+msgstr "ข้อความของตัวเลือกในการยอมรับการใช้คุกกี้และทำให้การแจ้งเตือนหายไป"
+
+#: admin/theme_options.php:3361
+msgid "Yes, I'm Accept"
+msgstr "ใช่ฉันยอมรับ"
+
+#: admin/theme_options.php:3366
+msgid "More info link"
+msgstr "ลิงก์ข้อมูลเพิ่มเติม"
+
+#: admin/theme_options.php:3369
+msgid "Enable Read more link."
+msgstr "เปิดใช้งานลิงก์อ่านเพิ่มเติม"
+
+#: admin/theme_options.php:3376
+msgid "The text of the more info button."
+msgstr "ข้อความของปุ่มข้อมูลเพิ่มเติม"
+
+#: admin/theme_options.php:3384
+msgid "Select where to redirect user for more information about cookies."
+msgstr "เลือกตำแหน่งที่จะเปลี่ยนเส้นทางผู้ใช้สำหรับข้อมูลเพิ่มเติมเกี่ยวกับคุกกี้"
+
+#: admin/theme_options.php:3386
+msgid "Custom link"
+msgstr "ลิงก์ที่กำหนดเอง"
+
+#: admin/theme_options.php:3387
+msgid "Page link"
+msgstr "ลิงก์ของหน้า:"
+
+#: admin/theme_options.php:3396
+msgid "Enter the full URL starting with http://"
+msgstr "ป้อน URL แบบเต็มโดยเริ่มต้นด้วย http: //"
+
+#: admin/theme_options.php:3406
+msgid "Select from one of your site's pages"
+msgstr "เลือกจากหน้าเว็บในไซต์ของคุณ"
+
+#: admin/theme_options.php:3412
+msgid "Link target"
+msgstr "เชื่อมโยงเป้าหมาย"
+
+#: admin/theme_options.php:3413 admin/theme_options.php:3466
+msgid "Select the link target for more info page."
+msgstr "เลือกเป้าหมาย link สำหรับหน้าข้อมูลเพิ่มเติม"
+
+#: admin/theme_options.php:3423
+msgid "Refuse button"
+msgstr "ปุ่มปฏิเสธ"
+
+#: admin/theme_options.php:3426
+msgid "Give to the user the possibility to refuse third party non functional cookies."
+msgstr "ให้สิทธิ์แก่ผู้ใช้ในการปฏิเสธคุกกี้ที่ไม่ใช่หน้าที่ของบุคคลที่สาม"
+
+#: admin/theme_options.php:3433
+msgid "The text of the option to refuse the usage of the cookies. To get the cookie notice status use emallshop_cn_cookies_accepted() function."
+msgstr "ข้อความของตัวเลือกในการปฏิเสธการใช้งานคุกกี้ หากต้องการรับสถานะการแจ้งเตือนคุกกี้ให้ใช้ฟังก์ชัน emallshop_cn_cookies_accepted ()"
+
+#: admin/theme_options.php:3441
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs). It will be used after cookies are accepted."
+msgstr "ใส่โค้ดคุกกี้ที่ไม่ใช่ฟังก์ชันทำงานได้ที่นี่ (เช่น Google Analitycs) จะใช้หลังจากยอมรับคุกกี้แล้ว"
+
+#: admin/theme_options.php:3448
+msgid "On scroll"
+msgstr "เมื่อเลื่อน"
+
+#: admin/theme_options.php:3451
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr "เปิดใช้การแจ้งเตือนคุกกี้เมื่อผู้ใช้เลื่อนดู"
+
+#: admin/theme_options.php:3458
+msgid "Number of pixels user has to scroll to accept the usage of the cookies and make the notification disappear."
+msgstr "จำนวนพิกเซลผู้ใช้ต้องเลื่อนเพื่อยอมรับการใช้คุกกี้และทำให้การแจ้งเตือนหายไป"
+
+#: admin/theme_options.php:3465
+msgid "Cookie expiry"
+msgstr "คุกกี้หมดอายุ"
+
+#: admin/theme_options.php:3468
+msgid "1 day"
+msgstr "1 วัน"
+
+#: admin/theme_options.php:3469
+msgid "1 week"
+msgstr "สัปดาห์"
+
+#: admin/theme_options.php:3470
+msgid "1 month"
+msgstr "//Month"
+
+#: admin/theme_options.php:3471
+msgid "3 months"
+msgstr "เดือน"
+
+#: admin/theme_options.php:3472
+msgid "6 months"
+msgstr "เดือน"
+
+#: admin/theme_options.php:3473
+msgid "1 year"
+msgstr "มากกว่า 9 ปี"
+
+#: admin/theme_options.php:3474
+msgid "infinity"
+msgstr "ระยะอนันต์"
+
+#: admin/theme_options.php:3481
+msgid "Script placement"
+msgstr "ตำแหน่งสคริปต์"
+
+#: admin/theme_options.php:3482
+msgid "Select where all the plugin scripts should be placed."
+msgstr "เลือกตำแหน่งสคริปต์ปลั๊กอินทั้งหมดที่ควรวางไว้"
+
+#: admin/theme_options.php:3492
+msgid "Position"
+msgstr "ตำแหน่ง:"
+
+#: admin/theme_options.php:3493
+msgid "Select location for your cookie notice."
+msgstr "เลือกตำแหน่งสำหรับการแจ้งเตือนเรื่องคุกกี้ของคุณ"
+
+#: admin/theme_options.php:3503
+msgid "Cookie Style"
+msgstr "สไตล์คุกกี้"
+
+#: admin/theme_options.php:3504
+msgid "Select style of cookie notice on bottom."
+msgstr "เลือกรูปแบบการแจ้งเตือนคุกกี้ที่ด้านล่าง"
+
+#: admin/theme_options.php:3506
+msgid "Bar"
+msgstr "บาร์"
+
+#: admin/theme_options.php:3507
+msgid "Box"
+msgstr "กล่อง 1."
+
+#: admin/theme_options.php:3521
+msgid "Bar Background Color"
+msgstr "สีพื้นหลังของแถบ"
+
+#: admin/theme_options.php:3531 templates/footer/footer-2.php:16
+msgid "Newsletter"
+msgstr "ข่าวสาร"
+
+#: admin/theme_options.php:3538
+msgid "Newsletter Enable or Disable."
+msgstr "เปิดใช้งานหรือปิดใช้งานจดหมายข่าว"
+
+#: admin/theme_options.php:3541
+msgid "Newsletter popup enable or disable in your site."
+msgstr "เปิดใช้งานหรือปิดใช้งานจดหมายข่าวในไซต์ของคุณ"
+
+#: admin/theme_options.php:3548
+msgid "Newsletter Logo"
+msgstr "โลโก้จดหมายข่าว"
+
+#: admin/theme_options.php:3550
+msgid "Upload newsletter logo."
+msgstr "อัปโหลดโลโก้จดหมายข่าว"
+
+#: admin/theme_options.php:3557
+msgid "Newsletter Title"
+msgstr "ชื่อจดหมายข่าว"
+
+#: admin/theme_options.php:3558
+msgid "Join Us Now!"
+msgstr "เข้าร่วมกับเราแล้ว!"
+
+#: admin/theme_options.php:3564
+msgid "Newsletter Tag Line"
+msgstr "บรรทัดแท็กจดหมาย"
+
+#: admin/theme_options.php:3565
+msgid "Signup today for free and be the first to hear of special promotions, new arrivals and designer news."
+msgstr "ลงทะเบียนฟรีในวันนี้และเป็นคนแรกที่ได้ยินเกี่ยวกับโปรโมชั่นพิเศษขาเข้าใหม่และข่าวดีไซน์เนอร์"
+
+#: admin/theme_options.php:3571
+msgid "Newsletter Don't Show Msg"
+msgstr "จดหมายข่าวไม่แสดงข่าวสาร"
+
+#: admin/theme_options.php:3572
+msgid "Don't show this popup again"
+msgstr "ไม่ต้องแสดงข้อความนี้อีก"
+
+#: admin/theme_options.php:3579
+msgid "Newsletter background with image, color, etc."
+msgstr "พื้นหลังจดหมายข่าวที่มีรูปภาพสี ฯลฯ"
+
+#: admin/theme_options.php:3593
+msgid "Newsletter Color"
+msgstr "สีจดหมายข่าว"
+
+#: admin/theme_options.php:3600
+msgid "Newsletter Button Color"
+msgstr "สีปุ่มจดหมายข่าว"
+
+#: admin/theme_options.php:3611
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+#: admin/theme_options.php:3618
+msgid "Site Loader Enable or Disable."
+msgstr "เปิดใช้งานหรือปิดใช้งานตัวโหลดไซต์"
+
+#: admin/theme_options.php:3621
+msgid "Site loader enable or disable in your site."
+msgstr "ตัวโหลดไซต์เปิดหรือปิดใช้งานในไซต์ของคุณ"
+
+#: admin/theme_options.php:3627
+msgid "Site Loading Image"
+msgstr "ไซต์กำลังโหลดรูปภาพ"
+
+#: admin/theme_options.php:3628
+msgid "Choose one of the pre-defined Loading Image or choose custom one."
+msgstr "เลือกรูปภาพที่โหลดไว้ล่วงหน้าหรือเลือกแบบกำหนดเอง"
+
+#: admin/theme_options.php:3639
+msgid "Site Loader Image"
+msgstr "ภาพ Loader ไซต์"
+
+#: admin/theme_options.php:3657
+msgid "Choose your Loading Image"
+msgstr "เลือกภาพการโหลดของคุณ"
+
+#: admin/theme_options.php:3659
+msgid "Choose your own loading image."
+msgstr "เลือกภาพการโหลดของคุณเอง"
+
+#: admin/theme_options.php:3666
+msgid "Pagination Loading Image"
+msgstr "Pagination กำลังโหลดรูปภาพ"
+
+#: admin/theme_options.php:3694
+msgid "Image Lazy Load Enable or Disable."
+msgstr "เปิดใช้งานหรือปิดการใช้งานโหลดขี้เกียจ"
+
+#: admin/theme_options.php:3702
+msgid "Lazy Loading Image"
+msgstr "รูปภาพโหลดที่ขี้เกียจ"
+
+#: admin/theme_options.php:3703
+msgid "Choose one of the pre-defined lazy Loading Image or choose custom one."
+msgstr "เลือกรูปภาพที่โหลดไว้ล่วงหน้าที่กำหนดไว้ล่วงหน้าหรือเลือกแบบกำหนดเอง"
+
+#: admin/theme_options.php:3714
+msgid "Lazy loading Image"
+msgstr "ภาพโหลดขี้เกียจ"
+
+#: admin/theme_options.php:3737
+msgid "Choose Your Lazy Loading Image"
+msgstr "เลือกรูปภาพที่ต้องการโหลดของคุณ"
+
+#: admin/theme_options.php:3739
+msgid "Choose your own lazy loding background image."
+msgstr "เลือกรูปภาพพื้นหลังที่ขี้เกียจของคุณเอง"
+
+#: admin/theme_options.php:3750
+msgid "Custom Code"
+msgstr "รหัสที่กำหนดเอง"
+
+#: admin/theme_options.php:3757
+msgid "CSS Code"
+msgstr "โค้ด CSS"
+
+#: admin/theme_options.php:3758
+msgid "Paste your CSS code here."
+msgstr "วางโค้ด CSS ที่นี่"
+
+#: admin/theme_options.php:3767
+msgid "JS Code"
+msgstr "รหัส JS"
+
+#: admin/theme_options.php:3768
+msgid "Paste your JS code here."
+msgstr "วางรหัส JS ของคุณที่นี่"
+
+#: admin/theme_options.php:3781
+msgid "Import Demo"
+msgstr "นำเข้า Demo"
+
+#: admin/theme_options.php:3788
+msgid "Import Demo Data"
+msgstr "นำเข้าข้อมูลสาธิต"
+
+#: admin/theme_options.php:3789
+msgid ""
+"Importing demo content will copy sliders, widget, theme options, products data, posts, pages and portfolio posts, this will replicate the live demo. <br>The Demo Importer will not import the images we have used in our live demos, due to copyright / license reasons. <br>Choose any one preset layout and click on it thumb image. It can also take "
+"a minute to complete."
+msgstr "การนำเข้าเนื้อหาการสาธิตจะคัดลอกแถบเลื่อนวิดเจ็ตตัวเลือกชุดรูปแบบข้อมูลผลิตภัณฑ์โพสต์หน้าเว็บและโพสต์พอร์ตโฟลิโอซึ่งจะทำซ้ำการสาธิตสด <br> ผู้นำเข้า Demo จะไม่นำเข้าภาพที่เราใช้ในการสาธิตสดของเราเนื่องจากเหตุผลด้านลิขสิทธิ์ / ใบอนุญาต <br> เลือกเค้าโครงที่ตั้งล่วงหน้าไว้แล้วคลิกรูปนิ้วหัวแม่มือ อาจใช้เวลาสักครู่หนึ่งเพื่อให้เสร็จสมบูรณ์"
+
+#: admin/theme_options.php:3797
+msgid "Choose Preset"
+msgstr "เลือกค่าที่กำหนดล่วงหน้า"
+
+#: admin/theme_options.php:3884
+msgid "Section via hook"
+msgstr "ส่วนผ่านทางเบ็ด"
+
+#: admin/theme_options.php:3885
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr "<p class = \"description\"> นี่คือส่วนที่สร้างโดยการเพิ่มตัวกรองลงในอาร์เรย์ของส่วน สามารถใช้ธีมย่อยสำหรับเด็กเพื่อเพิ่ม / ลบส่วนต่างๆจากตัวเลือกต่างๆ </ p>"
+
+#: archive-portfolio.php:58 framework/woocommerce/woo-functions.php:552 taxonomy-portfolio_cat.php:59 taxonomy-portfolio_skills.php:58
+msgid "Show All"
+msgstr "แสดงทั้งหมด"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "เผยเเพร่โดย"
+
+#: author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid ""
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "ปิดการแสดงความคิดเห็น"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "ไม่พบสิ่งใด"
+
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "พร้อมที่จะเผยแพร่โพสต์ครั้งแรกของคุณหรือไม่? <a href=\" %1$s \"> เริ่มต้นใช้งานที่นี่ </a>"
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ขออภัยไม่มีอะไรตรงกับข้อความค้นหาของคุณ โปรดลองอีกครั้งด้วยคำหลักที่แตกต่างกัน"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ดูเหมือนว่าเราไม่สามารถหาสิ่งที่คุณกำลังมองหาได้ บางทีการค้นหาสามารถช่วยได้"
+
+#: content-page.php:29 content.php:58 image.php:58 page.php:48
+msgid "Pages:"
+msgstr "Pages"
+
+#: content-page.php:39 content-search.php:24 content-search.php:29 content.php:40 image.php:71 page.php:58 templates/blog/grid_column.php:48 templates/blog/large_image.php:36 templates/blog/small_image.php:39 templates/blog/timeline.php:44 woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: content.php:52 templates/blog/grid_column.php:60 templates/blog/large_image.php:48 templates/blog/small_image.php:51 templates/blog/timeline.php:56
+#, php-format
+msgid "Read more %s"
+msgstr "อ่านเพิ่มเติม %s"
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "N/A"
+
+#: dokan/store-lists-loop.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "เรท %s จาก 5"
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr "ไปที่ Store"
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr "และ larr; ก่อน"
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr "ถัดไป & rarr;"
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr "ไม่พบผู้ขาย!"
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr "รีวิวผู้ขาย"
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr "ไม่พบผลลัพธ์"
+
+#: dokan/store-reviews.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "จัดอันดับ %d จาก 5"
+
+#: dokan/store-reviews.php:60 framework/woocommerce/woo-functions.php:982
+msgid "out of 5"
+msgstr "จาก 5"
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr "ข้อกำหนดและเงื่อนไข ..."
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr "ไม่พบผลิตภัณฑ์ของผู้ขายรายนี้!"
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "ติดตั้งปลั๊กอินที่จำเป็น"
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "ติดตั้งปลั๊กอิน"
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "การติดตั้งปลั๊กอิน: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "กำลังอัปเดตปลั๊กอิน: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "เกิดข้อผิดพลาดกับปลั๊กอิน API"
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ธีมนี้ต้องใช้ปลั๊กอินต่อไปนี้: %1$s"
+msgstr[1] "ธีมนี้ต้องใช้ปลั๊กอินต่อไปนี้: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ธีมนี้แนะนำปลั๊กอินต่อไปนี้: %1$s"
+msgstr[1] "ธีมนี้แนะนำปลั๊กอินต่อไปนี้: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "ปลั๊กอินต่อไปนี้ต้องได้รับการอัปเดตเป็นเวอร์ชันล่าสุดเพื่อให้แน่ใจว่าสามารถใช้งานร่วมกับชุดรูปแบบนี้ได้สูงสุด: %1$s"
+msgstr[1] "ปลั๊กอินต่อไปนี้ต้องได้รับการอัปเดตเป็นเวอร์ชันล่าสุดเพื่อให้แน่ใจว่าสามารถใช้งานร่วมกับชุดรูปแบบนี้ได้สูงสุด: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "มีการอัปเดตสำหรับ: %1$s"
+msgstr[1] "มีการอัปเดตสำหรับ: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่จำเป็นต่อไปนี้ไม่ได้ใช้งานอยู่: %1$s"
+msgstr[1] "ปลั๊กอินที่จำเป็นต่อไปนี้ไม่ได้ใช้งานอยู่: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+msgstr[1] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "เริ่มติดตั้งปลั๊กอิน"
+msgstr[1] "เริ่มติดตั้งปลั๊กอิน"
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "เริ่มต้นการอัปเดตปลั๊กอิน"
+msgstr[1] "เริ่มต้นการอัปเดตปลั๊กอิน"
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "เริ่มเปิดใช้งานปลั๊กอิน"
+msgstr[1] "เริ่มเปิดใช้งานปลั๊กอิน"
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "กลับไปที่ Installer ปลั๊กอินที่ต้องการ"
+
+#: framework/classes/class-tgm-plugin-activation.php:393 framework/classes/class-tgm-plugin-activation.php:912 framework/classes/class-tgm-plugin-activation.php:2618 framework/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "กลับไปที่แดชบอร์ด"
+
+#: framework/classes/class-tgm-plugin-activation.php:394 framework/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานปลั๊กอินเรียบร้อยแล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:395 framework/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "ปลั๊กอินต่อไปนี้ใช้งานได้สำเร็จ:"
+msgstr[1] "ปลั๊กอินต่อไปนี้ใช้งานได้สำเร็จ:"
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ไม่มีการดำเนินการใด ๆ ปลั๊กอิน %1$s ใช้งานอยู่แล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "ปลั๊กอินไม่ได้เปิดใช้งาน จำเป็นต้องมีเวอร์ชันที่สูงขึ้นของ %s สำหรับธีมนี้ โปรดอัปเดตปลั๊กอิน"
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "ปลั๊กอินทั้งหมดที่ติดตั้งและใช้งานได้สำเร็จ %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "ปิดประกาศนี้"
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "มีปลั๊กอินที่จำเป็นหรือแนะนำที่จำเป็นต้องใช้เพื่อติดตั้งปรับปรุงหรือเปิดใช้งานอย่างน้อยหนึ่งรายการ"
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "โปรดติดต่อผู้ดูแลระบบของไซต์นี้เพื่อรับความช่วยเหลือ"
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "ปลั๊กอินนี้ต้องได้รับการอัปเดตให้เข้ากันได้กับธีมของคุณ"
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "จำเป็นต้องอัปเดต"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "แพคเกจปลั๊กอินระยะไกลไม่ประกอบด้วยโฟลเดอร์ที่มีบุ้งที่ต้องการและเปลี่ยนชื่อไม่ได้"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019 framework/classes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "โปรดติดต่อผู้ให้บริการปลั๊กอินและขอให้พวกเขาแพ็คเกจปลั๊กอินตามหลักเกณฑ์ของ WordPress"
+
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "แพคเกจปลั๊กอินระยะไกลประกอบด้วยมากกว่าหนึ่งไฟล์ แต่ไฟล์ไม่ได้บรรจุในโฟลเดอร์"
+
+#: framework/classes/class-tgm-plugin-activation.php:1206 framework/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "และ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "ต้องระบุ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "แนะนำ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "แหล่งข้อมูลภายนอก"
+
+#: framework/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre- ชุด"
+
+#: framework/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "ไม่ได้ติดตั้ง"
+
+#: framework/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "ติดตั้ง แต่ไม่เปิดใช้งาน"
+
+#: framework/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "จำเป็นต้องมีการปรับปรุงไม่พร้อมใช้งาน"
+
+#: framework/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "ต้องการการอัปเดต"
+
+#: framework/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "ปรับปรุงที่แนะนำ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "ทั้งหมด <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "ทั้งหมด <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "ติดตั้ง <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "ติดตั้ง <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "อัปเดตพร้อมใช้งาน <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "อัปเดตพร้อมใช้งาน <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "หากต้องการเปิดใช้งาน <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "หากต้องการเปิดใช้งาน <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "รุ่นที่ติดตั้ง:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "เวอร์ชันที่ต้องการขั้นต่ำ:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "รุ่นที่สามารถใช้งานได้:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "ไม่มีปลั๊กอินเพื่อติดตั้งอัปเดตหรือเปิดใช้งาน"
+
+#: framework/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "เสียบเข้าไป"
+
+#: framework/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Source"
+
+#: framework/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "ประเภท"
+
+#: framework/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "รุ่น"
+
+#: framework/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "สถานะ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "ติดตั้ง %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "เปิดใช้งาน %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "อัปเกรดข้อความจากผู้เขียนปลั๊กอิน:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: framework/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "อัพเดท"
+
+#: framework/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: framework/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ไม่ได้เลือกปลั๊กอินที่จะติดตั้ง ไม่มีการดำเนินการใด ๆ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินที่จะอัพเดต ไม่มีการดำเนินการใด ๆ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "ไม่มีปลั๊กอินที่สามารถติดตั้งได้ในขณะนี้"
+
+#: framework/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "ปลั๊กอินไม่พร้อมให้บริการในขณะนี้"
+
+#: framework/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ไม่ได้เลือกปลั๊กอินเพื่อเปิดใช้งาน ไม่มีการดำเนินการใด ๆ"
+
+#: framework/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "ปลั๊กอินไม่พร้อมใช้งานในขณะนี้"
+
+#: framework/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "การเปิดใช้งานปลั๊กอินล้มเหลว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังอัปเดตปลั๊กอิน %1$s ( %2$d / %3$d )"
+
+#: framework/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "เกิดข้อผิดพลาดขณะติดตั้ง %1$s : <strong> %2$s </ strong>"
+
+#: framework/classes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "การติดตั้ง %1$s ล้มเหลว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งและเปิดใช้งานกำลังเริ่มต้น กระบวนการนี้อาจต้องใช้เวลาสักครู่ในบางครอบครัวดังนั้นโปรดอดใจรอ"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s ติดตั้งและเปิดใช้งานสำเร็จแล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "ซ่อนรายละเอียด"
+
+#: framework/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "การติดตั้งและการเปิดใช้งานทั้งหมดเสร็จสิ้นแล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "การติดตั้งและเปิดใช้งานปลั๊กอิน %1$s ( %2$d / %3$d )"
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "กระบวนการติดตั้งกำลังเริ่มต้น กระบวนการนี้อาจต้องใช้เวลาสักครู่ในบางครอบครัวดังนั้นโปรดอดใจรอ"
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "% s ถูกติดตั้งเสร็จเรียบร้อยแล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "การติดตั้งเสร็จสิ้นแล้ว"
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังติดตั้งปลั๊กอิน %1$s ( %2$d / %3$d )"
+
+#: framework/classes/mega-menus.php:27
+msgid "Enable EmallShop Mega Menu (only for main menu)"
+msgstr "เปิดใช้เมนู EmallShop Mega Menu (เฉพาะเมนูหลัก)"
+
+#: framework/classes/mega-menus.php:33
+msgid "Full Width Mega Menu (overrides column width)"
+msgstr "เมนู Mega เต็มความกว้าง (แทนที่ความกว้างของคอลัมน์)"
+
+#: framework/classes/mega-menus.php:38
+msgid "Mega Menu Number of Columns"
+msgstr "เมนูเมกะจำนวนคอลัมน์"
+
+#: framework/classes/mega-menus.php:40
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#: framework/classes/mega-menus.php:52
+msgid "Mega Menu Column Width (in percentage, ex: 30%)"
+msgstr "ความกว้างคอลัมน์ของเมนูหลัก (เป็นเปอร์เซ็นต์เช่น 30%)"
+
+#: framework/classes/mega-menus.php:59
+msgid "Disable Mega Menu Column Title"
+msgstr "ปิดใช้ชื่อคอลัมน์ของเมนูหลัก"
+
+#: framework/classes/mega-menus.php:65
+msgid "Enable Mega Menu Column Title"
+msgstr "เปิดใช้ชื่อคอลัมน์ของเมนูหลัก"
+
+#: framework/classes/mega-menus.php:70
+msgid "Mega Menu Widget Area"
+msgstr "Mega Widget พื้นที่เมนู"
+
+#: framework/classes/mega-menus.php:72
+msgid "Select Widget Area"
+msgstr "เลือก Widget Area"
+
+#: framework/classes/mega-menus.php:86
+msgid "New Label"
+msgstr "ป้ายกำกับใหม่"
+
+#: framework/classes/mega-menus.php:89
+msgid "Hot Label"
+msgstr "ป้ายกำกับร้อน"
+
+#: framework/classes/mega-menus.php:92
+msgid "Sale Label"
+msgstr "ป้ายขาย"
+
+#: framework/classes/mega-menus.php:98
+msgid "Menu Icon"
+msgstr "ไอคอนเมนู"
+
+#: framework/classes/mega-menus.php:100
+msgid "Quick search"
+msgstr "ค้นหาอย่างรวดเร็ว"
+
+#: framework/classes/mega-menus.php:109
+msgid "Custom Icon"
+msgstr "ไอคอนที่กำหนดเอง"
+
+#: framework/classes/mega-menus.php:544
+msgid "Hot"
+msgstr "กำลังฮิต"
+
+#: framework/classes/mega-menus.php:760
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (ไม่ถูกต้อง)"
+
+#: framework/classes/mega-menus.php:764
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (รอดำเนินการ)"
+
+#: framework/classes/mega-menus.php:777
+msgid "sub item"
+msgstr "รายการย่อย"
+
+#: framework/classes/mega-menus.php:792
+msgid "Move up"
+msgstr "หันขึ้น"
+
+#: framework/classes/mega-menus.php:805
+msgid "Move down"
+msgstr "หันลง"
+
+#: framework/classes/mega-menus.php:807 framework/classes/mega-menus.php:809
+msgid "Edit Menu Item"
+msgstr "แก้ไขรายการเมนู"
+
+#: framework/classes/mega-menus.php:818
+msgid "URL"
+msgstr "URL"
+
+#: framework/classes/mega-menus.php:825
+msgid "Navigation Label"
+msgstr "ป้ายการนำทาง"
+
+#: framework/classes/mega-menus.php:831
+msgid "Title Attribute"
+msgstr "แอตทริบิวต์ชื่อ"
+
+#: framework/classes/mega-menus.php:838
+msgid "Open link in a new window/tab"
+msgstr "เปิดลิงก์ในหน้าต่าง / แท็บใหม่"
+
+#: framework/classes/mega-menus.php:843
+msgid "CSS Classes (optional)"
+msgstr "คลาส CSS (ตัวเลือก)"
+
+#: framework/classes/mega-menus.php:849
+msgid "Link Relationship (XFN)"
+msgstr "ความสัมพันธ์ของลิงก์ (XFN)"
+
+#: framework/classes/mega-menus.php:855
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: framework/classes/mega-menus.php:857
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "คำอธิบายจะปรากฏในเมนูถ้าธีมปัจจุบันสนับสนุน"
+
+#: framework/classes/mega-menus.php:865
+msgid "Move"
+msgstr "ย้าย"
+
+#: framework/classes/mega-menus.php:866
+msgid "Up one"
+msgstr "ขึ้นหนึ่ง"
+
+#: framework/classes/mega-menus.php:867
+msgid "Down one"
+msgstr "ลงหนึ่ง"
+
+#: framework/classes/mega-menus.php:870
+msgid "To the top"
+msgstr "ไปด้านบน"
+
+#: framework/classes/mega-menus.php:877
+#, php-format
+msgid "Original: %s"
+msgstr "ต้นฉบับ: %s"
+
+#: framework/classes/mega-menus.php:890 framework/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "ลบออก"
+
+#: framework/classes/mega-menus.php:891
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: framework/classes/sidebar-generator.class.php:14
+msgid "Add Custom Widget Area"
+msgstr "เพิ่มพื้นที่วิดเจ็ตที่กำหนดเอง"
+
+#: framework/classes/sidebar-generator.class.php:58
+msgid "Enter Name for new Widget Area"
+msgstr "ป้อนชื่อสำหรับ Widget Area ใหม่"
+
+#: framework/classes/sidebar-generator.class.php:59
+msgid "Add Widget Area"
+msgstr "เพิ่ม Widget Area"
+
+#: framework/dokan/dokan-functions.php:30 functions.php:190
+msgid "Dokan Widget Area"
+msgstr "Dokan Widget Area"
+
+#: framework/dokan/dokan-functions.php:32
+msgid "Add widgets here to appear in your dokan page sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อปรากฏในแถบด้านข้างของ dokan page"
+
+#: framework/dokan/dokan-functions.php:62
+msgid "Store Category"
+msgstr "ประเภทร้านค้า"
+
+#: framework/dokan/dokan-functions.php:65
+msgid "Store Location"
+msgstr "เก็บที่ตั้ง"
+
+#: framework/dokan/dokan-functions.php:69
+msgid "Contact Seller"
+msgstr "ติดต่อผู้ขาย"
+
+#: framework/dokan/dokan-functions.php:104
+#, php-format
+msgid "Cart %s"
+msgstr "รถเข็น %s"
+
+#: framework/dokan/dokan-functions.php:122
+msgid "Seller Dashboard"
+msgstr "แดชบอร์ดผู้ขาย"
+
+#: framework/dokan/dokan-functions.php:125
+msgid "Visit your store"
+msgstr "เยี่ยมชมร้านค้าของคุณ"
+
+#: framework/dokan/dokan-functions.php:141 inc/theme-function.php:362 inc/theme-function.php:396
+msgid "My Account"
+msgstr "บัญชีของฉัน"
+
+#: framework/dokan/dokan-functions.php:142
+msgid "Edit Account"
+msgstr "แก้ไขบัญชี"
+
+#: framework/dokan/dokan-functions.php:144 woocommerce/myaccount/my-address.php:27 woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "ที่อยู่สำหรับเรียกเก็บเงิน"
+
+#: framework/dokan/dokan-functions.php:145 woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "ที่อยู่ในการจัดส่ง"
+
+#: framework/dokan/dokan-functions.php:152
+msgid "Log in"
+msgstr "เข้าสู่ระบบ"
+
+#: framework/dokan/dokan-functions.php:153
+msgid "Sign Up"
+msgstr "สมัครสมาชิก"
+
+#: framework/meta-box/inc/field.php:213
+msgid "+ Add more"
+msgstr "เพิ่มอีก"
+
+#: framework/meta-box/inc/fields/autocomplete.php:14 framework/meta-box/inc/fields/autocomplete.php:77 framework/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr "ลบ"
+
+#: framework/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "คลิกฉัน"
+
+#: framework/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "เลือกไฟล์"
+
+#: framework/meta-box/inc/fields/file-input.php:41 framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "Select"
+msgstr "เลือก"
+
+#: framework/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "คุณสามารถอัปโหลดไฟล์ได้สูงสุด %d"
+
+#: framework/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "คุณสามารถอัปโหลดไฟล์ได้สูงสุด %d"
+
+#: framework/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "ข้อผิดพลาด: ไม่สามารถลบไฟล์ได้"
+
+#: framework/meta-box/inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "อัพโหลดไฟล์"
+
+#: framework/meta-box/inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ เพิ่มไฟล์ใหม่"
+
+#: framework/meta-box/inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "ลบ"
+
+#: framework/meta-box/inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: framework/meta-box/inc/fields/image.php:61 framework/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "อัปโหลดรูปภาพ"
+
+#: framework/meta-box/inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ เพิ่มรูปภาพใหม่"
+
+#: framework/meta-box/inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "ลบ "
+
+#: framework/meta-box/inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: framework/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr "สำคัญ"
+
+#: framework/meta-box/inc/fields/key-value.php:25
+msgid "Value"
+msgstr "มูลค่า"
+
+#: framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "ค้นหาที่อยู่"
+
+#: framework/meta-box/inc/fields/media.php:18
+msgctxt "media"
+msgid "Select or Upload Images"
+msgstr "เลือกหรืออัปโหลดภาพ"
+
+#: framework/meta-box/inc/fields/media.php:19
+msgctxt "media"
+msgid " file"
+msgstr " ไฟล์"
+
+#: framework/meta-box/inc/fields/media.php:20
+msgctxt "media"
+msgid " files"
+msgstr " ไฟล์"
+
+#: framework/meta-box/inc/fields/media.php:21
+msgctxt "media"
+msgid "Remove"
+msgstr "ลบ"
+
+#: framework/meta-box/inc/fields/media.php:22
+msgctxt "media"
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: framework/meta-box/inc/fields/media.php:23
+msgctxt "media"
+msgid "View"
+msgstr "View"
+
+#: framework/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "No Title"
+msgstr "ไม่มีชื่อเรื่อง"
+
+#: framework/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Select Files"
+msgstr "เลือกไฟล์"
+
+#: framework/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "วางไฟล์ที่นี่เพื่ออัปโหลด"
+
+#: framework/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "HTML ฝังไม่สามารถใช้งานได้"
+
+#: framework/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+#: framework/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "เลือกโพสต์"
+
+#: framework/meta-box/inc/fields/post.php:38 framework/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "เลือก %s"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "None"
+msgstr "ไม่มี"
+
+#: framework/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "เลือกคำ"
+
+#: framework/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "เลือกผู้ใช้"
+
+#: framework/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "โปรดแก้ไขข้อผิดพลาดที่ไฮไลต์ด้านล่างและลองอีกครั้ง"
+
+#: framework/openswatch/templates/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "ปัจจุบันสินค้านี้หมดจากสต็อก และไม่มีจำหน่าย"
+
+#: framework/woocommerce/woo-functions.php:29
+msgctxt "placeholder"
+msgid "I'm shopping for..."
+msgstr "ฉันกำลังหาซื้อของ ..."
+
+#: framework/woocommerce/woo-functions.php:38
+msgid "All Categories"
+msgstr "ทุกประเภท"
+
+#: framework/woocommerce/woo-functions.php:111
+msgid "No products found."
+msgstr "ไม่พบสินค้า"
+
+#: framework/woocommerce/woo-functions.php:221 framework/woocommerce/woo-functions.php:228 inc/theme-function.php:655 inc/theme-function.php:671
+#, php-format
+msgid "%d item"
+msgid_plural "%d item(s)"
+msgstr[0] "%d รายการ"
+msgstr[1] "%d รายการ"
+
+#: framework/woocommerce/woo-functions.php:247 inc/theme-function.php:416 inc/theme-function.php:670
+msgid "Shopping Cart"
+msgstr "ตระกร้าสินค้า"
+
+#: framework/woocommerce/woo-functions.php:447
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "หน้าแรก"
+
+#: framework/woocommerce/woo-functions.php:509
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: framework/woocommerce/woo-functions.php:580 framework/woocommerce/woo-functions.php:1229
+msgid "Items"
+msgstr " รายการ"
+
+#: framework/woocommerce/woo-functions.php:632
+msgid "Brands"
+msgstr "ยี่ห้อสินค้า"
+
+#: framework/woocommerce/woo-functions.php:678
+msgid "View as Grid"
+msgstr "ดูแบบตาราง"
+
+#: framework/woocommerce/woo-functions.php:681
+msgid "View as Expand Grid"
+msgstr "ดูแบบขยายตาราง"
+
+#: framework/woocommerce/woo-functions.php:684
+msgid "View as List"
+msgstr "ดูเป็นรายการ"
+
+#: framework/woocommerce/woo-functions.php:687
+msgid "View as Thin List "
+msgstr "ดูเป็นบางรายการ "
+
+#: framework/woocommerce/woo-functions.php:728
+msgid "View"
+msgstr "View"
+
+#: framework/woocommerce/woo-functions.php:835 framework/woocommerce/woo-functions.php:865
+msgid "Quick View"
+msgstr "ดูแบบเร่งด่วน"
+
+#: framework/woocommerce/woo-functions.php:1063 woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr "กำลังรอภาพผลิตภัณฑ์"
+
+#: framework/woocommerce/woo-functions.php:1192
+msgid "Product is added in cart"
+msgstr "มีการเพิ่มผลิตภัณฑ์ในรถเข็น"
+
+#: framework/woocommerce/woo-functions.php:1211
+msgid "View Cart"
+msgstr "ดูสินค้าในตะกร้า"
+
+#: framework/woocommerce/woo-functions.php:1267 inc/theme-function.php:1350 inc/theme-function.php:1401
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+#: framework/woocommerce/woo-functions.php:1269
+msgid "No more product"
+msgstr "ไม่มีสินค้าเพิ่มเติม"
+
+#: framework/woocommerce/woo-functions.php:1418
+msgid "In  Stock"
+msgstr "มีในสต็อก"
+
+#: framework/woocommerce/woo-functions.php:1472
+msgid "Size Guide"
+msgstr "คู่มือขนาด"
+
+#: framework/woocommerce/woo-functions.php:1489
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] "ยี่ห้อ:"
+msgstr[1] "ยี่ห้อ:"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "เมนูหลัก"
+
+#: functions.php:115
+msgid "Vertical Menu"
+msgstr "เมนูแนวตั้ง"
+
+#: functions.php:163
+msgid "Widget Area"
+msgstr "พื้นที่วิดเจ็ต"
+
+#: functions.php:165
+msgid "Add widgets here to appear in your sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏในแถบด้านข้างของคุณ"
+
+#: functions.php:172
+msgid "Shop Page Widget Area"
+msgstr "พื้นที่วิดเจ็ตหน้าร้านค้า"
+
+#: functions.php:174
+msgid "Add widgets here to appear in shop page sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อปรากฏในแถบด้านข้างของหน้าร้าน"
+
+#: functions.php:181
+msgid "Single Product Widget Area"
+msgstr "พื้นที่เครื่องมือผลิตภัณฑ์แบบเดี่ยว"
+
+#: functions.php:183
+msgid "Add widgets here to appear in single product page sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อปรากฏในแถบด้านข้างของหน้าผลิตภัณฑ์เดียว"
+
+#: functions.php:192
+msgid "Add widgets here to appear in dokan page sidebar."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อปรากฏในแถบด้านข้างของเอกสาร dokan"
+
+#: functions.php:199
+msgid "Menu Widget Area 1"
+msgstr "พื้นที่วิดเจ็ตเมนู 1"
+
+#: functions.php:201 functions.php:210 functions.php:219
+msgid "Add widgets here to appear in your menu."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อให้ปรากฏในเมนูของคุณ"
+
+#: functions.php:208
+msgid "Menu Widget Area 2"
+msgstr "พื้นที่วิดเจ็ตเมนู 2"
+
+#: functions.php:217
+msgid "Menu Widget Area 3"
+msgstr "พื้นที่วิดเจ็ตเมนู 3"
+
+#: functions.php:227
+msgid "Footer Widget Area 1"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 1"
+
+#: functions.php:229 functions.php:238 functions.php:247 functions.php:256 functions.php:265 functions.php:274 functions.php:283 functions.php:292
+msgid "Add widgets here to appear in your footer."
+msgstr "เพิ่มวิดเจ็ตที่นี่เพื่อปรากฏในส่วนท้ายของคุณ"
+
+#: functions.php:236
+msgid "Footer Widget Area 2"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 2"
+
+#: functions.php:245
+msgid "Footer Widget Area 3"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 3"
+
+#: functions.php:254
+msgid "Footer Widget Area 4"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 4"
+
+#: functions.php:263
+msgid "Footer Widget Area 5"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 5"
+
+#: functions.php:272
+msgid "Footer Widget Area 6"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 6"
+
+#: functions.php:281
+msgid "Footer Widget Area 7"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 7"
+
+#: functions.php:290
+msgid "Footer Widget Area 8"
+msgstr "พื้นที่วิดเจ็ตส่วนท้าย 8"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "ภาพก่อนหน้า"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "ภาพถัดไป"
+
+#: image.php:85
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class = \"meta-nav\"> เผยแพร่ใน </ span> <span class = \"โพสต์ไตเติ้ล\" \" %t itle </ span>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#, php-format
+msgid "EmallShop requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "EmallShop ต้องใช้ WordPress เวอร์ชัน 4.1 เป็นอย่างน้อย คุณกำลังใช้งานเวอร์ชัน %s โปรดอัปเกรดและลองอีกครั้ง"
+
+#: inc/breadcrumbs.php:19
+msgid "Home"
+msgstr "หน้าแรก"
+
+#: inc/breadcrumbs.php:58
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:60
+#, php-format
+msgid "Product Tag - %s"
+msgstr "แท็กผลิตภัณฑ์ - %s"
+
+#: inc/breadcrumbs.php:122
+msgid "Go to Home Page"
+msgstr "ไปที่หน้าแรก"
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search - %s"
+msgstr "ค้นหา %s"
+
+#: inc/breadcrumbs.php:187
+msgid "404"
+msgstr "............"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "รูปแบบสีฐาน"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "สีข้อความส่วนหัวและข้างเคียง"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "ใช้กับส่วนหัวบนหน้าจอขนาดเล็กและแถบด้านข้างบนหน้าจอกว้าง"
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "สีพื้นหลังแถบด้านข้างและแถบด้านข้าง"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "มืด"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "สีเหลือง"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "สีชมพู"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "สีม่วง"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "สีน้ำเงิน"
+
+#: inc/meta-boxes.php:26
+msgid "Post Format: Image"
+msgstr "รูปแบบโพสต์: รูปภาพ"
+
+#: inc/meta-boxes.php:32
+msgid "Image"
+msgstr "รูปภาพ"
+
+#: inc/meta-boxes.php:36
+msgid "Select a image for post"
+msgstr "เลือกรูปภาพสำหรับโพสต์"
+
+#: inc/meta-boxes.php:44
+msgid "Post Format: Gallery"
+msgstr "รูปแบบโพสต์: แกลเลอรี"
+
+#: inc/meta-boxes.php:50
+msgid "Images"
+msgstr "รูปภาพ"
+
+#: inc/meta-boxes.php:53
+msgid "Select images gallery for post"
+msgstr "เลือกแกลเลอรี่ภาพสำหรับโพสต์"
+
+#: inc/meta-boxes.php:61
+msgid "Post Format: Video"
+msgstr "รูปแบบโพสต์: วิดีโอ"
+
+#: inc/meta-boxes.php:67
+msgid "Video URL or Embeded Code"
+msgstr "URL วิดีโอหรือโค้ดที่ฝัง"
+
+#: inc/meta-boxes.php:70
+msgid "Enter the URL or embed code of Vimeo.com or YouTube.com streaming services.<br>To get the code, go to the external video page, click \"share\" button and copy the Embed code."
+msgstr "ป้อน URL หรือโค้ดฝังของบริการสตรีมมิ่ง Vimeo.com หรือ YouTube.com <br> หากต้องการรับโค้ดให้ไปที่หน้าวิดีโอภายนอกคลิกปุ่ม \\ \"แชร์ \" และคัดลอกโค้ดฝัง"
+
+#: inc/meta-boxes.php:78
+msgid "Post Format: Audio"
+msgstr "รูปแบบโพสต์: เสียง"
+
+#: inc/meta-boxes.php:84
+msgid "Audio URL or Embeded Code"
+msgstr "URL เสียงหรือโค้ดที่ฝัง"
+
+#: inc/meta-boxes.php:87
+msgid "Please enter the URL or Embeded code of the audio."
+msgstr "โปรดป้อน URL หรือโค้ดที่ฝังไว้ของเสียง"
+
+#: inc/meta-boxes.php:95
+msgid "Post Format: Quote"
+msgstr "รูปแบบโพสต์: อ้าง"
+
+#: inc/meta-boxes.php:101
+msgid "Quote"
+msgstr "อ้างอิง"
+
+#: inc/meta-boxes.php:104
+msgid "Add a quote."
+msgstr "เพิ่มราคา"
+
+#: inc/meta-boxes.php:107
+msgid "Author"
+msgstr "ผู้เรียบเรียง:"
+
+#: inc/meta-boxes.php:110
+msgid "Add the quote author."
+msgstr "เพิ่มผู้เขียนใบเสนอราคา"
+
+#: inc/meta-boxes.php:113
+msgid "Author Url"
+msgstr "Url ผู้เขียน"
+
+#: inc/meta-boxes.php:116
+msgid "Add the quote author URL."
+msgstr "เพิ่ม URL ของผู้เขียนคำเสนอราคา"
+
+#: inc/meta-boxes.php:124
+msgid "Post Format: Link"
+msgstr "รูปแบบการโพสต์: ลิงก์"
+
+#: inc/meta-boxes.php:130
+msgid "Url"
+msgstr "URL"
+
+#: inc/meta-boxes.php:133
+msgid "Add an URL link."
+msgstr "เพิ่มลิงก์ URL"
+
+#: inc/meta-boxes.php:139
+msgid "Add text for the URL link."
+msgstr "เพิ่มข้อความสำหรับลิงค์ URL"
+
+#: inc/meta-boxes.php:147
+msgid "Portfolio Informations"
+msgstr "ข้อมูลการลงทุน"
+
+#: inc/meta-boxes.php:154
+msgid "Enter Client Name"
+msgstr "ป้อนชื่อลูกค้า"
+
+#: inc/meta-boxes.php:157
+msgid "Enter your project client name."
+msgstr "ป้อนชื่อลูกค้าโครงการของคุณ"
+
+#: inc/meta-boxes.php:160
+msgid "Enter Live Project URL"
+msgstr "ป้อน URL โครงการแบบสด"
+
+#: inc/meta-boxes.php:163
+msgid "Enter your live project url."
+msgstr "ป้อน URL โครงการแบบสดของคุณ"
+
+#: inc/meta-boxes.php:171
+msgid "Testimonial Informations"
+msgstr "ข้อมูลรับรอง"
+
+#: inc/meta-boxes.php:178
+msgid "Enter Designation"
+msgstr "ป้อนการกำหนด"
+
+#: inc/meta-boxes.php:181
+msgid "Enter client designation."
+msgstr "ป้อนการกำหนดลูกค้า"
+
+#: inc/meta-boxes.php:184
+msgid "Enter Company Name"
+msgstr "ป้อนชื่อ บริษัท"
+
+#: inc/meta-boxes.php:187
+msgid "Enter client company name."
+msgstr "ป้อนชื่อ บริษัท ลูกค้า"
+
+#: inc/meta-boxes.php:195
+msgid "Page Layout Options"
+msgstr "ตัวเลือกการออกแบบหน้าเว็บ"
+
+#: inc/meta-boxes.php:201
+msgid "Show Title"
+msgstr "แสดงชื่อ"
+
+#: inc/meta-boxes.php:204
+msgid "Show title of the page."
+msgstr "แสดงชื่อเรื่องของหน้า"
+
+#: inc/meta-boxes.php:213
+msgid "Show Breadcrumb"
+msgstr "แสดง Breadcrumb"
+
+#: inc/meta-boxes.php:216
+msgid "Show breadcrumb of the page."
+msgstr "แสดงเส้นทางของหน้า"
+
+#: inc/meta-boxes.php:225
+msgid "Page Sidebar"
+msgstr "แถบด้านข้างของเพจ"
+
+#: inc/meta-boxes.php:245 inc/meta-boxes.php:287
+msgid "Select Sidebar"
+msgstr "เลือกแถบด้านข้าง"
+
+#: inc/meta-boxes.php:258
+msgid "Product Page Layout Options"
+msgstr "ตัวเลือกการออกแบบหน้าเว็บผลิตภัณฑ์"
+
+#: inc/meta-boxes.php:266
+msgid "Product Page Layout"
+msgstr "เค้าโครงหน้าผลิตภัณฑ์"
+
+#: inc/meta-boxes.php:280
+#, php-format
+msgid "Choose product page layout for only this product. You can choose  global for all product page layout at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "เลือกเค้าโครงหน้าผลิตภัณฑ์สำหรับผลิตภัณฑ์นี้เท่านั้น คุณสามารถเลือกรูปลักษณ์ของหน้าผลิตภัณฑ์ได้ทั่วโลกที่ <a target=\"_blank\" href=\" %1$s \"> ที่นี่ </a> (WooCommerce> ส่วนผลิตภัณฑ์เดียว)"
+
+#: inc/meta-boxes.php:293
+msgid "Product Size Guide Image"
+msgstr "ภาพคู่มือผลิตภัณฑ์ขนาด"
+
+#: inc/meta-boxes.php:297
+#, php-format
+msgid "Upload product size guide image for only this product. You can use image size guide for all product at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "อัปโหลดภาพคู่มือขนาดผลิตภัณฑ์สำหรับผลิตภัณฑ์นี้เท่านั้น คุณสามารถใช้คู่มือขนาดรูปภาพสำหรับผลิตภัณฑ์ทั้งหมดได้ที่ <a target=\"_blank\" href=\" %1$s \"> ที่นี่ </a> (WooCommerce> ส่วนผลิตภัณฑ์เดียว)"
+
+#: inc/plugin_activetion_class.php:50
+msgid "PL EmallShop Extensions"
+msgstr "ส่วนขยาย PL EmallShop"
+
+#: inc/plugin_activetion_class.php:57
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Visual Composer"
+
+#: inc/plugin_activetion_class.php:64
+msgid "Revolution Slider"
+msgstr "ตัวเลื่อนการปฏิวัติ"
+
+#: inc/plugin_activetion_class.php:71
+msgid "Ultimate Addons for Visual Composer"
+msgstr "Addons ขั้นสูงสำหรับ Visual Composer"
+
+#: inc/plugin_activetion_class.php:78
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/plugin_activetion_class.php:83
+msgid "YITH WooCommerce Compare"
+msgstr "เปรียบเทียบ YITH WooCommerce"
+
+#: inc/plugin_activetion_class.php:88
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce รายการสิ่งที่ต้องทำ"
+
+#: inc/plugin_activetion_class.php:93
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr "ตัวกรองผลิตภัณฑ์ Ajax ของ YITH WooCommerce"
+
+#: inc/plugin_activetion_class.php:98
+msgid "MailChimp for WordPress"
+msgstr "MailChimp สำหรับ WordPress"
+
+#: inc/plugin_activetion_class.php:103
+msgid "Contact Form 7"
+msgstr "แบบฟอร์มติดต่อ 7"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "นำทางเรื่องความคิดเห็น"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "ความคิดเห็นเก่า"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "ความคิดเห็นที่ใหม่กว่า"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "ฟอร์แมต"
+
+#: inc/template-tags.php:78
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "โพสเมื่อ"
+
+#: inc/template-tags.php:87
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "ผู้เรียบเรียง:"
+
+#: inc/template-tags.php:93 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "............ "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: inc/template-tags.php:104
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "แท็ก"
+
+#: inc/template-tags.php:115
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "ขนาดเต็ม"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class = \\ \"screen-reader-text \"> ใน %s </ span>"
+
+#: inc/theme-function.php:151
+msgid "Days"
+msgstr " 5 วัน"
+
+#: inc/theme-function.php:152
+msgid "Hours"
+msgstr "ชั่วโมงทำการ"
+
+#: inc/theme-function.php:153
+msgid "Mins"
+msgstr "นาที"
+
+#: inc/theme-function.php:154
+msgid "Secs"
+msgstr "วินาที"
+
+#: inc/theme-function.php:155
+msgid "+ Show more"
+msgstr "+ แสดงเพิ่มเติม"
+
+#: inc/theme-function.php:156
+msgid "- Show less"
+msgstr "- แสดงน้อยลง"
+
+#: inc/theme-function.php:199
+msgid "WARNING: Clicking this button will replace your current theme options, sliders.  It can also take a minute to complete. Importing data is recommended on fresh installs only once. Importing on sites with content or importing twice will duplicate menus, pages and all posts."
+msgstr "คำเตือน: การคลิกปุ่มนี้จะเป็นการแทนที่ตัวเลือกชุดรูปแบบปัจจุบันของคุณแถบเลื่อน อาจใช้เวลาสักครู่หนึ่งเพื่อให้เสร็จสมบูรณ์ แนะนำให้นำเข้าข้อมูลในการติดตั้งใหม่เพียงครั้งเดียวเท่านั้น การนำเข้าในเว็บไซต์ที่มีเนื้อหาหรือการนำเข้าสองครั้งจะซ้ำเมนูหน้าเว็บและโพสต์ทั้งหมด"
+
+#: inc/theme-function.php:259
+msgid "News"
+msgstr "ข่าว"
+
+#: inc/theme-function.php:325
+msgid "Login/Register"
+msgstr "เข้าสู่ระบบ / สมัครสมาชิก"
+
+#: inc/theme-function.php:327
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+#: inc/theme-function.php:341
+msgid "Register"
+msgstr "สมัครสมาชิก"
+
+#: inc/theme-function.php:365 inc/theme-function.php:434
+msgid "Checkout"
+msgstr "ชำระเงิน"
+
+#: inc/theme-function.php:366 inc/theme-function.php:663
+msgid "Cart"
+msgstr "ตะกร้าสินค้า"
+
+#: inc/theme-function.php:370
+msgid "My Wishlist"
+msgstr "รายการโปรดของฉัน"
+
+#: inc/theme-function.php:376 inc/theme-function.php:490
+msgid "Compare"
+msgstr "เปรียบเทียบ"
+
+#: inc/theme-function.php:379
+msgid "sign Out"
+msgstr "ออกจากระบบ"
+
+#: inc/theme-function.php:450
+msgid "Track Order"
+msgstr "ติดตามใบสั่งซื้อ"
+
+#: inc/theme-function.php:469
+msgid "Wishlist"
+msgstr "รายชื่อสินค้าที่ต้องการ"
+
+#: inc/theme-function.php:579
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+#: inc/theme-function.php:693
+msgid "Search"
+msgstr "ค้นหา"
+
+#: inc/theme-function.php:821
+msgid "Shopping Categories"
+msgstr "หมวดหมู่สินค้า"
+
+#: inc/theme-function.php:1249
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/theme-function.php:1251
+msgid "Reply"
+msgstr "ตอบกลับ"
+
+#: inc/theme-function.php:1352 inc/theme-function.php:1403
+msgid "No more blog"
+msgstr "ไม่มีบล็อกอีกต่อไป"
+
+#: inc/theme-function.php:1438
+msgid "Post Navigation"
+msgstr "โพสต์การนำทาง"
+
+#: inc/theme-function.php:1521
+msgid "Related Post"
+msgstr "โพสต์ที่เกี่ยวข้อง"
+
+#: inc/theme-function.php:1717
+msgid "Share on Facebook"
+msgstr "แชร์บน Facebook"
+
+#: inc/theme-function.php:1722
+msgid "Share on Twitter"
+msgstr "แชร์บน Twitter"
+
+#: inc/theme-function.php:1727
+msgid "Share on LinkedIn"
+msgstr "แบ่งปันใน LinkedIn"
+
+#: inc/theme-function.php:1732
+msgid "Share on Google Plus"
+msgstr "แชร์บน Google Plus"
+
+#: inc/theme-function.php:1737
+msgid "Share on Stumbleupon"
+msgstr "แบ่งปันเมื่อ Stumbleupon"
+
+#: inc/theme-function.php:1742
+msgid "Share on Pinterest"
+msgstr "แบ่งปันใน Pinterest"
+
+#: inc/theme-function.php:1747
+msgid "Share on Tumblr"
+msgstr "แบ่งปันเมื่อ Tumblr"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "ผลการค้นหา %s"
+
+#: single-portfolio.php:55
+msgid "Project Description"
+msgstr "คำอธิบายโครงการ"
+
+#: single-portfolio.php:65
+msgid "Live Preview"
+msgstr "ดูตัวอย่างสด"
+
+#: single-portfolio.php:72
+msgid "Project Informations"
+msgstr "ข้อมูลโครงการ"
+
+#: single-portfolio.php:77
+msgid "Client"
+msgstr "ผู้ว่าจ้าง"
+
+#: single-portfolio.php:82
+msgid "Date"
+msgstr "วันที่"
+
+#: single-portfolio.php:99
+msgid "Skills"
+msgstr "{0}{/0} {1}       {/1} {2}ทักษะ:{/2} {3} {/3}"
+
+#: single-portfolio.php:111
+msgid "Share"
+msgstr "แชร์"
+
+#: single-portfolio.php:141
+msgid "Related projects"
+msgstr "Related Projects"
+
+#: single.php:36
+msgid "Share This Post"
+msgstr "แชร์โพสต์นี้"
+
+#: templates/footer/footer-1.php:34 templates/footer/footer-2.php:50 templates/footer/footer-3.php:56
+msgid "&copy; 2016 presslayouts.com. All Rights Reserved."
+msgstr "&สำเนา; 2016 presslayouts.com สงวนลิขสิทธิ์."
+
+#: templates/footer/footer-2.php:22
+msgid "Stay Connected"
+msgstr "เชื่อมต่อกัน"
+
+#: templates/portfolio/portfolio_grid.php:32
+msgid "Skill"
+msgstr "ความสามารถ"
+
+#: woocommerce/cart/cart.php:35
+msgid "Item Details"
+msgstr "รายละเอียดของรายการ"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:120
+msgid "Price"
+msgstr "ราคา"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:126
+msgid "Quantity"
+msgstr "จำนวน"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:143 woocommerce/order/order-details.php:40
+msgid "Total"
+msgstr "รวม"
+
+#: woocommerce/cart/cart.php:68 woocommerce/order/order-details.php:39
+msgid "Product"
+msgstr "การพัฒนาผลิตภัณฑ์ (Product Development)"
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "สามารถสั่งซื้อได้(ค้างส่ง)"
+
+#: woocommerce/cart/cart.php:153 woocommerce/cart/mini-cart.php:103
+msgid "Remove this item"
+msgstr "ลบรายการนี​​้"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon:"
+msgstr "คูปอง"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr "รหัสคูปอง"
+
+#: woocommerce/cart/cart.php:172
+msgid "Apply coupon"
+msgstr "ใส่รหัสคูปอง"
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr "อัพเดทรถเข็น"
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr "คุณอาจจะสนใจใน ..."
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Recent add item"
+msgid_plural "Recent add item(s)"
+msgstr[0] "เพิ่มรายการล่าสุด"
+msgstr[1] "เพิ่มรายการล่าสุด"
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Subtotal"
+msgstr "ยอดรวม"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "No products in the cart."
+msgstr "ไม่มีสินค้าอยู่ในรถเข็น"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "คุณต้องเข้าสู่ระบบเพื่อเช็คเอาต์"
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "รายการสั่งซื้อของคุณ"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By:"
+msgstr "จัดเรียงตาม"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "ที่อยู่ต่อไปนี้จะนำมาใช้ในหน้าเช็คเอาต์โดยเป็นค่าเริ่มต้น"
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "คุณยังไม่ได้ตั้งค่าที่อยู่ในประเภทนี้"
+
+#: woocommerce/order/order-details.php:33
+msgid "Order details"
+msgstr "รายละเอียดรายการสั่งซื้อ"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "หมวดหมู่:"
+msgstr[1] "หมวดหมู่:"
+
+#: woocommerce/single-product/meta.php:45
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "แท็ก:"
+msgstr[1] "แท็ก:"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s รีวิวลูกค้า"
+msgstr[1] "%s รีวิวลูกค้า"
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr "สินค้าที่เกี่ยวข้อง"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "นอกจากนี้คุณยังอาจต้องการ ..."

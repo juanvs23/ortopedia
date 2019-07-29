@@ -1,0 +1,4112 @@
+# Copyright (C) 2017 PressLayouts
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EmallShop 1.0\n"
+"Report-Msgid-Bugs-To: http://demo.presslayouts.com/emallshop/\n"
+"POT-Creation-Date: 2017-09-08 09:55+0530\n"
+"PO-Revision-Date: 2017-09-08 10:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Image Not Set"
+msgstr "画像が設定されていない"
+
+#: admin/admin-function.php:19
+msgid "Header Style 1"
+msgstr "ヘッダースタイル1"
+
+#: admin/admin-function.php:20
+msgid "Header Style 2"
+msgstr "ヘッダースタイル2"
+
+#: admin/admin-function.php:21
+msgid "Header Style 3"
+msgstr "ヘッダースタイル3"
+
+#: admin/admin-function.php:22
+msgid "Header Style 4"
+msgstr "ヘッダースタイル4"
+
+#: admin/admin-function.php:23
+msgid "Header Style 5"
+msgstr "ヘッダースタイル5"
+
+#: admin/admin-function.php:24
+msgid "Header Style 6"
+msgstr "ヘッダースタイル6"
+
+#: admin/admin-function.php:25
+msgid "Header Style 7"
+msgstr "ヘッダースタイル7"
+
+#: admin/admin-function.php:26
+msgid "Header Style 8"
+msgstr "ヘッダースタイル8"
+
+#: admin/admin-function.php:27
+msgid "Header Style 9"
+msgstr "ヘッダースタイル9"
+
+#: admin/admin-function.php:28
+msgid "Header Style 10"
+msgstr "ヘッダースタイル10"
+
+#: admin/admin-function.php:38
+msgid "Page Heading Style 1"
+msgstr "ページ見出しスタイル1"
+
+#: admin/admin-function.php:39
+msgid "Page Heading Style 2"
+msgstr "ページ見出しスタイル2"
+
+#: admin/admin-function.php:40
+msgid "Page Heading Style 3"
+msgstr "ページ見出しスタイル3"
+
+#: admin/admin-function.php:41
+msgid "Page Heading Style 4"
+msgstr "ページ見出しスタイル4"
+
+#: admin/admin-function.php:51
+msgid "Footer Style 1"
+msgstr "フッタースタイル1"
+
+#: admin/admin-function.php:52
+msgid "Footer Style 2"
+msgstr "フッタースタイル2"
+
+#: admin/admin-function.php:53
+msgid "Footer Style 3"
+msgstr "フッタースタイル3"
+
+#: admin/theme_options.php:47 admin/theme_options.php:48
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: admin/theme_options.php:125
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr "<p> Reduxがグローバル変数を設定していることを知っていましたか？コード内で保存されたオプションにアクセスするには、グローバル変数<strong> $ %1$s </ strong> </ p>を使用します。"
+
+#: admin/theme_options.php:127
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr "<p>このテキストはオプションパネルの上に表示されます。必須ではありませんが、より多くの情報が常に優れています！ intro_textフィールドはすべてのHTMLを受け入れます。</ p>"
+
+#: admin/theme_options.php:131
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr "<p>このテキストはオプションパネルの下に表示されます。必須ではありませんが、より多くの情報が常に優れています！ footer_textフィールドはすべてのHTMLを受け入れます。</ p>"
+
+#: admin/theme_options.php:152
+msgid "General Settings"
+msgstr "一般設定"
+
+#: admin/theme_options.php:159
+msgid "Theme Layout"
+msgstr "テーマのレイアウト"
+
+#: admin/theme_options.php:160
+msgid "Choose theme wide or boxed layout."
+msgstr "テーマワイドまたはボックスレイアウトを選択します。"
+
+#: admin/theme_options.php:177
+msgid "Page Width"
+msgstr "ページ幅"
+
+#: admin/theme_options.php:178
+msgid "Choose one of the pre-defined widths or enter custom one."
+msgstr "あらかじめ定義された幅の1つを選択するか、またはカスタム幅を入力します。"
+
+#: admin/theme_options.php:188
+msgid "Pre-defined Page Width"
+msgstr "あらかじめ定義されたページ幅"
+
+#: admin/theme_options.php:190
+msgid "Wide Screen"
+msgstr "ワイドスクリーン"
+
+#: admin/theme_options.php:191
+msgid "NoteBook"
+msgstr "手帳"
+
+#: admin/theme_options.php:199
+msgid "Custom Page Width"
+msgstr "カスタムページ幅"
+
+#: admin/theme_options.php:207
+msgid "Header Logo"
+msgstr "ヘッダロゴ"
+
+#: admin/theme_options.php:209
+msgid "Upload header logo."
+msgstr "ヘッダーロゴをアップロードします。"
+
+#: admin/theme_options.php:216
+msgid "Sticky Header Logo"
+msgstr "スティッキーヘッダーのロゴ"
+
+#: admin/theme_options.php:218
+msgid "Upload sticky header logo."
+msgstr "粘着性のあるヘッダーロゴをアップロードします。"
+
+#: admin/theme_options.php:225
+msgid "Favicon Icon"
+msgstr "ファビコンアイコン"
+
+#: admin/theme_options.php:227
+msgid "Upload site favicon icon."
+msgstr "サイトのfaviconアイコンをアップロードします。"
+
+#: admin/theme_options.php:233
+msgid "Show Back To Top Button"
+msgstr "トップに戻るボタンを表示する"
+
+#: admin/theme_options.php:234
+msgid "Show back to top button."
+msgstr "トップに戻るボタン。"
+
+#: admin/theme_options.php:236 admin/theme_options.php:245 admin/theme_options.php:1338 admin/theme_options.php:1359
+msgid "On"
+msgstr "に"
+
+#: admin/theme_options.php:237 admin/theme_options.php:246 admin/theme_options.php:1339 admin/theme_options.php:1360 admin/theme_options.php:1665 framework/woocommerce/woo-functions.php:922
+msgid "Off"
+msgstr "オフ"
+
+#: admin/theme_options.php:242
+msgid "Show Login Register Popup"
+msgstr "ログイン登録ポップアップを表示する"
+
+#: admin/theme_options.php:243
+msgid "Show login register in popen or redirect on My Account page."
+msgstr "ログイン情報をpopenに表示するか、マイアカウントページでリダイレクトしてください。"
+
+#: admin/theme_options.php:251
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: admin/theme_options.php:252
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+
+#: admin/theme_options.php:260
+msgid "Theme Styling"
+msgstr "テーマスタイリング"
+
+#: admin/theme_options.php:268
+msgid "Body"
+msgstr "本文"
+
+#: admin/theme_options.php:275
+msgid "Theme Primary Color"
+msgstr "テーマ原色"
+
+#: admin/theme_options.php:281
+msgid "Theme Secondary Color"
+msgstr "テーマセカンダリカラー"
+
+#: admin/theme_options.php:287
+msgid "Body Wrapper Background"
+msgstr "ボディーラッパーの背景"
+
+#: admin/theme_options.php:288
+msgid "Body wrapper background with image, color, etc."
+msgstr "Body background with image, color, etc."
+
+#: admin/theme_options.php:301 admin/theme_options.php:420 admin/theme_options.php:550 admin/theme_options.php:626 admin/theme_options.php:702 admin/theme_options.php:829 admin/theme_options.php:921
+#: admin/theme_options.php:953 admin/theme_options.php:1050
+msgid "Background Opacity"
+msgstr "背景の不透明度"
+
+#: admin/theme_options.php:302
+msgid "Body wrapper background opacity."
+msgstr "ボディラッパーの背景の不透明度。"
+
+#: admin/theme_options.php:313 admin/theme_options.php:473 admin/theme_options.php:562 admin/theme_options.php:580 admin/theme_options.php:650 admin/theme_options.php:721 admin/theme_options.php:777
+#: admin/theme_options.php:848 admin/theme_options.php:972 admin/theme_options.php:1062 admin/theme_options.php:3515
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: admin/theme_options.php:319
+msgid "Heading/Title Color"
+msgstr "見出し/タイトルカラー"
+
+#: admin/theme_options.php:320
+msgid "Body heading color h1, h2, h3, h4, h5, and h6."
+msgstr "ボディ見出しの色はh1、h2、h3、h4、h5、およびh6です。"
+
+#: admin/theme_options.php:326 admin/theme_options.php:479 admin/theme_options.php:568 admin/theme_options.php:638 admin/theme_options.php:727 admin/theme_options.php:978
+msgid "Input Field Background( TextBox, SelectBox, etc..)"
+msgstr "入力フィールドの背景（TextBox、SelectBoxなど）"
+
+#: admin/theme_options.php:332 admin/theme_options.php:485 admin/theme_options.php:574 admin/theme_options.php:644 admin/theme_options.php:733 admin/theme_options.php:984
+msgid "Input Field Color( TextBox, SelectBox, etc..)"
+msgstr "入力フィールドの色（TextBox、SelectBoxなど）"
+
+#: admin/theme_options.php:338 admin/theme_options.php:491 admin/theme_options.php:656 admin/theme_options.php:739 admin/theme_options.php:783 admin/theme_options.php:854 admin/theme_options.php:990
+#: admin/theme_options.php:1068
+msgid "Link Color"
+msgstr "リンクの色"
+
+#: admin/theme_options.php:352
+msgid "Theme Border"
+msgstr "テーマボーダー"
+
+#: admin/theme_options.php:353
+msgid "General border of theme."
+msgstr "テーマの一般的な境界。"
+
+#: admin/theme_options.php:366
+msgid "Theme Border Radius"
+msgstr "テーマの境界半径"
+
+#: admin/theme_options.php:367
+msgid "General border radius of theme."
+msgstr "テーマの一般的なボーダー半径。"
+
+#: admin/theme_options.php:381
+msgid "Body Wrapper Padding"
+msgstr "ボディーラッパーパッディング"
+
+#: admin/theme_options.php:382
+msgid "Default padding in px: 0 0"
+msgstr "pxのデフォルトパディング：0 0"
+
+#: admin/theme_options.php:393 admin/theme_options.php:1152 admin/theme_options.php:3484
+msgid "Header"
+msgstr "ヘッダー"
+
+#: admin/theme_options.php:401
+msgid "Header Wrapper Background."
+msgstr "ヘッダーラッパーの背景。"
+
+#: admin/theme_options.php:406 admin/theme_options.php:447 admin/theme_options.php:536 admin/theme_options.php:688 admin/theme_options.php:771 admin/theme_options.php:815 admin/theme_options.php:907
+#: admin/theme_options.php:939 admin/theme_options.php:1036 admin/theme_options.php:3578
+msgid "Background Color"
+msgstr "Background Color"
+
+#: admin/theme_options.php:407
+msgid "Header wrapper background with image, color, etc."
+msgstr "画像、色などを含むヘッダラッパーの背景"
+
+#: admin/theme_options.php:421
+msgid "Header wrapper background opacity."
+msgstr "ヘッダーラッパーの背景の不透明度。"
+
+#: admin/theme_options.php:432
+msgid "Header Overlay"
+msgstr "ヘッダーオーバーレイ"
+
+#: admin/theme_options.php:433
+msgid ""
+"Header overlay on home page slider. Note:- When you use header overlay on home page slider, at this time no any effect background color on topbar, header and navigation in home page header. But "
+"background color  work/effect in other all pages."
+msgstr ""
+"ホームページスライダーのヘッダーオーバーレイ。注： - ホームページスライダーでヘッダーオーバーレイを使用すると、この時点でトップページ、ヘッダー、ホームページヘッダー内のナビゲーションに効果の背景色"
+"はありません。しかし、他のすべてのページで背景色の効果/効果。"
+
+#: admin/theme_options.php:434 admin/theme_options.php:1169 admin/theme_options.php:1177 admin/theme_options.php:1329 admin/theme_options.php:1627 admin/theme_options.php:1958
+#: admin/theme_options.php:2112 admin/theme_options.php:2403 admin/theme_options.php:2412 admin/theme_options.php:2421 admin/theme_options.php:2685 admin/theme_options.php:2704
+#: admin/theme_options.php:3337 admin/theme_options.php:3367 admin/theme_options.php:3424 admin/theme_options.php:3449 admin/theme_options.php:3539 admin/theme_options.php:3619
+#: admin/theme_options.php:3695
+msgid "Enable"
+msgstr "有効"
+
+#: admin/theme_options.php:435 admin/theme_options.php:1170 admin/theme_options.php:1178 admin/theme_options.php:1330 admin/theme_options.php:1628 admin/theme_options.php:1959
+#: admin/theme_options.php:2113 admin/theme_options.php:2404 admin/theme_options.php:2413 admin/theme_options.php:2422 admin/theme_options.php:2686 admin/theme_options.php:2705
+#: admin/theme_options.php:3338 admin/theme_options.php:3368 admin/theme_options.php:3425 admin/theme_options.php:3450 admin/theme_options.php:3540 admin/theme_options.php:3620
+#: admin/theme_options.php:3696
+msgid "Disable"
+msgstr "無効"
+
+#: admin/theme_options.php:442
+msgid "Header Middle Background."
+msgstr "ヘッダー中間の背景。"
+
+#: admin/theme_options.php:448
+msgid "Header middle background with image, color, etc."
+msgstr "画像、色などを含むヘッダの中間の背景"
+
+#: admin/theme_options.php:461
+msgid "Opacity"
+msgstr "透過度"
+
+#: admin/theme_options.php:462
+msgid "Header background opacity."
+msgstr "ヘッダーの背景の不透明度。"
+
+#: admin/theme_options.php:501
+msgid "Header Border"
+msgstr "ヘッダーボーダー"
+
+#: admin/theme_options.php:502 admin/theme_options.php:591
+msgid "Set Header border."
+msgstr "ヘッダーの境界線を設定します。"
+
+#: admin/theme_options.php:519 admin/theme_options.php:882 admin/theme_options.php:1017 admin/theme_options.php:1095
+msgid "Content Padding"
+msgstr "コンテンツの埋め込み"
+
+#: admin/theme_options.php:520
+msgid "Default padding in px: 24 24"
+msgstr "pxのデフォルトパディング：24 24"
+
+#: admin/theme_options.php:531 admin/theme_options.php:1168
+msgid "Sticky Header"
+msgstr "スティッキーヘッダー"
+
+#: admin/theme_options.php:537
+msgid "Sticky Header background with image, color, etc."
+msgstr "画像、色などの付いたスティッキーヘッダーの背景"
+
+#: admin/theme_options.php:551
+msgid "Sticky header background opacity."
+msgstr "スティッキーヘッダの背景の不透明度。"
+
+#: admin/theme_options.php:590
+msgid "Sticky Header Border"
+msgstr "スティッキーヘッダーボーダー"
+
+#: admin/theme_options.php:605
+msgid "Topbar"
+msgstr "トップバー"
+
+#: admin/theme_options.php:612
+msgid " Topbar Background"
+msgstr "トップバーの背景"
+
+#: admin/theme_options.php:613
+msgid "Topbar background with image, color, etc."
+msgstr "画像、色などを含むトップバーの背景"
+
+#: admin/theme_options.php:627
+msgid "Topbar background opacity."
+msgstr "トップバー背景の不透明度。"
+
+#: admin/theme_options.php:666
+msgid "Topbar Border"
+msgstr "トップバーボーダー"
+
+#: admin/theme_options.php:667
+msgid "Set topbar border."
+msgstr "トップバーの境界を設定します。"
+
+#: admin/theme_options.php:681
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: admin/theme_options.php:689
+msgid "Navigation background with image, color, etc."
+msgstr "画像、色などのナビゲーション・バックグラウンド"
+
+#: admin/theme_options.php:703
+msgid "Navigation background opacity."
+msgstr "ナビゲーションの背景不透明度。"
+
+#: admin/theme_options.php:714
+msgid "Secondary Background Color"
+msgstr "二次背景色"
+
+#: admin/theme_options.php:715
+msgid "Secondary navigation background color."
+msgstr "セカンダリナビゲーション背景色。"
+
+#: admin/theme_options.php:749
+msgid "Navigation Border"
+msgstr "ナビゲーション枠"
+
+#: admin/theme_options.php:750
+msgid "Set Navigation border."
+msgstr "ナビゲーション枠を設定します。"
+
+#: admin/theme_options.php:764 inc/theme-function.php:805
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/theme_options.php:793
+msgid "Menu Border"
+msgstr "メニューの境界:"
+
+#: admin/theme_options.php:794
+msgid "Set Menu border."
+msgstr "メニューの境界線を設定します。"
+
+#: admin/theme_options.php:808 admin/theme_options.php:1466
+msgid "Page Heading"
+msgstr "ページ見出し"
+
+#: admin/theme_options.php:816
+msgid "Page heading background with image, color, etc."
+msgstr "画像、色などを含むページ見出しの背景"
+
+#: admin/theme_options.php:830
+msgid "Page heading background opacity."
+msgstr "ページ見出しの背景の不透明度。"
+
+#: admin/theme_options.php:841
+msgid "Page Heading/Title Color"
+msgstr "ページ見出し/タイトルカラー"
+
+#: admin/theme_options.php:842
+msgid "Page heading/title color."
+msgstr "ページの見出し/タイトルの色。"
+
+#: admin/theme_options.php:864
+msgid "Page Heading Border"
+msgstr "ページ見出し境界"
+
+#: admin/theme_options.php:865
+msgid "Set page heading border."
+msgstr "ページ見出しの境界線を設定します。"
+
+#: admin/theme_options.php:883
+msgid "Default padding in px: 10 10"
+msgstr "pxのデフォルトパディング：10 10"
+
+#: admin/theme_options.php:894 admin/theme_options.php:1523 admin/theme_options.php:3485
+msgid "Footer"
+msgstr "フッター"
+
+#: admin/theme_options.php:902
+msgid "Footer Wrapper Background."
+msgstr "フッターラッパーの背景。"
+
+#: admin/theme_options.php:908
+msgid "Footer wrapper background with image, color, etc."
+msgstr "画像、色などを含むフッターラッパーの背景"
+
+#: admin/theme_options.php:922
+msgid "Footer wrapper background opacity."
+msgstr "フッターラッパーの背景の不透明度。"
+
+#: admin/theme_options.php:934
+msgid "Footer Top/Middle Background."
+msgstr "フッタートップ/ミドルバックグラウンド。"
+
+#: admin/theme_options.php:940
+msgid "Footer top/middle background with image, color, etc."
+msgstr "画像、色などを含むフッタートップ/ミドル背景"
+
+#: admin/theme_options.php:954
+msgid "Footer background opacity."
+msgstr "フッターの背景の不透明度。"
+
+#: admin/theme_options.php:965
+msgid "Heading Color"
+msgstr "見出し色"
+
+#: admin/theme_options.php:966
+msgid "Footer heading color."
+msgstr "フッター見出しの色。"
+
+#: admin/theme_options.php:1000
+msgid "Footer Border"
+msgstr "フッターボーダー"
+
+#: admin/theme_options.php:1018
+msgid "Default padding in px: 42 42"
+msgstr "pxのデフォルトパディング：42 42"
+
+#: admin/theme_options.php:1029 admin/theme_options.php:1549
+msgid "Copyright"
+msgstr "著作権"
+
+#: admin/theme_options.php:1037
+msgid "Copyright background with image, color, etc."
+msgstr "画像、色などの著作権の背景"
+
+#: admin/theme_options.php:1051
+msgid "Copyright background opacity."
+msgstr "著作権の背景不透明度。"
+
+#: admin/theme_options.php:1078
+msgid "Copyright Border"
+msgstr "著作権ボーダー"
+
+#: admin/theme_options.php:1096
+msgid "Default padding: 14 14"
+msgstr "デフォルトのパディング：14 14"
+
+#: admin/theme_options.php:1108
+msgid "Theme Typography"
+msgstr "テーマのタイポグラフィー"
+
+#: admin/theme_options.php:1116
+msgid "Google Font Character Sets"
+msgstr "Googleフォントの文字セット"
+
+#: admin/theme_options.php:1117
+msgid "Select google font character sets"
+msgstr "Googleフォントの文字セットを選択"
+
+#: admin/theme_options.php:1132
+msgid "Body Font"
+msgstr "ボディーフォント"
+
+#: admin/theme_options.php:1160
+msgid "Header Layout"
+msgstr "ヘッダレイアウト"
+
+#: admin/theme_options.php:1161
+msgid "Choose Your header style/layout."
+msgstr "ヘッダースタイル/レイアウトを選択します。"
+
+#: admin/theme_options.php:1176
+msgid "Sticky Header In Mobile"
+msgstr "移動式のスティッキーヘッダー"
+
+#: admin/theme_options.php:1185
+msgid "Select Sticky Header Part"
+msgstr "スティッキヘッダーパートを選択"
+
+#: admin/theme_options.php:1187
+msgid "Topbar Header"
+msgstr "トップバーヘッダー"
+
+#: admin/theme_options.php:1188
+msgid "Middle Header"
+msgstr "中間ヘッダー"
+
+#: admin/theme_options.php:1189
+msgid "Navigation Header"
+msgstr "ナビゲーションヘッダー"
+
+#: admin/theme_options.php:1197
+msgid "Show Header Topbar"
+msgstr "ヘッダーのトップバーを表示"
+
+#: admin/theme_options.php:1198
+msgid "Show header topbar on header."
+msgstr "ヘッダーにヘッダーのトップバーを表示します。"
+
+#: admin/theme_options.php:1199 admin/theme_options.php:1208 admin/theme_options.php:1218 admin/theme_options.php:1228 admin/theme_options.php:1246 admin/theme_options.php:1264
+#: admin/theme_options.php:1282 admin/theme_options.php:1292 admin/theme_options.php:1310 admin/theme_options.php:1369 admin/theme_options.php:1378 admin/theme_options.php:1387
+#: admin/theme_options.php:1558 admin/theme_options.php:1618 admin/theme_options.php:1636 admin/theme_options.php:1644 admin/theme_options.php:1686 admin/theme_options.php:1720
+#: admin/theme_options.php:1743 admin/theme_options.php:1839 admin/theme_options.php:1976 admin/theme_options.php:1984 admin/theme_options.php:1992 admin/theme_options.php:2001
+#: admin/theme_options.php:2009 admin/theme_options.php:2018 admin/theme_options.php:2027 admin/theme_options.php:2036 admin/theme_options.php:2045 admin/theme_options.php:2054
+#: admin/theme_options.php:2139 admin/theme_options.php:2147 admin/theme_options.php:2156 admin/theme_options.php:2165 admin/theme_options.php:2174 admin/theme_options.php:2183
+#: admin/theme_options.php:2191 admin/theme_options.php:2199 admin/theme_options.php:2207 admin/theme_options.php:2225 admin/theme_options.php:2247 admin/theme_options.php:2255
+#: admin/theme_options.php:2294 admin/theme_options.php:2302 admin/theme_options.php:2363 admin/theme_options.php:2383 admin/theme_options.php:2492 admin/theme_options.php:2500
+#: admin/theme_options.php:2545 admin/theme_options.php:2553 admin/theme_options.php:2561 admin/theme_options.php:2585 admin/theme_options.php:2605 admin/theme_options.php:2652
+#: admin/theme_options.php:2660 admin/theme_options.php:2668 admin/theme_options.php:2694 admin/theme_options.php:2714 admin/theme_options.php:2774 admin/theme_options.php:2782
+#: admin/theme_options.php:2880 admin/theme_options.php:2888 admin/theme_options.php:2896 admin/theme_options.php:2904 admin/theme_options.php:2948 admin/theme_options.php:2957
+#: admin/theme_options.php:3019 admin/theme_options.php:3027 admin/theme_options.php:3087 admin/theme_options.php:3095 admin/theme_options.php:3132 admin/theme_options.php:3244
+#: admin/theme_options.php:3263 admin/theme_options.php:3272 admin/theme_options.php:3281 admin/theme_options.php:3290 admin/theme_options.php:3299 admin/theme_options.php:3308
+#: admin/theme_options.php:3317
+msgid "Show"
+msgstr "表示"
+
+#: admin/theme_options.php:1200 admin/theme_options.php:1209 admin/theme_options.php:1219 admin/theme_options.php:1229 admin/theme_options.php:1247 admin/theme_options.php:1265
+#: admin/theme_options.php:1283 admin/theme_options.php:1293 admin/theme_options.php:1311 admin/theme_options.php:1370 admin/theme_options.php:1379 admin/theme_options.php:1388
+#: admin/theme_options.php:1559 admin/theme_options.php:1619 admin/theme_options.php:1637 admin/theme_options.php:1645 admin/theme_options.php:1687 admin/theme_options.php:1721
+#: admin/theme_options.php:1744 admin/theme_options.php:1840 admin/theme_options.php:1977 admin/theme_options.php:1985 admin/theme_options.php:1993 admin/theme_options.php:2002
+#: admin/theme_options.php:2010 admin/theme_options.php:2019 admin/theme_options.php:2028 admin/theme_options.php:2037 admin/theme_options.php:2046 admin/theme_options.php:2055
+#: admin/theme_options.php:2140 admin/theme_options.php:2148 admin/theme_options.php:2157 admin/theme_options.php:2166 admin/theme_options.php:2175 admin/theme_options.php:2184
+#: admin/theme_options.php:2192 admin/theme_options.php:2200 admin/theme_options.php:2208 admin/theme_options.php:2226 admin/theme_options.php:2248 admin/theme_options.php:2256
+#: admin/theme_options.php:2295 admin/theme_options.php:2303 admin/theme_options.php:2364 admin/theme_options.php:2384 admin/theme_options.php:2493 admin/theme_options.php:2501
+#: admin/theme_options.php:2546 admin/theme_options.php:2554 admin/theme_options.php:2562 admin/theme_options.php:2586 admin/theme_options.php:2606 admin/theme_options.php:2653
+#: admin/theme_options.php:2661 admin/theme_options.php:2669 admin/theme_options.php:2695 admin/theme_options.php:2715 admin/theme_options.php:2775 admin/theme_options.php:2783
+#: admin/theme_options.php:2881 admin/theme_options.php:2889 admin/theme_options.php:2897 admin/theme_options.php:2905 admin/theme_options.php:2949 admin/theme_options.php:2958
+#: admin/theme_options.php:3020 admin/theme_options.php:3028 admin/theme_options.php:3088 admin/theme_options.php:3096 admin/theme_options.php:3133 admin/theme_options.php:3245
+#: admin/theme_options.php:3264 admin/theme_options.php:3273 admin/theme_options.php:3282 admin/theme_options.php:3291 admin/theme_options.php:3300 admin/theme_options.php:3309
+#: admin/theme_options.php:3318
+msgid "Hide"
+msgstr "隠す "
+
+#: admin/theme_options.php:1206
+msgid "Show Language Switcher"
+msgstr "言語スイッチャーを表示する"
+
+#: admin/theme_options.php:1207
+msgid "Show language switcher on topbar."
+msgstr "トップバーに言語切り替えを表示する。"
+
+#: admin/theme_options.php:1216
+msgid "Show Currency Switcher"
+msgstr "通貨スイッチャーを表示する"
+
+#: admin/theme_options.php:1217
+msgid "Show currency switcher on topbar."
+msgstr "トップバーに通貨スイッチャーを表示する。"
+
+#: admin/theme_options.php:1226
+msgid "Show Topbar Email"
+msgstr "トップバーメールを表示する"
+
+#: admin/theme_options.php:1227
+msgid "Show email address on topbar."
+msgstr "トップバーにメールアドレスを表示する。"
+
+#: admin/theme_options.php:1236
+msgid "Enter Topbar Email"
+msgstr "トップバーメールを入力"
+
+#: admin/theme_options.php:1237
+msgid "Enter topbar email address."
+msgstr "トップバーのメールアドレスを入力してください。"
+
+#: admin/theme_options.php:1244
+msgid "Show Topbar Number"
+msgstr "トップバー番号を表示する"
+
+#: admin/theme_options.php:1245
+msgid "Show mobile number on topbar."
+msgstr "トップバーに携帯電話番号を表示する"
+
+#: admin/theme_options.php:1254
+msgid "Enter Topbar Number"
+msgstr "トップバー番号を入力"
+
+#: admin/theme_options.php:1255
+msgid "Enter topbar mobile number."
+msgstr "トップバーの携帯電話番号を入力します。"
+
+#: admin/theme_options.php:1262
+msgid "Show Topbar News"
+msgstr "トップバーニュースを表示"
+
+#: admin/theme_options.php:1263
+msgid "Show news on topbar."
+msgstr "トップバーにニュースを表示する。"
+
+#: admin/theme_options.php:1272
+msgid "Enter Topbar News"
+msgstr "トップバーニュースに入る"
+
+#: admin/theme_options.php:1273
+msgid "Enter topbar news in \"a\" tab."
+msgstr "\\ \"a \"タブにトップバーニュースを入力してください。"
+
+#: admin/theme_options.php:1280
+msgid "Show Topbar Social Link"
+msgstr "トップバーを表示ソーシャルリンク"
+
+#: admin/theme_options.php:1281
+msgid "Show social link on topbar."
+msgstr "トップバーにソーシャルリンクを表示する。"
+
+#: admin/theme_options.php:1290
+msgid "Show Topbar Welcome Message"
+msgstr "トップバーにメッセージを表示する"
+
+#: admin/theme_options.php:1291
+msgid "Show welcome message on topbar."
+msgstr "トップバーにウェルカムメッセージを表示します。"
+
+#: admin/theme_options.php:1300
+msgid "Enter Topbar Welcome Message"
+msgstr "Topbarへようこそメッセージを入力"
+
+#: admin/theme_options.php:1301
+msgid "Enter topbar welcome message."
+msgstr "トップバーのウェルカムメッセージを入力してください。"
+
+#: admin/theme_options.php:1308
+msgid "Show Topbar Help"
+msgstr "トップバーヘルプを表示する"
+
+#: admin/theme_options.php:1309
+msgid "Show help on topbar."
+msgstr "トップバーにヘルプを表示する。"
+
+#: admin/theme_options.php:1318
+msgid "Enter Help Link"
+msgstr "ヘルプリンクを入力"
+
+#: admin/theme_options.php:1319
+msgid "Enter help link. of topbar"
+msgstr "ヘルプリンクを入力してください。トップバーの"
+
+#: admin/theme_options.php:1327
+msgid "Product Live/Ajax Search"
+msgstr "プロダクトライブ/ Ajax検索"
+
+#: admin/theme_options.php:1328
+msgid "Live product search or not on header."
+msgstr "ヘッダーにライブプロダクトの検索を行います。"
+
+#: admin/theme_options.php:1336
+msgid "Show Categories Dropdown"
+msgstr "Show Categoriesドロップダウン"
+
+#: admin/theme_options.php:1337
+msgid "Show categories dropdow in product search."
+msgstr "製品検索のカテゴリードロップダウンを表示します。"
+
+#: admin/theme_options.php:1345
+msgid "Search Categories Dropdown"
+msgstr "検索カテゴリドロップダウン"
+
+#: admin/theme_options.php:1346
+msgid "Display categories in search categories dropdow."
+msgstr "検索カテゴリdropdowにカテゴリを表示します。"
+
+#: admin/theme_options.php:1348
+msgid "Show All Categories"
+msgstr "すべてのカテゴリーを表示"
+
+#: admin/theme_options.php:1349
+msgid "Only Parent(top level) Categories"
+msgstr "親（最上位）カテゴリのみ"
+
+#: admin/theme_options.php:1357
+msgid "Show Categories Hierarchical"
+msgstr "階層を表示"
+
+#: admin/theme_options.php:1358
+msgid "Show categories in hierarchical (Must be need to select above option Show All Categories)."
+msgstr "カテゴリを階層で表示する（上記の[すべてのカテゴリを表示]オプションを選択する必要があります）。"
+
+#: admin/theme_options.php:1367
+msgid "Show Cart"
+msgstr "カートを見る"
+
+#: admin/theme_options.php:1368
+msgid "Show cart on header."
+msgstr "ヘッダーにカートを表示する。"
+
+#: admin/theme_options.php:1376
+msgid "Show Wishlist"
+msgstr "欲しいものを表示する"
+
+#: admin/theme_options.php:1377
+msgid "Show wishlist on header."
+msgstr "ヘッダーにウィッシュリストを表示する"
+
+#: admin/theme_options.php:1385
+msgid "Show Campare"
+msgstr "ショーキャンパーレ"
+
+#: admin/theme_options.php:1386
+msgid "Show campare on header."
+msgstr "ヘッダーにキャンパーを表示する。"
+
+#: admin/theme_options.php:1394
+msgid "Header Services Icon 1"
+msgstr "ヘッダーサービスアイコン1"
+
+#: admin/theme_options.php:1400
+msgid "Enter Service Title 1."
+msgstr "サービスタイトル1を入力します。"
+
+#: admin/theme_options.php:1406
+msgid "Enter Service Sort Description 1"
+msgstr "サービスの並べ替えの説明1"
+
+#: admin/theme_options.php:1412 admin/theme_options.php:1430
+msgid "Header Services Icon 3"
+msgstr "ヘッダーサービスアイコン3"
+
+#: admin/theme_options.php:1418
+msgid "Enter Service Title 2"
+msgstr "サービスタイトル2を入力"
+
+#: admin/theme_options.php:1419 inc/theme-function.php:622 inc/theme-function.php:631
+msgid "Free Shipping"
+msgstr "送料無料"
+
+#: admin/theme_options.php:1424
+msgid "Enter Service Sort Description 2"
+msgstr "サービスの並べ替えの説明2"
+
+#: admin/theme_options.php:1425 inc/theme-function.php:623
+msgid "all order over $100."
+msgstr "すべて100ドル以上の注文。"
+
+#: admin/theme_options.php:1436
+msgid "Enter Service Title 3"
+msgstr "サービスタイトル3を入力してください"
+
+#: admin/theme_options.php:1437 inc/theme-function.php:632
+msgid "Return & Exchange"
+msgstr "返品と交換"
+
+#: admin/theme_options.php:1442
+msgid "Enter Service Sort Description 3"
+msgstr "サービスの並べ替えの説明3"
+
+#: admin/theme_options.php:1448
+msgid "Open Categories(Vertical) Menu In Home Page"
+msgstr "開いているカテゴリ（垂直）メニューホームページ"
+
+#: admin/theme_options.php:1449
+msgid "Categories(Vertical) menu open in home page. See demo ex. Electronic."
+msgstr "カテゴリ（縦）メニューはホームページで開きます。デモを見てください。電子。"
+
+#: admin/theme_options.php:1450
+msgid "Open"
+msgstr "オープン"
+
+#: admin/theme_options.php:1451
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/theme_options.php:1457
+msgid "Shopping Categories Title"
+msgstr "ショッピングカテゴリタイトル"
+
+#: admin/theme_options.php:1473
+msgid "Show Page Heading"
+msgstr "ページ見出しを表示する"
+
+#: admin/theme_options.php:1474 admin/theme_options.php:1492 admin/theme_options.php:1513 admin/theme_options.php:1587 admin/theme_options.php:1609 admin/theme_options.php:1904
+#: admin/theme_options.php:2121 admin/theme_options.php:2130 admin/theme_options.php:2277 admin/theme_options.php:2286 admin/theme_options.php:2929 admin/theme_options.php:2939
+#: framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:206 inc/meta-boxes.php:218
+msgid "Yes"
+msgstr "はい"
+
+#: admin/theme_options.php:1475 admin/theme_options.php:1493 admin/theme_options.php:1514 admin/theme_options.php:1588 admin/theme_options.php:1610 admin/theme_options.php:1905
+#: admin/theme_options.php:2122 admin/theme_options.php:2131 admin/theme_options.php:2278 admin/theme_options.php:2287 admin/theme_options.php:2930 admin/theme_options.php:2940
+#: admin/theme_options.php:3434 framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:207 inc/meta-boxes.php:219
+msgid "No"
+msgstr "いいえ"
+
+#: admin/theme_options.php:1482
+msgid "Page Heading Layout"
+msgstr "ページ見出しレイアウト"
+
+#: admin/theme_options.php:1483
+msgid "Choose Your page heading style/layout."
+msgstr "ページ見出しスタイル/レイアウトを選択します。"
+
+#: admin/theme_options.php:1491 admin/theme_options.php:2781 admin/theme_options.php:3026 admin/theme_options.php:3094
+msgid "Show Page Title"
+msgstr "ページタイトルを表示する"
+
+#: admin/theme_options.php:1500
+msgid "Show Title In Page Heading Or Page Content"
+msgstr "ページ見出しまたはページの内容でタイトルを表示する"
+
+#: admin/theme_options.php:1501
+msgid "Show page title in page heading area or page content area."
+msgstr "ページ見出し領域またはページコンテンツ領域にページタイトルを表示します。"
+
+#: admin/theme_options.php:1503
+msgid "In  Page Heading"
+msgstr "ページ見出しに"
+
+#: admin/theme_options.php:1504
+msgid "In Page Content"
+msgstr "ページコンテンツ"
+
+#: admin/theme_options.php:1512 admin/theme_options.php:2773 admin/theme_options.php:3018 admin/theme_options.php:3086
+msgid "Show Page Breadcrumb"
+msgstr "ページブレッドクラムを表示する"
+
+#: admin/theme_options.php:1531
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: admin/theme_options.php:1532
+msgid "Choose Your footer style/layout."
+msgstr "あなたのフッタスタイル/レイアウトを選択してください。"
+
+#: admin/theme_options.php:1542
+msgid "Select Your Popular Categories"
+msgstr "人気のカテゴリーを選択"
+
+#: admin/theme_options.php:1543
+msgid "Select your populare categories and display on footer. But need to be first select footer style third. "
+msgstr "ポップアップカテゴリを選択し、フッターに表示します。しかし、最初にフッタースタイルの3番目を選択する必要があります。"
+
+#: admin/theme_options.php:1550
+msgid "Enter copyright text."
+msgstr "著作権のテキストを入力してください。"
+
+#: admin/theme_options.php:1551
+msgid "&copy; 2017 presslayouts.com. All Rights Reserved."
+msgstr "＆コピー; 2017 presslayouts.com。全著作権所有。"
+
+#: admin/theme_options.php:1556
+msgid "Show Payments Logo"
+msgstr "お支払いを表示するロゴ"
+
+#: admin/theme_options.php:1565
+msgid "Payments Logo Image"
+msgstr "支払いロゴ画像"
+
+#: admin/theme_options.php:1567
+msgid "Upload payments logo image."
+msgstr "支払いロゴ画像をアップロードします。"
+
+#: admin/theme_options.php:1578
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/theme_options.php:1585
+msgid "Manage Password Strength"
+msgstr "パスワードの強さを管理する"
+
+#: admin/theme_options.php:1586
+msgid "Reduce the strength requirement on the woocommerce use login/signup password "
+msgstr "woocommerce使用ログイン/サインアップパスワードの強度要件を減らす"
+
+#: admin/theme_options.php:1594
+msgid "User Password Strength"
+msgstr "ユーザーパスワードの強さ"
+
+#: admin/theme_options.php:1596
+msgid "Strong (default)"
+msgstr "強（デフォルト）"
+
+#: admin/theme_options.php:1597
+msgid "Medium"
+msgstr "中"
+
+#: admin/theme_options.php:1598
+msgid "Weak"
+msgstr "弱い"
+
+#: admin/theme_options.php:1599
+msgid "Very Weak"
+msgstr "非常に弱い"
+
+#: admin/theme_options.php:1607
+msgid "Live Search By Product SKU"
+msgstr "Live Search製品SKU"
+
+#: admin/theme_options.php:1608
+msgid "Live search by product sku or not."
+msgstr "製品によるライブ検索はスキューであるかどうかは関係ありません。"
+
+#: admin/theme_options.php:1616
+msgid "Show Cart Popup"
+msgstr "ショーカートポップアップ"
+
+#: admin/theme_options.php:1617
+msgid "Show cart popup after added product in cart. "
+msgstr "カートに商品を追加した後、カートのポップアップを表示します。"
+
+#: admin/theme_options.php:1625 framework/woocommerce/template-tags.php:208 framework/woocommerce/template-tags.php:284
+msgid "Login To See Price"
+msgstr "ログイン価格を表示する"
+
+#: admin/theme_options.php:1626
+msgid "Show product price after login user. "
+msgstr "ログインユーザーの後に商品価格を表示します。"
+
+#: admin/theme_options.php:1634 admin/theme_options.php:2137
+msgid "Show Product Highlight Labels"
+msgstr "ハイライトラベルを表示する"
+
+#: admin/theme_options.php:1635 admin/theme_options.php:2138
+msgid "Show product highlight labels sale, featured, new and out of stock on product."
+msgstr "製品のハイライトラベルを表示、販売、新商品、在庫切れ"
+
+#: admin/theme_options.php:1643
+msgid "Show Sale Product Highlight Label"
+msgstr "販売商品のハイライトラベルを表示する"
+
+#: admin/theme_options.php:1653
+msgid "Show sale product label in percentages or text."
+msgstr "販売商品のラベルをパーセントまたはテキストで表示します。"
+
+#: admin/theme_options.php:1655
+msgid "Percentages"
+msgstr "パーセンテージ"
+
+#: admin/theme_options.php:1656 inc/meta-boxes.php:136
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/theme_options.php:1664
+msgid "Sale product highlight percentages label text."
+msgstr "販売商品ハイライトパーセンテージラベルテキスト。"
+
+#: admin/theme_options.php:1671
+msgid "Sale product highlight label text."
+msgstr "セール商品ハイライトラベルのテキスト。"
+
+#: admin/theme_options.php:1672 framework/classes/mega-menus.php:547 framework/woocommerce/woo-functions.php:956
+msgid "Sale"
+msgstr "Sale"
+
+#: admin/theme_options.php:1678
+msgid "Sale product highlight label color."
+msgstr "セール商品ハイライトラベルの色。"
+
+#: admin/theme_options.php:1685
+msgid "Show New Product Highlight Label"
+msgstr "新製品のハイライトラベルを表示する"
+
+#: admin/theme_options.php:1694
+msgid "New product highlight label text."
+msgstr "新製品ハイライトラベルのテキスト。"
+
+#: admin/theme_options.php:1695 framework/classes/mega-menus.php:541 framework/woocommerce/woo-functions.php:903
+msgid "New"
+msgstr "連絡先を追加"
+
+#: admin/theme_options.php:1701
+msgid "Enter number of days to newness."
+msgstr "新しくなるまでの日数を入力します。"
+
+#: admin/theme_options.php:1712
+msgid "New product highlight label color."
+msgstr "新製品ハイライトラベルの色。"
+
+#: admin/theme_options.php:1719
+msgid "Show Featured Product Highlight Label"
+msgstr "注目商品ハイライトラベルを表示"
+
+#: admin/theme_options.php:1728
+msgid "Featured product highlight label text."
+msgstr "注目商品ハイライトラベルのテキスト。"
+
+#: admin/theme_options.php:1729 dokan/store-lists-loop.php:24 framework/woocommerce/woo-functions.php:913 inc/template-tags.php:50
+msgid "Featured"
+msgstr "おすすめ"
+
+#: admin/theme_options.php:1735
+msgid "Featured product highlight label color."
+msgstr "注目商品ハイライトラベルの色。"
+
+#: admin/theme_options.php:1742
+msgid "Show Out Of Stock Product Highlight Label"
+msgstr "商品のハイライトラベルを表示する"
+
+#: admin/theme_options.php:1751
+msgid "out of stock product highlight label text."
+msgstr "在庫切れのハイライトラベルテキスト。"
+
+#: admin/theme_options.php:1752 framework/woocommerce/woo-functions.php:891
+msgid "Out Of Stock"
+msgstr "在庫なし"
+
+#: admin/theme_options.php:1758
+msgid "out of stock product highlight label color."
+msgstr "品切れハイライトラベルの色。"
+
+#: admin/theme_options.php:1765
+msgid "Apply opacity on out of stock product."
+msgstr "在庫切れの商品に不透明度を適用します。"
+
+#: admin/theme_options.php:1781
+msgid "Shop/Category"
+msgstr "ショップ/カテゴリ"
+
+#: admin/theme_options.php:1788
+msgid "Shop Page Layout"
+msgstr "ショップのページレイアウト"
+
+#: admin/theme_options.php:1789
+msgid "Select shop page layout with sidebar postion."
+msgstr "サイドバーの位置を持つショップページのレイアウトを選択します。"
+
+#: admin/theme_options.php:1810
+msgid "Select widget and display in sidebar on shop page."
+msgstr "ショップページのサイドバーにウィジェットを選択して表示します。"
+
+#: admin/theme_options.php:1818
+msgid "Show Banner, Sub Categories & Brands"
+msgstr "ショーバナー、サブカテゴリ＆ブランド"
+
+#: admin/theme_options.php:1819
+msgid "Show category banner, sub categories and brands on category page."
+msgstr "カテゴリページのカテゴリーバナー、サブカテゴリー、ブランドを表示します。"
+
+#: admin/theme_options.php:1822
+msgid "Category Banner"
+msgstr "カテゴリバナー"
+
+#: admin/theme_options.php:1823
+msgid "Sub Category"
+msgstr "サブカテゴリ"
+
+#: admin/theme_options.php:1824
+msgid "Category Brands"
+msgstr "カテゴリブランド"
+
+#: admin/theme_options.php:1831
+msgid "Sub Categories Style"
+msgstr "サブカテゴリースタイル"
+
+#: admin/theme_options.php:1832
+msgid "Only Sub Categories"
+msgstr "サブカテゴリーのみ"
+
+#: admin/theme_options.php:1832
+msgid "Sub Categories With Inner"
+msgstr "サブカテゴリーとインナー"
+
+#: admin/theme_options.php:1838
+msgid "Show Product Category Description"
+msgstr "商品カテゴリの説明を表示"
+
+#: admin/theme_options.php:1846
+msgid "Show Product Description Position"
+msgstr "商品説明の表示位置"
+
+#: admin/theme_options.php:1848 admin/theme_options.php:3495
+msgid "Top"
+msgstr "先頭"
+
+#: admin/theme_options.php:1849 admin/theme_options.php:3496
+msgid "Bottom"
+msgstr "最後"
+
+#: admin/theme_options.php:1857
+msgid "Product Layout Style"
+msgstr "製品レイアウトスタイル"
+
+#: admin/theme_options.php:1859
+msgid "Product Style 1"
+msgstr "商品スタイル1"
+
+#: admin/theme_options.php:1860
+msgid "Product Style 2"
+msgstr "商品スタイル2"
+
+#: admin/theme_options.php:1861
+msgid "Product Style 3"
+msgstr "商品スタイル3"
+
+#: admin/theme_options.php:1868
+msgid "Product Image Hover Style"
+msgstr "商品画像ホバースタイル"
+
+#: admin/theme_options.php:1869 admin/theme_options.php:1940 admin/theme_options.php:2621 admin/theme_options.php:2813 admin/theme_options.php:2851 inc/customizer.php:92
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/theme_options.php:1869
+msgid "Image Switch"
+msgstr "イメージスイッチ"
+
+#: admin/theme_options.php:1869
+msgid "Image Auto Play Slider"
+msgstr "画像自動再生スライダ"
+
+#: admin/theme_options.php:1869
+msgid "Image Slider"
+msgstr "イメージスライダ"
+
+#: admin/theme_options.php:1875
+msgid "Show Products Per Row"
+msgstr "行ごとの製品を表示する"
+
+#: admin/theme_options.php:1879
+msgid "6 (In full width)"
+msgstr "6（全幅）"
+
+#: admin/theme_options.php:1886
+msgid "Show Products Per Row In Mobile"
+msgstr "モバイルで行単位で商品を表示"
+
+#: admin/theme_options.php:1896
+msgid "Show Number Of Products Per Page"
+msgstr "ページあたりの製品数を表示"
+
+#: admin/theme_options.php:1903
+msgid "Show Grid/List View Button"
+msgstr "グリッド表示/リスト表示ボタン"
+
+#: admin/theme_options.php:1911
+msgid "Enable Product View Style"
+msgstr "製品ビュースタイルを有効にする"
+
+#: admin/theme_options.php:1914 admin/theme_options.php:1927
+msgid "Grid"
+msgstr "Grid"
+
+#: admin/theme_options.php:1915 admin/theme_options.php:1928
+msgid "Expand Grid"
+msgstr "グリッドを展開"
+
+#: admin/theme_options.php:1916 admin/theme_options.php:1929
+msgid "List"
+msgstr "リスト"
+
+#: admin/theme_options.php:1917 admin/theme_options.php:1930
+msgid "Thin List"
+msgstr "細いリスト"
+
+#: admin/theme_options.php:1925
+msgid "Default Product View Style"
+msgstr "デフォルトの製品ビュースタイル"
+
+#: admin/theme_options.php:1938
+msgid "Products Pagination Style"
+msgstr "製品ページ区切りスタイル"
+
+#: admin/theme_options.php:1941 admin/theme_options.php:2622 admin/theme_options.php:2852
+msgid "Infinity Scroll"
+msgstr "インフィニティスクロール"
+
+#: admin/theme_options.php:1942 admin/theme_options.php:2623 admin/theme_options.php:2853
+msgid "Load More Button"
+msgstr "ボタンをもっと読み込む"
+
+#: admin/theme_options.php:1943 admin/theme_options.php:2624 admin/theme_options.php:2854
+msgid "AJAX Pagination"
+msgstr "AJAXページネーション"
+
+#: admin/theme_options.php:1950 admin/theme_options.php:2631 admin/theme_options.php:2861
+msgid "Load More Button Text"
+msgstr "詳細ボタンテキストを読み込む"
+
+#: admin/theme_options.php:1956
+msgid "Enable Lazy Load"
+msgstr "レイジーロードを有効にする"
+
+#: admin/theme_options.php:1957
+msgid "Enable lazy load product image."
+msgstr "レイジーロードプロダクトイメージを有効にします。"
+
+#: admin/theme_options.php:1965
+msgid "Lazy Load Animation Style"
+msgstr "レイジーロードアニメーションスタイル"
+
+#: admin/theme_options.php:1966
+msgid "Different styles of lazy load animation."
+msgstr "遅延ロードアニメーションのさまざまなスタイル。"
+
+#: admin/theme_options.php:1974
+msgid "Show Products Per Page Dropdown"
+msgstr "ページごとのドロップダウンリストを表示する"
+
+#: admin/theme_options.php:1975
+msgid "Show products per page dropdow on shop page."
+msgstr "ショップページの1ページあたりの製品を表示します。"
+
+#: admin/theme_options.php:1983
+msgid "Show Product Price"
+msgstr "製品価格を表示"
+
+#: admin/theme_options.php:1991 admin/theme_options.php:2190
+msgid "Show Product Rating"
+msgstr "商品評価を表示する"
+
+#: admin/theme_options.php:1999
+msgid "Show Product Buttons"
+msgstr "製品ボタンを表示する"
+
+#: admin/theme_options.php:2000
+msgid "Show product buttons cart, wishlist, compare, quick view etc."
+msgstr "商品のボタンを表示するカート、ウィッシュリスト、比較、クイックビューなど"
+
+#: admin/theme_options.php:2008
+msgid "Show Cart Button"
+msgstr "ショーカートボタン"
+
+#: admin/theme_options.php:2017
+msgid "Show Wishlist Button"
+msgstr "ウィッシュリストボタンを表示"
+
+#: admin/theme_options.php:2026
+msgid "Show Compare Button"
+msgstr "比較ボタンを表示"
+
+#: admin/theme_options.php:2035
+msgid "Show Quick View Button"
+msgstr "クイックビューボタンを表示する"
+
+#: admin/theme_options.php:2044
+msgid "Show short Description"
+msgstr "短い説明を表示"
+
+#: admin/theme_options.php:2052
+msgid "Show Product Variation(Options)"
+msgstr "商品のバリエーションを表示する（オプション）"
+
+#: admin/theme_options.php:2053
+msgid "Show product variation(attribute) on product hover. Like Color, Size, ..."
+msgstr "商品のホバーに商品バリエーション（属性）を表示します。色、サイズ、...のように"
+
+#: admin/theme_options.php:2065
+msgid "Single Product"
+msgstr "単一製品"
+
+#: admin/theme_options.php:2072
+msgid "Single Product Page Layout"
+msgstr "単一商品ページのレイアウト"
+
+#: admin/theme_options.php:2073
+msgid "Select product page layout with sidebar postion."
+msgstr "サイドバーの位置で製品ページのレイアウトを選択します。"
+
+#: admin/theme_options.php:2102 admin/theme_options.php:2341 admin/theme_options.php:2483 admin/theme_options.php:2765 admin/theme_options.php:3077
+msgid "Select Sidebar Widget Area"
+msgstr "サイドバーウィジェット領域を選択"
+
+#: admin/theme_options.php:2103
+msgid "Select widget and display in sidebar on single product page."
+msgstr "ウィジェットを選択し、単一の製品ページのサイドバーに表示します。"
+
+#: admin/theme_options.php:2111
+msgid "Product Image Zoom"
+msgstr "プロダクトイメージズーム"
+
+#: admin/theme_options.php:2119
+msgid "Sticky Product Image Part"
+msgstr "スティッキー製品画像部分"
+
+#: admin/theme_options.php:2120
+msgid "When you scroll the product page at this time you want to stick product image part or not."
+msgstr "この時点で商品ページをスクロールすると、商品画像の一部を貼り付けることができます。"
+
+#: admin/theme_options.php:2128
+msgid "Sticky Product Summary Part"
+msgstr "スティッキー製品の要約部分"
+
+#: admin/theme_options.php:2129
+msgid "When you scroll the product page at this time you want to stick product summary part or not."
+msgstr "この時点で商品ページをスクロールすると、商品の要約部分を貼り付けることができます。"
+
+#: admin/theme_options.php:2146
+msgid "Show Product Highlight Label Sale"
+msgstr "商品ハイライトラベルセールを表示する"
+
+#: admin/theme_options.php:2155
+msgid "Show Product Highlight Label Featured"
+msgstr "製品ハイライトラベルのおすすめを表示"
+
+#: admin/theme_options.php:2164
+msgid "Show Product Highlight Label New"
+msgstr "製品ハイライトラベルを表示するNew"
+
+#: admin/theme_options.php:2173
+msgid "Show Product Highlight Label Out Of Stock"
+msgstr "商品のハイライトラベルを在庫切れにする"
+
+#: admin/theme_options.php:2182
+msgid "Show Product Next/Previous Navigation"
+msgstr "製品を表示する次/前のナビゲーション"
+
+#: admin/theme_options.php:2198
+msgid "Show Product CountDown"
+msgstr "商品カウントダウンを表示する"
+
+#: admin/theme_options.php:2206
+msgid "Show Size Guide"
+msgstr "サイズガイドを表示する"
+
+#: admin/theme_options.php:2215
+msgid "Choose Size Guide Image"
+msgstr "サイズガイド画像を選択"
+
+#: admin/theme_options.php:2223
+msgid "Show Product Meta"
+msgstr "製品メタを表示する"
+
+#: admin/theme_options.php:2224
+msgid "Show or hide product brand, category, tag, etc..."
+msgstr "商品のブランド、カテゴリ、タグなどを表示または非表示にする"
+
+#: admin/theme_options.php:2232
+msgid "Show Specific Product Meta"
+msgstr "特定の製品メタを表示する"
+
+#: admin/theme_options.php:2235
+msgid "Brand"
+msgstr "ブランド"
+
+#: admin/theme_options.php:2236
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/theme_options.php:2237 single-portfolio.php:87
+msgid "Category"
+msgstr "カテゴリー"
+
+#: admin/theme_options.php:2238
+msgid "Tag"
+msgstr "タグ"
+
+#: admin/theme_options.php:2246
+msgid "Show Related Products"
+msgstr "関連商品を表示する"
+
+#: admin/theme_options.php:2254
+msgid "Show Up Sell Products"
+msgstr "商品を表示する"
+
+#: admin/theme_options.php:2262
+msgid "Show Number Of Related/Up Sell Products"
+msgstr "関連する/表示する商品の数を表示する"
+
+#: admin/theme_options.php:2269
+msgid "Select Related/Up Sell Products Show Per Row"
+msgstr "関連する/選択する"
+
+#: admin/theme_options.php:2276 admin/theme_options.php:2684 admin/theme_options.php:2928
+msgid "Enable Carousel Autoplay Mode"
+msgstr "カルセル自動再生モードを有効にする"
+
+#: admin/theme_options.php:2284 admin/theme_options.php:2937
+msgid "Enables Carousel Inifnity Loop"
+msgstr "Carousel Inifnity Loopを有効にする"
+
+#: admin/theme_options.php:2285
+msgid "Enables related/up sell products carousel Inifnity loop. Duplicate last and first products to get loop illusion."
+msgstr "関連/アップ・セールの製品カルーセル・イニフィニティ・ループを有効にします。ループ錯視を得るために最後の製品と最初の製品を複製します。"
+
+#: admin/theme_options.php:2293 admin/theme_options.php:2693 admin/theme_options.php:2947
+msgid "Show Carousel Navigation"
+msgstr "カルセルナビゲーションを表示する"
+
+#: admin/theme_options.php:2301 admin/theme_options.php:2956
+msgid "Show Carousel Dots Navigation"
+msgstr "カルーセルドットを表示するナビゲーション"
+
+#: admin/theme_options.php:2313
+msgid "Dokan"
+msgstr "道場"
+
+#: admin/theme_options.php:2320
+msgid "Dokan Store Page Layout"
+msgstr "Dokan Storeのページレイアウト"
+
+#: admin/theme_options.php:2321
+msgid "Select dokan store page layout with sidebar postion."
+msgstr "サイドバーの位置を指定して住所録のページレイアウトを選択します。"
+
+#: admin/theme_options.php:2342
+msgid "Select widget area and display in sidebar on dokan store page."
+msgstr "ウィジェットエリアを選択して、ドカンストアページのサイドバーに表示します。"
+
+#: admin/theme_options.php:2354
+msgid "WC Vendors"
+msgstr "WCベンダー"
+
+#: admin/theme_options.php:2361
+msgid "Show Sold By Label"
+msgstr "ラベル別に表示する"
+
+#: admin/theme_options.php:2362
+msgid "Show sold by label or not on product."
+msgstr "ショーは商品によってラベルで売られているかどうかは分かりません"
+
+#: admin/theme_options.php:2374 content-page.php:33 content.php:62 image.php:62 page.php:52
+msgid "Page"
+msgstr "ページ"
+
+#: admin/theme_options.php:2381
+msgid "Show Page Comment"
+msgstr "ページのコメントを表示する"
+
+#: admin/theme_options.php:2382
+msgid "Show page comments and comment form or not."
+msgstr "ページコメントとコメントフォームを表示するかどうか。"
+
+#: admin/theme_options.php:2394 inc/meta-boxes.php:242 inc/meta-boxes.php:284
+msgid "Sidebar Widget"
+msgstr "サイドバーウィジェット"
+
+#: admin/theme_options.php:2401
+msgid "Enable Widget Toggle"
+msgstr "ウィジェットを有効にする"
+
+#: admin/theme_options.php:2402
+msgid "Enable page widget toggle or not."
+msgstr "ページウィジェットを有効にするかどうかを切り替えます。"
+
+#: admin/theme_options.php:2410
+msgid "Enable Widget Menu Toggle"
+msgstr "ウィジェットメニューを有効にする"
+
+#: admin/theme_options.php:2411
+msgid "Enable page widget menu toggle or not."
+msgstr "ページウィジェットメニューの切り替えを有効にするかどうかを指定します。"
+
+#: admin/theme_options.php:2419
+msgid "Enable Widget Items Hide"
+msgstr "ウィジェットアイテムを有効にする"
+
+#: admin/theme_options.php:2420
+msgid "Enable widget items hide max limit."
+msgstr "ウィジェットアイテムを有効にすると、最大制限を非表示にします。"
+
+#: admin/theme_options.php:2428
+msgid "Show Number Of Widget Items"
+msgstr "ウィジェットアイテムの数を表示する"
+
+#: admin/theme_options.php:2443
+msgid "Blog"
+msgstr "ブログ"
+
+#: admin/theme_options.php:2455
+msgid "Blog/Archive Page"
+msgstr "ブログ/アーカイブページ"
+
+#: admin/theme_options.php:2462
+msgid "Select Blog Page Layout"
+msgstr "ブログのページレイアウトを選択"
+
+#: admin/theme_options.php:2463
+msgid "Select blog/archive page layout with sidebar postion."
+msgstr "サイドバーの位置でブログ/アーカイブページレイアウトを選択します。"
+
+#: admin/theme_options.php:2491
+msgid "Show Blog Page Breadcrumb"
+msgstr "ブログのページを表示ブレッドクラム"
+
+#: admin/theme_options.php:2499
+msgid "Show Blog Page Title"
+msgstr "ブログのタイトルを表示する"
+
+#: admin/theme_options.php:2507
+msgid "Select Blog Style"
+msgstr "ブログスタイルを選択"
+
+#: admin/theme_options.php:2508
+msgid "Large Image"
+msgstr "大きな画像"
+
+#: admin/theme_options.php:2508
+msgid "Small Image"
+msgstr "小さな画像"
+
+#: admin/theme_options.php:2508
+msgid "Grid Column (Masonry Grid)"
+msgstr "グリッド列（石積みグリッド）"
+
+#: admin/theme_options.php:2514 admin/theme_options.php:2534
+msgid "Select Blog Grid Columns"
+msgstr "ブロググリッドの列を選択"
+
+#: admin/theme_options.php:2515 admin/theme_options.php:2535
+msgid "Show blog grid column of the post/blog page. Column option apply only on above masorny grid column option."
+msgstr "投稿/ブログページのブロググリッド列を表示します。列オプションは、上記の奇妙なグリッド列オプションにのみ適用されます。"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2828 admin/theme_options.php:3036
+msgid "2 Columns"
+msgstr "列"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2829 admin/theme_options.php:3037
+msgid "3 Columns"
+msgstr "列"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:3038
+msgid "4 Columns (In Full Width)"
+msgstr "4列（全幅）"
+
+#: admin/theme_options.php:2523
+msgid "Show Post Per Page"
+msgstr "ページごとに投稿を表示"
+
+#: admin/theme_options.php:2524
+msgid "Show number of post per page."
+msgstr "ページあたりの投稿数を表示します。"
+
+#: admin/theme_options.php:2543
+msgid "Show Blogs Thumbnail"
+msgstr "ブログを表示サムネイル"
+
+#: admin/theme_options.php:2544
+msgid "Show blogs thumbnail or not."
+msgstr "ブログのサムネイルを表示するかどうか。"
+
+#: admin/theme_options.php:2552
+msgid "Show Blogs Date"
+msgstr "ブログの日付を表示する"
+
+#: admin/theme_options.php:2560
+msgid "Show Blogs Meta"
+msgstr "ブログを表示するメタ"
+
+#: admin/theme_options.php:2568
+msgid "Show Specific Post Meta"
+msgstr "特定のポストメタを表示する"
+
+#: admin/theme_options.php:2571
+msgid "Post Format"
+msgstr "投稿形式"
+
+#: admin/theme_options.php:2572
+msgid "Post Author"
+msgstr "投稿者"
+
+#: admin/theme_options.php:2573
+msgid "Post Cats"
+msgstr "ポストキャッツ"
+
+#: admin/theme_options.php:2574
+msgid "Post Tags"
+msgstr "投稿タグ"
+
+#: admin/theme_options.php:2575
+msgid "Comments"
+msgstr "注釈"
+
+#: admin/theme_options.php:2584
+msgid "Show Excerpt"
+msgstr "抜粋を表示"
+
+#: admin/theme_options.php:2592
+msgid "Excerpt Length (words)"
+msgstr "抜粋の長さ（単語）"
+
+#: admin/theme_options.php:2593
+msgid "Show blogs listing content length (words)."
+msgstr "コンテンツの長さ（単語）をリストするブログを表示する。"
+
+#: admin/theme_options.php:2604
+msgid "Show Read More Button"
+msgstr "もっと読むボタンを表示する"
+
+#: admin/theme_options.php:2612
+msgid "Read More Button Text"
+msgstr "もっと読むボタンテキスト"
+
+#: admin/theme_options.php:2613 admin/theme_options.php:3377
+msgid "Read more"
+msgstr "続きを読む"
+
+#: admin/theme_options.php:2619
+msgid "Select Pagination Style Of Blog Page"
+msgstr "ブログページのページ区切りスタイルを選択"
+
+#: admin/theme_options.php:2632 admin/theme_options.php:2862 inc/theme-function.php:1341 inc/theme-function.php:1392
+msgid "Load More"
+msgstr "続きを読む"
+
+#: admin/theme_options.php:2643
+msgid "Single Post"
+msgstr "Single Post"
+
+#: admin/theme_options.php:2650
+msgid "Show Post Thumbnail"
+msgstr "投稿のサムネイルを表示する"
+
+#: admin/theme_options.php:2651
+msgid "Show post thumbnail or not."
+msgstr "投稿のサムネイルを表示するかどうかを指定します。"
+
+#: admin/theme_options.php:2659
+msgid "Show Post Navigation"
+msgstr "投稿ナビゲーションを表示"
+
+#: admin/theme_options.php:2667
+msgid "Show Related Post"
+msgstr "関連する投稿を表示する"
+
+#: admin/theme_options.php:2675
+msgid "Show Post Per Row"
+msgstr "行ごとの投稿を表示"
+
+#: admin/theme_options.php:2676
+msgid "Show number of post per row."
+msgstr "行ごとのポストの数を表示します。"
+
+#: admin/theme_options.php:2702
+msgid "Enable Carousel loop"
+msgstr "カルーセルループを有効にする"
+
+#: admin/theme_options.php:2703
+msgid "Enable blog carousel continue loop."
+msgstr "ブログカルーセル続行ループを有効にする。"
+
+#: admin/theme_options.php:2712
+msgid "Show Post Comment"
+msgstr "コメントを表示する"
+
+#: admin/theme_options.php:2713
+msgid "Show post comments and comment form or not."
+msgstr "投稿コメントとコメントフォームを表示するかどうかを指定します。"
+
+#: admin/theme_options.php:2725
+msgid "Portfolio"
+msgstr "portfolio"
+
+#: admin/theme_options.php:2737
+msgid "Portfolio Archive"
+msgstr "ポートフォリオアーカイブ"
+
+#: admin/theme_options.php:2744
+msgid "Select Archive Page Layout"
+msgstr "アーカイブページレイアウトを選択"
+
+#: admin/theme_options.php:2745
+msgid "Select portfolio archive page layout with sidebar postion."
+msgstr "サイドバーの位置を持つポートフォリオのアーカイブページレイアウトを選択します。"
+
+#: admin/theme_options.php:2789
+msgid "Portfolio Listing Style"
+msgstr "ポートフォリオリスティングスタイル"
+
+#: admin/theme_options.php:2791
+msgid "Portfolio Grid"
+msgstr "ポートフォリオグリッド"
+
+#: admin/theme_options.php:2799
+msgid "Portfolio Grid Style"
+msgstr "ポートフォリオグリッドスタイル"
+
+#: admin/theme_options.php:2801
+msgid "Normal Grid"
+msgstr "ノーマルグリッド"
+
+#: admin/theme_options.php:2802
+msgid "Masonry Grid"
+msgstr "メイソングリッド"
+
+#: admin/theme_options.php:2810
+msgid "Grid Hover Effect"
+msgstr "グリッドホバー効果"
+
+#: admin/theme_options.php:2811
+msgid "Select portfolio grid hover effect."
+msgstr "ポートフォリオグリッドホバー効果を選択します。"
+
+#: admin/theme_options.php:2814
+msgid "Effect 2"
+msgstr "効果"
+
+#: admin/theme_options.php:2815
+msgid "Effect 3"
+msgstr "効果"
+
+#: admin/theme_options.php:2816
+msgid "Effect 4"
+msgstr "効果"
+
+#: admin/theme_options.php:2817
+msgid "Effect 5"
+msgstr "効果"
+
+#: admin/theme_options.php:2825
+msgid "Select Portfolio Columns"
+msgstr "ポートフォリオ列の選択"
+
+#: admin/theme_options.php:2827
+msgid "1 Column"
+msgstr "Column %"
+
+#: admin/theme_options.php:2830
+msgid "4 Columns"
+msgstr "列"
+
+#: admin/theme_options.php:2838
+msgid "Show Portfolio Per Page"
+msgstr "ポートフォリオをページごとに表示"
+
+#: admin/theme_options.php:2839
+msgid "Show number of portfolio per page."
+msgstr "ページあたりのポートフォリオの数を表示します。"
+
+#: admin/theme_options.php:2849
+msgid "Pagination Type"
+msgstr "Pagination Type"
+
+#: admin/theme_options.php:2872
+msgid "Single Portfolio"
+msgstr "シングルポートフォリオ"
+
+#: admin/theme_options.php:2879
+msgid "Show Project Navigation"
+msgstr "プロジェクトナビゲーションを表示"
+
+#: admin/theme_options.php:2887
+msgid "Show Project Informations"
+msgstr "プロジェクト情報を表示する"
+
+#: admin/theme_options.php:2895 admin/theme_options.php:3243
+msgid "Show Social Share Links"
+msgstr "ソーシャルシェアリンクを表示する"
+
+#: admin/theme_options.php:2903
+msgid "Show Related Projects"
+msgstr "関連プロジェクトを表示する"
+
+#: admin/theme_options.php:2911
+msgid "Show Number Of Projects"
+msgstr "プロジェクト数を表示する"
+
+#: admin/theme_options.php:2912
+msgid "Show number of related projects"
+msgstr "関連するプロジェクトの数を表示する"
+
+#: admin/theme_options.php:2920
+msgid "Show Projects Per Row"
+msgstr "行ごとにプロジェクトを表示する"
+
+#: admin/theme_options.php:2938
+msgid "Enables portfolios carousel Inifnity loop. Duplicate last and first projects to get loop illusion."
+msgstr "ポートフォリオカルーセルのInifnityループを有効にします。ループ錯視を得るために、最後のプロジェクトと最初のプロジェクトを複製します。"
+
+#: admin/theme_options.php:2969
+msgid "Testimonial"
+msgstr "お客様の声"
+
+#: admin/theme_options.php:2981
+msgid "Testimonial Archive"
+msgstr "お客様の声"
+
+#: admin/theme_options.php:2988 admin/theme_options.php:3056
+msgid "Select Page Layout"
+msgstr "ページレイアウトの選択"
+
+#: admin/theme_options.php:2989 admin/theme_options.php:3057
+msgid "Select page layout with sidebar postion."
+msgstr "サイドバーの位置を持つページレイアウトを選択します。"
+
+#: admin/theme_options.php:3010
+msgid "Select widget display in sidebar on testimonial archive page."
+msgstr "見積もりアーカイブページのサイドバーにウィジェット表示を選択します。"
+
+#: admin/theme_options.php:3034
+msgid "Select Testimonial Column"
+msgstr "推薦列を選択"
+
+#: admin/theme_options.php:3049
+msgid "Single Testimonial"
+msgstr "単一の証言"
+
+#: admin/theme_options.php:3078
+msgid "Select widget display in sidebar on testimonial page."
+msgstr "証言ページのサイドバーにウィジェット表示を選択します。"
+
+#: admin/theme_options.php:3106
+msgid "404 Page"
+msgstr "１２ページ"
+
+#: admin/theme_options.php:3113
+msgid "Use Text Or Image"
+msgstr "テキストまたは画像を使用する"
+
+#: admin/theme_options.php:3114
+msgid "What a show on 404 page? Text or Image."
+msgstr "404ページにはどのようなショーがありますか？テキストまたは画像。"
+
+#: admin/theme_options.php:3124
+msgid "404 Page Title"
+msgstr "ページのタイトル"
+
+#: admin/theme_options.php:3131
+msgid "Show Previous Page Link"
+msgstr "前のページリンクを表示する"
+
+#: admin/theme_options.php:3140
+msgid "404 Page Tag Line"
+msgstr "404ページのタグライン"
+
+#: admin/theme_options.php:3147
+msgid "Previous Page Link Title"
+msgstr "前のページのリンクのタイトル"
+
+#: admin/theme_options.php:3155
+msgid "404 Page Image"
+msgstr "ページの画像:"
+
+#: admin/theme_options.php:3157
+msgid "Upload 404 page image and show on 404 page."
+msgstr "404ページの画像をアップロードし、404ページに表示します。"
+
+#: admin/theme_options.php:3168
+msgid "Social Link/Share"
+msgstr "ソーシャルリンク/共有"
+
+#: admin/theme_options.php:3176
+msgid "Show or Hide Social link Icon on Header And Footer"
+msgstr "ヘッダーとフッターのソーシャルリンクアイコンの表示/非表示"
+
+#: admin/theme_options.php:3181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/theme_options.php:3182
+msgid "Enter your custom link to show the facebook icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力して、Facebookのアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3188
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/theme_options.php:3189
+msgid "Enter your custom link to show the twitter icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力して、Twitterアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3195
+msgid "Instagram"
+msgstr "インスタグラム"
+
+#: admin/theme_options.php:3196
+msgid "Enter your custom link to show the instagram icon. Leave blank to hide icon."
+msgstr "あなたのカスタムリンクを入力して、Instagramアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3202
+msgid "Linkedin"
+msgstr "LinkedIn:"
+
+#: admin/theme_options.php:3203
+msgid "Enter your custom link to show the linkedin icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力して、リンクインアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3209
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/theme_options.php:3210
+msgid "Enter your custom link to show the flickr icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力して、Flickrアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3216
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/theme_options.php:3217
+msgid "Enter your custom link to show the google plus icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力してGoogleプラスのアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3223
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/theme_options.php:3224
+msgid "Enter your custom link to show the rss icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力してrssアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3230
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme_options.php:3231
+msgid "Enter your custom link to show the pinterest icon. Leave blank to hide icon."
+msgstr "カスタムリンクを入力して、pinterestアイコンを表示します。空白のままにしてアイコンを非表示にします。"
+
+#: admin/theme_options.php:3238
+msgid "Show or Hide Social Sharing Icon on Product, Post and Portfolio"
+msgstr "製品、投稿、ポートフォリオのソーシャル共有アイコンの表示/非表示"
+
+#: admin/theme_options.php:3251
+msgid "Social Sharing Style"
+msgstr "社会的共有スタイル"
+
+#: admin/theme_options.php:3253
+msgid "Style 1"
+msgstr "スタイル1"
+
+#: admin/theme_options.php:3254
+msgid "Style 2"
+msgstr "スタイル2"
+
+#: admin/theme_options.php:3262
+msgid "Facebook Icon"
+msgstr "Facebookのアイコン"
+
+#: admin/theme_options.php:3271
+msgid "Twitter Icon"
+msgstr "Twitterのアイコン"
+
+#: admin/theme_options.php:3280
+msgid "Linkedin Icon"
+msgstr "Linkedinアイコン"
+
+#: admin/theme_options.php:3289
+msgid "Google Plus Icon"
+msgstr "Googleプラスアイコン"
+
+#: admin/theme_options.php:3298
+msgid "StumbleUpon Icon"
+msgstr "StumbleUponアイコン"
+
+#: admin/theme_options.php:3307
+msgid "Pinterest Icon"
+msgstr "Pinterestアイコン"
+
+#: admin/theme_options.php:3316
+msgid "Tumblr Icon"
+msgstr "Tumblrのアイコン"
+
+#: admin/theme_options.php:3329
+msgid "Cookie Notice"
+msgstr "クッキー通知"
+
+#: admin/theme_options.php:3336
+msgid "Cookie Enable or Disable."
+msgstr "Cookieの有効化または無効化。"
+
+#: admin/theme_options.php:3339
+msgid "Cookie notice enable or disable in your site."
+msgstr "サイト内のCookie通知の有効化または無効化。"
+
+#: admin/theme_options.php:3346
+msgid "Enter the cookie title/name."
+msgstr "クッキーのタイトル/名前を入力します。"
+
+#: admin/theme_options.php:3347
+msgid "Cookies Notice"
+msgstr "クッキー通知"
+
+#: admin/theme_options.php:3352
+msgid "Message"
+msgstr "メッセージ"
+
+#: admin/theme_options.php:3353
+msgid "Enter the cookie notice message."
+msgstr "クッキー通知メッセージを入力します。"
+
+#: admin/theme_options.php:3354
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "私たちはあなたのウェブサイトで最高の体験を提供するためにクッキーを使用しています。あなたがこのサイトを使い続けているなら、あなたがそれに満足していると思います。"
+
+#: admin/theme_options.php:3359
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: admin/theme_options.php:3360
+msgid "The text of the option to accept the usage of the cookies and make the notification disappear."
+msgstr "クッキーの使用を受け入れて通知を消すオプションのテキスト。"
+
+#: admin/theme_options.php:3361
+msgid "Yes, I'm Accept"
+msgstr "はい、同意します"
+
+#: admin/theme_options.php:3366
+msgid "More info link"
+msgstr "詳細情報リンク"
+
+#: admin/theme_options.php:3369
+msgid "Enable Read more link."
+msgstr "Enable moreリンクを有効にします。"
+
+#: admin/theme_options.php:3376
+msgid "The text of the more info button."
+msgstr "詳細情報ボタンのテキスト。"
+
+#: admin/theme_options.php:3384
+msgid "Select where to redirect user for more information about cookies."
+msgstr "Cookieの詳細については、ユーザーをリダイレクトする場所を選択してください。"
+
+#: admin/theme_options.php:3386
+msgid "Custom link"
+msgstr "カスタムリンク"
+
+#: admin/theme_options.php:3387
+msgid "Page link"
+msgstr "ページ リンク:"
+
+#: admin/theme_options.php:3396
+msgid "Enter the full URL starting with http://"
+msgstr "http：//で始まる完全なURLを入力します"
+
+#: admin/theme_options.php:3406
+msgid "Select from one of your site's pages"
+msgstr "あなたのサイトのページから選択してください"
+
+#: admin/theme_options.php:3412
+msgid "Link target"
+msgstr "リンク先"
+
+#: admin/theme_options.php:3413 admin/theme_options.php:3466
+msgid "Select the link target for more info page."
+msgstr "詳細情報ページのリンク先を選択してください。"
+
+#: admin/theme_options.php:3423
+msgid "Refuse button"
+msgstr "拒否ボタン"
+
+#: admin/theme_options.php:3426
+msgid "Give to the user the possibility to refuse third party non functional cookies."
+msgstr "第三者以外の機能性のクッキーを拒否する可能性をユーザに与えます。"
+
+#: admin/theme_options.php:3433
+msgid "The text of the option to refuse the usage of the cookies. To get the cookie notice status use emallshop_cn_cookies_accepted() function."
+msgstr "クッキーの使用を拒否するオプションのテキスト。 cookie通知ステータスを取得するには、emallshop_cn_cookies_accepted（）関数を使用します。"
+
+#: admin/theme_options.php:3441
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs). It will be used after cookies are accepted."
+msgstr "ここに非機能的なクッキーのJavascriptコードを入力してください（例：Google Analitycsなど）。クッキーが受け入れられた後に使用されます。"
+
+#: admin/theme_options.php:3448
+msgid "On scroll"
+msgstr "スクロールで"
+
+#: admin/theme_options.php:3451
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr "ユーザーがスクロールしたときにCookie通知の受け入れを有効にします。"
+
+#: admin/theme_options.php:3458
+msgid "Number of pixels user has to scroll to accept the usage of the cookies and make the notification disappear."
+msgstr "Cookieの使用を受け入れて通知を消すために、スクロールしなければならないピクセル数。"
+
+#: admin/theme_options.php:3465
+msgid "Cookie expiry"
+msgstr "Cookieの有効期限"
+
+#: admin/theme_options.php:3468
+msgid "1 day"
+msgstr "1日"
+
+#: admin/theme_options.php:3469
+msgid "1 week"
+msgstr "1週間"
+
+#: admin/theme_options.php:3470
+msgid "1 month"
+msgstr "一ヶ月"
+
+#: admin/theme_options.php:3471
+msgid "3 months"
+msgstr "3 か月"
+
+#: admin/theme_options.php:3472
+msgid "6 months"
+msgstr "Month: {0}%s{/0}"
+
+#: admin/theme_options.php:3473
+msgid "1 year"
+msgstr "年"
+
+#: admin/theme_options.php:3474
+msgid "infinity"
+msgstr "無限遠"
+
+#: admin/theme_options.php:3481
+msgid "Script placement"
+msgstr "スクリプトの配置"
+
+#: admin/theme_options.php:3482
+msgid "Select where all the plugin scripts should be placed."
+msgstr "すべてのプラグインスクリプトを配置する場所を選択します。"
+
+#: admin/theme_options.php:3492
+msgid "Position"
+msgstr "位置"
+
+#: admin/theme_options.php:3493
+msgid "Select location for your cookie notice."
+msgstr "あなたのクッキー通知の場所を選択してください。"
+
+#: admin/theme_options.php:3503
+msgid "Cookie Style"
+msgstr "クッキースタイル"
+
+#: admin/theme_options.php:3504
+msgid "Select style of cookie notice on bottom."
+msgstr "下のクッキー通知のスタイルを選択します。"
+
+#: admin/theme_options.php:3506
+msgid "Bar"
+msgstr "バー"
+
+#: admin/theme_options.php:3507
+msgid "Box"
+msgstr "ボックス"
+
+#: admin/theme_options.php:3521
+msgid "Bar Background Color"
+msgstr "バー背景色"
+
+#: admin/theme_options.php:3531 templates/footer/footer-2.php:16
+msgid "Newsletter"
+msgstr "ニュースレター"
+
+#: admin/theme_options.php:3538
+msgid "Newsletter Enable or Disable."
+msgstr "ニュースレターの有効化または無効化。"
+
+#: admin/theme_options.php:3541
+msgid "Newsletter popup enable or disable in your site."
+msgstr "ニュースレターのポップアップを有効または無効にする"
+
+#: admin/theme_options.php:3548
+msgid "Newsletter Logo"
+msgstr "ニュースレターのロゴ"
+
+#: admin/theme_options.php:3550
+msgid "Upload newsletter logo."
+msgstr "ニュースレターのロゴをアップロードする。"
+
+#: admin/theme_options.php:3557
+msgid "Newsletter Title"
+msgstr "ニュースレターのタイトル"
+
+#: admin/theme_options.php:3558
+msgid "Join Us Now!"
+msgstr "今すぐ参加してください！"
+
+#: admin/theme_options.php:3564
+msgid "Newsletter Tag Line"
+msgstr "ニュースレターのタグライン"
+
+#: admin/theme_options.php:3565
+msgid "Signup today for free and be the first to hear of special promotions, new arrivals and designer news."
+msgstr "今日は無料でサインアップし、特別プロモーション、新着、デザイナーのニュースを最初に聞くことができます。"
+
+#: admin/theme_options.php:3571
+msgid "Newsletter Don't Show Msg"
+msgstr "ニュースレターはメッセージを表示しない"
+
+#: admin/theme_options.php:3572
+msgid "Don't show this popup again"
+msgstr "このポップアップをもう一度表示しない"
+
+#: admin/theme_options.php:3579
+msgid "Newsletter background with image, color, etc."
+msgstr "画像、色などを含むニュースレターの背景"
+
+#: admin/theme_options.php:3593
+msgid "Newsletter Color"
+msgstr "ニュースレターの色"
+
+#: admin/theme_options.php:3600
+msgid "Newsletter Button Color"
+msgstr "ニュースレターのボタンの色"
+
+#: admin/theme_options.php:3611
+msgid "Advanced"
+msgstr "アドバンスド"
+
+#: admin/theme_options.php:3618
+msgid "Site Loader Enable or Disable."
+msgstr "Site Loader有効または無効。"
+
+#: admin/theme_options.php:3621
+msgid "Site loader enable or disable in your site."
+msgstr "サイトのサイトローダーの有効化または無効化。"
+
+#: admin/theme_options.php:3627
+msgid "Site Loading Image"
+msgstr "サイト読み込み画像"
+
+#: admin/theme_options.php:3628
+msgid "Choose one of the pre-defined Loading Image or choose custom one."
+msgstr "あらかじめ定義された読み込みイメージの1つを選択するか、カスタムイメージを選択します。"
+
+#: admin/theme_options.php:3639
+msgid "Site Loader Image"
+msgstr "サイトローダー画像"
+
+#: admin/theme_options.php:3657
+msgid "Choose your Loading Image"
+msgstr "あなたの読み込みイメージを選択してください"
+
+#: admin/theme_options.php:3659
+msgid "Choose your own loading image."
+msgstr "独自の画像を選択してください。"
+
+#: admin/theme_options.php:3666
+msgid "Pagination Loading Image"
+msgstr "ページ区切り読み込みイメージ"
+
+#: admin/theme_options.php:3694
+msgid "Image Lazy Load Enable or Disable."
+msgstr "イメージレイジーロードの有効化または無効化。"
+
+#: admin/theme_options.php:3702
+msgid "Lazy Loading Image"
+msgstr "遅延読み込みイメージ"
+
+#: admin/theme_options.php:3703
+msgid "Choose one of the pre-defined lazy Loading Image or choose custom one."
+msgstr "あらかじめ定義されたレイジーローディングイメージのいずれかを選択するか、カスタムレイジーローディングイメージを選択します。"
+
+#: admin/theme_options.php:3714
+msgid "Lazy loading Image"
+msgstr "レイジーローディング画像"
+
+#: admin/theme_options.php:3737
+msgid "Choose Your Lazy Loading Image"
+msgstr "レイジーローディングイメージを選択する"
+
+#: admin/theme_options.php:3739
+msgid "Choose your own lazy loding background image."
+msgstr "あなた自身の怠惰な背景画像を選択してください。"
+
+#: admin/theme_options.php:3750
+msgid "Custom Code"
+msgstr "カスタムコード"
+
+#: admin/theme_options.php:3757
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: admin/theme_options.php:3758
+msgid "Paste your CSS code here."
+msgstr "Paste your CSS code here."
+
+#: admin/theme_options.php:3767
+msgid "JS Code"
+msgstr "JS Code"
+
+#: admin/theme_options.php:3768
+msgid "Paste your JS code here."
+msgstr "Paste your JS code here."
+
+#: admin/theme_options.php:3781
+msgid "Import Demo"
+msgstr "デモのインポート"
+
+#: admin/theme_options.php:3788
+msgid "Import Demo Data"
+msgstr "デモデータのインポート"
+
+#: admin/theme_options.php:3789
+msgid ""
+"Importing demo content will copy sliders, widget, theme options, products data, posts, pages and portfolio posts, this will replicate the live demo. <br>The Demo Importer will not import the "
+"images we have used in our live demos, due to copyright / license reasons. <br>Choose any one preset layout and click on it thumb image. It can also take a minute to complete."
+msgstr ""
+"デモコンテンツをインポートすると、スライダ、ウィジェット、テーマオプション、製品データ、投稿、ページ、ポートフォリオの投稿がコピーされ、ライブデモが複製されます。 <br>デモインポータは、著作権/ライ"
+"センスの理由により、ライブデモで使用した画像をインポートしません。 <br>任意のプリセットレイアウトを選択し、サムイメージをクリックします。完了するまでには1分ほどかかります。"
+
+#: admin/theme_options.php:3797
+msgid "Choose Preset"
+msgstr "プリセットを選択"
+
+#: admin/theme_options.php:3884
+msgid "Section via hook"
+msgstr "セクション経由のフック"
+
+#: admin/theme_options.php:3885
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr "<p class = \\ \"description \">セクションの配列にフィルターを追加して作成されたセクションです。オプションからセクションを追加/削除するために、子テーマで使用できます。</ p>"
+
+#: archive-portfolio.php:58 framework/woocommerce/woo-functions.php:552 taxonomy-portfolio_cat.php:59 taxonomy-portfolio_skills.php:58
+msgid "Show All"
+msgstr "すべて表示"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Published by"
+
+#: author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid ""
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "このページへのコメント募集は終了しました。"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした。"
+
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "申し訳ありませんが、何も検索用語と一致しませんでした。いくつかの異なったキーワードで、もう一度やり直してください。"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "あなたが探しているものを見つけることはできないようです。多分検索が助けることができます。"
+
+#: content-page.php:29 content.php:58 image.php:58 page.php:48
+msgid "Pages:"
+msgstr "ページ："
+
+#: content-page.php:39 content-search.php:24 content-search.php:29 content.php:40 image.php:71 page.php:58 templates/blog/grid_column.php:48 templates/blog/large_image.php:36
+#: templates/blog/small_image.php:39 templates/blog/timeline.php:44 woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "編集"
+
+#: content.php:52 templates/blog/grid_column.php:60 templates/blog/large_image.php:48 templates/blog/small_image.php:51 templates/blog/timeline.php:56
+#, php-format
+msgid "Read more %s"
+msgstr "もっと読む%s"
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "N/A"
+
+#: dokan/store-lists-loop.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "5のうち%s"
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr "ストア見る"
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr "＆larr;前"
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr "次の＆rarr;"
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr "ベンダーが見つかりませんでした！"
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr "売り手レビュー"
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr "検索結果が見つかりません"
+
+#: dokan/store-reviews.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:60 framework/woocommerce/woo-functions.php:982
+msgid "out of 5"
+msgstr "5のうち"
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr "利用規約"
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr "この売り手の商品は見つかりませんでした。"
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインのインストール： %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中： %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "：このテーマは、以下のプラグインが必要です%1$s 。"
+msgstr[1] "：このテーマは、以下のプラグインが必要です%1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "：このテーマは、以下のプラグインをお勧めします%1$s 。"
+msgstr[1] "：このテーマは、以下のプラグインをお勧めします%1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "次のプラグインは、このテーマに最大限の互換性を確保するために、その最新バージョンに更新する必要があります%1$s 。"
+msgstr[1] "次のプラグインは、このテーマに最大限の互換性を確保するために、その最新バージョンに更新する必要があります%1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s利用可能なアップデートがあります。"
+msgstr[1] "%1$s利用可能なアップデートがあります。"
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下の必要なプラグインは現在非アクティブです： %1$s 。"
+msgstr[1] "以下の必要なプラグインは現在非アクティブです： %1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "次の推奨プラグイン現在非アクティブです： %1$s 。"
+msgstr[1] "次の推奨プラグイン現在非アクティブです： %1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始する"
+msgstr[1] "プラグインのインストールを開始する"
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始する"
+msgstr[1] "プラグインの更新を開始する"
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの起動を開始する"
+msgstr[1] "プラグインの起動を開始する"
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインインストーラに戻る"
+
+#: framework/classes/class-tgm-plugin-activation.php:393 framework/classes/class-tgm-plugin-activation.php:912 framework/classes/class-tgm-plugin-activation.php:2618
+#: framework/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: framework/classes/class-tgm-plugin-activation.php:394 framework/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "プラグインが正常にインストールされました。"
+
+#: framework/classes/class-tgm-plugin-activation.php:395 framework/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインが正常にアクティブ友好化されました："
+msgstr[1] "以下のプラグインが正常にアクティブ友好化されました："
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "何もしないプラグイン%1$sは既にアクティブです。"
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインが有効化されていません。このテーマには%s上位バージョンが必要です。プラグインを更新してください。"
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインがインストールされ、アクティブになりました。 %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "この通知を却下"
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール、更新、またはアクティブ化するための1つ以上の必須プラグインまたは推奨プラグインがあります。"
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "このサイトの管理者にお問い合わせください。"
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "このプラグインは、あなたのテーマと互換性があるように更新する必要があります。"
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "アップデートしてください"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージに目的のスラッグを含むフォルダが含まれていないため、名前の変更が機能しませんでした。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019 framework/classes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグインプロバイダに連絡し、WordPressのガイドラインに従ってプラグインをパッケージ化するよう依頼してください。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルはフォルダにパッケージ化されていません。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1206 framework/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: framework/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "必須"
+
+#: framework/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "推奨される"
+
+#: framework/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPressのリポジトリ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "外部ソース"
+
+#: framework/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: framework/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "インストール済みですが、有効化されていません"
+
+#: framework/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "アクティブ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できない"
+
+#: framework/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: framework/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "推奨アップデート"
+
+#: framework/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて<span class=\"count\">（ %s ）</ span>を"
+msgstr[1] "すべて<span class=\"count\">（ %s ）</ span>を"
+
+#: framework/classes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class = \\ \"count \">（ %s ）</ span>をインストールするには"
+msgstr[1] "<span class = \\ \"count \">（ %s ）</ span>をインストールするには"
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "使用可能な更新<span class = \\ \"count \">（ %s ）</ span>"
+msgstr[1] "使用可能な更新<span class = \\ \"count \">（ %s ）</ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class = \\ \"count \">（ %s ）</ span>を有効にするには"
+msgstr[1] "<span class = \\ \"count \">（ %s ）</ span>を有効にするには"
+
+#: framework/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明な"
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "インストールされたバージョン："
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "必要最小限のバージョン："
+
+#: framework/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "利用可能なバージョン："
+
+#: framework/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "インストール、更新、またはアクティブ化するプラグインはありません。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: framework/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "ソース"
+
+#: framework/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "タイプ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "バージョン"
+
+#: framework/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "状態"
+
+#: framework/classes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "活性化します %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグインの作成者からメッセージをアップグレード："
+
+#: framework/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "インストール"
+
+#: framework/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "更新内容"
+
+#: framework/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "活性化"
+
+#: framework/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインは選択されていません。何もしない"
+
+#: framework/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインは選択されていません。何もしない"
+
+#: framework/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "いいえプラグインは、この時点で活性化されるように用意されていません。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "いいえプラグインは、この時点で活性化されるように用意されていません。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効にするプラグインは選択されていません。何もしない"
+
+#: framework/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: framework/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "プラグインの起動に失敗しました。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン%1$s （ %2$d / %3$d ）を更新しています"
+
+#: framework/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: framework/classes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールとアクティベーションプロセスが開始されています。このプロセスは、しばらくお待ちいただく場合があります。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$sインストールされ、正常にアクティブ。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "詳細表示"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#: framework/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "インストールとアクティブ化プラグイン%1$s （ %2$d / %3$d ）"
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールが開始されます。しばらくお待ちください。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: framework/classes/mega-menus.php:27
+msgid "Enable EmallShop Mega Menu (only for main menu)"
+msgstr "EmallShopメガメニューを有効にする（メインメニューのみ）"
+
+#: framework/classes/mega-menus.php:33
+msgid "Full Width Mega Menu (overrides column width)"
+msgstr "全幅メガメニュー（列幅をオーバーライド）"
+
+#: framework/classes/mega-menus.php:38
+msgid "Mega Menu Number of Columns"
+msgstr "メガメニュー列数"
+
+#: framework/classes/mega-menus.php:40
+msgid "Auto"
+msgstr "オート"
+
+#: framework/classes/mega-menus.php:52
+msgid "Mega Menu Column Width (in percentage, ex: 30%)"
+msgstr "メガメニューの列幅（パーセントで、例：30％）"
+
+#: framework/classes/mega-menus.php:59
+msgid "Disable Mega Menu Column Title"
+msgstr "メガメニューの列タイトルを無効にする"
+
+#: framework/classes/mega-menus.php:65
+msgid "Enable Mega Menu Column Title"
+msgstr "メガメニューの列タイトルを有効にする"
+
+#: framework/classes/mega-menus.php:70
+msgid "Mega Menu Widget Area"
+msgstr "メガメニューウィジェットエリア"
+
+#: framework/classes/mega-menus.php:72
+msgid "Select Widget Area"
+msgstr "ウィジェット領域を選択"
+
+#: framework/classes/mega-menus.php:86
+msgid "New Label"
+msgstr "新しいラベル"
+
+#: framework/classes/mega-menus.php:89
+msgid "Hot Label"
+msgstr "ホットラベル"
+
+#: framework/classes/mega-menus.php:92
+msgid "Sale Label"
+msgstr "販売ラベル"
+
+#: framework/classes/mega-menus.php:98
+msgid "Menu Icon"
+msgstr "メニューアイコン"
+
+#: framework/classes/mega-menus.php:100
+msgid "Quick search"
+msgstr "クイック検索："
+
+#: framework/classes/mega-menus.php:109
+msgid "Custom Icon"
+msgstr "カスタムアイコン"
+
+#: framework/classes/mega-menus.php:544
+msgid "Hot"
+msgstr "ホット"
+
+#: framework/classes/mega-menus.php:760
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s （無効）"
+
+#: framework/classes/mega-menus.php:764
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/classes/mega-menus.php:777
+msgid "sub item"
+msgstr "サブ項目"
+
+#: framework/classes/mega-menus.php:792
+msgid "Move up"
+msgstr "上に移動"
+
+#: framework/classes/mega-menus.php:805
+msgid "Move down"
+msgstr "下に移動"
+
+#: framework/classes/mega-menus.php:807 framework/classes/mega-menus.php:809
+msgid "Edit Menu Item"
+msgstr "メニュー項目の編集"
+
+#: framework/classes/mega-menus.php:818
+msgid "URL"
+msgstr "URL"
+
+#: framework/classes/mega-menus.php:825
+msgid "Navigation Label"
+msgstr "ナビゲーションラベル"
+
+#: framework/classes/mega-menus.php:831
+msgid "Title Attribute"
+msgstr "title属性"
+
+#: framework/classes/mega-menus.php:838
+msgid "Open link in a new window/tab"
+msgstr "新しいウィンドウ/タブでリンクを開く"
+
+#: framework/classes/mega-menus.php:843
+msgid "CSS Classes (optional)"
+msgstr "CSSクラス（オプション）"
+
+#: framework/classes/mega-menus.php:849
+msgid "Link Relationship (XFN)"
+msgstr "リンク関係（XFN）"
+
+#: framework/classes/mega-menus.php:855
+msgid "Description"
+msgstr "詳細"
+
+#: framework/classes/mega-menus.php:857
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "現在のテーマがサポートしている場合は説明がメニューに表示されます。"
+
+#: framework/classes/mega-menus.php:865
+msgid "Move"
+msgstr "移動"
+
+#: framework/classes/mega-menus.php:866
+msgid "Up one"
+msgstr "1つ上に"
+
+#: framework/classes/mega-menus.php:867
+msgid "Down one"
+msgstr "下がる"
+
+#: framework/classes/mega-menus.php:870
+msgid "To the top"
+msgstr "頂点に"
+
+#: framework/classes/mega-menus.php:877
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/classes/mega-menus.php:890 framework/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "削除する"
+
+#: framework/classes/mega-menus.php:891
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: framework/classes/sidebar-generator.class.php:14
+msgid "Add Custom Widget Area"
+msgstr "カスタムウィジェットエリアを追加する"
+
+#: framework/classes/sidebar-generator.class.php:58
+msgid "Enter Name for new Widget Area"
+msgstr "新しいウィジェットエリアの名前を入力してください"
+
+#: framework/classes/sidebar-generator.class.php:59
+msgid "Add Widget Area"
+msgstr "ウィジェットエリアを追加"
+
+#: framework/dokan/dokan-functions.php:30 functions.php:190
+msgid "Dokan Widget Area"
+msgstr "道場ウィジェットエリア"
+
+#: framework/dokan/dokan-functions.php:32
+msgid "Add widgets here to appear in your dokan page sidebar."
+msgstr "あなたのdokanページのサイドバーに表示されるウィジェットをここに追加してください。"
+
+#: framework/dokan/dokan-functions.php:62
+msgid "Store Category"
+msgstr "店舗カテゴリ"
+
+#: framework/dokan/dokan-functions.php:65
+msgid "Store Location"
+msgstr "位置情報を記録する"
+
+#: framework/dokan/dokan-functions.php:69
+msgid "Contact Seller"
+msgstr "販売者へ問い合わせる"
+
+#: framework/dokan/dokan-functions.php:104
+#, php-format
+msgid "Cart %s"
+msgstr "カート%s"
+
+#: framework/dokan/dokan-functions.php:122
+msgid "Seller Dashboard"
+msgstr "売り手ダッシュボード"
+
+#: framework/dokan/dokan-functions.php:125
+msgid "Visit your store"
+msgstr "あなたの店に行く"
+
+#: framework/dokan/dokan-functions.php:141 inc/theme-function.php:362 inc/theme-function.php:396
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: framework/dokan/dokan-functions.php:142
+msgid "Edit Account"
+msgstr "アカウントを編集"
+
+#: framework/dokan/dokan-functions.php:144 woocommerce/myaccount/my-address.php:27 woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "請求先の住所"
+
+#: framework/dokan/dokan-functions.php:145 woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "配送先の住所"
+
+#: framework/dokan/dokan-functions.php:152
+msgid "Log in"
+msgstr "ログイン"
+
+#: framework/dokan/dokan-functions.php:153
+msgid "Sign Up"
+msgstr "サインアップ"
+
+#: framework/meta-box/inc/field.php:213
+msgid "+ Add more"
+msgstr "さらに追加"
+
+#: framework/meta-box/inc/fields/autocomplete.php:14 framework/meta-box/inc/fields/autocomplete.php:77 framework/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr "削除"
+
+#: framework/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "私をクリックしてください"
+
+#: framework/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "ファイルの選択"
+
+#: framework/meta-box/inc/fields/file-input.php:41 framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "Select"
+msgstr "選択"
+
+#: framework/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "最大%dファイルしかアップロードできません"
+
+#: framework/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "最大%dファイルのみをアップロードすることができます"
+
+#: framework/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "エラー：ファイルを削除できません"
+
+#: framework/meta-box/inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "ファイルをアップロード"
+
+#: framework/meta-box/inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "新規ファイルを追加..."
+
+#: framework/meta-box/inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "削除"
+
+#: framework/meta-box/inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "編集"
+
+#: framework/meta-box/inc/fields/image.php:61 framework/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "画像のアップロード"
+
+#: framework/meta-box/inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+新しい画像を追加"
+
+#: framework/meta-box/inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "削除"
+
+#: framework/meta-box/inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "編集"
+
+#: framework/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr "Key"
+
+#: framework/meta-box/inc/fields/key-value.php:25
+msgid "Value"
+msgstr "Value"
+
+#: framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "住所を見つける"
+
+#: framework/meta-box/inc/fields/media.php:18
+msgctxt "media"
+msgid "Select or Upload Images"
+msgstr "画像の選択またはアップロード"
+
+#: framework/meta-box/inc/fields/media.php:19
+msgctxt "media"
+msgid " file"
+msgstr "ファイル"
+
+#: framework/meta-box/inc/fields/media.php:20
+msgctxt "media"
+msgid " files"
+msgstr "ファイル： {0}%1$s{/0}"
+
+#: framework/meta-box/inc/fields/media.php:21
+msgctxt "media"
+msgid "Remove"
+msgstr "削除する"
+
+#: framework/meta-box/inc/fields/media.php:22
+msgctxt "media"
+msgid "Edit"
+msgstr "編集"
+
+#: framework/meta-box/inc/fields/media.php:23
+msgctxt "media"
+msgid "View"
+msgstr "表示"
+
+#: framework/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "No Title"
+msgstr "タイトルなし"
+
+#: framework/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Select Files"
+msgstr "ファイルの選択"
+
+#: framework/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "アップロードするファイルをここにドロップ"
+
+#: framework/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "HTMLを埋め込むことはできません。"
+
+#: framework/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "プレビュー"
+
+#: framework/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "投稿を選択"
+
+#: framework/meta-box/inc/fields/post.php:38 framework/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "%s選択"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "All"
+msgstr "すべて"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "None"
+msgstr "None"
+
+#: framework/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "用語を選択する"
+
+#: framework/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "ユーザーを選択"
+
+#: framework/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "以下で強調表示されているエラーを修正して、もう一度お試しください。"
+
+#: framework/openswatch/templates/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "この商品は現在在庫切れとなっております。"
+
+#: framework/woocommerce/woo-functions.php:29
+msgctxt "placeholder"
+msgid "I'm shopping for..."
+msgstr "私は買い物をしています..."
+
+#: framework/woocommerce/woo-functions.php:38
+msgid "All Categories"
+msgstr "All Categories"
+
+#: framework/woocommerce/woo-functions.php:111
+msgid "No products found."
+msgstr "製品が見つかりません。"
+
+#: framework/woocommerce/woo-functions.php:221 framework/woocommerce/woo-functions.php:228 inc/theme-function.php:655 inc/theme-function.php:671
+#, php-format
+msgid "%d item"
+msgid_plural "%d item(s)"
+msgstr[0] "アイテム%d"
+msgstr[1] "アイテム%d"
+
+#: framework/woocommerce/woo-functions.php:247 inc/theme-function.php:416 inc/theme-function.php:670
+msgid "Shopping Cart"
+msgstr "ショッピングカート"
+
+#: framework/woocommerce/woo-functions.php:447
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "ホーム"
+
+#: framework/woocommerce/woo-functions.php:509
+msgid "Categories"
+msgstr "Categories"
+
+#: framework/woocommerce/woo-functions.php:580 framework/woocommerce/woo-functions.php:1229
+msgid "Items"
+msgstr "アイテム"
+
+#: framework/woocommerce/woo-functions.php:632
+msgid "Brands"
+msgstr "ブランド"
+
+#: framework/woocommerce/woo-functions.php:678
+msgid "View as Grid"
+msgstr "グリッドとして表示"
+
+#: framework/woocommerce/woo-functions.php:681
+msgid "View as Expand Grid"
+msgstr "グリッドを拡大表示する"
+
+#: framework/woocommerce/woo-functions.php:684
+msgid "View as List"
+msgstr "リスト表示"
+
+#: framework/woocommerce/woo-functions.php:687
+msgid "View as Thin List "
+msgstr "シンリストとして表示"
+
+#: framework/woocommerce/woo-functions.php:728
+msgid "View"
+msgstr "表示"
+
+#: framework/woocommerce/woo-functions.php:835 framework/woocommerce/woo-functions.php:865
+msgid "Quick View"
+msgstr "Quick View"
+
+#: framework/woocommerce/woo-functions.php:1063 woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr "製品イメージを待っています"
+
+#: framework/woocommerce/woo-functions.php:1192
+msgid "Product is added in cart"
+msgstr "商品はカートに入れられます"
+
+#: framework/woocommerce/woo-functions.php:1211
+msgid "View Cart"
+msgstr "カートを表示"
+
+#: framework/woocommerce/woo-functions.php:1267 inc/theme-function.php:1350 inc/theme-function.php:1401
+msgid "Loading..."
+msgstr "読み込み中"
+
+#: framework/woocommerce/woo-functions.php:1269
+msgid "No more product"
+msgstr "製品はもうありません"
+
+#: framework/woocommerce/woo-functions.php:1418
+msgid "In  Stock"
+msgstr "在庫あり"
+
+#: framework/woocommerce/woo-functions.php:1472
+msgid "Size Guide"
+msgstr "サイズガイド"
+
+#: framework/woocommerce/woo-functions.php:1489
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] "ブランド"
+msgstr[1] "ブランド"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "プライマリメニュー"
+
+#: functions.php:115
+msgid "Vertical Menu"
+msgstr "垂直メニュー"
+
+#: functions.php:163
+msgid "Widget Area"
+msgstr "ウィジェットエリア"
+
+#: functions.php:165
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ここにウィジェットを追加してサイドバーに表示します。"
+
+#: functions.php:172
+msgid "Shop Page Widget Area"
+msgstr "ショップページウィジェットエリア"
+
+#: functions.php:174
+msgid "Add widgets here to appear in shop page sidebar."
+msgstr "ショップページのサイドバーに表示するウィジェットをここに追加します。"
+
+#: functions.php:181
+msgid "Single Product Widget Area"
+msgstr "単一製品ウィジェットエリア"
+
+#: functions.php:183
+msgid "Add widgets here to appear in single product page sidebar."
+msgstr "ウィジェットをここに追加して、単一の商品ページのサイドバーに表示します。"
+
+#: functions.php:192
+msgid "Add widgets here to appear in dokan page sidebar."
+msgstr "dokanページのサイドバーに表示されるウィジェットをここに追加してください。"
+
+#: functions.php:199
+msgid "Menu Widget Area 1"
+msgstr "メニューウィジェットエリア1"
+
+#: functions.php:201 functions.php:210 functions.php:219
+msgid "Add widgets here to appear in your menu."
+msgstr "ここにウィジェットを追加してメニューに表示します。"
+
+#: functions.php:208
+msgid "Menu Widget Area 2"
+msgstr "メニューウィジェットエリア2"
+
+#: functions.php:217
+msgid "Menu Widget Area 3"
+msgstr "メニューウィジェットエリア3"
+
+#: functions.php:227
+msgid "Footer Widget Area 1"
+msgstr "フッターウィジェットエリア1"
+
+#: functions.php:229 functions.php:238 functions.php:247 functions.php:256 functions.php:265 functions.php:274 functions.php:283 functions.php:292
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示するウィジェットをここに追加してください。"
+
+#: functions.php:236
+msgid "Footer Widget Area 2"
+msgstr "フッターウィジェットエリア2"
+
+#: functions.php:245
+msgid "Footer Widget Area 3"
+msgstr "フッターウィジェットエリア3"
+
+#: functions.php:254
+msgid "Footer Widget Area 4"
+msgstr "フッターウィジェットエリア4"
+
+#: functions.php:263
+msgid "Footer Widget Area 5"
+msgstr "フッターウィジェットエリア5"
+
+#: functions.php:272
+msgid "Footer Widget Area 6"
+msgstr "フッターウィジェットエリア6"
+
+#: functions.php:281
+msgid "Footer Widget Area 7"
+msgstr "フッターウィジェットエリア7"
+
+#: functions.php:290
+msgid "Footer Widget Area 8"
+msgstr "フッターウィジェットエリア8"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "前の画像"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "次の画像"
+
+#: image.php:85
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class = \\ \"meta-nav \"> Published in </ span> <span class = \\ \"ポストタイトル\"> %t itle </ span>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#, php-format
+msgid "EmallShop requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "EmallShopには少なくともWordPressバージョン4.1が必要です。バージョン%s実行しています。アップグレードしてもう一度お試しください。"
+
+#: inc/breadcrumbs.php:19
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/breadcrumbs.php:58
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:60
+#, php-format
+msgid "Product Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:122
+msgid "Go to Home Page"
+msgstr "トップページへ戻る"
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search - %s"
+msgstr "%sを検索"
+
+#: inc/breadcrumbs.php:187
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "ベースカラースキーム"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "ヘッダーとサイドバーテキストの色"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "小さな画面のヘッダーとワイド画面のサイドバーに適用されます。"
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "ヘッダーとサイドバー背景色"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "Dark"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "黄"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "ピンク"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "紫"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "ブルー"
+
+#: inc/meta-boxes.php:26
+msgid "Post Format: Image"
+msgstr "投稿形式：画像"
+
+#: inc/meta-boxes.php:32
+msgid "Image"
+msgstr "画像"
+
+#: inc/meta-boxes.php:36
+msgid "Select a image for post"
+msgstr "投稿する画像を選択する"
+
+#: inc/meta-boxes.php:44
+msgid "Post Format: Gallery"
+msgstr "投稿形式：ギャラリー"
+
+#: inc/meta-boxes.php:50
+msgid "Images"
+msgstr "画像"
+
+#: inc/meta-boxes.php:53
+msgid "Select images gallery for post"
+msgstr "ポストの画像ギャラリーを選択"
+
+#: inc/meta-boxes.php:61
+msgid "Post Format: Video"
+msgstr "投稿形式：ビデオ"
+
+#: inc/meta-boxes.php:67
+msgid "Video URL or Embeded Code"
+msgstr "動画URLまたは埋め込みコード"
+
+#: inc/meta-boxes.php:70
+msgid "Enter the URL or embed code of Vimeo.com or YouTube.com streaming services.<br>To get the code, go to the external video page, click \"share\" button and copy the Embed code."
+msgstr "Vimeo.comまたはYouTube.comのストリーミングサービスのURLまたは埋め込みコードを入力します。<br>コードを取得するには、外部の動画ページで[共有]ボタンをクリックし、埋め込みコードをコピーします。"
+
+#: inc/meta-boxes.php:78
+msgid "Post Format: Audio"
+msgstr "投稿形式：オーディオ"
+
+#: inc/meta-boxes.php:84
+msgid "Audio URL or Embeded Code"
+msgstr "オーディオURLまたは埋め込みコード"
+
+#: inc/meta-boxes.php:87
+msgid "Please enter the URL or Embeded code of the audio."
+msgstr "オーディオのURLまたは埋め込みコードを入力してください。"
+
+#: inc/meta-boxes.php:95
+msgid "Post Format: Quote"
+msgstr "投稿形式：見積もり"
+
+#: inc/meta-boxes.php:101
+msgid "Quote"
+msgstr "見積"
+
+#: inc/meta-boxes.php:104
+msgid "Add a quote."
+msgstr "見積もりを追加します。"
+
+#: inc/meta-boxes.php:107
+msgid "Author"
+msgstr "著者"
+
+#: inc/meta-boxes.php:110
+msgid "Add the quote author."
+msgstr "引用著者を追加します。"
+
+#: inc/meta-boxes.php:113
+msgid "Author Url"
+msgstr "著者のURL"
+
+#: inc/meta-boxes.php:116
+msgid "Add the quote author URL."
+msgstr "引用者のURLを追加します。"
+
+#: inc/meta-boxes.php:124
+msgid "Post Format: Link"
+msgstr "投稿形式：リンク"
+
+#: inc/meta-boxes.php:130
+msgid "Url"
+msgstr "URL"
+
+#: inc/meta-boxes.php:133
+msgid "Add an URL link."
+msgstr "URLリンクを追加します。"
+
+#: inc/meta-boxes.php:139
+msgid "Add text for the URL link."
+msgstr "URLリンクのテキストを追加します。"
+
+#: inc/meta-boxes.php:147
+msgid "Portfolio Informations"
+msgstr "ポートフォリオ情報"
+
+#: inc/meta-boxes.php:154
+msgid "Enter Client Name"
+msgstr "クライアント名を入力"
+
+#: inc/meta-boxes.php:157
+msgid "Enter your project client name."
+msgstr "プロジェクトのクライアント名を入力します。"
+
+#: inc/meta-boxes.php:160
+msgid "Enter Live Project URL"
+msgstr "ライブプロジェクトのURLを入力"
+
+#: inc/meta-boxes.php:163
+msgid "Enter your live project url."
+msgstr "あなたのライブプロジェクトのURLを入力してください。"
+
+#: inc/meta-boxes.php:171
+msgid "Testimonial Informations"
+msgstr "お客様の声"
+
+#: inc/meta-boxes.php:178
+msgid "Enter Designation"
+msgstr "指定を入力"
+
+#: inc/meta-boxes.php:181
+msgid "Enter client designation."
+msgstr "クライアントの指定を入力します。"
+
+#: inc/meta-boxes.php:184
+msgid "Enter Company Name"
+msgstr "会社名を入力"
+
+#: inc/meta-boxes.php:187
+msgid "Enter client company name."
+msgstr "クライアントの会社名を入力します。"
+
+#: inc/meta-boxes.php:195
+msgid "Page Layout Options"
+msgstr "ページレイアウトオプション"
+
+#: inc/meta-boxes.php:201
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+#: inc/meta-boxes.php:204
+msgid "Show title of the page."
+msgstr "ページのタイトルを表示します。"
+
+#: inc/meta-boxes.php:213
+msgid "Show Breadcrumb"
+msgstr "ブレッドクラムを表示"
+
+#: inc/meta-boxes.php:216
+msgid "Show breadcrumb of the page."
+msgstr "ページのブレッドクラムを表示します。"
+
+#: inc/meta-boxes.php:225
+msgid "Page Sidebar"
+msgstr "ページサイドバー"
+
+#: inc/meta-boxes.php:245 inc/meta-boxes.php:287
+msgid "Select Sidebar"
+msgstr "サイドバーを選択"
+
+#: inc/meta-boxes.php:258
+msgid "Product Page Layout Options"
+msgstr "製品ページのレイアウトオプション"
+
+#: inc/meta-boxes.php:266
+msgid "Product Page Layout"
+msgstr "製品ページのレイアウト"
+
+#: inc/meta-boxes.php:280
+#, php-format
+msgid "Choose product page layout for only this product. You can choose  global for all product page layout at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr ""
+"この製品のみの製品ページのレイアウトを選択してください。 <a target=\"_blank\" href=\"％1$s %1$s \">ここ</a>（WooCommerce>単一製品セクション）で、すべての製品ページレイアウトのグローバルを選択できま"
+"す。"
+
+#: inc/meta-boxes.php:293
+msgid "Product Size Guide Image"
+msgstr "商品サイズガイド画像"
+
+#: inc/meta-boxes.php:297
+#, php-format
+msgid "Upload product size guide image for only this product. You can use image size guide for all product at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr ""
+"この商品のみの商品サイズの目安をアップロードしてください。 <a target=\"_blank\" href=\"％1$s %1$s \">ここ</a>（WooCommerce>単一製品のセクション）ですべての製品のイメージサイズガイドを使用することが"
+"できます。"
+
+#: inc/plugin_activetion_class.php:50
+msgid "PL EmallShop Extensions"
+msgstr "PL EmallShop拡張機能"
+
+#: inc/plugin_activetion_class.php:57
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Visual Composer"
+
+#: inc/plugin_activetion_class.php:64
+msgid "Revolution Slider"
+msgstr "ResponsiveSlider"
+
+#: inc/plugin_activetion_class.php:71
+msgid "Ultimate Addons for Visual Composer"
+msgstr "ビジュアル作曲家のための究極のアドオン"
+
+#: inc/plugin_activetion_class.php:78
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/plugin_activetion_class.php:83
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerceの比較"
+
+#: inc/plugin_activetion_class.php:88
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerceウィッシュリスト"
+
+#: inc/plugin_activetion_class.php:93
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr "YITH WooCommerce Ajaxプロダクトフィルタ"
+
+#: inc/plugin_activetion_class.php:98
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: inc/plugin_activetion_class.php:103
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "コメント一覧"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "古いコメント"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "日付形式"
+
+#: inc/template-tags.php:78
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "カテゴリ："
+
+#: inc/template-tags.php:87
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "著者"
+
+#: inc/template-tags.php:93 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/template-tags.php:104
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/template-tags.php:115
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "コメントを残す<span class = \\ \"screen-reader-text \"> %s </ span>"
+
+#: inc/theme-function.php:151
+msgid "Days"
+msgstr "日"
+
+#: inc/theme-function.php:152
+msgid "Hours"
+msgstr "時間"
+
+#: inc/theme-function.php:153
+msgid "Mins"
+msgstr "分"
+
+#: inc/theme-function.php:154
+msgid "Secs"
+msgstr "秒"
+
+#: inc/theme-function.php:155
+msgid "+ Show more"
+msgstr "もっと見る"
+
+#: inc/theme-function.php:156
+msgid "- Show less"
+msgstr "以下を表示"
+
+#: inc/theme-function.php:199
+msgid ""
+"WARNING: Clicking this button will replace your current theme options, sliders.  It can also take a minute to complete. Importing data is recommended on fresh installs only once. Importing on "
+"sites with content or importing twice will duplicate menus, pages and all posts."
+msgstr ""
+"警告：このボタンをクリックすると、現在のテーマオプション、スライダが置き換えられます。完了するまでには1分ほどかかります。新鮮なインストールでは、データのインポートは1回だけ行うことをお勧めします。"
+"コンテンツのあるサイトでの読み込みや2回の読み込みは、メニュー、ページ、すべての投稿を複製します。"
+
+#: inc/theme-function.php:259
+msgid "News"
+msgstr "ニュース"
+
+#: inc/theme-function.php:325
+msgid "Login/Register"
+msgstr "ログイン/登録 "
+
+#: inc/theme-function.php:327
+msgid "Logout"
+msgstr "ログアウト"
+
+#: inc/theme-function.php:341
+msgid "Register"
+msgstr "登録"
+
+#: inc/theme-function.php:365 inc/theme-function.php:434
+msgid "Checkout"
+msgstr "ご購入手続き"
+
+#: inc/theme-function.php:366 inc/theme-function.php:663
+msgid "Cart"
+msgstr "買い物かご"
+
+#: inc/theme-function.php:370
+msgid "My Wishlist"
+msgstr "私の欲しいもの"
+
+#: inc/theme-function.php:376 inc/theme-function.php:490
+msgid "Compare"
+msgstr "比較"
+
+#: inc/theme-function.php:379
+msgid "sign Out"
+msgstr "サインアウト"
+
+#: inc/theme-function.php:450
+msgid "Track Order"
+msgstr "トラックオーダー"
+
+#: inc/theme-function.php:469
+msgid "Wishlist"
+msgstr "ウィッシュリスト"
+
+#: inc/theme-function.php:579
+msgid "Help"
+msgstr "ヘルプ"
+
+#: inc/theme-function.php:693
+msgid "Search"
+msgstr "サーチ"
+
+#: inc/theme-function.php:821
+msgid "Shopping Categories"
+msgstr "ショッピングカテゴリ"
+
+#: inc/theme-function.php:1249
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/theme-function.php:1251
+msgid "Reply"
+msgstr "応答"
+
+#: inc/theme-function.php:1352 inc/theme-function.php:1403
+msgid "No more blog"
+msgstr "もうブログはありません"
+
+#: inc/theme-function.php:1438
+msgid "Post Navigation"
+msgstr "前後の記事"
+
+#: inc/theme-function.php:1521
+msgid "Related Post"
+msgstr "関連する投稿"
+
+#: inc/theme-function.php:1717
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: inc/theme-function.php:1722
+msgid "Share on Twitter"
+msgstr "Share on Twitter"
+
+#: inc/theme-function.php:1727
+msgid "Share on LinkedIn"
+msgstr "LinkedInでシェア"
+
+#: inc/theme-function.php:1732
+msgid "Share on Google Plus"
+msgstr "Google Plusで共有"
+
+#: inc/theme-function.php:1737
+msgid "Share on Stumbleupon"
+msgstr "Stumbleuponでシェア"
+
+#: inc/theme-function.php:1742
+msgid "Share on Pinterest"
+msgstr "Pinterestでシェア"
+
+#: inc/theme-function.php:1747
+msgid "Share on Tumblr"
+msgstr "Tumblrでシェア"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果：%s"
+
+#: single-portfolio.php:55
+msgid "Project Description"
+msgstr "プロジェクトの説明"
+
+#: single-portfolio.php:65
+msgid "Live Preview"
+msgstr "(表示をプレビュー)。"
+
+#: single-portfolio.php:72
+msgid "Project Informations"
+msgstr "プロジェクト情報"
+
+#: single-portfolio.php:77
+msgid "Client"
+msgstr "顧客"
+
+#: single-portfolio.php:82
+msgid "Date"
+msgstr "日付"
+
+#: single-portfolio.php:99
+msgid "Skills"
+msgstr "スキル"
+
+#: single-portfolio.php:111
+msgid "Share"
+msgstr "シェア"
+
+#: single-portfolio.php:141
+msgid "Related projects"
+msgstr "関連プロジェクト"
+
+#: single.php:36
+msgid "Share This Post"
+msgstr "この投稿を共有する"
+
+#: templates/footer/footer-1.php:34 templates/footer/footer-2.php:50 templates/footer/footer-3.php:56
+msgid "&copy; 2016 presslayouts.com. All Rights Reserved."
+msgstr "＆コピー; 2016 presslayouts.com。全著作権所有。"
+
+#: templates/footer/footer-2.php:22
+msgid "Stay Connected"
+msgstr "Stay Connected"
+
+#: templates/portfolio/portfolio_grid.php:32
+msgid "Skill"
+msgstr "スキル"
+
+#: woocommerce/cart/cart.php:35
+msgid "Item Details"
+msgstr "商品の詳細"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:120
+msgid "Price"
+msgstr "価格"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:126
+msgid "Quantity"
+msgstr "結果量"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:143 woocommerce/order/order-details.php:40
+msgid "Total"
+msgstr "合計"
+
+#: woocommerce/cart/cart.php:68 woocommerce/order/order-details.php:39
+msgid "Product"
+msgstr "製品"
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "バックオーダーで利用可能"
+
+#: woocommerce/cart/cart.php:153 woocommerce/cart/mini-cart.php:103
+msgid "Remove this item"
+msgstr "このアイテムを削除"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon:"
+msgstr "クーポン"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr "クーポン コード"
+
+#: woocommerce/cart/cart.php:172
+msgid "Apply coupon"
+msgstr "クーポンを適用"
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr "カートを更新"
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr "あなたは＆hellipに興味があるかもしれません。"
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Recent add item"
+msgid_plural "Recent add item(s)"
+msgstr[0] "最近の項目を追加"
+msgstr[1] "最近の項目を追加"
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Subtotal"
+msgstr "小計"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "No products in the cart."
+msgstr "カート内の通信サービスなし。"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "あなたはチェックアウトにログインする必要があります。"
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "ご注文"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By:"
+msgstr "並べ替え"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "デフォルトでは、以下のアドレスがチェックアウトページで使用されます。"
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "あなたはまだこのタイプのアドレスを設定していません。"
+
+#: woocommerce/order/order-details.php:33
+msgid "Order details"
+msgstr "注文明細"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "カテゴリ："
+msgstr[1] "カテゴリ："
+
+#: woocommerce/single-product/meta.php:45
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "タグ："
+msgstr[1] "タグ："
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%sカスタマーレビュー"
+msgstr[1] "%sカスタマーレビュー"
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr "関連商品"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "＆hellipも好きかもしれません。"

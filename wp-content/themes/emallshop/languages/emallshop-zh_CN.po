@@ -1,0 +1,4161 @@
+# Copyright (C) 2017 PressLayouts
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EmallShop 1.0\n"
+"Report-Msgid-Bugs-To: http://demo.presslayouts.com/emallshop/\n"
+"POT-Creation-Date: 2017-09-08 09:55+0530\n"
+"PO-Revision-Date: 2017-09-08 11:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Image Not Set"
+msgstr "图像未设置"
+
+#: admin/admin-function.php:19
+msgid "Header Style 1"
+msgstr "标题样式1"
+
+#: admin/admin-function.php:20
+msgid "Header Style 2"
+msgstr "标题样式2"
+
+#: admin/admin-function.php:21
+msgid "Header Style 3"
+msgstr "标题样式3"
+
+#: admin/admin-function.php:22
+msgid "Header Style 4"
+msgstr "标题样式4"
+
+#: admin/admin-function.php:23
+msgid "Header Style 5"
+msgstr "标题样式5"
+
+#: admin/admin-function.php:24
+msgid "Header Style 6"
+msgstr "标题风格6"
+
+#: admin/admin-function.php:25
+msgid "Header Style 7"
+msgstr "标题样式7"
+
+#: admin/admin-function.php:26
+msgid "Header Style 8"
+msgstr "标题样式8"
+
+#: admin/admin-function.php:27
+msgid "Header Style 9"
+msgstr "标题样式9"
+
+#: admin/admin-function.php:28
+msgid "Header Style 10"
+msgstr "标题样式10"
+
+#: admin/admin-function.php:38
+msgid "Page Heading Style 1"
+msgstr "页标题样式1"
+
+#: admin/admin-function.php:39
+msgid "Page Heading Style 2"
+msgstr "页标题样式2"
+
+#: admin/admin-function.php:40
+msgid "Page Heading Style 3"
+msgstr "页标题风格3"
+
+#: admin/admin-function.php:41
+msgid "Page Heading Style 4"
+msgstr "页标题4"
+
+#: admin/admin-function.php:51
+msgid "Footer Style 1"
+msgstr "页脚样式1"
+
+#: admin/admin-function.php:52
+msgid "Footer Style 2"
+msgstr "页脚样式2"
+
+#: admin/admin-function.php:53
+msgid "Footer Style 3"
+msgstr "页脚风格3"
+
+#: admin/theme_options.php:47 admin/theme_options.php:48
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: admin/theme_options.php:125
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your "
+"global variable: <strong>$%1$s</strong></p>"
+msgstr "你知道Redux为你设置了一个全局变量吗？要从代码中访问您保存的任何选项，您可以使用全局变量：<strong> $ %1$s </ strong> </ p>"
+
+#: admin/theme_options.php:127
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all "
+"HTML.</p>"
+msgstr "<p>此文本显示在选项面板的上方。这不是必需的，但更多的信息总是更好！ intro_text字段接受所有HTML。</ p>"
+
+#: admin/theme_options.php:131
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts "
+"all HTML.</p>"
+msgstr "<p>此文本显示在选项面板下方。这不是必需的，但更多的信息总是更好！ footer_text字段接受所有HTML。</ p>"
+
+#: admin/theme_options.php:152
+msgid "General Settings"
+msgstr "常规设置"
+
+#: admin/theme_options.php:159
+msgid "Theme Layout"
+msgstr "主题布局"
+
+#: admin/theme_options.php:160
+msgid "Choose theme wide or boxed layout."
+msgstr "选择主题宽度或装箱布局。"
+
+#: admin/theme_options.php:177
+msgid "Page Width"
+msgstr "宽度"
+
+#: admin/theme_options.php:178
+msgid "Choose one of the pre-defined widths or enter custom one."
+msgstr "选择一个预定义的宽度或输入自定义的宽度。"
+
+#: admin/theme_options.php:188
+msgid "Pre-defined Page Width"
+msgstr "预定义页面宽度"
+
+#: admin/theme_options.php:190
+msgid "Wide Screen"
+msgstr "宽屏"
+
+#: admin/theme_options.php:191
+msgid "NoteBook"
+msgstr "笔记本"
+
+#: admin/theme_options.php:199
+msgid "Custom Page Width"
+msgstr "自定义页面宽度"
+
+#: admin/theme_options.php:207
+msgid "Header Logo"
+msgstr "标题标识"
+
+#: admin/theme_options.php:209
+msgid "Upload header logo."
+msgstr "上传标题。"
+
+#: admin/theme_options.php:216
+msgid "Sticky Header Logo"
+msgstr "粘性标题"
+
+#: admin/theme_options.php:218
+msgid "Upload sticky header logo."
+msgstr "上传粘性标题。"
+
+#: admin/theme_options.php:225
+msgid "Favicon Icon"
+msgstr "鱼子图标"
+
+#: admin/theme_options.php:227
+msgid "Upload site favicon icon."
+msgstr "上传网站图标图标。"
+
+#: admin/theme_options.php:233
+msgid "Show Back To Top Button"
+msgstr "显示返回顶部按钮"
+
+#: admin/theme_options.php:234
+msgid "Show back to top button."
+msgstr "显示回到顶部按钮。"
+
+#: admin/theme_options.php:236 admin/theme_options.php:245 admin/theme_options.php:1338 admin/theme_options.php:1359
+msgid "On"
+msgstr "启动"
+
+#: admin/theme_options.php:237 admin/theme_options.php:246 admin/theme_options.php:1339 admin/theme_options.php:1360
+#: admin/theme_options.php:1665 framework/woocommerce/woo-functions.php:922
+msgid "Off"
+msgstr "关"
+
+#: admin/theme_options.php:242
+msgid "Show Login Register Popup"
+msgstr "显示登录注册Popup"
+
+#: admin/theme_options.php:243
+msgid "Show login register in popen or redirect on My Account page."
+msgstr "在popen中显示登录注册或在“我的帐户”页面上重定向。"
+
+#: admin/theme_options.php:251
+msgid "Tracking Code"
+msgstr "跟踪代码"
+
+#: admin/theme_options.php:252
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "粘贴您的谷歌分析（或其它）跟踪代码。这将添加到主题的页脚模板。"
+
+#: admin/theme_options.php:260
+msgid "Theme Styling"
+msgstr "主题风格"
+
+#: admin/theme_options.php:268
+msgid "Body"
+msgstr "Body"
+
+#: admin/theme_options.php:275
+msgid "Theme Primary Color"
+msgstr "主题主色"
+
+#: admin/theme_options.php:281
+msgid "Theme Secondary Color"
+msgstr "主题二次色"
+
+#: admin/theme_options.php:287
+msgid "Body Wrapper Background"
+msgstr "身体包裹背景"
+
+#: admin/theme_options.php:288
+msgid "Body wrapper background with image, color, etc."
+msgstr "身体包装背景与图像，颜色等"
+
+#: admin/theme_options.php:301 admin/theme_options.php:420 admin/theme_options.php:550 admin/theme_options.php:626
+#: admin/theme_options.php:702 admin/theme_options.php:829 admin/theme_options.php:921 admin/theme_options.php:953
+#: admin/theme_options.php:1050
+msgid "Background Opacity"
+msgstr "背景不透明度"
+
+#: admin/theme_options.php:302
+msgid "Body wrapper background opacity."
+msgstr "身体包装背景不透明度。"
+
+#: admin/theme_options.php:313 admin/theme_options.php:473 admin/theme_options.php:562 admin/theme_options.php:580
+#: admin/theme_options.php:650 admin/theme_options.php:721 admin/theme_options.php:777 admin/theme_options.php:848
+#: admin/theme_options.php:972 admin/theme_options.php:1062 admin/theme_options.php:3515
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: admin/theme_options.php:319
+msgid "Heading/Title Color"
+msgstr "标题/标题颜色"
+
+#: admin/theme_options.php:320
+msgid "Body heading color h1, h2, h3, h4, h5, and h6."
+msgstr "身体标题颜色h1，h2，h3，h4，h5和h6。"
+
+#: admin/theme_options.php:326 admin/theme_options.php:479 admin/theme_options.php:568 admin/theme_options.php:638
+#: admin/theme_options.php:727 admin/theme_options.php:978
+msgid "Input Field Background( TextBox, SelectBox, etc..)"
+msgstr "输入字段背景（TextBox，SelectBox等）"
+
+#: admin/theme_options.php:332 admin/theme_options.php:485 admin/theme_options.php:574 admin/theme_options.php:644
+#: admin/theme_options.php:733 admin/theme_options.php:984
+msgid "Input Field Color( TextBox, SelectBox, etc..)"
+msgstr "输入字段颜色（TextBox，SelectBox等）"
+
+#: admin/theme_options.php:338 admin/theme_options.php:491 admin/theme_options.php:656 admin/theme_options.php:739
+#: admin/theme_options.php:783 admin/theme_options.php:854 admin/theme_options.php:990 admin/theme_options.php:1068
+msgid "Link Color"
+msgstr "链接的颜色"
+
+#: admin/theme_options.php:352
+msgid "Theme Border"
+msgstr "主题边界"
+
+#: admin/theme_options.php:353
+msgid "General border of theme."
+msgstr "主题的一般边界。"
+
+#: admin/theme_options.php:366
+msgid "Theme Border Radius"
+msgstr "主题边界半径"
+
+#: admin/theme_options.php:367
+msgid "General border radius of theme."
+msgstr "一般边界半径的主题。"
+
+#: admin/theme_options.php:381
+msgid "Body Wrapper Padding"
+msgstr "身体包裹垫"
+
+#: admin/theme_options.php:382
+msgid "Default padding in px: 0 0"
+msgstr "以px为单位的默认填充：0 0"
+
+#: admin/theme_options.php:393 admin/theme_options.php:1152 admin/theme_options.php:3484
+msgid "Header"
+msgstr "Header 标题"
+
+#: admin/theme_options.php:401
+msgid "Header Wrapper Background."
+msgstr "标题包装背景。"
+
+#: admin/theme_options.php:406 admin/theme_options.php:447 admin/theme_options.php:536 admin/theme_options.php:688
+#: admin/theme_options.php:771 admin/theme_options.php:815 admin/theme_options.php:907 admin/theme_options.php:939
+#: admin/theme_options.php:1036 admin/theme_options.php:3578
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: admin/theme_options.php:407
+msgid "Header wrapper background with image, color, etc."
+msgstr "标题包装背景与图像，颜色等"
+
+#: admin/theme_options.php:421
+msgid "Header wrapper background opacity."
+msgstr "标题包装背景不透明度。"
+
+#: admin/theme_options.php:432
+msgid "Header Overlay"
+msgstr "标题叠加"
+
+#: admin/theme_options.php:433
+msgid ""
+"Header overlay on home page slider. Note:- When you use header overlay on home page slider, at this time no any effect background "
+"color on topbar, header and navigation in home page header. But background color  work/effect in other all pages."
+msgstr ""
+"主页覆盖在主页滑块上。注意： - 当您在主页滑块上使用标题叠加时，此时在顶页上的顶栏，标题和导航上都没有任何效果背景颜色。但背景颜色工作/"
+"效果在其他所有页面。"
+
+#: admin/theme_options.php:434 admin/theme_options.php:1169 admin/theme_options.php:1177 admin/theme_options.php:1329
+#: admin/theme_options.php:1627 admin/theme_options.php:1958 admin/theme_options.php:2112 admin/theme_options.php:2403
+#: admin/theme_options.php:2412 admin/theme_options.php:2421 admin/theme_options.php:2685 admin/theme_options.php:2704
+#: admin/theme_options.php:3337 admin/theme_options.php:3367 admin/theme_options.php:3424 admin/theme_options.php:3449
+#: admin/theme_options.php:3539 admin/theme_options.php:3619 admin/theme_options.php:3695
+msgid "Enable"
+msgstr "启用"
+
+#: admin/theme_options.php:435 admin/theme_options.php:1170 admin/theme_options.php:1178 admin/theme_options.php:1330
+#: admin/theme_options.php:1628 admin/theme_options.php:1959 admin/theme_options.php:2113 admin/theme_options.php:2404
+#: admin/theme_options.php:2413 admin/theme_options.php:2422 admin/theme_options.php:2686 admin/theme_options.php:2705
+#: admin/theme_options.php:3338 admin/theme_options.php:3368 admin/theme_options.php:3425 admin/theme_options.php:3450
+#: admin/theme_options.php:3540 admin/theme_options.php:3620 admin/theme_options.php:3696
+msgid "Disable"
+msgstr "禁用"
+
+#: admin/theme_options.php:442
+msgid "Header Middle Background."
+msgstr "标题中间背景。"
+
+#: admin/theme_options.php:448
+msgid "Header middle background with image, color, etc."
+msgstr "标题中间背景与图像，颜色等"
+
+#: admin/theme_options.php:461
+msgid "Opacity"
+msgstr "不透明度"
+
+#: admin/theme_options.php:462
+msgid "Header background opacity."
+msgstr "标题背景不透明度"
+
+#: admin/theme_options.php:501
+msgid "Header Border"
+msgstr "标题边界"
+
+#: admin/theme_options.php:502 admin/theme_options.php:591
+msgid "Set Header border."
+msgstr "设置标题边框。"
+
+#: admin/theme_options.php:519 admin/theme_options.php:882 admin/theme_options.php:1017 admin/theme_options.php:1095
+msgid "Content Padding"
+msgstr "内容填充"
+
+#: admin/theme_options.php:520
+msgid "Default padding in px: 24 24"
+msgstr "默认填充为px：24 24"
+
+#: admin/theme_options.php:531 admin/theme_options.php:1168
+msgid "Sticky Header"
+msgstr "粘性标题"
+
+#: admin/theme_options.php:537
+msgid "Sticky Header background with image, color, etc."
+msgstr "粘贴标题背景与图像，颜色等"
+
+#: admin/theme_options.php:551
+msgid "Sticky header background opacity."
+msgstr "粘性标题背景不透明度。"
+
+#: admin/theme_options.php:590
+msgid "Sticky Header Border"
+msgstr "粘性标题边框"
+
+#: admin/theme_options.php:605
+msgid "Topbar"
+msgstr "顶栏"
+
+#: admin/theme_options.php:612
+msgid " Topbar Background"
+msgstr "顶栏背景"
+
+#: admin/theme_options.php:613
+msgid "Topbar background with image, color, etc."
+msgstr "Topbar背景与图像，颜色等"
+
+#: admin/theme_options.php:627
+msgid "Topbar background opacity."
+msgstr "Topbar背景不透明度。"
+
+#: admin/theme_options.php:666
+msgid "Topbar Border"
+msgstr "顶栏边界"
+
+#: admin/theme_options.php:667
+msgid "Set topbar border."
+msgstr "设置顶部边框"
+
+#: admin/theme_options.php:681
+msgid "Navigation"
+msgstr "导航"
+
+#: admin/theme_options.php:689
+msgid "Navigation background with image, color, etc."
+msgstr "导航背景与图像，颜色等"
+
+#: admin/theme_options.php:703
+msgid "Navigation background opacity."
+msgstr "导航背景不透明度。"
+
+#: admin/theme_options.php:714
+msgid "Secondary Background Color"
+msgstr "次要背景色"
+
+#: admin/theme_options.php:715
+msgid "Secondary navigation background color."
+msgstr "二次导航背景颜色。"
+
+#: admin/theme_options.php:749
+msgid "Navigation Border"
+msgstr "导航边界"
+
+#: admin/theme_options.php:750
+msgid "Set Navigation border."
+msgstr "设置导航边框。"
+
+#: admin/theme_options.php:764 inc/theme-function.php:805
+msgid "Menu"
+msgstr "菜单"
+
+#: admin/theme_options.php:793
+msgid "Menu Border"
+msgstr "菜单边框"
+
+#: admin/theme_options.php:794
+msgid "Set Menu border."
+msgstr "设置菜单边框。"
+
+#: admin/theme_options.php:808 admin/theme_options.php:1466
+msgid "Page Heading"
+msgstr "页面标题"
+
+#: admin/theme_options.php:816
+msgid "Page heading background with image, color, etc."
+msgstr "页面标题背景与图像，颜色等"
+
+#: admin/theme_options.php:830
+msgid "Page heading background opacity."
+msgstr "页面标题背景不透明度。"
+
+#: admin/theme_options.php:841
+msgid "Page Heading/Title Color"
+msgstr "页面标题/标题颜色"
+
+#: admin/theme_options.php:842
+msgid "Page heading/title color."
+msgstr "页面标题/标题颜色。"
+
+#: admin/theme_options.php:864
+msgid "Page Heading Border"
+msgstr "页标题边框"
+
+#: admin/theme_options.php:865
+msgid "Set page heading border."
+msgstr "设置页面标题边框。"
+
+#: admin/theme_options.php:883
+msgid "Default padding in px: 10 10"
+msgstr "默认填充为px：10 10"
+
+#: admin/theme_options.php:894 admin/theme_options.php:1523 admin/theme_options.php:3485
+msgid "Footer"
+msgstr "页脚"
+
+#: admin/theme_options.php:902
+msgid "Footer Wrapper Background."
+msgstr "页脚包裹背景。"
+
+#: admin/theme_options.php:908
+msgid "Footer wrapper background with image, color, etc."
+msgstr "页面包装背景与图像，颜色等"
+
+#: admin/theme_options.php:922
+msgid "Footer wrapper background opacity."
+msgstr "页脚包装背景不透明度。"
+
+#: admin/theme_options.php:934
+msgid "Footer Top/Middle Background."
+msgstr "页脚顶部/中间背景。"
+
+#: admin/theme_options.php:940
+msgid "Footer top/middle background with image, color, etc."
+msgstr "页脚顶部/中间背景与图像，颜色等"
+
+#: admin/theme_options.php:954
+msgid "Footer background opacity."
+msgstr "页脚背景不透明度。"
+
+#: admin/theme_options.php:965
+msgid "Heading Color"
+msgstr "标题颜色"
+
+#: admin/theme_options.php:966
+msgid "Footer heading color."
+msgstr "页脚标题颜色。"
+
+#: admin/theme_options.php:1000
+msgid "Footer Border"
+msgstr "页脚边界"
+
+#: admin/theme_options.php:1018
+msgid "Default padding in px: 42 42"
+msgstr "默认填充为px：42 42"
+
+#: admin/theme_options.php:1029 admin/theme_options.php:1549
+msgid "Copyright"
+msgstr "Copyright"
+
+#: admin/theme_options.php:1037
+msgid "Copyright background with image, color, etc."
+msgstr "版权背景与图像，颜色等"
+
+#: admin/theme_options.php:1051
+msgid "Copyright background opacity."
+msgstr "版权背景不透明度"
+
+#: admin/theme_options.php:1078
+msgid "Copyright Border"
+msgstr "版权边界"
+
+#: admin/theme_options.php:1096
+msgid "Default padding: 14 14"
+msgstr "默认填充：14 14"
+
+#: admin/theme_options.php:1108
+msgid "Theme Typography"
+msgstr "主题排版"
+
+#: admin/theme_options.php:1116
+msgid "Google Font Character Sets"
+msgstr "Google字体字符集"
+
+#: admin/theme_options.php:1117
+msgid "Select google font character sets"
+msgstr "选择谷歌字体字符集"
+
+#: admin/theme_options.php:1132
+msgid "Body Font"
+msgstr "主体字体"
+
+#: admin/theme_options.php:1160
+msgid "Header Layout"
+msgstr "标题布局"
+
+#: admin/theme_options.php:1161
+msgid "Choose Your header style/layout."
+msgstr "选择您的标题样式/布局。"
+
+#: admin/theme_options.php:1176
+msgid "Sticky Header In Mobile"
+msgstr "手机头贴"
+
+#: admin/theme_options.php:1185
+msgid "Select Sticky Header Part"
+msgstr "选择粘性标题零件"
+
+#: admin/theme_options.php:1187
+msgid "Topbar Header"
+msgstr "顶栏标题"
+
+#: admin/theme_options.php:1188
+msgid "Middle Header"
+msgstr "中间头"
+
+#: admin/theme_options.php:1189
+msgid "Navigation Header"
+msgstr "导航头"
+
+#: admin/theme_options.php:1197
+msgid "Show Header Topbar"
+msgstr "显示标题顶栏"
+
+#: admin/theme_options.php:1198
+msgid "Show header topbar on header."
+msgstr "在标题上显示标题顶栏。"
+
+#: admin/theme_options.php:1199 admin/theme_options.php:1208 admin/theme_options.php:1218 admin/theme_options.php:1228
+#: admin/theme_options.php:1246 admin/theme_options.php:1264 admin/theme_options.php:1282 admin/theme_options.php:1292
+#: admin/theme_options.php:1310 admin/theme_options.php:1369 admin/theme_options.php:1378 admin/theme_options.php:1387
+#: admin/theme_options.php:1558 admin/theme_options.php:1618 admin/theme_options.php:1636 admin/theme_options.php:1644
+#: admin/theme_options.php:1686 admin/theme_options.php:1720 admin/theme_options.php:1743 admin/theme_options.php:1839
+#: admin/theme_options.php:1976 admin/theme_options.php:1984 admin/theme_options.php:1992 admin/theme_options.php:2001
+#: admin/theme_options.php:2009 admin/theme_options.php:2018 admin/theme_options.php:2027 admin/theme_options.php:2036
+#: admin/theme_options.php:2045 admin/theme_options.php:2054 admin/theme_options.php:2139 admin/theme_options.php:2147
+#: admin/theme_options.php:2156 admin/theme_options.php:2165 admin/theme_options.php:2174 admin/theme_options.php:2183
+#: admin/theme_options.php:2191 admin/theme_options.php:2199 admin/theme_options.php:2207 admin/theme_options.php:2225
+#: admin/theme_options.php:2247 admin/theme_options.php:2255 admin/theme_options.php:2294 admin/theme_options.php:2302
+#: admin/theme_options.php:2363 admin/theme_options.php:2383 admin/theme_options.php:2492 admin/theme_options.php:2500
+#: admin/theme_options.php:2545 admin/theme_options.php:2553 admin/theme_options.php:2561 admin/theme_options.php:2585
+#: admin/theme_options.php:2605 admin/theme_options.php:2652 admin/theme_options.php:2660 admin/theme_options.php:2668
+#: admin/theme_options.php:2694 admin/theme_options.php:2714 admin/theme_options.php:2774 admin/theme_options.php:2782
+#: admin/theme_options.php:2880 admin/theme_options.php:2888 admin/theme_options.php:2896 admin/theme_options.php:2904
+#: admin/theme_options.php:2948 admin/theme_options.php:2957 admin/theme_options.php:3019 admin/theme_options.php:3027
+#: admin/theme_options.php:3087 admin/theme_options.php:3095 admin/theme_options.php:3132 admin/theme_options.php:3244
+#: admin/theme_options.php:3263 admin/theme_options.php:3272 admin/theme_options.php:3281 admin/theme_options.php:3290
+#: admin/theme_options.php:3299 admin/theme_options.php:3308 admin/theme_options.php:3317
+msgid "Show"
+msgstr "显示"
+
+#: admin/theme_options.php:1200 admin/theme_options.php:1209 admin/theme_options.php:1219 admin/theme_options.php:1229
+#: admin/theme_options.php:1247 admin/theme_options.php:1265 admin/theme_options.php:1283 admin/theme_options.php:1293
+#: admin/theme_options.php:1311 admin/theme_options.php:1370 admin/theme_options.php:1379 admin/theme_options.php:1388
+#: admin/theme_options.php:1559 admin/theme_options.php:1619 admin/theme_options.php:1637 admin/theme_options.php:1645
+#: admin/theme_options.php:1687 admin/theme_options.php:1721 admin/theme_options.php:1744 admin/theme_options.php:1840
+#: admin/theme_options.php:1977 admin/theme_options.php:1985 admin/theme_options.php:1993 admin/theme_options.php:2002
+#: admin/theme_options.php:2010 admin/theme_options.php:2019 admin/theme_options.php:2028 admin/theme_options.php:2037
+#: admin/theme_options.php:2046 admin/theme_options.php:2055 admin/theme_options.php:2140 admin/theme_options.php:2148
+#: admin/theme_options.php:2157 admin/theme_options.php:2166 admin/theme_options.php:2175 admin/theme_options.php:2184
+#: admin/theme_options.php:2192 admin/theme_options.php:2200 admin/theme_options.php:2208 admin/theme_options.php:2226
+#: admin/theme_options.php:2248 admin/theme_options.php:2256 admin/theme_options.php:2295 admin/theme_options.php:2303
+#: admin/theme_options.php:2364 admin/theme_options.php:2384 admin/theme_options.php:2493 admin/theme_options.php:2501
+#: admin/theme_options.php:2546 admin/theme_options.php:2554 admin/theme_options.php:2562 admin/theme_options.php:2586
+#: admin/theme_options.php:2606 admin/theme_options.php:2653 admin/theme_options.php:2661 admin/theme_options.php:2669
+#: admin/theme_options.php:2695 admin/theme_options.php:2715 admin/theme_options.php:2775 admin/theme_options.php:2783
+#: admin/theme_options.php:2881 admin/theme_options.php:2889 admin/theme_options.php:2897 admin/theme_options.php:2905
+#: admin/theme_options.php:2949 admin/theme_options.php:2958 admin/theme_options.php:3020 admin/theme_options.php:3028
+#: admin/theme_options.php:3088 admin/theme_options.php:3096 admin/theme_options.php:3133 admin/theme_options.php:3245
+#: admin/theme_options.php:3264 admin/theme_options.php:3273 admin/theme_options.php:3282 admin/theme_options.php:3291
+#: admin/theme_options.php:3300 admin/theme_options.php:3309 admin/theme_options.php:3318
+msgid "Hide"
+msgstr "隐藏"
+
+#: admin/theme_options.php:1206
+msgid "Show Language Switcher"
+msgstr "显示语言切换器"
+
+#: admin/theme_options.php:1207
+msgid "Show language switcher on topbar."
+msgstr "在顶栏上显示语言切换器。"
+
+#: admin/theme_options.php:1216
+msgid "Show Currency Switcher"
+msgstr "显示货币兑换"
+
+#: admin/theme_options.php:1217
+msgid "Show currency switcher on topbar."
+msgstr "在顶栏上显示货币切换器。"
+
+#: admin/theme_options.php:1226
+msgid "Show Topbar Email"
+msgstr "显示Topbar电子邮件"
+
+#: admin/theme_options.php:1227
+msgid "Show email address on topbar."
+msgstr "在顶栏上显示电子邮件地址。"
+
+#: admin/theme_options.php:1236
+msgid "Enter Topbar Email"
+msgstr "输入Topbar电子邮件"
+
+#: admin/theme_options.php:1237
+msgid "Enter topbar email address."
+msgstr "输入顶栏电子邮件地址。"
+
+#: admin/theme_options.php:1244
+msgid "Show Topbar Number"
+msgstr "显示顶栏号码"
+
+#: admin/theme_options.php:1245
+msgid "Show mobile number on topbar."
+msgstr "在顶栏上显示手机号码。"
+
+#: admin/theme_options.php:1254
+msgid "Enter Topbar Number"
+msgstr "输入Topbar Number"
+
+#: admin/theme_options.php:1255
+msgid "Enter topbar mobile number."
+msgstr "输入topbar手机号码。"
+
+#: admin/theme_options.php:1262
+msgid "Show Topbar News"
+msgstr "显示Topbar新闻"
+
+#: admin/theme_options.php:1263
+msgid "Show news on topbar."
+msgstr "在顶栏上显示新闻"
+
+#: admin/theme_options.php:1272
+msgid "Enter Topbar News"
+msgstr "输入Topbar新闻"
+
+#: admin/theme_options.php:1273
+msgid "Enter topbar news in \"a\" tab."
+msgstr "在“一个”选项卡中输入顶栏新闻。"
+
+#: admin/theme_options.php:1280
+msgid "Show Topbar Social Link"
+msgstr "显示Topbar Social Link"
+
+#: admin/theme_options.php:1281
+msgid "Show social link on topbar."
+msgstr "在顶栏上显示社交链接。"
+
+#: admin/theme_options.php:1290
+msgid "Show Topbar Welcome Message"
+msgstr "显示Topbar欢迎讯息"
+
+#: admin/theme_options.php:1291
+msgid "Show welcome message on topbar."
+msgstr "在顶栏上显示欢迎讯息。"
+
+#: admin/theme_options.php:1300
+msgid "Enter Topbar Welcome Message"
+msgstr "输入Topbar欢迎讯息"
+
+#: admin/theme_options.php:1301
+msgid "Enter topbar welcome message."
+msgstr "输入topbar欢迎讯息。"
+
+#: admin/theme_options.php:1308
+msgid "Show Topbar Help"
+msgstr "显示Topbar帮助"
+
+#: admin/theme_options.php:1309
+msgid "Show help on topbar."
+msgstr "在顶栏上显示帮助。"
+
+#: admin/theme_options.php:1318
+msgid "Enter Help Link"
+msgstr "输入帮助链接"
+
+#: admin/theme_options.php:1319
+msgid "Enter help link. of topbar"
+msgstr "输入帮助链接。的顶栏"
+
+#: admin/theme_options.php:1327
+msgid "Product Live/Ajax Search"
+msgstr "产品直播/ Ajax搜索"
+
+#: admin/theme_options.php:1328
+msgid "Live product search or not on header."
+msgstr "现场产品搜索或不在标题。"
+
+#: admin/theme_options.php:1336
+msgid "Show Categories Dropdown"
+msgstr "显示类别下拉菜单"
+
+#: admin/theme_options.php:1337
+msgid "Show categories dropdow in product search."
+msgstr "在产品搜索中显示类别dropdow。"
+
+#: admin/theme_options.php:1345
+msgid "Search Categories Dropdown"
+msgstr "搜索类别下拉菜单"
+
+#: admin/theme_options.php:1346
+msgid "Display categories in search categories dropdow."
+msgstr "在搜索类别中显示类别dropdow。"
+
+#: admin/theme_options.php:1348
+msgid "Show All Categories"
+msgstr "显示所有类别"
+
+#: admin/theme_options.php:1349
+msgid "Only Parent(top level) Categories"
+msgstr "只有父母（顶级）类别"
+
+#: admin/theme_options.php:1357
+msgid "Show Categories Hierarchical"
+msgstr "显示类别分层"
+
+#: admin/theme_options.php:1358
+msgid "Show categories in hierarchical (Must be need to select above option Show All Categories)."
+msgstr "在层次结构中显示类别（必须选择上面的选项显示所有类别）。"
+
+#: admin/theme_options.php:1367
+msgid "Show Cart"
+msgstr "显示购物车？"
+
+#: admin/theme_options.php:1368
+msgid "Show cart on header."
+msgstr "在标题上显示购物车。"
+
+#: admin/theme_options.php:1376
+msgid "Show Wishlist"
+msgstr "显示愿望清单"
+
+#: admin/theme_options.php:1377
+msgid "Show wishlist on header."
+msgstr "在标题上显示心愿单"
+
+#: admin/theme_options.php:1385
+msgid "Show Campare"
+msgstr "显示Campare"
+
+#: admin/theme_options.php:1386
+msgid "Show campare on header."
+msgstr "在标题上显示campare。"
+
+#: admin/theme_options.php:1394
+msgid "Header Services Icon 1"
+msgstr "标题服务图标1"
+
+#: admin/theme_options.php:1400
+msgid "Enter Service Title 1."
+msgstr "输入服务标题1。"
+
+#: admin/theme_options.php:1406
+msgid "Enter Service Sort Description 1"
+msgstr "输入服务排序说明1"
+
+#: admin/theme_options.php:1412 admin/theme_options.php:1430
+msgid "Header Services Icon 3"
+msgstr "标题服务图标3"
+
+#: admin/theme_options.php:1418
+msgid "Enter Service Title 2"
+msgstr "输入服务标题2"
+
+#: admin/theme_options.php:1419 inc/theme-function.php:622 inc/theme-function.php:631
+msgid "Free Shipping"
+msgstr "免费邮递"
+
+#: admin/theme_options.php:1424
+msgid "Enter Service Sort Description 2"
+msgstr "输入服务排序说明2"
+
+#: admin/theme_options.php:1425 inc/theme-function.php:623
+msgid "all order over $100."
+msgstr "所有订单超过$ 100。"
+
+#: admin/theme_options.php:1436
+msgid "Enter Service Title 3"
+msgstr "输入服务标题3"
+
+#: admin/theme_options.php:1437 inc/theme-function.php:632
+msgid "Return & Exchange"
+msgstr "退换货"
+
+#: admin/theme_options.php:1442
+msgid "Enter Service Sort Description 3"
+msgstr "输入服务排序说明3"
+
+#: admin/theme_options.php:1448
+msgid "Open Categories(Vertical) Menu In Home Page"
+msgstr "在主页中打开分类（垂直）菜单"
+
+#: admin/theme_options.php:1449
+msgid "Categories(Vertical) menu open in home page. See demo ex. Electronic."
+msgstr "分类（垂直）菜单在主页上打开。见demo ex。电子。"
+
+#: admin/theme_options.php:1450
+msgid "Open"
+msgstr "开"
+
+#: admin/theme_options.php:1451
+msgid "Close"
+msgstr "闭"
+
+#: admin/theme_options.php:1457
+msgid "Shopping Categories Title"
+msgstr "购物分类标题"
+
+#: admin/theme_options.php:1473
+msgid "Show Page Heading"
+msgstr "显示页面标题"
+
+#: admin/theme_options.php:1474 admin/theme_options.php:1492 admin/theme_options.php:1513 admin/theme_options.php:1587
+#: admin/theme_options.php:1609 admin/theme_options.php:1904 admin/theme_options.php:2121 admin/theme_options.php:2130
+#: admin/theme_options.php:2277 admin/theme_options.php:2286 admin/theme_options.php:2929 admin/theme_options.php:2939
+#: framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:206 inc/meta-boxes.php:218
+msgid "Yes"
+msgstr "是"
+
+#: admin/theme_options.php:1475 admin/theme_options.php:1493 admin/theme_options.php:1514 admin/theme_options.php:1588
+#: admin/theme_options.php:1610 admin/theme_options.php:1905 admin/theme_options.php:2122 admin/theme_options.php:2131
+#: admin/theme_options.php:2278 admin/theme_options.php:2287 admin/theme_options.php:2930 admin/theme_options.php:2940
+#: admin/theme_options.php:3434 framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:207 inc/meta-boxes.php:219
+msgid "No"
+msgstr "没有"
+
+#: admin/theme_options.php:1482
+msgid "Page Heading Layout"
+msgstr "页面标题布局"
+
+#: admin/theme_options.php:1483
+msgid "Choose Your page heading style/layout."
+msgstr "选择您的页面标题样式/布局。"
+
+#: admin/theme_options.php:1491 admin/theme_options.php:2781 admin/theme_options.php:3026 admin/theme_options.php:3094
+msgid "Show Page Title"
+msgstr "显示页面标题"
+
+#: admin/theme_options.php:1500
+msgid "Show Title In Page Heading Or Page Content"
+msgstr "在页面标题或页面内容中显示标题"
+
+#: admin/theme_options.php:1501
+msgid "Show page title in page heading area or page content area."
+msgstr "在页面标题区域或页面内容区域中显示页面标题。"
+
+#: admin/theme_options.php:1503
+msgid "In  Page Heading"
+msgstr "页面标题"
+
+#: admin/theme_options.php:1504
+msgid "In Page Content"
+msgstr "页面内容"
+
+#: admin/theme_options.php:1512 admin/theme_options.php:2773 admin/theme_options.php:3018 admin/theme_options.php:3086
+msgid "Show Page Breadcrumb"
+msgstr "显示页面面包屑"
+
+#: admin/theme_options.php:1531
+msgid "Footer Layout"
+msgstr "页脚布局"
+
+#: admin/theme_options.php:1532
+msgid "Choose Your footer style/layout."
+msgstr "选择您的页脚样式/布局。"
+
+#: admin/theme_options.php:1542
+msgid "Select Your Popular Categories"
+msgstr "选择您的热门类别"
+
+#: admin/theme_options.php:1543
+msgid "Select your populare categories and display on footer. But need to be first select footer style third. "
+msgstr "选择您的民俗类别并在页脚上显示。但需要先选择页脚样式第三。"
+
+#: admin/theme_options.php:1550
+msgid "Enter copyright text."
+msgstr "输入版权文字。"
+
+#: admin/theme_options.php:1551
+msgid "&copy; 2017 presslayouts.com. All Rights Reserved."
+msgstr "＆复制; 2017 presslayouts.com。版权所有。"
+
+#: admin/theme_options.php:1556
+msgid "Show Payments Logo"
+msgstr "显示付款标志"
+
+#: admin/theme_options.php:1565
+msgid "Payments Logo Image"
+msgstr "付款标志图像"
+
+#: admin/theme_options.php:1567
+msgid "Upload payments logo image."
+msgstr "上传付款标志图片。"
+
+#: admin/theme_options.php:1578
+msgid "WooCommerce"
+msgstr "商城"
+
+#: admin/theme_options.php:1585
+msgid "Manage Password Strength"
+msgstr "管理密码强度"
+
+#: admin/theme_options.php:1586
+msgid "Reduce the strength requirement on the woocommerce use login/signup password "
+msgstr "降低使用密码登录/注册密码的强度要求"
+
+#: admin/theme_options.php:1594
+msgid "User Password Strength"
+msgstr "用户密码强度"
+
+#: admin/theme_options.php:1596
+msgid "Strong (default)"
+msgstr "强（默认）"
+
+#: admin/theme_options.php:1597
+msgid "Medium"
+msgstr "中"
+
+#: admin/theme_options.php:1598
+msgid "Weak"
+msgstr "较弱"
+
+#: admin/theme_options.php:1599
+msgid "Very Weak"
+msgstr "56564 ::: 56573 :::很弱"
+
+#: admin/theme_options.php:1607
+msgid "Live Search By Product SKU"
+msgstr "实时搜索产品SKU"
+
+#: admin/theme_options.php:1608
+msgid "Live search by product sku or not."
+msgstr "按产品sku进行实时搜索。"
+
+#: admin/theme_options.php:1616
+msgid "Show Cart Popup"
+msgstr "显示购物篮弹出"
+
+#: admin/theme_options.php:1617
+msgid "Show cart popup after added product in cart. "
+msgstr "在购物车中添加产品后显示购物车弹出窗口。"
+
+#: admin/theme_options.php:1625 framework/woocommerce/template-tags.php:208 framework/woocommerce/template-tags.php:284
+msgid "Login To See Price"
+msgstr "登录查看价格"
+
+#: admin/theme_options.php:1626
+msgid "Show product price after login user. "
+msgstr "在登录用户后显示产品价格。"
+
+#: admin/theme_options.php:1634 admin/theme_options.php:2137
+msgid "Show Product Highlight Labels"
+msgstr "显示产品亮点标签"
+
+#: admin/theme_options.php:1635 admin/theme_options.php:2138
+msgid "Show product highlight labels sale, featured, new and out of stock on product."
+msgstr "显示产品亮点标签销售，特色，新的和缺货的产品。"
+
+#: admin/theme_options.php:1643
+msgid "Show Sale Product Highlight Label"
+msgstr "显示销售产品亮点标签"
+
+#: admin/theme_options.php:1653
+msgid "Show sale product label in percentages or text."
+msgstr "以百分比或文字显示销售商品标签。"
+
+#: admin/theme_options.php:1655
+msgid "Percentages"
+msgstr "（百分比）"
+
+#: admin/theme_options.php:1656 inc/meta-boxes.php:136
+msgid "Text"
+msgstr "Text"
+
+#: admin/theme_options.php:1664
+msgid "Sale product highlight percentages label text."
+msgstr "销售产品亮点百分比标签文字。"
+
+#: admin/theme_options.php:1671
+msgid "Sale product highlight label text."
+msgstr "销售产品亮点标签文字。"
+
+#: admin/theme_options.php:1672 framework/classes/mega-menus.php:547 framework/woocommerce/woo-functions.php:956
+msgid "Sale"
+msgstr "特价"
+
+#: admin/theme_options.php:1678
+msgid "Sale product highlight label color."
+msgstr "销售产品突出标签颜色。"
+
+#: admin/theme_options.php:1685
+msgid "Show New Product Highlight Label"
+msgstr "显示新产品亮点标签"
+
+#: admin/theme_options.php:1694
+msgid "New product highlight label text."
+msgstr "新产品突出显示标签文字。"
+
+#: admin/theme_options.php:1695 framework/classes/mega-menus.php:541 framework/woocommerce/woo-functions.php:903
+msgid "New"
+msgstr "新建"
+
+#: admin/theme_options.php:1701
+msgid "Enter number of days to newness."
+msgstr "输入新天数。"
+
+#: admin/theme_options.php:1712
+msgid "New product highlight label color."
+msgstr "新产品亮点标签颜色。"
+
+#: admin/theme_options.php:1719
+msgid "Show Featured Product Highlight Label"
+msgstr "展示特色产品亮点标签"
+
+#: admin/theme_options.php:1728
+msgid "Featured product highlight label text."
+msgstr "特色产品亮点标签文字。"
+
+#: admin/theme_options.php:1729 dokan/store-lists-loop.php:24 framework/woocommerce/woo-functions.php:913 inc/template-tags.php:50
+msgid "Featured"
+msgstr "赞助"
+
+#: admin/theme_options.php:1735
+msgid "Featured product highlight label color."
+msgstr "特色产品亮点标签颜色。"
+
+#: admin/theme_options.php:1742
+msgid "Show Out Of Stock Product Highlight Label"
+msgstr "显示缺货产品亮点标签"
+
+#: admin/theme_options.php:1751
+msgid "out of stock product highlight label text."
+msgstr "缺货产品突出显示标签文字。"
+
+#: admin/theme_options.php:1752 framework/woocommerce/woo-functions.php:891
+msgid "Out Of Stock"
+msgstr "缺货"
+
+#: admin/theme_options.php:1758
+msgid "out of stock product highlight label color."
+msgstr "缺货产品亮点标签颜色。"
+
+#: admin/theme_options.php:1765
+msgid "Apply opacity on out of stock product."
+msgstr "对缺货产品应用不透明度。"
+
+#: admin/theme_options.php:1781
+msgid "Shop/Category"
+msgstr "商店/分类"
+
+#: admin/theme_options.php:1788
+msgid "Shop Page Layout"
+msgstr "商店页面布局"
+
+#: admin/theme_options.php:1789
+msgid "Select shop page layout with sidebar postion."
+msgstr "选择具有侧边栏位置的商店页面布局。"
+
+#: admin/theme_options.php:1810
+msgid "Select widget and display in sidebar on shop page."
+msgstr "选择小部件，并在商店页面的侧栏中显示。"
+
+#: admin/theme_options.php:1818
+msgid "Show Banner, Sub Categories & Brands"
+msgstr "显示横幅，子类别和品牌"
+
+#: admin/theme_options.php:1819
+msgid "Show category banner, sub categories and brands on category page."
+msgstr "在类别页面上显示类别横幅，子类别和品牌。"
+
+#: admin/theme_options.php:1822
+msgid "Category Banner"
+msgstr "类别横幅"
+
+#: admin/theme_options.php:1823
+msgid "Sub Category"
+msgstr "类别"
+
+#: admin/theme_options.php:1824
+msgid "Category Brands"
+msgstr "品牌类别"
+
+#: admin/theme_options.php:1831
+msgid "Sub Categories Style"
+msgstr "子类别风格"
+
+#: admin/theme_options.php:1832
+msgid "Only Sub Categories"
+msgstr "只有子类别"
+
+#: admin/theme_options.php:1832
+msgid "Sub Categories With Inner"
+msgstr "子类别与内在"
+
+#: admin/theme_options.php:1838
+msgid "Show Product Category Description"
+msgstr "显示产品类别说明"
+
+#: admin/theme_options.php:1846
+msgid "Show Product Description Position"
+msgstr "显示产品说明"
+
+#: admin/theme_options.php:1848 admin/theme_options.php:3495
+msgid "Top"
+msgstr "攻"
+
+#: admin/theme_options.php:1849 admin/theme_options.php:3496
+msgid "Bottom"
+msgstr "受"
+
+#: admin/theme_options.php:1857
+msgid "Product Layout Style"
+msgstr "产品布局样式"
+
+#: admin/theme_options.php:1859
+msgid "Product Style 1"
+msgstr "产品风格1"
+
+#: admin/theme_options.php:1860
+msgid "Product Style 2"
+msgstr "产品风格2"
+
+#: admin/theme_options.php:1861
+msgid "Product Style 3"
+msgstr "产品风格3"
+
+#: admin/theme_options.php:1868
+msgid "Product Image Hover Style"
+msgstr "产品图像悬停样式"
+
+#: admin/theme_options.php:1869 admin/theme_options.php:1940 admin/theme_options.php:2621 admin/theme_options.php:2813
+#: admin/theme_options.php:2851 inc/customizer.php:92
+msgid "Default"
+msgstr "默认"
+
+#: admin/theme_options.php:1869
+msgid "Image Switch"
+msgstr "图像切换"
+
+#: admin/theme_options.php:1869
+msgid "Image Auto Play Slider"
+msgstr "图像自动播放滑块"
+
+#: admin/theme_options.php:1869
+msgid "Image Slider"
+msgstr "图像滑块"
+
+#: admin/theme_options.php:1875
+msgid "Show Products Per Row"
+msgstr "显示每行产品"
+
+#: admin/theme_options.php:1879
+msgid "6 (In full width)"
+msgstr "6（全宽）"
+
+#: admin/theme_options.php:1886
+msgid "Show Products Per Row In Mobile"
+msgstr "在行动中显示每行产品"
+
+#: admin/theme_options.php:1896
+msgid "Show Number Of Products Per Page"
+msgstr "显示每页产品的数量"
+
+#: admin/theme_options.php:1903
+msgid "Show Grid/List View Button"
+msgstr "显示网格/列表视图按钮"
+
+#: admin/theme_options.php:1911
+msgid "Enable Product View Style"
+msgstr "启用产品视图样式"
+
+#: admin/theme_options.php:1914 admin/theme_options.php:1927
+msgid "Grid"
+msgstr "滤线栅"
+
+#: admin/theme_options.php:1915 admin/theme_options.php:1928
+msgid "Expand Grid"
+msgstr "展开网格"
+
+#: admin/theme_options.php:1916 admin/theme_options.php:1929
+msgid "List"
+msgstr "列表"
+
+#: admin/theme_options.php:1917 admin/theme_options.php:1930
+msgid "Thin List"
+msgstr "薄列表"
+
+#: admin/theme_options.php:1925
+msgid "Default Product View Style"
+msgstr "默认产品视图样式"
+
+#: admin/theme_options.php:1938
+msgid "Products Pagination Style"
+msgstr "产品分页风格"
+
+#: admin/theme_options.php:1941 admin/theme_options.php:2622 admin/theme_options.php:2852
+msgid "Infinity Scroll"
+msgstr "无限卷轴"
+
+#: admin/theme_options.php:1942 admin/theme_options.php:2623 admin/theme_options.php:2853
+msgid "Load More Button"
+msgstr "加载更多按钮"
+
+#: admin/theme_options.php:1943 admin/theme_options.php:2624 admin/theme_options.php:2854
+msgid "AJAX Pagination"
+msgstr "AJAX分页"
+
+#: admin/theme_options.php:1950 admin/theme_options.php:2631 admin/theme_options.php:2861
+msgid "Load More Button Text"
+msgstr "加载更多按钮文本"
+
+#: admin/theme_options.php:1956
+msgid "Enable Lazy Load"
+msgstr "启用延迟加载"
+
+#: admin/theme_options.php:1957
+msgid "Enable lazy load product image."
+msgstr "启用延迟加载产品图像。"
+
+#: admin/theme_options.php:1965
+msgid "Lazy Load Animation Style"
+msgstr "Lazy Load动画风格"
+
+#: admin/theme_options.php:1966
+msgid "Different styles of lazy load animation."
+msgstr "不同风格的懒惰加载动画。"
+
+#: admin/theme_options.php:1974
+msgid "Show Products Per Page Dropdown"
+msgstr "显示每页产品的下拉列表"
+
+#: admin/theme_options.php:1975
+msgid "Show products per page dropdow on shop page."
+msgstr "在商店页面上显示每页产品dropdow。"
+
+#: admin/theme_options.php:1983
+msgid "Show Product Price"
+msgstr "显示产品价格"
+
+#: admin/theme_options.php:1991 admin/theme_options.php:2190
+msgid "Show Product Rating"
+msgstr "显示产品评级"
+
+#: admin/theme_options.php:1999
+msgid "Show Product Buttons"
+msgstr "显示产品按钮"
+
+#: admin/theme_options.php:2000
+msgid "Show product buttons cart, wishlist, compare, quick view etc."
+msgstr "显示产品按钮购物车，心愿单，比较，快速查看等"
+
+#: admin/theme_options.php:2008
+msgid "Show Cart Button"
+msgstr "显示购物车按钮"
+
+#: admin/theme_options.php:2017
+msgid "Show Wishlist Button"
+msgstr "显示心愿单按钮"
+
+#: admin/theme_options.php:2026
+msgid "Show Compare Button"
+msgstr "显示比较按钮"
+
+#: admin/theme_options.php:2035
+msgid "Show Quick View Button"
+msgstr "显示快速查看按钮"
+
+#: admin/theme_options.php:2044
+msgid "Show short Description"
+msgstr "显示简短描述"
+
+#: admin/theme_options.php:2052
+msgid "Show Product Variation(Options)"
+msgstr "显示产品变化（选项）"
+
+#: admin/theme_options.php:2053
+msgid "Show product variation(attribute) on product hover. Like Color, Size, ..."
+msgstr "在产品悬停上显示产品变化（属性）。像颜色，尺寸，..."
+
+#: admin/theme_options.php:2065
+msgid "Single Product"
+msgstr "单品"
+
+#: admin/theme_options.php:2072
+msgid "Single Product Page Layout"
+msgstr "单一产品页面布局"
+
+#: admin/theme_options.php:2073
+msgid "Select product page layout with sidebar postion."
+msgstr "选择具有侧边栏位置的产品页面布局。"
+
+#: admin/theme_options.php:2102 admin/theme_options.php:2341 admin/theme_options.php:2483 admin/theme_options.php:2765
+#: admin/theme_options.php:3077
+msgid "Select Sidebar Widget Area"
+msgstr "选择侧边栏小部件区域"
+
+#: admin/theme_options.php:2103
+msgid "Select widget and display in sidebar on single product page."
+msgstr "选择窗口小部件，并在单个产品页面的侧栏中显示。"
+
+#: admin/theme_options.php:2111
+msgid "Product Image Zoom"
+msgstr "产品图片缩放"
+
+#: admin/theme_options.php:2119
+msgid "Sticky Product Image Part"
+msgstr "粘性产品图像部分"
+
+#: admin/theme_options.php:2120
+msgid "When you scroll the product page at this time you want to stick product image part or not."
+msgstr "当您滚动产品页面时，您想要粘贴产品图像部分。"
+
+#: admin/theme_options.php:2128
+msgid "Sticky Product Summary Part"
+msgstr "粘性产品摘要部分"
+
+#: admin/theme_options.php:2129
+msgid "When you scroll the product page at this time you want to stick product summary part or not."
+msgstr "当您滚动产品页面时，您希望粘贴产品摘要部分。"
+
+#: admin/theme_options.php:2146
+msgid "Show Product Highlight Label Sale"
+msgstr "显示产品亮点标签出售"
+
+#: admin/theme_options.php:2155
+msgid "Show Product Highlight Label Featured"
+msgstr "显示产品亮点标签特色"
+
+#: admin/theme_options.php:2164
+msgid "Show Product Highlight Label New"
+msgstr "显示产品亮点标签新"
+
+#: admin/theme_options.php:2173
+msgid "Show Product Highlight Label Out Of Stock"
+msgstr "显示产品亮点标签缺货"
+
+#: admin/theme_options.php:2182
+msgid "Show Product Next/Previous Navigation"
+msgstr "显示产品下一个/上一个导航"
+
+#: admin/theme_options.php:2198
+msgid "Show Product CountDown"
+msgstr "显示产品数量下降"
+
+#: admin/theme_options.php:2206
+msgid "Show Size Guide"
+msgstr "显示尺寸指南"
+
+#: admin/theme_options.php:2215
+msgid "Choose Size Guide Image"
+msgstr "选择尺寸指南图像"
+
+#: admin/theme_options.php:2223
+msgid "Show Product Meta"
+msgstr "显示产品元"
+
+#: admin/theme_options.php:2224
+msgid "Show or hide product brand, category, tag, etc..."
+msgstr "显示或隐藏产品品牌，类别，标签等..."
+
+#: admin/theme_options.php:2232
+msgid "Show Specific Product Meta"
+msgstr "显示特定产品元"
+
+#: admin/theme_options.php:2235
+msgid "Brand"
+msgstr "品牌"
+
+#: admin/theme_options.php:2236
+msgid "SKU"
+msgstr "库存"
+
+#: admin/theme_options.php:2237 single-portfolio.php:87
+msgid "Category"
+msgstr "类别"
+
+#: admin/theme_options.php:2238
+msgid "Tag"
+msgstr "标签"
+
+#: admin/theme_options.php:2246
+msgid "Show Related Products"
+msgstr "显示相关产品"
+
+#: admin/theme_options.php:2254
+msgid "Show Up Sell Products"
+msgstr "展示产品"
+
+#: admin/theme_options.php:2262
+msgid "Show Number Of Related/Up Sell Products"
+msgstr "显示相关/上架产品的数量"
+
+#: admin/theme_options.php:2269
+msgid "Select Related/Up Sell Products Show Per Row"
+msgstr "选择相关/向上销售产品显示每行"
+
+#: admin/theme_options.php:2276 admin/theme_options.php:2684 admin/theme_options.php:2928
+msgid "Enable Carousel Autoplay Mode"
+msgstr "启用旋转木马自动播放模式"
+
+#: admin/theme_options.php:2284 admin/theme_options.php:2937
+msgid "Enables Carousel Inifnity Loop"
+msgstr "启用旋转木马无限循环"
+
+#: admin/theme_options.php:2285
+msgid "Enables related/up sell products carousel Inifnity loop. Duplicate last and first products to get loop illusion."
+msgstr "启用相关/上传产品转盘无效循环。重复的最后和第一个产品获得循环幻觉。"
+
+#: admin/theme_options.php:2293 admin/theme_options.php:2693 admin/theme_options.php:2947
+msgid "Show Carousel Navigation"
+msgstr "显示转盘导航"
+
+#: admin/theme_options.php:2301 admin/theme_options.php:2956
+msgid "Show Carousel Dots Navigation"
+msgstr "显示转盘点导航"
+
+#: admin/theme_options.php:2313
+msgid "Dokan"
+msgstr "杜坎"
+
+#: admin/theme_options.php:2320
+msgid "Dokan Store Page Layout"
+msgstr "Dokan店铺页面布局"
+
+#: admin/theme_options.php:2321
+msgid "Select dokan store page layout with sidebar postion."
+msgstr "选择带有侧边栏位置的旅馆店铺页面布局。"
+
+#: admin/theme_options.php:2342
+msgid "Select widget area and display in sidebar on dokan store page."
+msgstr "选择小部件区域，并显示在旅馆商店页面的侧栏中。"
+
+#: admin/theme_options.php:2354
+msgid "WC Vendors"
+msgstr "WC供应商"
+
+#: admin/theme_options.php:2361
+msgid "Show Sold By Label"
+msgstr "按标签显示"
+
+#: admin/theme_options.php:2362
+msgid "Show sold by label or not on product."
+msgstr "由标签显示或不显示在产品上。"
+
+#: admin/theme_options.php:2374 content-page.php:33 content.php:62 image.php:62 page.php:52
+msgid "Page"
+msgstr "页"
+
+#: admin/theme_options.php:2381
+msgid "Show Page Comment"
+msgstr "显示页面评论"
+
+#: admin/theme_options.php:2382
+msgid "Show page comments and comment form or not."
+msgstr "显示页面评论和评论表单。"
+
+#: admin/theme_options.php:2394 inc/meta-boxes.php:242 inc/meta-boxes.php:284
+msgid "Sidebar Widget"
+msgstr "边栏小部件"
+
+#: admin/theme_options.php:2401
+msgid "Enable Widget Toggle"
+msgstr "启用小部件切换"
+
+#: admin/theme_options.php:2402
+msgid "Enable page widget toggle or not."
+msgstr "启用页面小部件切换或不启用。"
+
+#: admin/theme_options.php:2410
+msgid "Enable Widget Menu Toggle"
+msgstr "启用小部件菜单切换"
+
+#: admin/theme_options.php:2411
+msgid "Enable page widget menu toggle or not."
+msgstr "启用页面小部件菜单切换或不启用。"
+
+#: admin/theme_options.php:2419
+msgid "Enable Widget Items Hide"
+msgstr "启用小部件项目隐藏"
+
+#: admin/theme_options.php:2420
+msgid "Enable widget items hide max limit."
+msgstr "启用小部件项目隐藏最大限制。"
+
+#: admin/theme_options.php:2428
+msgid "Show Number Of Widget Items"
+msgstr "显示小部件的数量"
+
+#: admin/theme_options.php:2443
+msgid "Blog"
+msgstr "博客"
+
+#: admin/theme_options.php:2455
+msgid "Blog/Archive Page"
+msgstr "博客/存档页面"
+
+#: admin/theme_options.php:2462
+msgid "Select Blog Page Layout"
+msgstr "选择博客页布局"
+
+#: admin/theme_options.php:2463
+msgid "Select blog/archive page layout with sidebar postion."
+msgstr "选择具有侧边栏位置的博客/归档页面布局。"
+
+#: admin/theme_options.php:2491
+msgid "Show Blog Page Breadcrumb"
+msgstr "显示博客页面"
+
+#: admin/theme_options.php:2499
+msgid "Show Blog Page Title"
+msgstr "显示博客页面标题"
+
+#: admin/theme_options.php:2507
+msgid "Select Blog Style"
+msgstr "选择博客风格"
+
+#: admin/theme_options.php:2508
+msgid "Large Image"
+msgstr "大图像"
+
+#: admin/theme_options.php:2508
+msgid "Small Image"
+msgstr "小图像"
+
+#: admin/theme_options.php:2508
+msgid "Grid Column (Masonry Grid)"
+msgstr "网格列（砖石网格）"
+
+#: admin/theme_options.php:2514 admin/theme_options.php:2534
+msgid "Select Blog Grid Columns"
+msgstr "选择博客网格列"
+
+#: admin/theme_options.php:2515 admin/theme_options.php:2535
+msgid "Show blog grid column of the post/blog page. Column option apply only on above masorny grid column option."
+msgstr "显示帖子/博客页面的博客网格列。列选项仅适用于上面的马修格列列选项。"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2828 admin/theme_options.php:3036
+msgid "2 Columns"
+msgstr "1/1列"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2829 admin/theme_options.php:3037
+msgid "3 Columns"
+msgstr "1/1列"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:3038
+msgid "4 Columns (In Full Width)"
+msgstr "4列（全宽）"
+
+#: admin/theme_options.php:2523
+msgid "Show Post Per Page"
+msgstr "显示每页的帖子"
+
+#: admin/theme_options.php:2524
+msgid "Show number of post per page."
+msgstr "显示每页的帖子数。"
+
+#: admin/theme_options.php:2543
+msgid "Show Blogs Thumbnail"
+msgstr "显示博客缩略图"
+
+#: admin/theme_options.php:2544
+msgid "Show blogs thumbnail or not."
+msgstr "显示博客缩略图与否。"
+
+#: admin/theme_options.php:2552
+msgid "Show Blogs Date"
+msgstr "显示博客日期"
+
+#: admin/theme_options.php:2560
+msgid "Show Blogs Meta"
+msgstr "显示博客元"
+
+#: admin/theme_options.php:2568
+msgid "Show Specific Post Meta"
+msgstr "显示特定帖子元"
+
+#: admin/theme_options.php:2571
+msgid "Post Format"
+msgstr "文章格式"
+
+#: admin/theme_options.php:2572
+msgid "Post Author"
+msgstr "文章作者"
+
+#: admin/theme_options.php:2573
+msgid "Post Cats"
+msgstr "后猫"
+
+#: admin/theme_options.php:2574
+msgid "Post Tags"
+msgstr "贴标签"
+
+#: admin/theme_options.php:2575
+msgid "Comments"
+msgstr "评论"
+
+#: admin/theme_options.php:2584
+msgid "Show Excerpt"
+msgstr "是否显示摘要？"
+
+#: admin/theme_options.php:2592
+msgid "Excerpt Length (words)"
+msgstr "摘录长度（字）"
+
+#: admin/theme_options.php:2593
+msgid "Show blogs listing content length (words)."
+msgstr "显示博客列出内容长度（字）。"
+
+#: admin/theme_options.php:2604
+msgid "Show Read More Button"
+msgstr "显示更多按钮"
+
+#: admin/theme_options.php:2612
+msgid "Read More Button Text"
+msgstr "阅读更多按钮文字"
+
+#: admin/theme_options.php:2613 admin/theme_options.php:3377
+msgid "Read more"
+msgstr "进去瞧瞧"
+
+#: admin/theme_options.php:2619
+msgid "Select Pagination Style Of Blog Page"
+msgstr "选择博客页面的分页样式"
+
+#: admin/theme_options.php:2632 admin/theme_options.php:2862 inc/theme-function.php:1341 inc/theme-function.php:1392
+msgid "Load More"
+msgstr "加载更多"
+
+#: admin/theme_options.php:2643
+msgid "Single Post"
+msgstr "单张帖子"
+
+#: admin/theme_options.php:2650
+msgid "Show Post Thumbnail"
+msgstr "显示帖子缩略图"
+
+#: admin/theme_options.php:2651
+msgid "Show post thumbnail or not."
+msgstr "显示帖子缩略图或不显示。"
+
+#: admin/theme_options.php:2659
+msgid "Show Post Navigation"
+msgstr "显示导航"
+
+#: admin/theme_options.php:2667
+msgid "Show Related Post"
+msgstr "显示相关文章"
+
+#: admin/theme_options.php:2675
+msgid "Show Post Per Row"
+msgstr "每行显示帖子"
+
+#: admin/theme_options.php:2676
+msgid "Show number of post per row."
+msgstr "显示每行的帖子数。"
+
+#: admin/theme_options.php:2702
+msgid "Enable Carousel loop"
+msgstr "启用旋转木马循环"
+
+#: admin/theme_options.php:2703
+msgid "Enable blog carousel continue loop."
+msgstr "启用博客轮播继续循环。"
+
+#: admin/theme_options.php:2712
+msgid "Show Post Comment"
+msgstr "显示发表评论"
+
+#: admin/theme_options.php:2713
+msgid "Show post comments and comment form or not."
+msgstr "显示发表评论和评论表单。"
+
+#: admin/theme_options.php:2725
+msgid "Portfolio"
+msgstr "作品集"
+
+#: admin/theme_options.php:2737
+msgid "Portfolio Archive"
+msgstr "投资组合存档"
+
+#: admin/theme_options.php:2744
+msgid "Select Archive Page Layout"
+msgstr "选择存档页布局"
+
+#: admin/theme_options.php:2745
+msgid "Select portfolio archive page layout with sidebar postion."
+msgstr "选择具有侧边栏位置的投资组合归档页面布局。"
+
+#: admin/theme_options.php:2789
+msgid "Portfolio Listing Style"
+msgstr "投资组合上市风格"
+
+#: admin/theme_options.php:2791
+msgid "Portfolio Grid"
+msgstr "投资组合网格"
+
+#: admin/theme_options.php:2799
+msgid "Portfolio Grid Style"
+msgstr "投资组合网格风格"
+
+#: admin/theme_options.php:2801
+msgid "Normal Grid"
+msgstr "普通网格"
+
+#: admin/theme_options.php:2802
+msgid "Masonry Grid"
+msgstr "砖石网格"
+
+#: admin/theme_options.php:2810
+msgid "Grid Hover Effect"
+msgstr "栅格悬停效应"
+
+#: admin/theme_options.php:2811
+msgid "Select portfolio grid hover effect."
+msgstr "选择投资组合网格悬停效果。"
+
+#: admin/theme_options.php:2814
+msgid "Effect 2"
+msgstr "效果"
+
+#: admin/theme_options.php:2815
+msgid "Effect 3"
+msgstr "效果"
+
+#: admin/theme_options.php:2816
+msgid "Effect 4"
+msgstr "效果"
+
+#: admin/theme_options.php:2817
+msgid "Effect 5"
+msgstr "效果"
+
+#: admin/theme_options.php:2825
+msgid "Select Portfolio Columns"
+msgstr "选择投资组合列"
+
+#: admin/theme_options.php:2827
+msgid "1 Column"
+msgstr "摘要性統計"
+
+#: admin/theme_options.php:2830
+msgid "4 Columns"
+msgstr "1/1列"
+
+#: admin/theme_options.php:2838
+msgid "Show Portfolio Per Page"
+msgstr "显示每页投资组合"
+
+#: admin/theme_options.php:2839
+msgid "Show number of portfolio per page."
+msgstr "显示每页投资组合的数量。"
+
+#: admin/theme_options.php:2849
+msgid "Pagination Type"
+msgstr "分页类型"
+
+#: admin/theme_options.php:2872
+msgid "Single Portfolio"
+msgstr "单一投资组合"
+
+#: admin/theme_options.php:2879
+msgid "Show Project Navigation"
+msgstr "显示项目导航"
+
+#: admin/theme_options.php:2887
+msgid "Show Project Informations"
+msgstr "显示项目信息"
+
+#: admin/theme_options.php:2895 admin/theme_options.php:3243
+msgid "Show Social Share Links"
+msgstr "显示社会共享链接"
+
+#: admin/theme_options.php:2903
+msgid "Show Related Projects"
+msgstr "显示相关项目"
+
+#: admin/theme_options.php:2911
+msgid "Show Number Of Projects"
+msgstr "显示项目数量"
+
+#: admin/theme_options.php:2912
+msgid "Show number of related projects"
+msgstr "显示相关项目的数量"
+
+#: admin/theme_options.php:2920
+msgid "Show Projects Per Row"
+msgstr "显示每行的项目"
+
+#: admin/theme_options.php:2938
+msgid "Enables portfolios carousel Inifnity loop. Duplicate last and first projects to get loop illusion."
+msgstr "启用投资组合转盘无限循环。重复的最后和第一个项目，以获得循环幻觉。"
+
+#: admin/theme_options.php:2969
+msgid "Testimonial"
+msgstr "褒奖"
+
+#: admin/theme_options.php:2981
+msgid "Testimonial Archive"
+msgstr "证明档案"
+
+#: admin/theme_options.php:2988 admin/theme_options.php:3056
+msgid "Select Page Layout"
+msgstr "选择页面布局"
+
+#: admin/theme_options.php:2989 admin/theme_options.php:3057
+msgid "Select page layout with sidebar postion."
+msgstr "选择带有边栏位置的页面布局。"
+
+#: admin/theme_options.php:3010
+msgid "Select widget display in sidebar on testimonial archive page."
+msgstr "在验证存档页面的边栏中选择小部件显示。"
+
+#: admin/theme_options.php:3034
+msgid "Select Testimonial Column"
+msgstr "选择推荐栏"
+
+#: admin/theme_options.php:3049
+msgid "Single Testimonial"
+msgstr "单证"
+
+#: admin/theme_options.php:3078
+msgid "Select widget display in sidebar on testimonial page."
+msgstr "在验证页面的边栏中选择小部件显示。"
+
+#: admin/theme_options.php:3106
+msgid "404 Page"
+msgstr "页"
+
+#: admin/theme_options.php:3113
+msgid "Use Text Or Image"
+msgstr "使用文字或图像"
+
+#: admin/theme_options.php:3114
+msgid "What a show on 404 page? Text or Image."
+msgstr "什么在404页面上显示？文字或图像。"
+
+#: admin/theme_options.php:3124
+msgid "404 Page Title"
+msgstr "页面标题"
+
+#: admin/theme_options.php:3131
+msgid "Show Previous Page Link"
+msgstr "显示上一页链接"
+
+#: admin/theme_options.php:3140
+msgid "404 Page Tag Line"
+msgstr "404页面标签行"
+
+#: admin/theme_options.php:3147
+msgid "Previous Page Link Title"
+msgstr "上一页链接标题"
+
+#: admin/theme_options.php:3155
+msgid "404 Page Image"
+msgstr "404页面图像"
+
+#: admin/theme_options.php:3157
+msgid "Upload 404 page image and show on 404 page."
+msgstr "上传404页面图像并在404页面上显示。"
+
+#: admin/theme_options.php:3168
+msgid "Social Link/Share"
+msgstr "社交链接/分享"
+
+#: admin/theme_options.php:3176
+msgid "Show or Hide Social link Icon on Header And Footer"
+msgstr "显示或隐藏页眉和页脚上的社交链接图标"
+
+#: admin/theme_options.php:3181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/theme_options.php:3182
+msgid "Enter your custom link to show the facebook icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示Facebook图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3188
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/theme_options.php:3189
+msgid "Enter your custom link to show the twitter icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示twitter图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3195
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: admin/theme_options.php:3196
+msgid "Enter your custom link to show the instagram icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示instagram图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3202
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: admin/theme_options.php:3203
+msgid "Enter your custom link to show the linkedin icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示linkedin图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3209
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/theme_options.php:3210
+msgid "Enter your custom link to show the flickr icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示flickr图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3216
+msgid "Google Plus"
+msgstr "Google+"
+
+#: admin/theme_options.php:3217
+msgid "Enter your custom link to show the google plus icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示Google加号图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3223
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/theme_options.php:3224
+msgid "Enter your custom link to show the rss icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示rss图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3230
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme_options.php:3231
+msgid "Enter your custom link to show the pinterest icon. Leave blank to hide icon."
+msgstr "输入您的自定义链接以显示pinterest图标。留空以隐藏图标。"
+
+#: admin/theme_options.php:3238
+msgid "Show or Hide Social Sharing Icon on Product, Post and Portfolio"
+msgstr "显示或隐藏产品，职位和投资组合的社交分享图标"
+
+#: admin/theme_options.php:3251
+msgid "Social Sharing Style"
+msgstr "社会分享风格"
+
+#: admin/theme_options.php:3253
+msgid "Style 1"
+msgstr "样式"
+
+#: admin/theme_options.php:3254
+msgid "Style 2"
+msgstr "样式"
+
+#: admin/theme_options.php:3262
+msgid "Facebook Icon"
+msgstr "Facebook图标"
+
+#: admin/theme_options.php:3271
+msgid "Twitter Icon"
+msgstr "Twitter图标"
+
+#: admin/theme_options.php:3280
+msgid "Linkedin Icon"
+msgstr "Linkedin图标"
+
+#: admin/theme_options.php:3289
+msgid "Google Plus Icon"
+msgstr "Google Plus图标"
+
+#: admin/theme_options.php:3298
+msgid "StumbleUpon Icon"
+msgstr "StumbleUpon图标"
+
+#: admin/theme_options.php:3307
+msgid "Pinterest Icon"
+msgstr "Pinterest图标"
+
+#: admin/theme_options.php:3316
+msgid "Tumblr Icon"
+msgstr "Tumblr图标"
+
+#: admin/theme_options.php:3329
+msgid "Cookie Notice"
+msgstr "Cookie通知"
+
+#: admin/theme_options.php:3336
+msgid "Cookie Enable or Disable."
+msgstr "Cookie启用或禁用。"
+
+#: admin/theme_options.php:3339
+msgid "Cookie notice enable or disable in your site."
+msgstr "Cookie通知在您的网站中启用或禁用。"
+
+#: admin/theme_options.php:3346
+msgid "Enter the cookie title/name."
+msgstr "输入cookie标题/名称。"
+
+#: admin/theme_options.php:3347
+msgid "Cookies Notice"
+msgstr "饼干通知"
+
+#: admin/theme_options.php:3352
+msgid "Message"
+msgstr "信息"
+
+#: admin/theme_options.php:3353
+msgid "Enter the cookie notice message."
+msgstr "输入Cookie通知讯息。"
+
+#: admin/theme_options.php:3354
+msgid ""
+"We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you "
+"are happy with it."
+msgstr "我们使用cookies来确保我们在我们的网站上给您最好的体验。如果你继续使用这个网站，我们会假设你很高兴。"
+
+#: admin/theme_options.php:3359
+msgid "Button text"
+msgstr "按钮文本"
+
+#: admin/theme_options.php:3360
+msgid "The text of the option to accept the usage of the cookies and make the notification disappear."
+msgstr "接受使用cookies并使通知消失的选项的文本。"
+
+#: admin/theme_options.php:3361
+msgid "Yes, I'm Accept"
+msgstr "是的，我接受"
+
+#: admin/theme_options.php:3366
+msgid "More info link"
+msgstr "更多信息链接"
+
+#: admin/theme_options.php:3369
+msgid "Enable Read more link."
+msgstr "启用阅读更多链接。"
+
+#: admin/theme_options.php:3376
+msgid "The text of the more info button."
+msgstr "更多信息按钮的文本。"
+
+#: admin/theme_options.php:3384
+msgid "Select where to redirect user for more information about cookies."
+msgstr "选择需要重定向用户的更多信息。"
+
+#: admin/theme_options.php:3386
+msgid "Custom link"
+msgstr "自定义链接"
+
+#: admin/theme_options.php:3387
+msgid "Page link"
+msgstr "页面链接"
+
+#: admin/theme_options.php:3396
+msgid "Enter the full URL starting with http://"
+msgstr "输入以http：//开头的完整网址"
+
+#: admin/theme_options.php:3406
+msgid "Select from one of your site's pages"
+msgstr "从您网站的一个页面中选择"
+
+#: admin/theme_options.php:3412
+msgid "Link target"
+msgstr "链接目标"
+
+#: admin/theme_options.php:3413 admin/theme_options.php:3466
+msgid "Select the link target for more info page."
+msgstr "选择更多信息页面的链接目标。"
+
+#: admin/theme_options.php:3423
+msgid "Refuse button"
+msgstr "拒绝按钮"
+
+#: admin/theme_options.php:3426
+msgid "Give to the user the possibility to refuse third party non functional cookies."
+msgstr "给用户拒绝第三方非功能性Cookie的可能性。"
+
+#: admin/theme_options.php:3433
+msgid ""
+"The text of the option to refuse the usage of the cookies. To get the cookie notice status use emallshop_cn_cookies_accepted() "
+"function."
+msgstr "拒绝使用Cookie的选项的文本。要获取cookie通知状态，请使用emallshop_cn_cookies_accepted（）函数。"
+
+#: admin/theme_options.php:3441
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs). It will be used after cookies are accepted."
+msgstr "在这里输入非功能性Cookie Javascript代码（例如Google Analitycs）。 Cookie将被接受后使用。"
+
+#: admin/theme_options.php:3448
+msgid "On scroll"
+msgstr "滚动"
+
+#: admin/theme_options.php:3451
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr "当用户滚动时启用Cookie通知验收。"
+
+#: admin/theme_options.php:3458
+msgid "Number of pixels user has to scroll to accept the usage of the cookies and make the notification disappear."
+msgstr "用户必须滚动以接受Cookie的使用并使通知消失的像素数。"
+
+#: admin/theme_options.php:3465
+msgid "Cookie expiry"
+msgstr "Cookie过期"
+
+#: admin/theme_options.php:3468
+msgid "1 day"
+msgstr "1 day"
+
+#: admin/theme_options.php:3469
+msgid "1 week"
+msgstr "被记录和管理"
+
+#: admin/theme_options.php:3470
+msgid "1 month"
+msgstr "1个月"
+
+#: admin/theme_options.php:3471
+msgid "3 months"
+msgstr "3个月"
+
+#: admin/theme_options.php:3472
+msgid "6 months"
+msgstr "6个月"
+
+#: admin/theme_options.php:3473
+msgid "1 year"
+msgstr "1年"
+
+#: admin/theme_options.php:3474
+msgid "infinity"
+msgstr "{0}4.3.22 无穷{/0}"
+
+#: admin/theme_options.php:3481
+msgid "Script placement"
+msgstr "脚本放置"
+
+#: admin/theme_options.php:3482
+msgid "Select where all the plugin scripts should be placed."
+msgstr "选择应放置所有插件脚本的位置。"
+
+#: admin/theme_options.php:3492
+msgid "Position"
+msgstr "角色"
+
+#: admin/theme_options.php:3493
+msgid "Select location for your cookie notice."
+msgstr "选择您的cookie通知的位置。"
+
+#: admin/theme_options.php:3503
+msgid "Cookie Style"
+msgstr "饼干风格"
+
+#: admin/theme_options.php:3504
+msgid "Select style of cookie notice on bottom."
+msgstr "选择底部的Cookie通知样式。"
+
+#: admin/theme_options.php:3506
+msgid "Bar"
+msgstr "酒吧"
+
+#: admin/theme_options.php:3507
+msgid "Box"
+msgstr "箱"
+
+#: admin/theme_options.php:3521
+msgid "Bar Background Color"
+msgstr "酒吧背景颜色"
+
+#: admin/theme_options.php:3531 templates/footer/footer-2.php:16
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: admin/theme_options.php:3538
+msgid "Newsletter Enable or Disable."
+msgstr "通讯启用或禁用。"
+
+#: admin/theme_options.php:3541
+msgid "Newsletter popup enable or disable in your site."
+msgstr "在您的网站启用或禁用通讯弹出窗口。"
+
+#: admin/theme_options.php:3548
+msgid "Newsletter Logo"
+msgstr "通讯标志"
+
+#: admin/theme_options.php:3550
+msgid "Upload newsletter logo."
+msgstr "上传通讯标志"
+
+#: admin/theme_options.php:3557
+msgid "Newsletter Title"
+msgstr "通讯标题"
+
+#: admin/theme_options.php:3558
+msgid "Join Us Now!"
+msgstr "立即加入我们"
+
+#: admin/theme_options.php:3564
+msgid "Newsletter Tag Line"
+msgstr "通讯标签线"
+
+#: admin/theme_options.php:3565
+msgid "Signup today for free and be the first to hear of special promotions, new arrivals and designer news."
+msgstr "今天免费注册，成为第一个听到特别促销，新来访者和设计师新闻的人士。"
+
+#: admin/theme_options.php:3571
+msgid "Newsletter Don't Show Msg"
+msgstr "通讯不要显示消息"
+
+#: admin/theme_options.php:3572
+msgid "Don't show this popup again"
+msgstr "不要再显示此弹出窗口"
+
+#: admin/theme_options.php:3579
+msgid "Newsletter background with image, color, etc."
+msgstr "通讯背景与图像，颜色等"
+
+#: admin/theme_options.php:3593
+msgid "Newsletter Color"
+msgstr "通讯颜色"
+
+#: admin/theme_options.php:3600
+msgid "Newsletter Button Color"
+msgstr "通讯按钮颜色"
+
+#: admin/theme_options.php:3611
+msgid "Advanced"
+msgstr "高级 "
+
+#: admin/theme_options.php:3618
+msgid "Site Loader Enable or Disable."
+msgstr "站点加载程序启用或禁用。"
+
+#: admin/theme_options.php:3621
+msgid "Site loader enable or disable in your site."
+msgstr "网站加载器在您的网站中启用或禁用。"
+
+#: admin/theme_options.php:3627
+msgid "Site Loading Image"
+msgstr "网站加载图片"
+
+#: admin/theme_options.php:3628
+msgid "Choose one of the pre-defined Loading Image or choose custom one."
+msgstr "选择预定义的加载图像之一或选择自定义加载图像。"
+
+#: admin/theme_options.php:3639
+msgid "Site Loader Image"
+msgstr "现场装载机图像"
+
+#: admin/theme_options.php:3657
+msgid "Choose your Loading Image"
+msgstr "选择您的加载图像"
+
+#: admin/theme_options.php:3659
+msgid "Choose your own loading image."
+msgstr "选择你自己的加载图像。"
+
+#: admin/theme_options.php:3666
+msgid "Pagination Loading Image"
+msgstr "分页加载图像"
+
+#: admin/theme_options.php:3694
+msgid "Image Lazy Load Enable or Disable."
+msgstr "图像延迟加载启用或禁用。"
+
+#: admin/theme_options.php:3702
+msgid "Lazy Loading Image"
+msgstr "懒惰加载图像"
+
+#: admin/theme_options.php:3703
+msgid "Choose one of the pre-defined lazy Loading Image or choose custom one."
+msgstr "选择预定义的延迟加载图像之一或选择自定义。"
+
+#: admin/theme_options.php:3714
+msgid "Lazy loading Image"
+msgstr "懒加载图像"
+
+#: admin/theme_options.php:3737
+msgid "Choose Your Lazy Loading Image"
+msgstr "选择你的懒惰加载图像"
+
+#: admin/theme_options.php:3739
+msgid "Choose your own lazy loding background image."
+msgstr "选择你自己的懒惰的背景图片。"
+
+#: admin/theme_options.php:3750
+msgid "Custom Code"
+msgstr "自定义代码"
+
+#: admin/theme_options.php:3757
+msgid "CSS Code"
+msgstr "CSS代码"
+
+#: admin/theme_options.php:3758
+msgid "Paste your CSS code here."
+msgstr "将CSS代码粘贴到此处."
+
+#: admin/theme_options.php:3767
+msgid "JS Code"
+msgstr "JS代码"
+
+#: admin/theme_options.php:3768
+msgid "Paste your JS code here."
+msgstr "将JS代码粘贴到此处。"
+
+#: admin/theme_options.php:3781
+msgid "Import Demo"
+msgstr "导入演示"
+
+#: admin/theme_options.php:3788
+msgid "Import Demo Data"
+msgstr "导入演示数据"
+
+#: admin/theme_options.php:3789
+msgid ""
+"Importing demo content will copy sliders, widget, theme options, products data, posts, pages and portfolio posts, this will replicate "
+"the live demo. <br>The Demo Importer will not import the images we have used in our live demos, due to copyright / license reasons. "
+"<br>Choose any one preset layout and click on it thumb image. It can also take a minute to complete."
+msgstr ""
+"导入演示内容将复制滑块，小部件，主题选项，产品数据，帖子，页面和投资组合帖子，这将复制现场演示。 <br>由于版权/许可证原因，演示导入程序"
+"不会导入我们在现场演示中使用的图像。 <br>选择任何一个预设布局，然后点击它的拇指图像。也可能需要一分钟才能完成。"
+
+#: admin/theme_options.php:3797
+msgid "Choose Preset"
+msgstr "选择预设"
+
+#: admin/theme_options.php:3884
+msgid "Section via hook"
+msgstr "通过挂钩节"
+
+#: admin/theme_options.php:3885
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove "
+"sections from the options.</p>"
+msgstr "<p class = \\“description \\”>这是通过向sections数组添加过滤器创建的部分。可以使用子主题来从选项中添加/删除节。</ p>"
+
+#: archive-portfolio.php:58 framework/woocommerce/woo-functions.php:552 taxonomy-portfolio_cat.php:59 taxonomy-portfolio_skills.php:58
+msgid "Show All"
+msgstr "显示所有"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "由"
+
+#: author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid ""
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "评论通道已关闭."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发表第一篇文章了吗？<a href=\"%1$s\">现在开始</a>。"
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件。请再次尝试一些不同的关键字。"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们没有找到你要查找的内容。也许你可以搜索一下。"
+
+#: content-page.php:29 content.php:58 image.php:58 page.php:48
+msgid "Pages:"
+msgstr "页数: "
+
+#: content-page.php:39 content-search.php:24 content-search.php:29 content.php:40 image.php:71 page.php:58
+#: templates/blog/grid_column.php:48 templates/blog/large_image.php:36 templates/blog/small_image.php:39 templates/blog/timeline.php:44
+#: woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "编辑"
+
+#: content.php:52 templates/blog/grid_column.php:60 templates/blog/large_image.php:48 templates/blog/small_image.php:51
+#: templates/blog/timeline.php:56
+#, php-format
+msgid "Read more %s"
+msgstr "阅读更多%s"
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "N / A"
+
+#: dokan/store-lists-loop.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "得分 %s满分5"
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr "访问商店"
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr "←上一页"
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr "下一页→"
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr "没有找到供应商！"
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr "卖家评论"
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr "未找到结果"
+
+#: dokan/store-reviews.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "评了%d星"
+
+#: dokan/store-reviews.php:60 framework/woocommerce/woo-functions.php:982
+msgid "out of 5"
+msgstr "超过5星"
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr "活動細則說明："
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr "没有找到这个卖家的产品！"
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件： %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "插件更新中: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "插件安装错误!"
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "主题需要以下插件： %1$s 。"
+msgstr[1] "主题需要以下插件： %1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "推荐安装以下插件： %1$s 。"
+msgstr[1] "推荐安装以下插件： %1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "下面的插件需要更新到最新版本,以确保与这个主题最大程度兼容: %1$s . "
+msgstr[1] "下面的插件需要更新到最新版本,以确保与这个主题最大程度兼容: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "更新可用:%1$s :"
+msgstr[1] "更新可用%1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下插件暂未激活: %1$s ."
+msgstr[1] "以下插件暂未激活:%1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下插件暂未激活:%1$s ."
+msgstr[1] "以下插件暂未激活:%1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+msgstr[1] "开始安装插件"
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+msgstr[1] "开始更新插件"
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+msgstr[1] "开始激活插件"
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "返回到插件检查列表"
+
+#: framework/classes/class-tgm-plugin-activation.php:393 framework/classes/class-tgm-plugin-activation.php:912
+#: framework/classes/class-tgm-plugin-activation.php:2618 framework/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "返回仪表板"
+
+#: framework/classes/class-tgm-plugin-activation.php:394 framework/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "插件成功激活."
+
+#: framework/classes/class-tgm-plugin-activation.php:395 framework/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下插件已成功激活："
+msgstr[1] "以下插件已成功激活："
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "没有采取行动。插件%1$s已经活动。"
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "插件未激活, 更高高版本的%s 。请更新插件。"
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。 %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "取消此通知"
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "有一个或多个必需或推荐的插件来安装，更新或激活。"
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系管理员寻求帮助."
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "这个插件需要更新."
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "需要更新"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "远程插件包不包含具有所需的插件和重命名的文件夹不起作用。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019 framework/classes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "请联系插件提供商，并要求他们根据WordPress指南打包他们的插件。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "远程插件包由多个文件组成，但文件未打包在一个文件夹中。"
+
+#: framework/classes/class-tgm-plugin-activation.php:1206 framework/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "与"
+
+#: framework/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "需要"
+
+#: framework/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "推荐"
+
+#: framework/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "本地"
+
+#: framework/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "外部"
+
+#: framework/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "预置本地"
+
+#: framework/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "未安装"
+
+#: framework/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: framework/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "激活"
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "必需的更新不可用"
+
+#: framework/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: framework/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#: framework/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "所有的<span class=\\“数\\”>(%s)</span>"
+msgstr[1] "所有的<span class=\\“数\\”>(%s)</span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class = \\“count \\”>（ %s ）</ span>"
+msgstr[1] "安装<span class = \\“count \\”>（ %s ）</ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "更新可用<span class = \\“count \\”>（ %s ）</ span>"
+msgstr[1] "更新可用<span class = \\“count \\”>（ %s ）</ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活<span class=\"count\">(%s)</span>"
+msgstr[1] "激活<span class = \\“count \\”>（ %s ）</ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: framework/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "可用版本："
+
+#: framework/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "没有插件来安装，更新或激活。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "资源"
+
+#: framework/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "类型"
+
+#: framework/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "版本"
+
+#: framework/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "状态"
+
+#: framework/classes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "从插件官方升级的消息："
+
+#: framework/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "安装"
+
+#: framework/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "更新"
+
+#: framework/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "启用"
+
+#: framework/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有选择安装插件。没有采取行动。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选择要更新的插件。没有采取行动。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可以安装的插件。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可以更新的插件。"
+
+#: framework/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "没有插件被选中被激活。没有采取行动。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "此时没有插件可以被激活。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件%1$s （ %2$d / %3$d ）"
+
+#: framework/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装%1$s ：<strong> %2$s </ strong>时发生错误。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s失败。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装和激活过程正在启动。这个过程在某些主机上可能需要一段时间，所以请耐心等待。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s成功安装并激活。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "显示详细资料"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "隐藏细节"
+
+#: framework/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "所有安装和启动都已完成。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件%1$s （ %2$d / %3$d ）"
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装过程正在启动。这个过程在某些主机上可能需要一段时间，所以请耐心等待。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "所有安装已经完成。"
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件%1$s （ %2$d / %3$d ）"
+
+#: framework/classes/mega-menus.php:27
+msgid "Enable EmallShop Mega Menu (only for main menu)"
+msgstr "启用EmallShop Mega菜单（仅适用于主菜单）"
+
+#: framework/classes/mega-menus.php:33
+msgid "Full Width Mega Menu (overrides column width)"
+msgstr "全宽度菜单（覆盖列宽）"
+
+#: framework/classes/mega-menus.php:38
+msgid "Mega Menu Number of Columns"
+msgstr "列下拉菜单数量"
+
+#: framework/classes/mega-menus.php:40
+msgid "Auto"
+msgstr "自动"
+
+#: framework/classes/mega-menus.php:52
+msgid "Mega Menu Column Width (in percentage, ex: 30%)"
+msgstr "巨型菜单列宽（百分比，例如：30％）"
+
+#: framework/classes/mega-menus.php:59
+msgid "Disable Mega Menu Column Title"
+msgstr "禁用下拉菜单栏标题"
+
+#: framework/classes/mega-menus.php:65
+msgid "Enable Mega Menu Column Title"
+msgstr "启用Mega菜单列标题"
+
+#: framework/classes/mega-menus.php:70
+msgid "Mega Menu Widget Area"
+msgstr "下拉菜单控件区"
+
+#: framework/classes/mega-menus.php:72
+msgid "Select Widget Area"
+msgstr "选择小部件区域"
+
+#: framework/classes/mega-menus.php:86
+msgid "New Label"
+msgstr "新标签"
+
+#: framework/classes/mega-menus.php:89
+msgid "Hot Label"
+msgstr "热门标签"
+
+#: framework/classes/mega-menus.php:92
+msgid "Sale Label"
+msgstr "销售标签"
+
+#: framework/classes/mega-menus.php:98
+msgid "Menu Icon"
+msgstr "菜单图标"
+
+#: framework/classes/mega-menus.php:100
+msgid "Quick search"
+msgstr "快速搜索"
+
+#: framework/classes/mega-menus.php:109
+msgid "Custom Icon"
+msgstr "自定义图标"
+
+#: framework/classes/mega-menus.php:544
+msgid "Hot"
+msgstr "炎热"
+
+#: framework/classes/mega-menus.php:760
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s （无效）"
+
+#: framework/classes/mega-menus.php:764
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s （待定） "
+
+#: framework/classes/mega-menus.php:777
+msgid "sub item"
+msgstr "子项目"
+
+#: framework/classes/mega-menus.php:792
+msgid "Move up"
+msgstr "向上移动"
+
+#: framework/classes/mega-menus.php:805
+msgid "Move down"
+msgstr "下移"
+
+#: framework/classes/mega-menus.php:807 framework/classes/mega-menus.php:809
+msgid "Edit Menu Item"
+msgstr "编辑菜单项"
+
+#: framework/classes/mega-menus.php:818
+msgid "URL"
+msgstr "URL"
+
+#: framework/classes/mega-menus.php:825
+msgid "Navigation Label"
+msgstr "导航标签"
+
+#: framework/classes/mega-menus.php:831
+msgid "Title Attribute"
+msgstr "标题属性"
+
+#: framework/classes/mega-menus.php:838
+msgid "Open link in a new window/tab"
+msgstr "在新窗口/标签中打开链接"
+
+#: framework/classes/mega-menus.php:843
+msgid "CSS Classes (optional)"
+msgstr "CSS类（可选）"
+
+#: framework/classes/mega-menus.php:849
+msgid "Link Relationship (XFN)"
+msgstr "链接关系（XFN）"
+
+#: framework/classes/mega-menus.php:855
+msgid "Description"
+msgstr "描述"
+
+#: framework/classes/mega-menus.php:857
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "如果当前的主题支持，它的描述将被显示在菜单中。"
+
+#: framework/classes/mega-menus.php:865
+msgid "Move"
+msgstr "移动"
+
+#: framework/classes/mega-menus.php:866
+msgid "Up one"
+msgstr "一个"
+
+#: framework/classes/mega-menus.php:867
+msgid "Down one"
+msgstr "下来一个"
+
+#: framework/classes/mega-menus.php:870
+msgid "To the top"
+msgstr "到顶部"
+
+#: framework/classes/mega-menus.php:877
+#, php-format
+msgid "Original: %s"
+msgstr "原文： %s"
+
+#: framework/classes/mega-menus.php:890 framework/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "清除"
+
+#: framework/classes/mega-menus.php:891
+msgid "Cancel"
+msgstr "取消"
+
+#: framework/classes/sidebar-generator.class.php:14
+msgid "Add Custom Widget Area"
+msgstr "添加自定义小部件区域"
+
+#: framework/classes/sidebar-generator.class.php:58
+msgid "Enter Name for new Widget Area"
+msgstr "输入新的小部件区域的名称"
+
+#: framework/classes/sidebar-generator.class.php:59
+msgid "Add Widget Area"
+msgstr "添加小部件区域"
+
+#: framework/dokan/dokan-functions.php:30 functions.php:190
+msgid "Dokan Widget Area"
+msgstr "Dokan小屋区"
+
+#: framework/dokan/dokan-functions.php:32
+msgid "Add widgets here to appear in your dokan page sidebar."
+msgstr "在这里添加小部件以显示在您的Dokan页面侧栏中。"
+
+#: framework/dokan/dokan-functions.php:62
+msgid "Store Category"
+msgstr "商店分类"
+
+#: framework/dokan/dokan-functions.php:65
+msgid "Store Location"
+msgstr "商店位置"
+
+#: framework/dokan/dokan-functions.php:69
+msgid "Contact Seller"
+msgstr "联系卖家"
+
+#: framework/dokan/dokan-functions.php:104
+#, php-format
+msgid "Cart %s"
+msgstr "购物车%s"
+
+#: framework/dokan/dokan-functions.php:122
+msgid "Seller Dashboard"
+msgstr "卖家信息中心"
+
+#: framework/dokan/dokan-functions.php:125
+msgid "Visit your store"
+msgstr "访问您的商店"
+
+#: framework/dokan/dokan-functions.php:141 inc/theme-function.php:362 inc/theme-function.php:396
+msgid "My Account"
+msgstr "我的帐户"
+
+#: framework/dokan/dokan-functions.php:142
+msgid "Edit Account"
+msgstr "编辑 Account"
+
+#: framework/dokan/dokan-functions.php:144 woocommerce/myaccount/my-address.php:27 woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "账单地址"
+
+#: framework/dokan/dokan-functions.php:145 woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "送货地址"
+
+#: framework/dokan/dokan-functions.php:152
+msgid "Log in"
+msgstr "登录"
+
+#: framework/dokan/dokan-functions.php:153
+msgid "Sign Up"
+msgstr "注册"
+
+#: framework/meta-box/inc/field.php:213
+msgid "+ Add more"
+msgstr "添加更多"
+
+#: framework/meta-box/inc/fields/autocomplete.php:14 framework/meta-box/inc/fields/autocomplete.php:77
+#: framework/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr "删除"
+
+#: framework/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "点击我"
+
+#: framework/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "选择文件"
+
+#: framework/meta-box/inc/fields/file-input.php:41 framework/meta-box/inc/fields/select.php:91
+#: framework/meta-box/inc/fields/sidebars.php:100
+msgid "Select"
+msgstr "选择"
+
+#: framework/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "您只能上传最大%d的文件"
+
+#: framework/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "您只能上传最大%d的文件"
+
+#: framework/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "错误：无法删除文件"
+
+#: framework/meta-box/inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "上传档案"
+
+#: framework/meta-box/inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+添加新文件"
+
+#: framework/meta-box/inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "删除"
+
+#: framework/meta-box/inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Edit"
+
+#: framework/meta-box/inc/fields/image.php:61 framework/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "上传图片"
+
+#: framework/meta-box/inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+添加新图片"
+
+#: framework/meta-box/inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "删除"
+
+#: framework/meta-box/inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Edit"
+
+#: framework/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr "Key"
+
+#: framework/meta-box/inc/fields/key-value.php:25
+msgid "Value"
+msgstr "值"
+
+#: framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "查找地址"
+
+#: framework/meta-box/inc/fields/media.php:18
+msgctxt "media"
+msgid "Select or Upload Images"
+msgstr "选择或上传图像"
+
+#: framework/meta-box/inc/fields/media.php:19
+msgctxt "media"
+msgid " file"
+msgstr "文件"
+
+#: framework/meta-box/inc/fields/media.php:20
+msgctxt "media"
+msgid " files"
+msgstr "• {0}文件{/0} ："
+
+#: framework/meta-box/inc/fields/media.php:21
+msgctxt "media"
+msgid "Remove"
+msgstr "去掉"
+
+#: framework/meta-box/inc/fields/media.php:22
+msgctxt "media"
+msgid "Edit"
+msgstr "编辑"
+
+#: framework/meta-box/inc/fields/media.php:23
+msgctxt "media"
+msgid "View"
+msgstr "视图"
+
+#: framework/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "No Title"
+msgstr "(无标题)"
+
+#: framework/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Select Files"
+msgstr "选择文件"
+
+#: framework/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "将文件放在这里上传"
+
+#: framework/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "嵌入HTML不可用。"
+
+#: framework/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "预览"
+
+#: framework/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "选择一个帖子"
+
+#: framework/meta-box/inc/fields/post.php:38 framework/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "选择一个%s"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "All"
+msgstr "所有"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "None"
+msgstr "没有"
+
+#: framework/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "选择一个术语"
+
+#: framework/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "选择一个用户"
+
+#: framework/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "请更正以下突出显示的错误，然后重试。"
+
+#: framework/openswatch/templates/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "目前这款产品缺货。"
+
+#: framework/woocommerce/woo-functions.php:29
+msgctxt "placeholder"
+msgid "I'm shopping for..."
+msgstr "我正在购买..."
+
+#: framework/woocommerce/woo-functions.php:38
+msgid "All Categories"
+msgstr "所有分类"
+
+#: framework/woocommerce/woo-functions.php:111
+msgid "No products found."
+msgstr "没有产品。"
+
+#: framework/woocommerce/woo-functions.php:221 framework/woocommerce/woo-functions.php:228 inc/theme-function.php:655
+#: inc/theme-function.php:671
+#, php-format
+msgid "%d item"
+msgid_plural "%d item(s)"
+msgstr[0] "%d项"
+msgstr[1] "%d项"
+
+#: framework/woocommerce/woo-functions.php:247 inc/theme-function.php:416 inc/theme-function.php:670
+msgid "Shopping Cart"
+msgstr "购物车"
+
+#: framework/woocommerce/woo-functions.php:447
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "首页"
+
+#: framework/woocommerce/woo-functions.php:509
+msgid "Categories"
+msgstr "类别"
+
+#: framework/woocommerce/woo-functions.php:580 framework/woocommerce/woo-functions.php:1229
+msgid "Items"
+msgstr "道具"
+
+#: framework/woocommerce/woo-functions.php:632
+msgid "Brands"
+msgstr "品牌"
+
+#: framework/woocommerce/woo-functions.php:678
+msgid "View as Grid"
+msgstr "查看为网格"
+
+#: framework/woocommerce/woo-functions.php:681
+msgid "View as Expand Grid"
+msgstr "查看为扩展网格"
+
+#: framework/woocommerce/woo-functions.php:684
+msgid "View as List"
+msgstr "查看为列表"
+
+#: framework/woocommerce/woo-functions.php:687
+msgid "View as Thin List "
+msgstr "查看为薄列表"
+
+#: framework/woocommerce/woo-functions.php:728
+msgid "View"
+msgstr "视图"
+
+#: framework/woocommerce/woo-functions.php:835 framework/woocommerce/woo-functions.php:865
+msgid "Quick View"
+msgstr "快速查看"
+
+#: framework/woocommerce/woo-functions.php:1063 woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr "等待产品图片"
+
+#: framework/woocommerce/woo-functions.php:1192
+msgid "Product is added in cart"
+msgstr "产品加入购物车"
+
+#: framework/woocommerce/woo-functions.php:1211
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: framework/woocommerce/woo-functions.php:1267 inc/theme-function.php:1350 inc/theme-function.php:1401
+msgid "Loading..."
+msgstr "载入中..."
+
+#: framework/woocommerce/woo-functions.php:1269
+msgid "No more product"
+msgstr "没有更多的产品"
+
+#: framework/woocommerce/woo-functions.php:1418
+msgid "In  Stock"
+msgstr "有库存"
+
+#: framework/woocommerce/woo-functions.php:1472
+msgid "Size Guide"
+msgstr "尺寸指南"
+
+#: framework/woocommerce/woo-functions.php:1489
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] "牌"
+msgstr[1] "牌"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:115
+msgid "Vertical Menu"
+msgstr "垂直菜单"
+
+#: functions.php:163
+msgid "Widget Area"
+msgstr "小工具区域"
+
+#: functions.php:165
+msgid "Add widgets here to appear in your sidebar."
+msgstr "在这里添加小部件以显示在您的侧栏中。"
+
+#: functions.php:172
+msgid "Shop Page Widget Area"
+msgstr "商店页面小部件区域"
+
+#: functions.php:174
+msgid "Add widgets here to appear in shop page sidebar."
+msgstr "在这里添加小部件以显示在商店页面侧边栏中。"
+
+#: functions.php:181
+msgid "Single Product Widget Area"
+msgstr "单一产品小部件区域"
+
+#: functions.php:183
+msgid "Add widgets here to appear in single product page sidebar."
+msgstr "在这里添加小部件以显示在单个产品页面侧边栏中。"
+
+#: functions.php:192
+msgid "Add widgets here to appear in dokan page sidebar."
+msgstr "在这里添加小部件以显示在dokan页面侧栏中。"
+
+#: functions.php:199
+msgid "Menu Widget Area 1"
+msgstr "菜单小部件区域1"
+
+#: functions.php:201 functions.php:210 functions.php:219
+msgid "Add widgets here to appear in your menu."
+msgstr "在这里添加小部件以显示在您的菜单中。"
+
+#: functions.php:208
+msgid "Menu Widget Area 2"
+msgstr "菜单小部件区域2"
+
+#: functions.php:217
+msgid "Menu Widget Area 3"
+msgstr "菜单小部件区3"
+
+#: functions.php:227
+msgid "Footer Widget Area 1"
+msgstr "页脚部件区1"
+
+#: functions.php:229 functions.php:238 functions.php:247 functions.php:256 functions.php:265 functions.php:274 functions.php:283
+#: functions.php:292
+msgid "Add widgets here to appear in your footer."
+msgstr "在这里添加小部件以出现在您的页脚中。"
+
+#: functions.php:236
+msgid "Footer Widget Area 2"
+msgstr "页脚部件区1"
+
+#: functions.php:245
+msgid "Footer Widget Area 3"
+msgstr "页脚部件区1"
+
+#: functions.php:254
+msgid "Footer Widget Area 4"
+msgstr "页脚部件区1"
+
+#: functions.php:263
+msgid "Footer Widget Area 5"
+msgstr "页脚部件区"
+
+#: functions.php:272
+msgid "Footer Widget Area 6"
+msgstr "页脚部件区"
+
+#: functions.php:281
+msgid "Footer Widget Area 7"
+msgstr "页脚部件区"
+
+#: functions.php:290
+msgid "Footer Widget Area 8"
+msgstr "页脚部件区"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "上一张图片"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "下一张图片"
+
+#: image.php:85
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class = \\“meta-nav \\”>发布在</ span> <span class = \\“post-title \\”> %t itle </ span>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#, php-format
+msgid "EmallShop requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "EmallShop至少需要WordPress 4.1版。您正在运行版本%s 。请升级，然后重试。"
+
+#: inc/breadcrumbs.php:19
+msgid "Home"
+msgstr "首页"
+
+#: inc/breadcrumbs.php:58
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:60
+#, php-format
+msgid "Product Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:122
+msgid "Go to Home Page"
+msgstr "去首页"
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search - %s"
+msgstr "搜索 - %s"
+
+#: inc/breadcrumbs.php:187
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "基色方案"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "标题和侧栏文字颜色"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "应用于小屏幕上的标题和宽屏幕上的侧边栏。"
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "标题和侧边栏背景颜色"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "深色"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "黄色"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "粉红色"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "紫色"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "蓝色"
+
+#: inc/meta-boxes.php:26
+msgid "Post Format: Image"
+msgstr "后格式：图像"
+
+#: inc/meta-boxes.php:32
+msgid "Image"
+msgstr "图片"
+
+#: inc/meta-boxes.php:36
+msgid "Select a image for post"
+msgstr "选择一个图像进行发布"
+
+#: inc/meta-boxes.php:44
+msgid "Post Format: Gallery"
+msgstr "邮政格式：画廊"
+
+#: inc/meta-boxes.php:50
+msgid "Images"
+msgstr "图像"
+
+#: inc/meta-boxes.php:53
+msgid "Select images gallery for post"
+msgstr "选择图片库进行发布"
+
+#: inc/meta-boxes.php:61
+msgid "Post Format: Video"
+msgstr "后格式：视频"
+
+#: inc/meta-boxes.php:67
+msgid "Video URL or Embeded Code"
+msgstr "视频网址或嵌入代码"
+
+#: inc/meta-boxes.php:70
+msgid ""
+"Enter the URL or embed code of Vimeo.com or YouTube.com streaming services.<br>To get the code, go to the external video page, click "
+"\"share\" button and copy the Embed code."
+msgstr "输入Vimeo.com或YouTube.com流媒体服务的网址或嵌入代码。<br>要获取代码，请转到外部视频页面，点击“共享”按钮并复制嵌入代码。"
+
+#: inc/meta-boxes.php:78
+msgid "Post Format: Audio"
+msgstr "后格式：音频"
+
+#: inc/meta-boxes.php:84
+msgid "Audio URL or Embeded Code"
+msgstr "音频网址或嵌入代码"
+
+#: inc/meta-boxes.php:87
+msgid "Please enter the URL or Embeded code of the audio."
+msgstr "请输入音频的URL或嵌入代码。"
+
+#: inc/meta-boxes.php:95
+msgid "Post Format: Quote"
+msgstr "邮政格式：报价"
+
+#: inc/meta-boxes.php:101
+msgid "Quote"
+msgstr "引用"
+
+#: inc/meta-boxes.php:104
+msgid "Add a quote."
+msgstr "添加报价。"
+
+#: inc/meta-boxes.php:107
+msgid "Author"
+msgstr "作者"
+
+#: inc/meta-boxes.php:110
+msgid "Add the quote author."
+msgstr "添加报价作者。"
+
+#: inc/meta-boxes.php:113
+msgid "Author Url"
+msgstr "作者网址"
+
+#: inc/meta-boxes.php:116
+msgid "Add the quote author URL."
+msgstr "添加报价作者网址。"
+
+#: inc/meta-boxes.php:124
+msgid "Post Format: Link"
+msgstr "邮政格式：链接"
+
+#: inc/meta-boxes.php:130
+msgid "Url"
+msgstr "Url"
+
+#: inc/meta-boxes.php:133
+msgid "Add an URL link."
+msgstr "添加一个URL链接。"
+
+#: inc/meta-boxes.php:139
+msgid "Add text for the URL link."
+msgstr "添加URL链接的文本。"
+
+#: inc/meta-boxes.php:147
+msgid "Portfolio Informations"
+msgstr "投资组合信息"
+
+#: inc/meta-boxes.php:154
+msgid "Enter Client Name"
+msgstr "输入客户端名称"
+
+#: inc/meta-boxes.php:157
+msgid "Enter your project client name."
+msgstr "输入您的项目客户名称。"
+
+#: inc/meta-boxes.php:160
+msgid "Enter Live Project URL"
+msgstr "输入实时项目URL"
+
+#: inc/meta-boxes.php:163
+msgid "Enter your live project url."
+msgstr "输入您的实时项目网址。"
+
+#: inc/meta-boxes.php:171
+msgid "Testimonial Informations"
+msgstr "见证信息"
+
+#: inc/meta-boxes.php:178
+msgid "Enter Designation"
+msgstr "输入名称"
+
+#: inc/meta-boxes.php:181
+msgid "Enter client designation."
+msgstr "输入客户名称。"
+
+#: inc/meta-boxes.php:184
+msgid "Enter Company Name"
+msgstr "输入公司名称"
+
+#: inc/meta-boxes.php:187
+msgid "Enter client company name."
+msgstr "输入客户公司名称。"
+
+#: inc/meta-boxes.php:195
+msgid "Page Layout Options"
+msgstr "页面布局选项"
+
+#: inc/meta-boxes.php:201
+msgid "Show Title"
+msgstr "显示标题"
+
+#: inc/meta-boxes.php:204
+msgid "Show title of the page."
+msgstr "显示页面的标题。"
+
+#: inc/meta-boxes.php:213
+msgid "Show Breadcrumb"
+msgstr "显示痕迹"
+
+#: inc/meta-boxes.php:216
+msgid "Show breadcrumb of the page."
+msgstr "显示页面的导航痕迹。"
+
+#: inc/meta-boxes.php:225
+msgid "Page Sidebar"
+msgstr "页边栏"
+
+#: inc/meta-boxes.php:245 inc/meta-boxes.php:287
+msgid "Select Sidebar"
+msgstr "选择侧边栏"
+
+#: inc/meta-boxes.php:258
+msgid "Product Page Layout Options"
+msgstr "产品页面布局选项"
+
+#: inc/meta-boxes.php:266
+msgid "Product Page Layout"
+msgstr "产品页面布局"
+
+#: inc/meta-boxes.php:280
+#, php-format
+msgid ""
+"Choose product page layout for only this product. You can choose  global for all product page layout at <a target=\"_blank\" href="
+"\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr ""
+"仅为此产品选择产品页面布局。您可以在<a target=\"_blank\" %1$s \">此处</a>（WooCommerce>单一产品部分）中为所有产品页面布局选择全局。"
+
+#: inc/meta-boxes.php:293
+msgid "Product Size Guide Image"
+msgstr "产品尺寸指南图像"
+
+#: inc/meta-boxes.php:297
+#, php-format
+msgid ""
+"Upload product size guide image for only this product. You can use image size guide for all product at <a target=\"_blank\" href=\"%1$s"
+"\">here</a> (WooCommerce > Single Product section)."
+msgstr ""
+"仅为此产品上传产品尺寸指南图像。您可以使用<a target=\"_blank\" %1$s \">此处</a>（WooCommerce>单一产品）部分的所有产品的图像尺寸指南。"
+
+#: inc/plugin_activetion_class.php:50
+msgid "PL EmallShop Extensions"
+msgstr "PL EmallShop扩展"
+
+#: inc/plugin_activetion_class.php:57
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Visual Composer"
+
+#: inc/plugin_activetion_class.php:64
+msgid "Revolution Slider"
+msgstr "Revolution 滑块"
+
+#: inc/plugin_activetion_class.php:71
+msgid "Ultimate Addons for Visual Composer"
+msgstr "Visual Composer的终极插件"
+
+#: inc/plugin_activetion_class.php:78
+msgid "Woocommerce"
+msgstr "商城"
+
+#: inc/plugin_activetion_class.php:83
+msgid "YITH WooCommerce Compare"
+msgstr "YITH Woo商务比较"
+
+#: inc/plugin_activetion_class.php:88
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH Woo商业愿望清单"
+
+#: inc/plugin_activetion_class.php:93
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr "YITH WooCommerce Ajax产品过滤器"
+
+#: inc/plugin_activetion_class.php:98
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: inc/plugin_activetion_class.php:103
+msgid "Contact Form 7"
+msgstr "联系表格7"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "以前的评论"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "新的评论"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "格式"
+
+#: inc/template-tags.php:78
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "发表于"
+
+#: inc/template-tags.php:87
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "作者"
+
+#: inc/template-tags.php:93 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "类别"
+
+#: inc/template-tags.php:104
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "标签"
+
+#: inc/template-tags.php:115
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "完整大"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "在%s上发表评论<span class = \\“screen-reader-text \\”> </ span>"
+
+#: inc/theme-function.php:151
+msgid "Days"
+msgstr "天"
+
+#: inc/theme-function.php:152
+msgid "Hours"
+msgstr "小时"
+
+#: inc/theme-function.php:153
+msgid "Mins"
+msgstr "30分钟"
+
+#: inc/theme-function.php:154
+msgid "Secs"
+msgstr "30秒"
+
+#: inc/theme-function.php:155
+msgid "+ Show more"
+msgstr "再表达一些"
+
+#: inc/theme-function.php:156
+msgid "- Show less"
+msgstr "显示较少"
+
+#: inc/theme-function.php:199
+msgid ""
+"WARNING: Clicking this button will replace your current theme options, sliders.  It can also take a minute to complete. Importing data "
+"is recommended on fresh installs only once. Importing on sites with content or importing twice will duplicate menus, pages and all "
+"posts."
+msgstr ""
+"警告：单击此按钮将替换您当前的主题选项，滑块。也可能需要一分钟才能完成。建议仅在新安装中导入数据一次。在内容导入或导入两次的网站上导入"
+"将重复菜单，页面和所有帖子。"
+
+#: inc/theme-function.php:259
+msgid "News"
+msgstr "新闻"
+
+#: inc/theme-function.php:325
+msgid "Login/Register"
+msgstr " 登录|注册 "
+
+#: inc/theme-function.php:327
+msgid "Logout"
+msgstr "登出"
+
+#: inc/theme-function.php:341
+msgid "Register"
+msgstr "注册"
+
+#: inc/theme-function.php:365 inc/theme-function.php:434
+msgid "Checkout"
+msgstr "结算"
+
+#: inc/theme-function.php:366 inc/theme-function.php:663
+msgid "Cart"
+msgstr "大车"
+
+#: inc/theme-function.php:370
+msgid "My Wishlist"
+msgstr "收藏夹"
+
+#: inc/theme-function.php:376 inc/theme-function.php:490
+msgid "Compare"
+msgstr "compare"
+
+#: inc/theme-function.php:379
+msgid "sign Out"
+msgstr "退"
+
+#: inc/theme-function.php:450
+msgid "Track Order"
+msgstr "跟踪订单"
+
+#: inc/theme-function.php:469
+msgid "Wishlist"
+msgstr "心愿单"
+
+#: inc/theme-function.php:579
+msgid "Help"
+msgstr "帮助"
+
+#: inc/theme-function.php:693
+msgid "Search"
+msgstr "搜索"
+
+#: inc/theme-function.php:821
+msgid "Shopping Categories"
+msgstr "购物分类"
+
+#: inc/theme-function.php:1249
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/theme-function.php:1251
+msgid "Reply"
+msgstr "回复"
+
+#: inc/theme-function.php:1352 inc/theme-function.php:1403
+msgid "No more blog"
+msgstr "没有更多的博客"
+
+#: inc/theme-function.php:1438
+msgid "Post Navigation"
+msgstr "帖子導航"
+
+#: inc/theme-function.php:1521
+msgid "Related Post"
+msgstr "相关文章"
+
+#: inc/theme-function.php:1717
+msgid "Share on Facebook"
+msgstr "分享到Facebook"
+
+#: inc/theme-function.php:1722
+msgid "Share on Twitter"
+msgstr "分享到Twitter"
+
+#: inc/theme-function.php:1727
+msgid "Share on LinkedIn"
+msgstr "分享到LinkedIn"
+
+#: inc/theme-function.php:1732
+msgid "Share on Google Plus"
+msgstr "分享到Google Plus"
+
+#: inc/theme-function.php:1737
+msgid "Share on Stumbleupon"
+msgstr "分享到"
+
+#: inc/theme-function.php:1742
+msgid "Share on Pinterest"
+msgstr "分享到Pinterest"
+
+#: inc/theme-function.php:1747
+msgid "Share on Tumblr"
+msgstr "分享到Tumblr"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: single-portfolio.php:55
+msgid "Project Description"
+msgstr "项目简介"
+
+#: single-portfolio.php:65
+msgid "Live Preview"
+msgstr "现场预览"
+
+#: single-portfolio.php:72
+msgid "Project Informations"
+msgstr "项目信息"
+
+#: single-portfolio.php:77
+msgid "Client"
+msgstr "客户端"
+
+#: single-portfolio.php:82
+msgid "Date"
+msgstr "日期"
+
+#: single-portfolio.php:99
+msgid "Skills"
+msgstr "技能"
+
+#: single-portfolio.php:111
+msgid "Share"
+msgstr "分享"
+
+#: single-portfolio.php:141
+msgid "Related projects"
+msgstr "相关项目"
+
+#: single.php:36
+msgid "Share This Post"
+msgstr "分享这篇文章"
+
+#: templates/footer/footer-1.php:34 templates/footer/footer-2.php:50 templates/footer/footer-3.php:56
+msgid "&copy; 2016 presslayouts.com. All Rights Reserved."
+msgstr "＆复制; 2016 presslayouts.com。版权所有。"
+
+#: templates/footer/footer-2.php:22
+msgid "Stay Connected"
+msgstr "保持联系"
+
+#: templates/portfolio/portfolio_grid.php:32
+msgid "Skill"
+msgstr "技能"
+
+#: woocommerce/cart/cart.php:35
+msgid "Item Details"
+msgstr "产品详情"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:120
+msgid "Price"
+msgstr "价钱"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:126
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:143 woocommerce/order/order-details.php:40
+msgid "Total"
+msgstr "总计"
+
+#: woocommerce/cart/cart.php:68 woocommerce/order/order-details.php:39
+msgid "Product"
+msgstr "产品"
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "目前缺货"
+
+#: woocommerce/cart/cart.php:153 woocommerce/cart/mini-cart.php:103
+msgid "Remove this item"
+msgstr "删除此项目"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon:"
+msgstr "优惠券"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: woocommerce/cart/cart.php:172
+msgid "Apply coupon"
+msgstr "使用优惠券"
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr "更新购物车"
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr "你可能对＆hellip感兴趣"
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Recent add item"
+msgid_plural "Recent add item(s)"
+msgstr[0] "最近添加项目"
+msgstr[1] "最近添加项目"
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Subtotal"
+msgstr "小计"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "No products in the cart."
+msgstr "没有任何产品在购物车中。"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "您必须登录才能进行结账。"
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "您的订单"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By:"
+msgstr "排序方式？"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "下面的地址将被默认使用的结帐页面上。"
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "您还没有建立这种类型的地址呢。"
+
+#: woocommerce/order/order-details.php:33
+msgid "Order details"
+msgstr "订单详细信息"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "SKU："
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "类别:"
+msgstr[1] "类别:"
+
+#: woocommerce/single-product/meta.php:45
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "标签："
+msgstr[1] "标签:"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s客户评价"
+msgstr[1] "%s客户评价"
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr "相关产品"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "你还可能喜欢&hellip;"

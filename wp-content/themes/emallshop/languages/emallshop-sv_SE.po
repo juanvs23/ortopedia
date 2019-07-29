@@ -1,0 +1,4070 @@
+# Copyright (C) 2017 PressLayouts
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EmallShop 1.0\n"
+"Report-Msgid-Bugs-To: http://demo.presslayouts.com/emallshop/\n"
+"POT-Creation-Date: 2017-09-08 09:55+0530\n"
+"PO-Revision-Date: 2017-09-08 10:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Image Not Set"
+msgstr "Bilden är inte inställd"
+
+#: admin/admin-function.php:19
+msgid "Header Style 1"
+msgstr "Header Style 1"
+
+#: admin/admin-function.php:20
+msgid "Header Style 2"
+msgstr "Header Style 2"
+
+#: admin/admin-function.php:21
+msgid "Header Style 3"
+msgstr "Header Style 3"
+
+#: admin/admin-function.php:22
+msgid "Header Style 4"
+msgstr "Header Style 4"
+
+#: admin/admin-function.php:23
+msgid "Header Style 5"
+msgstr "Header Style 5"
+
+#: admin/admin-function.php:24
+msgid "Header Style 6"
+msgstr "Header Style 6"
+
+#: admin/admin-function.php:25
+msgid "Header Style 7"
+msgstr "Header Style 7"
+
+#: admin/admin-function.php:26
+msgid "Header Style 8"
+msgstr "Header Style 8"
+
+#: admin/admin-function.php:27
+msgid "Header Style 9"
+msgstr "Header Style 9"
+
+#: admin/admin-function.php:28
+msgid "Header Style 10"
+msgstr "Header Style 10"
+
+#: admin/admin-function.php:38
+msgid "Page Heading Style 1"
+msgstr "Sidrubrik Stil 1"
+
+#: admin/admin-function.php:39
+msgid "Page Heading Style 2"
+msgstr "Sidhuvudstyp 2"
+
+#: admin/admin-function.php:40
+msgid "Page Heading Style 3"
+msgstr "Sidhuvudsstil 3"
+
+#: admin/admin-function.php:41
+msgid "Page Heading Style 4"
+msgstr "Sidhuvudsstil 4"
+
+#: admin/admin-function.php:51
+msgid "Footer Style 1"
+msgstr "Footer Style 1"
+
+#: admin/admin-function.php:52
+msgid "Footer Style 2"
+msgstr "Footer Style 2"
+
+#: admin/admin-function.php:53
+msgid "Footer Style 3"
+msgstr "Footer Style 3"
+
+#: admin/theme_options.php:47 admin/theme_options.php:48
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: admin/theme_options.php:125
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr "<P> Visste du att Redux sätter en global variabel för dig? För att komma åt några av dina sparade alternativ inifrån din kod du kan använda din global variabel: <strong>$%1$s</strong></ p>"
+
+#: admin/theme_options.php:127
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr "<p> Den här texten visas ovanför alternativpanelen. Det krävs inte, men mer information är alltid bättre! Den intro_text fältet accepterar alla HTML. </p>"
+
+#: admin/theme_options.php:131
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr "<p> Den här texten visas under alternativpanelen. Det krävs inte, men mer information är alltid bättre! Den footer_text fältet accepterar alla HTML. </p>"
+
+#: admin/theme_options.php:152
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: admin/theme_options.php:159
+msgid "Theme Layout"
+msgstr "Tema Layout"
+
+#: admin/theme_options.php:160
+msgid "Choose theme wide or boxed layout."
+msgstr "Välj tema bred eller boxad layout."
+
+#: admin/theme_options.php:177
+msgid "Page Width"
+msgstr "Sidbredd"
+
+#: admin/theme_options.php:178
+msgid "Choose one of the pre-defined widths or enter custom one."
+msgstr "Välj en av de fördefinierade bredderna eller skriv in anpassad."
+
+#: admin/theme_options.php:188
+msgid "Pre-defined Page Width"
+msgstr "Fördefinierad sidbredd"
+
+#: admin/theme_options.php:190
+msgid "Wide Screen"
+msgstr "Wide Screen"
+
+#: admin/theme_options.php:191
+msgid "NoteBook"
+msgstr "Anteckningsbok"
+
+#: admin/theme_options.php:199
+msgid "Custom Page Width"
+msgstr "Anpassad sidbredd"
+
+#: admin/theme_options.php:207
+msgid "Header Logo"
+msgstr "Rubriklogga"
+
+#: admin/theme_options.php:209
+msgid "Upload header logo."
+msgstr "Ladda upp huvudlogotypen."
+
+#: admin/theme_options.php:216
+msgid "Sticky Header Logo"
+msgstr "Sticky Header Logo"
+
+#: admin/theme_options.php:218
+msgid "Upload sticky header logo."
+msgstr "Ladda upp klibbig headerlogo."
+
+#: admin/theme_options.php:225
+msgid "Favicon Icon"
+msgstr "Favicon Icon"
+
+#: admin/theme_options.php:227
+msgid "Upload site favicon icon."
+msgstr "Ladda upp faviconikon på webbplatsen."
+
+#: admin/theme_options.php:233
+msgid "Show Back To Top Button"
+msgstr "Visa knappen Tillbaka till toppen"
+
+#: admin/theme_options.php:234
+msgid "Show back to top button."
+msgstr "Visa tillbaka till toppen knappen."
+
+#: admin/theme_options.php:236 admin/theme_options.php:245 admin/theme_options.php:1338 admin/theme_options.php:1359
+msgid "On"
+msgstr "På"
+
+#: admin/theme_options.php:237 admin/theme_options.php:246 admin/theme_options.php:1339 admin/theme_options.php:1360 admin/theme_options.php:1665 framework/woocommerce/woo-functions.php:922
+msgid "Off"
+msgstr "Av"
+
+#: admin/theme_options.php:242
+msgid "Show Login Register Popup"
+msgstr "Visa Logga in Registrera Popup"
+
+#: admin/theme_options.php:243
+msgid "Show login register in popen or redirect on My Account page."
+msgstr "Visa inloggningsregister i popen eller omdirigera på Mitt konto-sida."
+
+#: admin/theme_options.php:251
+msgid "Tracking Code"
+msgstr "Spårningskod"
+
+#: admin/theme_options.php:252
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Klistra in din Google Analytics (eller annan) spårningskod här. Detta läggs till i footer-teman för ditt tema."
+
+#: admin/theme_options.php:260
+msgid "Theme Styling"
+msgstr "Tema Styling"
+
+#: admin/theme_options.php:268
+msgid "Body"
+msgstr "Kropp"
+
+#: admin/theme_options.php:275
+msgid "Theme Primary Color"
+msgstr "Tema Primär färg"
+
+#: admin/theme_options.php:281
+msgid "Theme Secondary Color"
+msgstr "Tema Sekundär Färg"
+
+#: admin/theme_options.php:287
+msgid "Body Wrapper Background"
+msgstr "Body Wrapper Bakgrund"
+
+#: admin/theme_options.php:288
+msgid "Body wrapper background with image, color, etc."
+msgstr "Body wrapper bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:301 admin/theme_options.php:420 admin/theme_options.php:550 admin/theme_options.php:626 admin/theme_options.php:702 admin/theme_options.php:829 admin/theme_options.php:921 admin/theme_options.php:953 admin/theme_options.php:1050
+msgid "Background Opacity"
+msgstr "Bakgrundsopacitet"
+
+#: admin/theme_options.php:302
+msgid "Body wrapper background opacity."
+msgstr "Kroppsinpackningens bakgrundsopacitet."
+
+#: admin/theme_options.php:313 admin/theme_options.php:473 admin/theme_options.php:562 admin/theme_options.php:580 admin/theme_options.php:650 admin/theme_options.php:721 admin/theme_options.php:777 admin/theme_options.php:848 admin/theme_options.php:972 admin/theme_options.php:1062 admin/theme_options.php:3515
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: admin/theme_options.php:319
+msgid "Heading/Title Color"
+msgstr "Rubrik / Titelfärg"
+
+#: admin/theme_options.php:320
+msgid "Body heading color h1, h2, h3, h4, h5, and h6."
+msgstr "Kroppsväg färg h1, h2, h3, h4, h5 och h6."
+
+#: admin/theme_options.php:326 admin/theme_options.php:479 admin/theme_options.php:568 admin/theme_options.php:638 admin/theme_options.php:727 admin/theme_options.php:978
+msgid "Input Field Background( TextBox, SelectBox, etc..)"
+msgstr "Inmatningsfält Bakgrund (TextBox, SelectBox, etc ..)"
+
+#: admin/theme_options.php:332 admin/theme_options.php:485 admin/theme_options.php:574 admin/theme_options.php:644 admin/theme_options.php:733 admin/theme_options.php:984
+msgid "Input Field Color( TextBox, SelectBox, etc..)"
+msgstr "Inmatningsfältfärg (TextBox, SelectBox, etc ..)"
+
+#: admin/theme_options.php:338 admin/theme_options.php:491 admin/theme_options.php:656 admin/theme_options.php:739 admin/theme_options.php:783 admin/theme_options.php:854 admin/theme_options.php:990 admin/theme_options.php:1068
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: admin/theme_options.php:352
+msgid "Theme Border"
+msgstr "Tema gränsen"
+
+#: admin/theme_options.php:353
+msgid "General border of theme."
+msgstr "Allmän gräns för temat."
+
+#: admin/theme_options.php:366
+msgid "Theme Border Radius"
+msgstr "Tema Border Radius"
+
+#: admin/theme_options.php:367
+msgid "General border radius of theme."
+msgstr "Teman för generell gränsradie."
+
+#: admin/theme_options.php:381
+msgid "Body Wrapper Padding"
+msgstr "Body Wrapper Padding"
+
+#: admin/theme_options.php:382
+msgid "Default padding in px: 0 0"
+msgstr "Standardpolstring i px: 0 0"
+
+#: admin/theme_options.php:393 admin/theme_options.php:1152 admin/theme_options.php:3484
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: admin/theme_options.php:401
+msgid "Header Wrapper Background."
+msgstr "Header Wrapper Bakgrund."
+
+#: admin/theme_options.php:406 admin/theme_options.php:447 admin/theme_options.php:536 admin/theme_options.php:688 admin/theme_options.php:771 admin/theme_options.php:815 admin/theme_options.php:907 admin/theme_options.php:939 admin/theme_options.php:1036 admin/theme_options.php:3578
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: admin/theme_options.php:407
+msgid "Header wrapper background with image, color, etc."
+msgstr "Header wrapper bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:421
+msgid "Header wrapper background opacity."
+msgstr "Bakgrundsopaciteten i rubriken."
+
+#: admin/theme_options.php:432
+msgid "Header Overlay"
+msgstr "Headeröverlagring"
+
+#: admin/theme_options.php:433
+msgid "Header overlay on home page slider. Note:- When you use header overlay on home page slider, at this time no any effect background color on topbar, header and navigation in home page header. But background color  work/effect in other all pages."
+msgstr "Sidhuvudöverlagring på startsidan. Obs! - När du använder huvudöverlagring på startsidan, har ingen bakgrundsfärg på topplistan, sidhuvud och navigering i startsidahuvudet. Men bakgrundsfärg arbete / effekt på andra sidor."
+
+#: admin/theme_options.php:434 admin/theme_options.php:1169 admin/theme_options.php:1177 admin/theme_options.php:1329 admin/theme_options.php:1627 admin/theme_options.php:1958 admin/theme_options.php:2112 admin/theme_options.php:2403 admin/theme_options.php:2412 admin/theme_options.php:2421 admin/theme_options.php:2685 admin/theme_options.php:2704 admin/theme_options.php:3337
+#: admin/theme_options.php:3367 admin/theme_options.php:3424 admin/theme_options.php:3449 admin/theme_options.php:3539 admin/theme_options.php:3619 admin/theme_options.php:3695
+msgid "Enable"
+msgstr "Aktivera"
+
+#: admin/theme_options.php:435 admin/theme_options.php:1170 admin/theme_options.php:1178 admin/theme_options.php:1330 admin/theme_options.php:1628 admin/theme_options.php:1959 admin/theme_options.php:2113 admin/theme_options.php:2404 admin/theme_options.php:2413 admin/theme_options.php:2422 admin/theme_options.php:2686 admin/theme_options.php:2705 admin/theme_options.php:3338
+#: admin/theme_options.php:3368 admin/theme_options.php:3425 admin/theme_options.php:3450 admin/theme_options.php:3540 admin/theme_options.php:3620 admin/theme_options.php:3696
+msgid "Disable"
+msgstr "naktivera"
+
+#: admin/theme_options.php:442
+msgid "Header Middle Background."
+msgstr "Header Middle Background."
+
+#: admin/theme_options.php:448
+msgid "Header middle background with image, color, etc."
+msgstr "Kopiera mitt bakgrund med bild, färg etc."
+
+#: admin/theme_options.php:461
+msgid "Opacity"
+msgstr "Genomskinlighet:"
+
+#: admin/theme_options.php:462
+msgid "Header background opacity."
+msgstr "Header bakgrundsopacitet."
+
+#: admin/theme_options.php:501
+msgid "Header Border"
+msgstr "Header Border"
+
+#: admin/theme_options.php:502 admin/theme_options.php:591
+msgid "Set Header border."
+msgstr "Ange rubrikgräns."
+
+#: admin/theme_options.php:519 admin/theme_options.php:882 admin/theme_options.php:1017 admin/theme_options.php:1095
+msgid "Content Padding"
+msgstr "Content Padding"
+
+#: admin/theme_options.php:520
+msgid "Default padding in px: 24 24"
+msgstr "Standardpolstring i px: 24 24"
+
+#: admin/theme_options.php:531 admin/theme_options.php:1168
+msgid "Sticky Header"
+msgstr "Klibbig header"
+
+#: admin/theme_options.php:537
+msgid "Sticky Header background with image, color, etc."
+msgstr "Sticky Header bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:551
+msgid "Sticky header background opacity."
+msgstr "Sticky header background opacity."
+
+#: admin/theme_options.php:590
+msgid "Sticky Header Border"
+msgstr "Sticky Header Border"
+
+#: admin/theme_options.php:605
+msgid "Topbar"
+msgstr "Topbar"
+
+#: admin/theme_options.php:612
+msgid " Topbar Background"
+msgstr " Topbar Bakgrund"
+
+#: admin/theme_options.php:613
+msgid "Topbar background with image, color, etc."
+msgstr "Topbar bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:627
+msgid "Topbar background opacity."
+msgstr "Topbar bakgrundsopacitet."
+
+#: admin/theme_options.php:666
+msgid "Topbar Border"
+msgstr "Topbar Border"
+
+#: admin/theme_options.php:667
+msgid "Set topbar border."
+msgstr "Ställ in toppskärmens kant."
+
+#: admin/theme_options.php:681
+msgid "Navigation"
+msgstr "Navigering"
+
+#: admin/theme_options.php:689
+msgid "Navigation background with image, color, etc."
+msgstr "Navigationsbakgrund med bild, färg etc."
+
+#: admin/theme_options.php:703
+msgid "Navigation background opacity."
+msgstr "Navigationsbakgrundsopacitet."
+
+#: admin/theme_options.php:714
+msgid "Secondary Background Color"
+msgstr "Sekundär bakgrundsfärg"
+
+#: admin/theme_options.php:715
+msgid "Secondary navigation background color."
+msgstr "Sekundär navigeringsbakgrundsfärg."
+
+#: admin/theme_options.php:749
+msgid "Navigation Border"
+msgstr "Navigation Border"
+
+#: admin/theme_options.php:750
+msgid "Set Navigation border."
+msgstr "Ange Navigationsgräns."
+
+#: admin/theme_options.php:764 inc/theme-function.php:805
+msgid "Menu"
+msgstr "Meny"
+
+#: admin/theme_options.php:793
+msgid "Menu Border"
+msgstr "Meny Border"
+
+#: admin/theme_options.php:794
+msgid "Set Menu border."
+msgstr "Ange menygräns."
+
+#: admin/theme_options.php:808 admin/theme_options.php:1466
+msgid "Page Heading"
+msgstr "Sidrubrik"
+
+#: admin/theme_options.php:816
+msgid "Page heading background with image, color, etc."
+msgstr "Sidan rubrik bakgrund med bild, färg etc."
+
+#: admin/theme_options.php:830
+msgid "Page heading background opacity."
+msgstr "Sidan rubrik bakgrundsopacitet."
+
+#: admin/theme_options.php:841
+msgid "Page Heading/Title Color"
+msgstr "Sidrubrik / Titelfärg"
+
+#: admin/theme_options.php:842
+msgid "Page heading/title color."
+msgstr "Sidrubrik / titelfärg."
+
+#: admin/theme_options.php:864
+msgid "Page Heading Border"
+msgstr "Sidhuvudgränsen"
+
+#: admin/theme_options.php:865
+msgid "Set page heading border."
+msgstr "Ange sidans rubrikgräns."
+
+#: admin/theme_options.php:883
+msgid "Default padding in px: 10 10"
+msgstr "Standardpolstring i px: 10 10"
+
+#: admin/theme_options.php:894 admin/theme_options.php:1523 admin/theme_options.php:3485
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/theme_options.php:902
+msgid "Footer Wrapper Background."
+msgstr "Footer Wrapper Bakgrund."
+
+#: admin/theme_options.php:908
+msgid "Footer wrapper background with image, color, etc."
+msgstr "Footer wrapper bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:922
+msgid "Footer wrapper background opacity."
+msgstr "Bakgrundsopaciteten i fotföremålen."
+
+#: admin/theme_options.php:934
+msgid "Footer Top/Middle Background."
+msgstr "Footer Top / Middle Background."
+
+#: admin/theme_options.php:940
+msgid "Footer top/middle background with image, color, etc."
+msgstr "Footer topp / mitten bakgrund med bild, färg etc."
+
+#: admin/theme_options.php:954
+msgid "Footer background opacity."
+msgstr "Footer bakgrundsopacitet."
+
+#: admin/theme_options.php:965
+msgid "Heading Color"
+msgstr "Rubrik Färg"
+
+#: admin/theme_options.php:966
+msgid "Footer heading color."
+msgstr "Footer-rubrikfärg."
+
+#: admin/theme_options.php:1000
+msgid "Footer Border"
+msgstr "Footer Border"
+
+#: admin/theme_options.php:1018
+msgid "Default padding in px: 42 42"
+msgstr "Standardpolstring i px: 42 42"
+
+#: admin/theme_options.php:1029 admin/theme_options.php:1549
+msgid "Copyright"
+msgstr "Copyright"
+
+#: admin/theme_options.php:1037
+msgid "Copyright background with image, color, etc."
+msgstr "Upphovsrätt bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:1051
+msgid "Copyright background opacity."
+msgstr "Upphovsrättens bakgrundsopacitet."
+
+#: admin/theme_options.php:1078
+msgid "Copyright Border"
+msgstr "Upphovsrättsgräns"
+
+#: admin/theme_options.php:1096
+msgid "Default padding: 14 14"
+msgstr "Standardpolning: 14 14"
+
+#: admin/theme_options.php:1108
+msgid "Theme Typography"
+msgstr "Tema Typografi"
+
+#: admin/theme_options.php:1116
+msgid "Google Font Character Sets"
+msgstr "Teckenuppsättningar för Google teckensnitt"
+
+#: admin/theme_options.php:1117
+msgid "Select google font character sets"
+msgstr "Välj teckensätt för Google-teckensnitt"
+
+#: admin/theme_options.php:1132
+msgid "Body Font"
+msgstr "Kroppstypsnitt"
+
+#: admin/theme_options.php:1160
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: admin/theme_options.php:1161
+msgid "Choose Your header style/layout."
+msgstr "Välj din rubrikstyp / layout."
+
+#: admin/theme_options.php:1176
+msgid "Sticky Header In Mobile"
+msgstr "Sticky Header In Mobile"
+
+#: admin/theme_options.php:1185
+msgid "Select Sticky Header Part"
+msgstr "Välj Sticky Header Part"
+
+#: admin/theme_options.php:1187
+msgid "Topbar Header"
+msgstr "Topbar Header"
+
+#: admin/theme_options.php:1188
+msgid "Middle Header"
+msgstr "Middle Header"
+
+#: admin/theme_options.php:1189
+msgid "Navigation Header"
+msgstr "Navigationsrubrik"
+
+#: admin/theme_options.php:1197
+msgid "Show Header Topbar"
+msgstr "Visa huvudrubrik"
+
+#: admin/theme_options.php:1198
+msgid "Show header topbar on header."
+msgstr "Visa huvudrubrik på rubrik."
+
+#: admin/theme_options.php:1199 admin/theme_options.php:1208 admin/theme_options.php:1218 admin/theme_options.php:1228 admin/theme_options.php:1246 admin/theme_options.php:1264 admin/theme_options.php:1282 admin/theme_options.php:1292 admin/theme_options.php:1310 admin/theme_options.php:1369 admin/theme_options.php:1378 admin/theme_options.php:1387 admin/theme_options.php:1558
+#: admin/theme_options.php:1618 admin/theme_options.php:1636 admin/theme_options.php:1644 admin/theme_options.php:1686 admin/theme_options.php:1720 admin/theme_options.php:1743 admin/theme_options.php:1839 admin/theme_options.php:1976 admin/theme_options.php:1984 admin/theme_options.php:1992 admin/theme_options.php:2001 admin/theme_options.php:2009 admin/theme_options.php:2018
+#: admin/theme_options.php:2027 admin/theme_options.php:2036 admin/theme_options.php:2045 admin/theme_options.php:2054 admin/theme_options.php:2139 admin/theme_options.php:2147 admin/theme_options.php:2156 admin/theme_options.php:2165 admin/theme_options.php:2174 admin/theme_options.php:2183 admin/theme_options.php:2191 admin/theme_options.php:2199 admin/theme_options.php:2207
+#: admin/theme_options.php:2225 admin/theme_options.php:2247 admin/theme_options.php:2255 admin/theme_options.php:2294 admin/theme_options.php:2302 admin/theme_options.php:2363 admin/theme_options.php:2383 admin/theme_options.php:2492 admin/theme_options.php:2500 admin/theme_options.php:2545 admin/theme_options.php:2553 admin/theme_options.php:2561 admin/theme_options.php:2585
+#: admin/theme_options.php:2605 admin/theme_options.php:2652 admin/theme_options.php:2660 admin/theme_options.php:2668 admin/theme_options.php:2694 admin/theme_options.php:2714 admin/theme_options.php:2774 admin/theme_options.php:2782 admin/theme_options.php:2880 admin/theme_options.php:2888 admin/theme_options.php:2896 admin/theme_options.php:2904 admin/theme_options.php:2948
+#: admin/theme_options.php:2957 admin/theme_options.php:3019 admin/theme_options.php:3027 admin/theme_options.php:3087 admin/theme_options.php:3095 admin/theme_options.php:3132 admin/theme_options.php:3244 admin/theme_options.php:3263 admin/theme_options.php:3272 admin/theme_options.php:3281 admin/theme_options.php:3290 admin/theme_options.php:3299 admin/theme_options.php:3308
+#: admin/theme_options.php:3317
+msgid "Show"
+msgstr "Visa"
+
+#: admin/theme_options.php:1200 admin/theme_options.php:1209 admin/theme_options.php:1219 admin/theme_options.php:1229 admin/theme_options.php:1247 admin/theme_options.php:1265 admin/theme_options.php:1283 admin/theme_options.php:1293 admin/theme_options.php:1311 admin/theme_options.php:1370 admin/theme_options.php:1379 admin/theme_options.php:1388 admin/theme_options.php:1559
+#: admin/theme_options.php:1619 admin/theme_options.php:1637 admin/theme_options.php:1645 admin/theme_options.php:1687 admin/theme_options.php:1721 admin/theme_options.php:1744 admin/theme_options.php:1840 admin/theme_options.php:1977 admin/theme_options.php:1985 admin/theme_options.php:1993 admin/theme_options.php:2002 admin/theme_options.php:2010 admin/theme_options.php:2019
+#: admin/theme_options.php:2028 admin/theme_options.php:2037 admin/theme_options.php:2046 admin/theme_options.php:2055 admin/theme_options.php:2140 admin/theme_options.php:2148 admin/theme_options.php:2157 admin/theme_options.php:2166 admin/theme_options.php:2175 admin/theme_options.php:2184 admin/theme_options.php:2192 admin/theme_options.php:2200 admin/theme_options.php:2208
+#: admin/theme_options.php:2226 admin/theme_options.php:2248 admin/theme_options.php:2256 admin/theme_options.php:2295 admin/theme_options.php:2303 admin/theme_options.php:2364 admin/theme_options.php:2384 admin/theme_options.php:2493 admin/theme_options.php:2501 admin/theme_options.php:2546 admin/theme_options.php:2554 admin/theme_options.php:2562 admin/theme_options.php:2586
+#: admin/theme_options.php:2606 admin/theme_options.php:2653 admin/theme_options.php:2661 admin/theme_options.php:2669 admin/theme_options.php:2695 admin/theme_options.php:2715 admin/theme_options.php:2775 admin/theme_options.php:2783 admin/theme_options.php:2881 admin/theme_options.php:2889 admin/theme_options.php:2897 admin/theme_options.php:2905 admin/theme_options.php:2949
+#: admin/theme_options.php:2958 admin/theme_options.php:3020 admin/theme_options.php:3028 admin/theme_options.php:3088 admin/theme_options.php:3096 admin/theme_options.php:3133 admin/theme_options.php:3245 admin/theme_options.php:3264 admin/theme_options.php:3273 admin/theme_options.php:3282 admin/theme_options.php:3291 admin/theme_options.php:3300 admin/theme_options.php:3309
+#: admin/theme_options.php:3318
+msgid "Hide"
+msgstr "Dölj"
+
+#: admin/theme_options.php:1206
+msgid "Show Language Switcher"
+msgstr "Visa språkomkopplare"
+
+#: admin/theme_options.php:1207
+msgid "Show language switcher on topbar."
+msgstr "Visa språkomkopplare på toppstången."
+
+#: admin/theme_options.php:1216
+msgid "Show Currency Switcher"
+msgstr "Visa valutaomkopplare"
+
+#: admin/theme_options.php:1217
+msgid "Show currency switcher on topbar."
+msgstr "Visa valutaomkopplare på topplistan."
+
+#: admin/theme_options.php:1226
+msgid "Show Topbar Email"
+msgstr "Visa Topbar Email"
+
+#: admin/theme_options.php:1227
+msgid "Show email address on topbar."
+msgstr "Visa e-postadress på topbar."
+
+#: admin/theme_options.php:1236
+msgid "Enter Topbar Email"
+msgstr "Ange Topbar Email"
+
+#: admin/theme_options.php:1237
+msgid "Enter topbar email address."
+msgstr "Ange topbar-e-postadress."
+
+#: admin/theme_options.php:1244
+msgid "Show Topbar Number"
+msgstr "Visa Topbar-nummer"
+
+#: admin/theme_options.php:1245
+msgid "Show mobile number on topbar."
+msgstr "Visa mobilnummer på topbar."
+
+#: admin/theme_options.php:1254
+msgid "Enter Topbar Number"
+msgstr "Ange Topbar Number"
+
+#: admin/theme_options.php:1255
+msgid "Enter topbar mobile number."
+msgstr "Ange mobilt nummer för mobiltelefontjänsten."
+
+#: admin/theme_options.php:1262
+msgid "Show Topbar News"
+msgstr "Visa Topbar News"
+
+#: admin/theme_options.php:1263
+msgid "Show news on topbar."
+msgstr "Visa nyheter på topbar."
+
+#: admin/theme_options.php:1272
+msgid "Enter Topbar News"
+msgstr "Ange Topbar News"
+
+#: admin/theme_options.php:1273
+msgid "Enter topbar news in \"a\" tab."
+msgstr "Ange topbarnyheter på fliken \\ \"a \"."
+
+#: admin/theme_options.php:1280
+msgid "Show Topbar Social Link"
+msgstr "Visa Topbar Social Link"
+
+#: admin/theme_options.php:1281
+msgid "Show social link on topbar."
+msgstr "Visa social länk på topplistan."
+
+#: admin/theme_options.php:1290
+msgid "Show Topbar Welcome Message"
+msgstr "Visa Topbar Välkommen Meddelande"
+
+#: admin/theme_options.php:1291
+msgid "Show welcome message on topbar."
+msgstr "Visa välkomstmeddelande på topbar."
+
+#: admin/theme_options.php:1300
+msgid "Enter Topbar Welcome Message"
+msgstr "Ange Topbar Welcome Message"
+
+#: admin/theme_options.php:1301
+msgid "Enter topbar welcome message."
+msgstr "Skriv in topbar välkomstmeddelande."
+
+#: admin/theme_options.php:1308
+msgid "Show Topbar Help"
+msgstr "Visa Topbar Hjälp"
+
+#: admin/theme_options.php:1309
+msgid "Show help on topbar."
+msgstr "Visa hjälp på topbar."
+
+#: admin/theme_options.php:1318
+msgid "Enter Help Link"
+msgstr "Ange hjälplänk"
+
+#: admin/theme_options.php:1319
+msgid "Enter help link. of topbar"
+msgstr "Ange hjälp länk. av toppstången"
+
+#: admin/theme_options.php:1327
+msgid "Product Live/Ajax Search"
+msgstr "Produkt Live / Ajax Search"
+
+#: admin/theme_options.php:1328
+msgid "Live product search or not on header."
+msgstr "Live produktsökning eller inte på rubrik."
+
+#: admin/theme_options.php:1336
+msgid "Show Categories Dropdown"
+msgstr "Visa kategorier Dropdown"
+
+#: admin/theme_options.php:1337
+msgid "Show categories dropdow in product search."
+msgstr "Visa kategorier dropdow i produktsökning."
+
+#: admin/theme_options.php:1345
+msgid "Search Categories Dropdown"
+msgstr "Sök Kategorier Dropdown"
+
+#: admin/theme_options.php:1346
+msgid "Display categories in search categories dropdow."
+msgstr "Visa kategorier i sökkategorier dropdow."
+
+#: admin/theme_options.php:1348
+msgid "Show All Categories"
+msgstr "Visa alla kategorier"
+
+#: admin/theme_options.php:1349
+msgid "Only Parent(top level) Categories"
+msgstr "Endast förälder (högsta nivå) Kategorier"
+
+#: admin/theme_options.php:1357
+msgid "Show Categories Hierarchical"
+msgstr "Visa kategorier Hierarkiska"
+
+#: admin/theme_options.php:1358
+msgid "Show categories in hierarchical (Must be need to select above option Show All Categories)."
+msgstr "Visa kategorier i hierarkiska (måste måste väljas över alternativet Visa alla kategorier)."
+
+#: admin/theme_options.php:1367
+msgid "Show Cart"
+msgstr "Visa varukorg"
+
+#: admin/theme_options.php:1368
+msgid "Show cart on header."
+msgstr "Visa kundvagn i rubrik."
+
+#: admin/theme_options.php:1376
+msgid "Show Wishlist"
+msgstr "Visa önskelista"
+
+#: admin/theme_options.php:1377
+msgid "Show wishlist on header."
+msgstr "Visa önskelista i rubriken."
+
+#: admin/theme_options.php:1385
+msgid "Show Campare"
+msgstr "Visa Campare"
+
+#: admin/theme_options.php:1386
+msgid "Show campare on header."
+msgstr "Visa campare på rubrik."
+
+#: admin/theme_options.php:1394
+msgid "Header Services Icon 1"
+msgstr "Header Services Icon 1"
+
+#: admin/theme_options.php:1400
+msgid "Enter Service Title 1."
+msgstr "Ange servicetitel 1."
+
+#: admin/theme_options.php:1406
+msgid "Enter Service Sort Description 1"
+msgstr "Ange tjänst Sortera beskrivning 1"
+
+#: admin/theme_options.php:1412 admin/theme_options.php:1430
+msgid "Header Services Icon 3"
+msgstr "Header Services Icon 3"
+
+#: admin/theme_options.php:1418
+msgid "Enter Service Title 2"
+msgstr "Ange servicetitel 2"
+
+#: admin/theme_options.php:1419 inc/theme-function.php:622 inc/theme-function.php:631
+msgid "Free Shipping"
+msgstr "GRATIS frakt"
+
+#: admin/theme_options.php:1424
+msgid "Enter Service Sort Description 2"
+msgstr "Ange Service Sorter Beskrivning 2"
+
+#: admin/theme_options.php:1425 inc/theme-function.php:623
+msgid "all order over $100."
+msgstr "alla beställningar över $ 100."
+
+#: admin/theme_options.php:1436
+msgid "Enter Service Title 3"
+msgstr "Ange servicetitel 3"
+
+#: admin/theme_options.php:1437 inc/theme-function.php:632
+msgid "Return & Exchange"
+msgstr "Retur och utbyte"
+
+#: admin/theme_options.php:1442
+msgid "Enter Service Sort Description 3"
+msgstr "Ange tjänst Sortera beskrivning 3"
+
+#: admin/theme_options.php:1448
+msgid "Open Categories(Vertical) Menu In Home Page"
+msgstr "Öppna kategorier (vertikal) Meny på hemsidan"
+
+#: admin/theme_options.php:1449
+msgid "Categories(Vertical) menu open in home page. See demo ex. Electronic."
+msgstr "Kategorier (Vertikal) meny öppnas på hemsidan. Se demo ex. Elektronisk."
+
+#: admin/theme_options.php:1450
+msgid "Open"
+msgstr "Öppna"
+
+#: admin/theme_options.php:1451
+msgid "Close"
+msgstr "Stänga"
+
+#: admin/theme_options.php:1457
+msgid "Shopping Categories Title"
+msgstr "Shopping Kategorier Titel"
+
+#: admin/theme_options.php:1473
+msgid "Show Page Heading"
+msgstr "Visa sidrubrik"
+
+#: admin/theme_options.php:1474 admin/theme_options.php:1492 admin/theme_options.php:1513 admin/theme_options.php:1587 admin/theme_options.php:1609 admin/theme_options.php:1904 admin/theme_options.php:2121 admin/theme_options.php:2130 admin/theme_options.php:2277 admin/theme_options.php:2286 admin/theme_options.php:2929 admin/theme_options.php:2939
+#: framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:206 inc/meta-boxes.php:218
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/theme_options.php:1475 admin/theme_options.php:1493 admin/theme_options.php:1514 admin/theme_options.php:1588 admin/theme_options.php:1610 admin/theme_options.php:1905 admin/theme_options.php:2122 admin/theme_options.php:2131 admin/theme_options.php:2278 admin/theme_options.php:2287 admin/theme_options.php:2930 admin/theme_options.php:2940 admin/theme_options.php:3434
+#: framework/meta-box/inc/fields/checkbox.php:85 inc/meta-boxes.php:207 inc/meta-boxes.php:219
+msgid "No"
+msgstr "Nej"
+
+#: admin/theme_options.php:1482
+msgid "Page Heading Layout"
+msgstr "Sidhuvudlayout"
+
+#: admin/theme_options.php:1483
+msgid "Choose Your page heading style/layout."
+msgstr "Välj din sida rubrik stil / layout."
+
+#: admin/theme_options.php:1491 admin/theme_options.php:2781 admin/theme_options.php:3026 admin/theme_options.php:3094
+msgid "Show Page Title"
+msgstr "Visa sidtitel"
+
+#: admin/theme_options.php:1500
+msgid "Show Title In Page Heading Or Page Content"
+msgstr "Visa titel i sidrubrik eller sidinnehåll"
+
+#: admin/theme_options.php:1501
+msgid "Show page title in page heading area or page content area."
+msgstr "Visa sidtitel i sidrubrikområde eller sidinnehållsområde."
+
+#: admin/theme_options.php:1503
+msgid "In  Page Heading"
+msgstr "I sidrubrik"
+
+#: admin/theme_options.php:1504
+msgid "In Page Content"
+msgstr "I sidinnehåll"
+
+#: admin/theme_options.php:1512 admin/theme_options.php:2773 admin/theme_options.php:3018 admin/theme_options.php:3086
+msgid "Show Page Breadcrumb"
+msgstr "Visa sidan Breadcrumb"
+
+#: admin/theme_options.php:1531
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: admin/theme_options.php:1532
+msgid "Choose Your footer style/layout."
+msgstr "Välj din sidfotstil / layout."
+
+#: admin/theme_options.php:1542
+msgid "Select Your Popular Categories"
+msgstr "Välj dina populära kategorier"
+
+#: admin/theme_options.php:1543
+msgid "Select your populare categories and display on footer. But need to be first select footer style third. "
+msgstr "Välj dina populära kategorier och visa på sidfot. Men måste vara första välj footer stil tredje. "
+
+#: admin/theme_options.php:1550
+msgid "Enter copyright text."
+msgstr "Ange upphovsrättstext."
+
+#: admin/theme_options.php:1551
+msgid "&copy; 2017 presslayouts.com. All Rights Reserved."
+msgstr "&kopiera; 2017 presslayouts.com. Alla rättigheter förbehållna."
+
+#: admin/theme_options.php:1556
+msgid "Show Payments Logo"
+msgstr "Visa betalningslogotyp"
+
+#: admin/theme_options.php:1565
+msgid "Payments Logo Image"
+msgstr "Betalningslogotyp Bild"
+
+#: admin/theme_options.php:1567
+msgid "Upload payments logo image."
+msgstr "Ladda upp betalningslogotypen."
+
+#: admin/theme_options.php:1578
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/theme_options.php:1585
+msgid "Manage Password Strength"
+msgstr "Hantera lösenordsstyrka"
+
+#: admin/theme_options.php:1586
+msgid "Reduce the strength requirement on the woocommerce use login/signup password "
+msgstr "Minska styrkravet på löocommerce användarnamn / inloggningslösenord "
+
+#: admin/theme_options.php:1594
+msgid "User Password Strength"
+msgstr "Användarlöshetsstyrka"
+
+#: admin/theme_options.php:1596
+msgid "Strong (default)"
+msgstr "Stark (standard)"
+
+#: admin/theme_options.php:1597
+msgid "Medium"
+msgstr "Medel"
+
+#: admin/theme_options.php:1598
+msgid "Weak"
+msgstr "Svag"
+
+#: admin/theme_options.php:1599
+msgid "Very Weak"
+msgstr "Väldigt svag"
+
+#: admin/theme_options.php:1607
+msgid "Live Search By Product SKU"
+msgstr "Levande sökning efter produkt SKU"
+
+#: admin/theme_options.php:1608
+msgid "Live search by product sku or not."
+msgstr "Live sökning efter produkt sku eller inte."
+
+#: admin/theme_options.php:1616
+msgid "Show Cart Popup"
+msgstr "Visa kundvagn Popup"
+
+#: admin/theme_options.php:1617
+msgid "Show cart popup after added product in cart. "
+msgstr "Visa kundvagns popup efter produkt i kundvagnen. "
+
+#: admin/theme_options.php:1625 framework/woocommerce/template-tags.php:208 framework/woocommerce/template-tags.php:284
+msgid "Login To See Price"
+msgstr "Logga in för att se pris"
+
+#: admin/theme_options.php:1626
+msgid "Show product price after login user. "
+msgstr "Visa produktpris efter användarnamn. "
+
+#: admin/theme_options.php:1634 admin/theme_options.php:2137
+msgid "Show Product Highlight Labels"
+msgstr "Visa produktmärkta etiketter"
+
+#: admin/theme_options.php:1635 admin/theme_options.php:2138
+msgid "Show product highlight labels sale, featured, new and out of stock on product."
+msgstr "Visa produktmarkeringsetiketter försäljning, presenterad, ny och slutsåld på produkt."
+
+#: admin/theme_options.php:1643
+msgid "Show Sale Product Highlight Label"
+msgstr "Visa försäljnings produktmärkningslabel"
+
+#: admin/theme_options.php:1653
+msgid "Show sale product label in percentages or text."
+msgstr "Visa försäljningslabel i procent eller text."
+
+#: admin/theme_options.php:1655
+msgid "Percentages"
+msgstr "procentsatser"
+
+#: admin/theme_options.php:1656 inc/meta-boxes.php:136
+msgid "Text"
+msgstr "Text"
+
+#: admin/theme_options.php:1664
+msgid "Sale product highlight percentages label text."
+msgstr "Försäljningsprodukt markera procentandelar etiketttext."
+
+#: admin/theme_options.php:1671
+msgid "Sale product highlight label text."
+msgstr "Försäljningsprodukt markera etiketttext."
+
+#: admin/theme_options.php:1672 framework/classes/mega-menus.php:547 framework/woocommerce/woo-functions.php:956
+msgid "Sale"
+msgstr "Rea"
+
+#: admin/theme_options.php:1678
+msgid "Sale product highlight label color."
+msgstr "Försäljningsproduktmärke etikettfärg."
+
+#: admin/theme_options.php:1685
+msgid "Show New Product Highlight Label"
+msgstr "Visa ny produkt Markera etikett"
+
+#: admin/theme_options.php:1694
+msgid "New product highlight label text."
+msgstr "Ny produktmarkeringslabeltext."
+
+#: admin/theme_options.php:1695 framework/classes/mega-menus.php:541 framework/woocommerce/woo-functions.php:903
+msgid "New"
+msgstr "Ny"
+
+#: admin/theme_options.php:1701
+msgid "Enter number of days to newness."
+msgstr "Ange antal dagar till nyhet."
+
+#: admin/theme_options.php:1712
+msgid "New product highlight label color."
+msgstr "Ny produktmarkering med etikettfärg."
+
+#: admin/theme_options.php:1719
+msgid "Show Featured Product Highlight Label"
+msgstr "Visa utvalda produkter Markera etikett"
+
+#: admin/theme_options.php:1728
+msgid "Featured product highlight label text."
+msgstr "Utmärkt produktmarkeringslabeltext."
+
+#: admin/theme_options.php:1729 dokan/store-lists-loop.php:24 framework/woocommerce/woo-functions.php:913 inc/template-tags.php:50
+msgid "Featured"
+msgstr "Utvalda"
+
+#: admin/theme_options.php:1735
+msgid "Featured product highlight label color."
+msgstr "Utmärkt produktmarkeringsmärkefärg."
+
+#: admin/theme_options.php:1742
+msgid "Show Out Of Stock Product Highlight Label"
+msgstr "Visa slut i produktens produktmärke"
+
+#: admin/theme_options.php:1751
+msgid "out of stock product highlight label text."
+msgstr "Slutsåld produkt markera etikett text."
+
+#: admin/theme_options.php:1752 framework/woocommerce/woo-functions.php:891
+msgid "Out Of Stock"
+msgstr "Slut i lager"
+
+#: admin/theme_options.php:1758
+msgid "out of stock product highlight label color."
+msgstr "Slutsåld produkt markering etikett färg."
+
+#: admin/theme_options.php:1765
+msgid "Apply opacity on out of stock product."
+msgstr "Applicera opacitet på utesluten produkt."
+
+#: admin/theme_options.php:1781
+msgid "Shop/Category"
+msgstr "Shop / Kategori"
+
+#: admin/theme_options.php:1788
+msgid "Shop Page Layout"
+msgstr "Shop Sidlayout"
+
+#: admin/theme_options.php:1789
+msgid "Select shop page layout with sidebar postion."
+msgstr "Välj butikssidalayout med sidobarställning."
+
+#: admin/theme_options.php:1810
+msgid "Select widget and display in sidebar on shop page."
+msgstr "Välj widget och skärm i sidofältet på butikssidan."
+
+#: admin/theme_options.php:1818
+msgid "Show Banner, Sub Categories & Brands"
+msgstr "Visa banner, underkategorier och varumärken"
+
+#: admin/theme_options.php:1819
+msgid "Show category banner, sub categories and brands on category page."
+msgstr "Visa kategori banner, underkategorier och varumärken på kategorisidan."
+
+#: admin/theme_options.php:1822
+msgid "Category Banner"
+msgstr "Kategori Banner"
+
+#: admin/theme_options.php:1823
+msgid "Sub Category"
+msgstr "Del kategori"
+
+#: admin/theme_options.php:1824
+msgid "Category Brands"
+msgstr "Kategori Varumärken"
+
+#: admin/theme_options.php:1831
+msgid "Sub Categories Style"
+msgstr "Underkategorier Stil"
+
+#: admin/theme_options.php:1832
+msgid "Only Sub Categories"
+msgstr "Endast underkategorier"
+
+#: admin/theme_options.php:1832
+msgid "Sub Categories With Inner"
+msgstr "Underkategorier Med Inner"
+
+#: admin/theme_options.php:1838
+msgid "Show Product Category Description"
+msgstr "Visa produktkategori Beskrivning"
+
+#: admin/theme_options.php:1846
+msgid "Show Product Description Position"
+msgstr "Visa produktbeskrivning Position"
+
+#: admin/theme_options.php:1848 admin/theme_options.php:3495
+msgid "Top"
+msgstr "Topp"
+
+#: admin/theme_options.php:1849 admin/theme_options.php:3496
+msgid "Bottom"
+msgstr "Botten"
+
+#: admin/theme_options.php:1857
+msgid "Product Layout Style"
+msgstr "Produkt Layout Style"
+
+#: admin/theme_options.php:1859
+msgid "Product Style 1"
+msgstr "Produktstil"
+
+#: admin/theme_options.php:1860
+msgid "Product Style 2"
+msgstr "Produktstil"
+
+#: admin/theme_options.php:1861
+msgid "Product Style 3"
+msgstr "Produktstil"
+
+#: admin/theme_options.php:1868
+msgid "Product Image Hover Style"
+msgstr "Produktbild Höger Style"
+
+#: admin/theme_options.php:1869 admin/theme_options.php:1940 admin/theme_options.php:2621 admin/theme_options.php:2813 admin/theme_options.php:2851 inc/customizer.php:92
+msgid "Default"
+msgstr "Default"
+
+#: admin/theme_options.php:1869
+msgid "Image Switch"
+msgstr "Bildomkopplare"
+
+#: admin/theme_options.php:1869
+msgid "Image Auto Play Slider"
+msgstr "Bildautomatikspelare"
+
+#: admin/theme_options.php:1869
+msgid "Image Slider"
+msgstr "Bildreglage"
+
+#: admin/theme_options.php:1875
+msgid "Show Products Per Row"
+msgstr "Visa produkter per rad"
+
+#: admin/theme_options.php:1879
+msgid "6 (In full width)"
+msgstr "6 (i full bredd)"
+
+#: admin/theme_options.php:1886
+msgid "Show Products Per Row In Mobile"
+msgstr "Visa produkter per rad i mobil"
+
+#: admin/theme_options.php:1896
+msgid "Show Number Of Products Per Page"
+msgstr "Visa antal produkter per sida"
+
+#: admin/theme_options.php:1903
+msgid "Show Grid/List View Button"
+msgstr "Visa rutnät / listvysknapp"
+
+#: admin/theme_options.php:1911
+msgid "Enable Product View Style"
+msgstr "Aktivera produktvisningstyp"
+
+#: admin/theme_options.php:1914 admin/theme_options.php:1927
+msgid "Grid"
+msgstr "Rutnät"
+
+#: admin/theme_options.php:1915 admin/theme_options.php:1928
+msgid "Expand Grid"
+msgstr "Expand Grid"
+
+#: admin/theme_options.php:1916 admin/theme_options.php:1929
+msgid "List"
+msgstr "Lista"
+
+#: admin/theme_options.php:1917 admin/theme_options.php:1930
+msgid "Thin List"
+msgstr "Tunn lista"
+
+#: admin/theme_options.php:1925
+msgid "Default Product View Style"
+msgstr "Standard produktvy stil"
+
+#: admin/theme_options.php:1938
+msgid "Products Pagination Style"
+msgstr "Produkter Pagination Style"
+
+#: admin/theme_options.php:1941 admin/theme_options.php:2622 admin/theme_options.php:2852
+msgid "Infinity Scroll"
+msgstr "Infinity Scroll"
+
+#: admin/theme_options.php:1942 admin/theme_options.php:2623 admin/theme_options.php:2853
+msgid "Load More Button"
+msgstr "Ladda mer knappen"
+
+#: admin/theme_options.php:1943 admin/theme_options.php:2624 admin/theme_options.php:2854
+msgid "AJAX Pagination"
+msgstr "AJAX-paginering"
+
+#: admin/theme_options.php:1950 admin/theme_options.php:2631 admin/theme_options.php:2861
+msgid "Load More Button Text"
+msgstr "Ladda mer knapptext"
+
+#: admin/theme_options.php:1956
+msgid "Enable Lazy Load"
+msgstr "Aktivera Lazy Load"
+
+#: admin/theme_options.php:1957
+msgid "Enable lazy load product image."
+msgstr "Aktivera lazy load produktbild."
+
+#: admin/theme_options.php:1965
+msgid "Lazy Load Animation Style"
+msgstr "Lazy Load Animation Style"
+
+#: admin/theme_options.php:1966
+msgid "Different styles of lazy load animation."
+msgstr "Olika stilar av lat belastning animering."
+
+#: admin/theme_options.php:1974
+msgid "Show Products Per Page Dropdown"
+msgstr "Visa produkter per sida Dropdown"
+
+#: admin/theme_options.php:1975
+msgid "Show products per page dropdow on shop page."
+msgstr "Visa produkter per sida dropdow på butikssidan."
+
+#: admin/theme_options.php:1983
+msgid "Show Product Price"
+msgstr "Visa produktpris"
+
+#: admin/theme_options.php:1991 admin/theme_options.php:2190
+msgid "Show Product Rating"
+msgstr "Visa produktbedömning"
+
+#: admin/theme_options.php:1999
+msgid "Show Product Buttons"
+msgstr "Visa produktknappar"
+
+#: admin/theme_options.php:2000
+msgid "Show product buttons cart, wishlist, compare, quick view etc."
+msgstr "Visa produktknappar kundvagn, önskelista, jämförelse, snabbvisning etc."
+
+#: admin/theme_options.php:2008
+msgid "Show Cart Button"
+msgstr "Visa varuknapp"
+
+#: admin/theme_options.php:2017
+msgid "Show Wishlist Button"
+msgstr "Visa önskad knapp"
+
+#: admin/theme_options.php:2026
+msgid "Show Compare Button"
+msgstr "Visa Jämför knapp"
+
+#: admin/theme_options.php:2035
+msgid "Show Quick View Button"
+msgstr "Visa snabbvisningsknapp"
+
+#: admin/theme_options.php:2044
+msgid "Show short Description"
+msgstr "Visa kort beskrivning"
+
+#: admin/theme_options.php:2052
+msgid "Show Product Variation(Options)"
+msgstr "Visa produktvariation (alternativ)"
+
+#: admin/theme_options.php:2053
+msgid "Show product variation(attribute) on product hover. Like Color, Size, ..."
+msgstr "Visa produktvariation (attribut) på produkthävaren. Gilla färg, storlek, ..."
+
+#: admin/theme_options.php:2065
+msgid "Single Product"
+msgstr "Single product"
+
+#: admin/theme_options.php:2072
+msgid "Single Product Page Layout"
+msgstr "Enkel produktsidorlayout"
+
+#: admin/theme_options.php:2073
+msgid "Select product page layout with sidebar postion."
+msgstr "Välj produktsidayout med sidobarställning."
+
+#: admin/theme_options.php:2102 admin/theme_options.php:2341 admin/theme_options.php:2483 admin/theme_options.php:2765 admin/theme_options.php:3077
+msgid "Select Sidebar Widget Area"
+msgstr "Välj Sidpanel Widget Area"
+
+#: admin/theme_options.php:2103
+msgid "Select widget and display in sidebar on single product page."
+msgstr "Välj widget och bildskärm i sidofältet på en produktsida."
+
+#: admin/theme_options.php:2111
+msgid "Product Image Zoom"
+msgstr "Produktbildszoom"
+
+#: admin/theme_options.php:2119
+msgid "Sticky Product Image Part"
+msgstr "Klibbig produktbildsdel"
+
+#: admin/theme_options.php:2120
+msgid "When you scroll the product page at this time you want to stick product image part or not."
+msgstr "När du bläddrar på produktsidan vid den här tiden vill du hålla en produktbildsdel eller inte."
+
+#: admin/theme_options.php:2128
+msgid "Sticky Product Summary Part"
+msgstr "Klibbig produktsammanfattning del"
+
+#: admin/theme_options.php:2129
+msgid "When you scroll the product page at this time you want to stick product summary part or not."
+msgstr "När du bläddrar produktsidan vid den här tiden vill du hålla en produktsammanträdesdel eller inte."
+
+#: admin/theme_options.php:2146
+msgid "Show Product Highlight Label Sale"
+msgstr "Visa produktmärke på etikettförsäljning"
+
+#: admin/theme_options.php:2155
+msgid "Show Product Highlight Label Featured"
+msgstr "Visa produktmarkeringsmärke utvalda"
+
+#: admin/theme_options.php:2164
+msgid "Show Product Highlight Label New"
+msgstr "Visa produkt Markera etikett Ny"
+
+#: admin/theme_options.php:2173
+msgid "Show Product Highlight Label Out Of Stock"
+msgstr "Visa produkt markera etikett ur lager"
+
+#: admin/theme_options.php:2182
+msgid "Show Product Next/Previous Navigation"
+msgstr "Visa produkt nästa / föregående navigering"
+
+#: admin/theme_options.php:2198
+msgid "Show Product CountDown"
+msgstr "Visa Produkt CountDown"
+
+#: admin/theme_options.php:2206
+msgid "Show Size Guide"
+msgstr "Visa Storleksguide"
+
+#: admin/theme_options.php:2215
+msgid "Choose Size Guide Image"
+msgstr "Välj Storleksguide Bild"
+
+#: admin/theme_options.php:2223
+msgid "Show Product Meta"
+msgstr "Visa produkt Meta"
+
+#: admin/theme_options.php:2224
+msgid "Show or hide product brand, category, tag, etc..."
+msgstr "Visa eller dölj produktmärke, kategori, tagg, etc ..."
+
+#: admin/theme_options.php:2232
+msgid "Show Specific Product Meta"
+msgstr "Visa specifik produkt Meta"
+
+#: admin/theme_options.php:2235
+msgid "Brand"
+msgstr "Märke"
+
+#: admin/theme_options.php:2236
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/theme_options.php:2237 single-portfolio.php:87
+msgid "Category"
+msgstr "Kategori"
+
+#: admin/theme_options.php:2238
+msgid "Tag"
+msgstr "Märka"
+
+#: admin/theme_options.php:2246
+msgid "Show Related Products"
+msgstr "Visa relaterade produkter"
+
+#: admin/theme_options.php:2254
+msgid "Show Up Sell Products"
+msgstr "Visa upp Sälj Produkter"
+
+#: admin/theme_options.php:2262
+msgid "Show Number Of Related/Up Sell Products"
+msgstr "Visa Antal Relaterade / Upp Sälj Produkter"
+
+#: admin/theme_options.php:2269
+msgid "Select Related/Up Sell Products Show Per Row"
+msgstr "Välj Relaterade / Upp Sälj Produkter Visa Per Rad"
+
+#: admin/theme_options.php:2276 admin/theme_options.php:2684 admin/theme_options.php:2928
+msgid "Enable Carousel Autoplay Mode"
+msgstr "Aktivera autoplay-läge för karusell"
+
+#: admin/theme_options.php:2284 admin/theme_options.php:2937
+msgid "Enables Carousel Inifnity Loop"
+msgstr "Aktiverar Carousel Inifnity Loop"
+
+#: admin/theme_options.php:2285
+msgid "Enables related/up sell products carousel Inifnity loop. Duplicate last and first products to get loop illusion."
+msgstr "Aktiverar relaterade / uppförsälja produkter karusell Inifnity loop. Duplicera senaste och första produkterna för att få loop-illusion."
+
+#: admin/theme_options.php:2293 admin/theme_options.php:2693 admin/theme_options.php:2947
+msgid "Show Carousel Navigation"
+msgstr "Visa karusellnavigering"
+
+#: admin/theme_options.php:2301 admin/theme_options.php:2956
+msgid "Show Carousel Dots Navigation"
+msgstr "Visa Carousel Dots Navigation"
+
+#: admin/theme_options.php:2313
+msgid "Dokan"
+msgstr "Dokan"
+
+#: admin/theme_options.php:2320
+msgid "Dokan Store Page Layout"
+msgstr "Dokan Store Page Layout"
+
+#: admin/theme_options.php:2321
+msgid "Select dokan store page layout with sidebar postion."
+msgstr "Välj dokan butikssida layout med sidoställning."
+
+#: admin/theme_options.php:2342
+msgid "Select widget area and display in sidebar on dokan store page."
+msgstr "Välj widgetområdet och visa i sidofältet på dokan butikssida."
+
+#: admin/theme_options.php:2354
+msgid "WC Vendors"
+msgstr "Toaletthandlare"
+
+#: admin/theme_options.php:2361
+msgid "Show Sold By Label"
+msgstr "Visa såld enligt etikett"
+
+#: admin/theme_options.php:2362
+msgid "Show sold by label or not on product."
+msgstr "Visa säljs per etikett eller ej på produkt."
+
+#: admin/theme_options.php:2374 content-page.php:33 content.php:62 image.php:62 page.php:52
+msgid "Page"
+msgstr "Sida"
+
+#: admin/theme_options.php:2381
+msgid "Show Page Comment"
+msgstr "Visa sidkommentar"
+
+#: admin/theme_options.php:2382
+msgid "Show page comments and comment form or not."
+msgstr "Visa sidkommentarer och kommentarformulär eller inte."
+
+#: admin/theme_options.php:2394 inc/meta-boxes.php:242 inc/meta-boxes.php:284
+msgid "Sidebar Widget"
+msgstr "Sidofält Widget"
+
+#: admin/theme_options.php:2401
+msgid "Enable Widget Toggle"
+msgstr "Aktivera Widget Switch"
+
+#: admin/theme_options.php:2402
+msgid "Enable page widget toggle or not."
+msgstr "Aktivera sid widgeten växla eller inte."
+
+#: admin/theme_options.php:2410
+msgid "Enable Widget Menu Toggle"
+msgstr "Aktivera Widget Meny Växla"
+
+#: admin/theme_options.php:2411
+msgid "Enable page widget menu toggle or not."
+msgstr "Aktivera sidmatningsmenyn växla eller inte."
+
+#: admin/theme_options.php:2419
+msgid "Enable Widget Items Hide"
+msgstr "Aktivera Widget Items Hide"
+
+#: admin/theme_options.php:2420
+msgid "Enable widget items hide max limit."
+msgstr "Aktivera widgetobjekt gömma maxgräns."
+
+#: admin/theme_options.php:2428
+msgid "Show Number Of Widget Items"
+msgstr "Visa antal widgetar"
+
+#: admin/theme_options.php:2443
+msgid "Blog"
+msgstr "Blogg"
+
+#: admin/theme_options.php:2455
+msgid "Blog/Archive Page"
+msgstr "Blogg / Arkivsida"
+
+#: admin/theme_options.php:2462
+msgid "Select Blog Page Layout"
+msgstr "Välj blogg sidlayout"
+
+#: admin/theme_options.php:2463
+msgid "Select blog/archive page layout with sidebar postion."
+msgstr "Välj blogg / arkivsidayout med sidobarstolpe."
+
+#: admin/theme_options.php:2491
+msgid "Show Blog Page Breadcrumb"
+msgstr "Visa Blog Page Breadcrumb"
+
+#: admin/theme_options.php:2499
+msgid "Show Blog Page Title"
+msgstr "Visa bloggsida Titel"
+
+#: admin/theme_options.php:2507
+msgid "Select Blog Style"
+msgstr "Välj Bloggstil"
+
+#: admin/theme_options.php:2508
+msgid "Large Image"
+msgstr "Stor bild"
+
+#: admin/theme_options.php:2508
+msgid "Small Image"
+msgstr "Liten bild"
+
+#: admin/theme_options.php:2508
+msgid "Grid Column (Masonry Grid)"
+msgstr "Grid Column (Masonry Grid)"
+
+#: admin/theme_options.php:2514 admin/theme_options.php:2534
+msgid "Select Blog Grid Columns"
+msgstr "Välj Blog Grid Columns"
+
+#: admin/theme_options.php:2515 admin/theme_options.php:2535
+msgid "Show blog grid column of the post/blog page. Column option apply only on above masorny grid column option."
+msgstr "Visa bloggruten kolumn på posten / blogg sidan. Kolumnalternativ gäller endast ovanstående alternativ för masorny rutnät."
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2828 admin/theme_options.php:3036
+msgid "2 Columns"
+msgstr "2 kolumner"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:2829 admin/theme_options.php:3037
+msgid "3 Columns"
+msgstr "6 kolumner"
+
+#: admin/theme_options.php:2516 admin/theme_options.php:2536 admin/theme_options.php:3038
+msgid "4 Columns (In Full Width)"
+msgstr "4 kolumner (i full bredd)"
+
+#: admin/theme_options.php:2523
+msgid "Show Post Per Page"
+msgstr "Visa inlägg per sida"
+
+#: admin/theme_options.php:2524
+msgid "Show number of post per page."
+msgstr "Visa antal poster per sida."
+
+#: admin/theme_options.php:2543
+msgid "Show Blogs Thumbnail"
+msgstr "Visa bloggminne"
+
+#: admin/theme_options.php:2544
+msgid "Show blogs thumbnail or not."
+msgstr "Visa bloggminne eller inte."
+
+#: admin/theme_options.php:2552
+msgid "Show Blogs Date"
+msgstr "Visa bloggdatum"
+
+#: admin/theme_options.php:2560
+msgid "Show Blogs Meta"
+msgstr "Visa bloggar Meta"
+
+#: admin/theme_options.php:2568
+msgid "Show Specific Post Meta"
+msgstr "Visa specifikt inlägg Meta"
+
+#: admin/theme_options.php:2571
+msgid "Post Format"
+msgstr "Postformat"
+
+#: admin/theme_options.php:2572
+msgid "Post Author"
+msgstr "Postförfattare"
+
+#: admin/theme_options.php:2573
+msgid "Post Cats"
+msgstr "Postkatter"
+
+#: admin/theme_options.php:2574
+msgid "Post Tags"
+msgstr "Inläggstaggar"
+
+#: admin/theme_options.php:2575
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: admin/theme_options.php:2584
+msgid "Show Excerpt"
+msgstr "Visa utdrag"
+
+#: admin/theme_options.php:2592
+msgid "Excerpt Length (words)"
+msgstr "Utdragslängd (ord)"
+
+#: admin/theme_options.php:2593
+msgid "Show blogs listing content length (words)."
+msgstr "Visa bloggar som listar innehållslängd (ord)."
+
+#: admin/theme_options.php:2604
+msgid "Show Read More Button"
+msgstr "Visa läs mer knapp"
+
+#: admin/theme_options.php:2612
+msgid "Read More Button Text"
+msgstr "Läs mer knapptext"
+
+#: admin/theme_options.php:2613 admin/theme_options.php:3377
+msgid "Read more"
+msgstr "Läs mer"
+
+#: admin/theme_options.php:2619
+msgid "Select Pagination Style Of Blog Page"
+msgstr "Välj Pagination Style Of Blog Page"
+
+#: admin/theme_options.php:2632 admin/theme_options.php:2862 inc/theme-function.php:1341 inc/theme-function.php:1392
+msgid "Load More"
+msgstr "Ladda mer"
+
+#: admin/theme_options.php:2643
+msgid "Single Post"
+msgstr "Enkel inlägg"
+
+#: admin/theme_options.php:2650
+msgid "Show Post Thumbnail"
+msgstr "Visa inlägg Miniatyrbild"
+
+#: admin/theme_options.php:2651
+msgid "Show post thumbnail or not."
+msgstr "Visa post thumbnail eller inte."
+
+#: admin/theme_options.php:2659
+msgid "Show Post Navigation"
+msgstr "Visa inläggsnavigering"
+
+#: admin/theme_options.php:2667
+msgid "Show Related Post"
+msgstr "Visa relaterad post"
+
+#: admin/theme_options.php:2675
+msgid "Show Post Per Row"
+msgstr "Visa inlägg per rad"
+
+#: admin/theme_options.php:2676
+msgid "Show number of post per row."
+msgstr "Visa antal poster per rad."
+
+#: admin/theme_options.php:2702
+msgid "Enable Carousel loop"
+msgstr "Aktivera karusellslingan"
+
+#: admin/theme_options.php:2703
+msgid "Enable blog carousel continue loop."
+msgstr "Aktivera bloggkarusell fortsättningsslinga."
+
+#: admin/theme_options.php:2712
+msgid "Show Post Comment"
+msgstr "Visa inlägg"
+
+#: admin/theme_options.php:2713
+msgid "Show post comments and comment form or not."
+msgstr "Visa inläggets kommentarer och kommentarformulär eller inte."
+
+#: admin/theme_options.php:2725
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: admin/theme_options.php:2737
+msgid "Portfolio Archive"
+msgstr "Portföljarkiv"
+
+#: admin/theme_options.php:2744
+msgid "Select Archive Page Layout"
+msgstr "Välj Arkiv Sidlayout"
+
+#: admin/theme_options.php:2745
+msgid "Select portfolio archive page layout with sidebar postion."
+msgstr "Välj sidans layout för portföljarkiv med sidoställning."
+
+#: admin/theme_options.php:2789
+msgid "Portfolio Listing Style"
+msgstr "Portföljförteckningsstil"
+
+#: admin/theme_options.php:2791
+msgid "Portfolio Grid"
+msgstr "Portfolio Grid"
+
+#: admin/theme_options.php:2799
+msgid "Portfolio Grid Style"
+msgstr "Portfolio Grid Style"
+
+#: admin/theme_options.php:2801
+msgid "Normal Grid"
+msgstr "Normal rutnät"
+
+#: admin/theme_options.php:2802
+msgid "Masonry Grid"
+msgstr "Masonry Grid"
+
+#: admin/theme_options.php:2810
+msgid "Grid Hover Effect"
+msgstr "Grid Hover Effect"
+
+#: admin/theme_options.php:2811
+msgid "Select portfolio grid hover effect."
+msgstr "Välj portföljerhuvud effekt."
+
+#: admin/theme_options.php:2814
+msgid "Effect 2"
+msgstr "EFFEKT:"
+
+#: admin/theme_options.php:2815
+msgid "Effect 3"
+msgstr "EFFEKT:"
+
+#: admin/theme_options.php:2816
+msgid "Effect 4"
+msgstr "EFFEKT:"
+
+#: admin/theme_options.php:2817
+msgid "Effect 5"
+msgstr "EFFEKT:"
+
+#: admin/theme_options.php:2825
+msgid "Select Portfolio Columns"
+msgstr "Välj Portföljkolumner"
+
+#: admin/theme_options.php:2827
+msgid "1 Column"
+msgstr "1 kolumn"
+
+#: admin/theme_options.php:2830
+msgid "4 Columns"
+msgstr "6 kolumner"
+
+#: admin/theme_options.php:2838
+msgid "Show Portfolio Per Page"
+msgstr "Visa portfölj per sida"
+
+#: admin/theme_options.php:2839
+msgid "Show number of portfolio per page."
+msgstr "Visa antal portfölj per sida."
+
+#: admin/theme_options.php:2849
+msgid "Pagination Type"
+msgstr "Paginationstyp"
+
+#: admin/theme_options.php:2872
+msgid "Single Portfolio"
+msgstr "Enda portfölj"
+
+#: admin/theme_options.php:2879
+msgid "Show Project Navigation"
+msgstr "Visa projektnavigering"
+
+#: admin/theme_options.php:2887
+msgid "Show Project Informations"
+msgstr "Visa projektinformation"
+
+#: admin/theme_options.php:2895 admin/theme_options.php:3243
+msgid "Show Social Share Links"
+msgstr "Visa sociala dela länkar"
+
+#: admin/theme_options.php:2903
+msgid "Show Related Projects"
+msgstr "Visa relaterade projekt"
+
+#: admin/theme_options.php:2911
+msgid "Show Number Of Projects"
+msgstr "Visa antal projekt"
+
+#: admin/theme_options.php:2912
+msgid "Show number of related projects"
+msgstr "Visa antal relaterade projekt"
+
+#: admin/theme_options.php:2920
+msgid "Show Projects Per Row"
+msgstr "Visa projekt per rad"
+
+#: admin/theme_options.php:2938
+msgid "Enables portfolios carousel Inifnity loop. Duplicate last and first projects to get loop illusion."
+msgstr "Aktiverar portföljer karusell Inifnity loop. Duplicera senaste och första projekt för att få loop-illusion."
+
+#: admin/theme_options.php:2969
+msgid "Testimonial"
+msgstr "Omdöme"
+
+#: admin/theme_options.php:2981
+msgid "Testimonial Archive"
+msgstr "Testimonial Archive"
+
+#: admin/theme_options.php:2988 admin/theme_options.php:3056
+msgid "Select Page Layout"
+msgstr "Välj sidlayout"
+
+#: admin/theme_options.php:2989 admin/theme_options.php:3057
+msgid "Select page layout with sidebar postion."
+msgstr "Välj sidlayout med sidoställning."
+
+#: admin/theme_options.php:3010
+msgid "Select widget display in sidebar on testimonial archive page."
+msgstr "Välj widgetdisplay i sidofältet på test arkivsidan."
+
+#: admin/theme_options.php:3034
+msgid "Select Testimonial Column"
+msgstr "Välj Testimonial Column"
+
+#: admin/theme_options.php:3049
+msgid "Single Testimonial"
+msgstr "Enkelt testimonial"
+
+#: admin/theme_options.php:3078
+msgid "Select widget display in sidebar on testimonial page."
+msgstr "Välj widgetdisplay i sidofältet på testsidans sida."
+
+#: admin/theme_options.php:3106
+msgid "404 Page"
+msgstr "404 Sida"
+
+#: admin/theme_options.php:3113
+msgid "Use Text Or Image"
+msgstr "Använd text eller bild"
+
+#: admin/theme_options.php:3114
+msgid "What a show on 404 page? Text or Image."
+msgstr "Vilken show på 404 sida? Text eller bild."
+
+#: admin/theme_options.php:3124
+msgid "404 Page Title"
+msgstr "Sidtitel"
+
+#: admin/theme_options.php:3131
+msgid "Show Previous Page Link"
+msgstr "Visa tidigare sidlänk"
+
+#: admin/theme_options.php:3140
+msgid "404 Page Tag Line"
+msgstr "404 Sidomärkningsrad"
+
+#: admin/theme_options.php:3147
+msgid "Previous Page Link Title"
+msgstr "Föregående sidlänk Titel"
+
+#: admin/theme_options.php:3155
+msgid "404 Page Image"
+msgstr "404 Sidbild"
+
+#: admin/theme_options.php:3157
+msgid "Upload 404 page image and show on 404 page."
+msgstr "Ladda upp 404 sidbild och visa på 404 sida."
+
+#: admin/theme_options.php:3168
+msgid "Social Link/Share"
+msgstr "Social Link / Share"
+
+#: admin/theme_options.php:3176
+msgid "Show or Hide Social link Icon on Header And Footer"
+msgstr "Visa eller dölj sociala länk Ikon på rubrik och sidfot"
+
+#: admin/theme_options.php:3181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/theme_options.php:3182
+msgid "Enter your custom link to show the facebook icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa facebook-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3188
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/theme_options.php:3189
+msgid "Enter your custom link to show the twitter icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa twitter-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3195
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/theme_options.php:3196
+msgid "Enter your custom link to show the instagram icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa instagramikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3202
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/theme_options.php:3203
+msgid "Enter your custom link to show the linkedin icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa ikonen linkedin. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3209
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/theme_options.php:3210
+msgid "Enter your custom link to show the flickr icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa flickr-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3216
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/theme_options.php:3217
+msgid "Enter your custom link to show the google plus icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa google plus-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3223
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/theme_options.php:3224
+msgid "Enter your custom link to show the rss icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa rss-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3230
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme_options.php:3231
+msgid "Enter your custom link to show the pinterest icon. Leave blank to hide icon."
+msgstr "Ange din anpassade länk för att visa pinterest-ikonen. Lämna tomt för att dölja ikonen."
+
+#: admin/theme_options.php:3238
+msgid "Show or Hide Social Sharing Icon on Product, Post and Portfolio"
+msgstr "Visa eller dölj sociala delningsikon på produkt, post och portfölj"
+
+#: admin/theme_options.php:3251
+msgid "Social Sharing Style"
+msgstr "Social delning stil"
+
+#: admin/theme_options.php:3253
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: admin/theme_options.php:3254
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: admin/theme_options.php:3262
+msgid "Facebook Icon"
+msgstr "Facebook-ikon"
+
+#: admin/theme_options.php:3271
+msgid "Twitter Icon"
+msgstr "Twitter-ikon"
+
+#: admin/theme_options.php:3280
+msgid "Linkedin Icon"
+msgstr "Linkedin Ikon"
+
+#: admin/theme_options.php:3289
+msgid "Google Plus Icon"
+msgstr "Google Plus-ikonen"
+
+#: admin/theme_options.php:3298
+msgid "StumbleUpon Icon"
+msgstr "StumbleUpon Icon"
+
+#: admin/theme_options.php:3307
+msgid "Pinterest Icon"
+msgstr "Pinterest Icon"
+
+#: admin/theme_options.php:3316
+msgid "Tumblr Icon"
+msgstr "Tumblr Ikon"
+
+#: admin/theme_options.php:3329
+msgid "Cookie Notice"
+msgstr "Cookie Notice"
+
+#: admin/theme_options.php:3336
+msgid "Cookie Enable or Disable."
+msgstr "Cookie Aktivera eller inaktivera."
+
+#: admin/theme_options.php:3339
+msgid "Cookie notice enable or disable in your site."
+msgstr "Meddelande om kakor aktiverar eller inaktiverar på din webbplats."
+
+#: admin/theme_options.php:3346
+msgid "Enter the cookie title/name."
+msgstr "Ange kaketitel / namn."
+
+#: admin/theme_options.php:3347
+msgid "Cookies Notice"
+msgstr "Kakor Meddelande"
+
+#: admin/theme_options.php:3352
+msgid "Message"
+msgstr "Meddelande"
+
+#: admin/theme_options.php:3353
+msgid "Enter the cookie notice message."
+msgstr "Ange meddelandet om cookiemeddelandet."
+
+#: admin/theme_options.php:3354
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "Vi använder cookies för att säkerställa att vi ger dig den bästa upplevelsen på vår hemsida. Om du fortsätter att använda den här webbplatsen antar vi att du är nöjd med det."
+
+#: admin/theme_options.php:3359
+msgid "Button text"
+msgstr "Knapptext"
+
+#: admin/theme_options.php:3360
+msgid "The text of the option to accept the usage of the cookies and make the notification disappear."
+msgstr "Texten på alternativet att acceptera användningen av cookies och göra anmälan försvunnen."
+
+#: admin/theme_options.php:3361
+msgid "Yes, I'm Accept"
+msgstr "Ja, jag accepterar"
+
+#: admin/theme_options.php:3366
+msgid "More info link"
+msgstr "Mer info länk"
+
+#: admin/theme_options.php:3369
+msgid "Enable Read more link."
+msgstr "Aktivera Läs mer länk."
+
+#: admin/theme_options.php:3376
+msgid "The text of the more info button."
+msgstr "Texten på mer info-knappen."
+
+#: admin/theme_options.php:3384
+msgid "Select where to redirect user for more information about cookies."
+msgstr "Välj var du ska omdirigera användaren för mer information om cookies."
+
+#: admin/theme_options.php:3386
+msgid "Custom link"
+msgstr "Anpassad länk:"
+
+#: admin/theme_options.php:3387
+msgid "Page link"
+msgstr "Sidlänk"
+
+#: admin/theme_options.php:3396
+msgid "Enter the full URL starting with http://"
+msgstr "Ange hela webbadressen som börjar med http: //"
+
+#: admin/theme_options.php:3406
+msgid "Select from one of your site's pages"
+msgstr "Välj från en sidas sidor på din webbplats"
+
+#: admin/theme_options.php:3412
+msgid "Link target"
+msgstr "Länkmål"
+
+#: admin/theme_options.php:3413 admin/theme_options.php:3466
+msgid "Select the link target for more info page."
+msgstr "Välj länkmålet för mer info sida."
+
+#: admin/theme_options.php:3423
+msgid "Refuse button"
+msgstr "Nollknapp"
+
+#: admin/theme_options.php:3426
+msgid "Give to the user the possibility to refuse third party non functional cookies."
+msgstr "Ge användaren möjlighet att vägra icke-funktionella cookies från tredje part."
+
+#: admin/theme_options.php:3433
+msgid "The text of the option to refuse the usage of the cookies. To get the cookie notice status use emallshop_cn_cookies_accepted() function."
+msgstr "Texten på alternativet att vägra användningen av cookies. För att få meddelandet status cookie använda emallshop_cn_cookies_accepted () funktionen."
+
+#: admin/theme_options.php:3441
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs). It will be used after cookies are accepted."
+msgstr "Ange icke-funktionella cookies Javascript-kod här (till exempel Google Analitycs). Den kommer att användas efter att cookies har accepterats."
+
+#: admin/theme_options.php:3448
+msgid "On scroll"
+msgstr "På rullning"
+
+#: admin/theme_options.php:3451
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr "Aktivera godkännande av cookiemeddelanden när användarna bläddrar."
+
+#: admin/theme_options.php:3458
+msgid "Number of pixels user has to scroll to accept the usage of the cookies and make the notification disappear."
+msgstr "Antal pixlar användare måste bläddra för att acceptera användningen av kakorna och göra anmälan försvunnen."
+
+#: admin/theme_options.php:3465
+msgid "Cookie expiry"
+msgstr "Cookieutgången"
+
+#: admin/theme_options.php:3468
+msgid "1 day"
+msgstr "dag"
+
+#: admin/theme_options.php:3469
+msgid "1 week"
+msgstr "1vecka;"
+
+#: admin/theme_options.php:3470
+msgid "1 month"
+msgstr "Månad"
+
+#: admin/theme_options.php:3471
+msgid "3 months"
+msgstr "3 månader"
+
+#: admin/theme_options.php:3472
+msgid "6 months"
+msgstr "6 månader"
+
+#: admin/theme_options.php:3473
+msgid "1 year"
+msgstr "- År"
+
+#: admin/theme_options.php:3474
+msgid "infinity"
+msgstr "oändlighet"
+
+#: admin/theme_options.php:3481
+msgid "Script placement"
+msgstr "Script placering"
+
+#: admin/theme_options.php:3482
+msgid "Select where all the plugin scripts should be placed."
+msgstr "Välj var alla pluginskript ska placeras."
+
+#: admin/theme_options.php:3492
+msgid "Position"
+msgstr "Position"
+
+#: admin/theme_options.php:3493
+msgid "Select location for your cookie notice."
+msgstr "Välj plats för ditt meddelande om cookie."
+
+#: admin/theme_options.php:3503
+msgid "Cookie Style"
+msgstr "Cookie Style"
+
+#: admin/theme_options.php:3504
+msgid "Select style of cookie notice on bottom."
+msgstr "Välj typ av cookiemeddelande på botten."
+
+#: admin/theme_options.php:3506
+msgid "Bar"
+msgstr "Bar"
+
+#: admin/theme_options.php:3507
+msgid "Box"
+msgstr "Låda"
+
+#: admin/theme_options.php:3521
+msgid "Bar Background Color"
+msgstr "Bar bakgrundsfärg"
+
+#: admin/theme_options.php:3531 templates/footer/footer-2.php:16
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: admin/theme_options.php:3538
+msgid "Newsletter Enable or Disable."
+msgstr "Nyhetsbrev Aktivera eller inaktivera."
+
+#: admin/theme_options.php:3541
+msgid "Newsletter popup enable or disable in your site."
+msgstr "Nyhetsbrev popup aktivera eller inaktivera på din webbplats."
+
+#: admin/theme_options.php:3548
+msgid "Newsletter Logo"
+msgstr "Nyhetsbrevlogotyp"
+
+#: admin/theme_options.php:3550
+msgid "Upload newsletter logo."
+msgstr "Ladda upp nyhetsbrevlogotyp."
+
+#: admin/theme_options.php:3557
+msgid "Newsletter Title"
+msgstr "Nyhetsbrev Titel"
+
+#: admin/theme_options.php:3558
+msgid "Join Us Now!"
+msgstr "Gå med nu!"
+
+#: admin/theme_options.php:3564
+msgid "Newsletter Tag Line"
+msgstr "Nyhetsbrev Tag Line"
+
+#: admin/theme_options.php:3565
+msgid "Signup today for free and be the first to hear of special promotions, new arrivals and designer news."
+msgstr "Registrera dig idag gratis och var den första att höra om speciella kampanjer, nykomlingar och designernyheter."
+
+#: admin/theme_options.php:3571
+msgid "Newsletter Don't Show Msg"
+msgstr "Nyhetsbrev Visa inte meddelanden"
+
+#: admin/theme_options.php:3572
+msgid "Don't show this popup again"
+msgstr "Visa inte popupen igen"
+
+#: admin/theme_options.php:3579
+msgid "Newsletter background with image, color, etc."
+msgstr "Nyhetsbrev bakgrund med bild, färg, etc."
+
+#: admin/theme_options.php:3593
+msgid "Newsletter Color"
+msgstr "Nyhetsbrev Färg"
+
+#: admin/theme_options.php:3600
+msgid "Newsletter Button Color"
+msgstr "Nyhetsbrev Knapp Färg"
+
+#: admin/theme_options.php:3611
+msgid "Advanced"
+msgstr "Avancerad"
+
+#: admin/theme_options.php:3618
+msgid "Site Loader Enable or Disable."
+msgstr "Site Loader Aktivera eller inaktivera."
+
+#: admin/theme_options.php:3621
+msgid "Site loader enable or disable in your site."
+msgstr "Webbläsaren aktiverar eller inaktiverar på din webbplats."
+
+#: admin/theme_options.php:3627
+msgid "Site Loading Image"
+msgstr "Webbplats Laddar bild"
+
+#: admin/theme_options.php:3628
+msgid "Choose one of the pre-defined Loading Image or choose custom one."
+msgstr "Välj en av de fördefinierade Laddar bilden eller välj anpassad en."
+
+#: admin/theme_options.php:3639
+msgid "Site Loader Image"
+msgstr "Site Loader Image"
+
+#: admin/theme_options.php:3657
+msgid "Choose your Loading Image"
+msgstr "Välj din Laddar bild"
+
+#: admin/theme_options.php:3659
+msgid "Choose your own loading image."
+msgstr "Välj din egen laddningsbild."
+
+#: admin/theme_options.php:3666
+msgid "Pagination Loading Image"
+msgstr "Paginering Laddar bild"
+
+#: admin/theme_options.php:3694
+msgid "Image Lazy Load Enable or Disable."
+msgstr "Bild Lazy Load Aktivera eller inaktivera."
+
+#: admin/theme_options.php:3702
+msgid "Lazy Loading Image"
+msgstr "Lazy Loading Image"
+
+#: admin/theme_options.php:3703
+msgid "Choose one of the pre-defined lazy Loading Image or choose custom one."
+msgstr "Välj en av de fördefinierade lata Laddar bilden eller välj anpassad en."
+
+#: admin/theme_options.php:3714
+msgid "Lazy loading Image"
+msgstr "Lazy Loading Image"
+
+#: admin/theme_options.php:3737
+msgid "Choose Your Lazy Loading Image"
+msgstr "Välj din lata Laddar bild"
+
+#: admin/theme_options.php:3739
+msgid "Choose your own lazy loding background image."
+msgstr "Välj din egen lat bakgrundsbild."
+
+#: admin/theme_options.php:3750
+msgid "Custom Code"
+msgstr "Anpassad kod"
+
+#: admin/theme_options.php:3757
+msgid "CSS Code"
+msgstr "CSS-kod"
+
+#: admin/theme_options.php:3758
+msgid "Paste your CSS code here."
+msgstr "Klistra in din CSS-kod här."
+
+#: admin/theme_options.php:3767
+msgid "JS Code"
+msgstr "JS-kod"
+
+#: admin/theme_options.php:3768
+msgid "Paste your JS code here."
+msgstr "Klistra in din JS-kod här."
+
+#: admin/theme_options.php:3781
+msgid "Import Demo"
+msgstr "Importera demo"
+
+#: admin/theme_options.php:3788
+msgid "Import Demo Data"
+msgstr "Importera demodata"
+
+#: admin/theme_options.php:3789
+msgid "Importing demo content will copy sliders, widget, theme options, products data, posts, pages and portfolio posts, this will replicate the live demo. <br>The Demo Importer will not import the images we have used in our live demos, due to copyright / license reasons. <br>Choose any one preset layout and click on it thumb image. It can also take a minute to complete."
+msgstr "Importera demoinnehåll kommer att kopiera reglage, widget, tematillval, produktdata, inlägg, sidor och portföljposter, detta kommer att replikera live demo. <br> Demo Importer kommer inte importera bilderna som vi har använt i våra live demos på grund av upphovsrätt / licens skäl. <br> Välj en förinställd layout och klicka på den tummen bild. Det kan också ta en minut att slutföra."
+
+#: admin/theme_options.php:3797
+msgid "Choose Preset"
+msgstr "Välj Förinställd"
+
+#: admin/theme_options.php:3884
+msgid "Section via hook"
+msgstr "Sektion via krok"
+
+#: admin/theme_options.php:3885
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr "<p class = \"beskrivning\"> Detta är ett snitt som skapas genom att lägga till ett filter till sektioner arrayen. Kan användas av barn teman för att lägga till / ta bort sektioner bland alternativen. </p>“"
+
+#: archive-portfolio.php:58 framework/woocommerce/woo-functions.php:552 taxonomy-portfolio_cat.php:59 taxonomy-portfolio_skills.php:58
+msgid "Show All"
+msgstr "Visa alla"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Publicerad av"
+
+#: author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid ""
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar för att publicera ditt första inlägg? <a href=\"%1$s\"> Kom igång här </a>."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr, men inget matchade dina söktermer. Försök igen med några olika sökord."
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som vi inte kan hitta det du söker. Kanske söker kan hjälpa."
+
+#: content-page.php:29 content.php:58 image.php:58 page.php:48
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content-page.php:39 content-search.php:24 content-search.php:29 content.php:40 image.php:71 page.php:58 templates/blog/grid_column.php:48 templates/blog/large_image.php:36 templates/blog/small_image.php:39 templates/blog/timeline.php:44 woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "Redigera"
+
+#: content.php:52 templates/blog/grid_column.php:60 templates/blog/large_image.php:48 templates/blog/small_image.php:51 templates/blog/timeline.php:56
+#, php-format
+msgid "Read more %s"
+msgstr "Läs mer %s"
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "N/A"
+
+#: dokan/store-lists-loop.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Klassad %s av 5"
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr "Besök Butik"
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr "← F&ouml;reg&aring;ende"
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr "N&auml;sta →"
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr "Ingen leverantör hittades!"
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr "Säljarrecension"
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr "Inga resultat funna"
+
+#: dokan/store-reviews.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:60 framework/woocommerce/woo-functions.php:982
+msgid "out of 5"
+msgstr "av 5"
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr "Användarvillkor"
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr "Inga produkter hittades av denna säljare!"
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installera obligatoriska tillägg"
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installera tillägg"
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installerar tillägg: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Uppdatering av plugin: %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Något gick fel med tillägg-API'n."
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Detta tema kräver följande plugin: %1$s ."
+msgstr[1] "Detta tema kräver följande plugin: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Detta tema rekommenderar följande plugin: %1$s ."
+msgstr[1] "Detta tema rekommenderar följande plugin: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Följande plugin måste uppdateras till sin senaste version för att säkerställa maximal kompatibilitet med detta tema: %1$s ."
+msgstr[1] "Följande plugin måste uppdateras till sin senaste version för att säkerställa maximal kompatibilitet med detta tema: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Det finns en uppdatering tillgänglig för: %1$s ."
+msgstr[1] "Det finns en uppdatering tillgänglig för: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Följande nödvändiga plugin är för närvarande inaktivt: %1$s ."
+msgstr[1] "Följande nödvändiga plugin är för närvarande inaktivt: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Följande rekommenderade plugin är för närvarande inaktivt: %1$s ."
+msgstr[1] "Följande rekommenderade plugin är för närvarande inaktivt: %1$s ."
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Börja installera plugin"
+msgstr[1] "Börja installera plugin"
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Börja uppdatera plugin"
+msgstr[1] "Börja uppdatera plugin"
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Börja aktivera plugin"
+msgstr[1] "Börja aktivera plugin"
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Återgå till obligatoriska tilläggs installatören"
+
+#: framework/classes/class-tgm-plugin-activation.php:393 framework/classes/class-tgm-plugin-activation.php:912 framework/classes/class-tgm-plugin-activation.php:2618 framework/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Återgå till Panelen"
+
+#: framework/classes/class-tgm-plugin-activation.php:394 framework/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Tillägget aktiverades."
+
+#: framework/classes/class-tgm-plugin-activation.php:395 framework/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Följande plugin aktiverades framgångsrikt:"
+msgstr[1] "Följande plugin aktiverades framgångsrikt:"
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Inga åtgärder vidtas. Plugin %1$s var redan aktiv."
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin inte aktiverad. En högre version av %s behövs för detta tema. Vänligen uppdatera plugin."
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla tillägg är installerade och aktiverade. %1$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Avvisa detta meddelande"
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Det finns en eller flera nödvändiga eller rekommenderade plugins för att installera, uppdatera eller aktivera."
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Vänligen kontakta administratören för den här webbplatsen för hjälp."
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Detta plugin måste uppdateras för att vara kompatibelt med ditt tema."
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Uppdatering krävs"
+
+#: framework/classes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Det externa pluginpaketet innehåller inte en mapp med önskad slug och det gick inte att byta namn."
+
+#: framework/classes/class-tgm-plugin-activation.php:1019 framework/classes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vänligen kontakta plugin-leverantören och be dem att paketera plugin-programmet enligt WordPress-riktlinjerna."
+
+#: framework/classes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Det externa pluginpaketet består av mer än en fil, men filerna är inte förpackade i en mapp."
+
+#: framework/classes/class-tgm-plugin-activation.php:1206 framework/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "och"
+
+#: framework/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Krävs"
+
+#: framework/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Rekommenderad"
+
+#: framework/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Extern källa"
+
+#: framework/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Förpacketerade"
+
+#: framework/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Inte installerad"
+
+#: framework/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installerad men inte aktiverat"
+
+#: framework/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Aktiv"
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Obligatorisk uppdatering inte tillgänglig"
+
+#: framework/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Kräver uppdatering"
+
+#: framework/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Uppdatering rekommenderas"
+
+#: framework/classes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%s %s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Slutfördes <span class=\"count\">(%s)</span>"
+msgstr[1] "Slutfördes <span class=\"count\">(%s)</span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "För att installera <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "För att installera <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Uppdatering Tillgänglig <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "Uppdatering Tillgänglig <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "För att aktivera <span class = \\ \"count \"> ( %s ) </ span>"
+msgstr[1] "För att aktivera <span class = \\ \"count \"> ( %s ) </ span>"
+
+#: framework/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "okänt"
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Installerad version:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minsta nödvändig version:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Tillgänglig version:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Inga plugins att installera, uppdatera eller aktivera."
+
+#: framework/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Tillägg"
+
+#: framework/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Källa"
+
+#: framework/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Typ"
+
+#: framework/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Version"
+
+#: framework/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#: framework/classes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installera %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktivera %2$s"
+
+#: framework/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Uppgradera meddelande från plugin author:"
+
+#: framework/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installera"
+
+#: framework/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Uppdatera"
+
+#: framework/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Aktivera"
+
+#: framework/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Inga plugins valdes för att installeras. Inga åtgärder vidtas."
+
+#: framework/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Inga plugins valdes för att uppdateras. Inga åtgärder vidtas."
+
+#: framework/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Inga plugins finns tillgängliga för att installeras just nu."
+
+#: framework/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Inga plugins finns tillgängliga för att uppdateras just nu."
+
+#: framework/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Inga plugins valdes för att aktiveras. Inga åtgärder vidtas."
+
+#: framework/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Inga plugins är tillgängliga för att aktiveras just nu."
+
+#: framework/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Pluginaktivering misslyckades."
+
+#: framework/classes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera Plugin %1$s(%2$d/%3$d)"
+
+#: framework/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ett fel inträffade under installationen %1$s : <strong> %2$s </strong>."
+
+#: framework/classes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installationen av %1$s misslyckades."
+
+#: framework/classes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen och aktiveringsprocessen startar. Denna process kan ta ett tag på vissa sidor, så ha tålamod."
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeras och aktiveras framgångsrikt."
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+#: framework/classes/class-tgm-plugin-activation.php:3594 framework/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Göm detaljer"
+
+#: framework/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar har slutförts."
+
+#: framework/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera och aktivera Plugin %1$s(%2$d/%3$d)"
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen börjar. Denna process kan ta ett tag på vissa sidor, så ha tålamod."
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installeras framgångsrikt."
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Alla installationer har slutförts."
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera Plugin %1$s(%2$d/%3$d)"
+
+#: framework/classes/mega-menus.php:27
+msgid "Enable EmallShop Mega Menu (only for main menu)"
+msgstr "Aktivera EmallShop Mega Menu (endast för huvudmenyn)"
+
+#: framework/classes/mega-menus.php:33
+msgid "Full Width Mega Menu (overrides column width)"
+msgstr "Full bredd Mega Meny (överskridande kolumnbredd)"
+
+#: framework/classes/mega-menus.php:38
+msgid "Mega Menu Number of Columns"
+msgstr "Mega Meny Antal kolumner"
+
+#: framework/classes/mega-menus.php:40
+msgid "Auto"
+msgstr "Automat"
+
+#: framework/classes/mega-menus.php:52
+msgid "Mega Menu Column Width (in percentage, ex: 30%)"
+msgstr "Mega Meny Kolumn Bredd (i procent, ex: 30%)"
+
+#: framework/classes/mega-menus.php:59
+msgid "Disable Mega Menu Column Title"
+msgstr "Inaktivera Mega Meny Kolumn Titel"
+
+#: framework/classes/mega-menus.php:65
+msgid "Enable Mega Menu Column Title"
+msgstr "Aktivera Mega Meny Kolumn Titel"
+
+#: framework/classes/mega-menus.php:70
+msgid "Mega Menu Widget Area"
+msgstr "Mega Meny Widget Area"
+
+#: framework/classes/mega-menus.php:72
+msgid "Select Widget Area"
+msgstr "Välj Widget Area"
+
+#: framework/classes/mega-menus.php:86
+msgid "New Label"
+msgstr "Ny etikett"
+
+#: framework/classes/mega-menus.php:89
+msgid "Hot Label"
+msgstr "Hot etikett"
+
+#: framework/classes/mega-menus.php:92
+msgid "Sale Label"
+msgstr "Försäljningsetikett"
+
+#: framework/classes/mega-menus.php:98
+msgid "Menu Icon"
+msgstr "Menyikon"
+
+#: framework/classes/mega-menus.php:100
+msgid "Quick search"
+msgstr "Snabbsökning"
+
+#: framework/classes/mega-menus.php:109
+msgid "Custom Icon"
+msgstr "Anpassad ikon"
+
+#: framework/classes/mega-menus.php:544
+msgid "Hot"
+msgstr "Hot"
+
+#: framework/classes/mega-menus.php:760
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (ogiltigt)"
+
+#: framework/classes/mega-menus.php:764
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s avvaktan"
+
+#: framework/classes/mega-menus.php:777
+msgid "sub item"
+msgstr "delobjekt"
+
+#: framework/classes/mega-menus.php:792
+msgid "Move up"
+msgstr "Flytta upp"
+
+#: framework/classes/mega-menus.php:805
+msgid "Move down"
+msgstr "Flytta ned"
+
+#: framework/classes/mega-menus.php:807 framework/classes/mega-menus.php:809
+msgid "Edit Menu Item"
+msgstr "Redigera meny"
+
+#: framework/classes/mega-menus.php:818
+msgid "URL"
+msgstr "URL"
+
+#: framework/classes/mega-menus.php:825
+msgid "Navigation Label"
+msgstr "Navigationsetikett"
+
+#: framework/classes/mega-menus.php:831
+msgid "Title Attribute"
+msgstr "Titel Attribut"
+
+#: framework/classes/mega-menus.php:838
+msgid "Open link in a new window/tab"
+msgstr "Öppna länken i ett nytt fönster / flik"
+
+#: framework/classes/mega-menus.php:843
+msgid "CSS Classes (optional)"
+msgstr "CSS-klasser (valfritt)"
+
+#: framework/classes/mega-menus.php:849
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: framework/classes/mega-menus.php:855
+msgid "Description"
+msgstr "Beskrivning"
+
+#: framework/classes/mega-menus.php:857
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Beskrivningen kommer att visas i menyn om det aktuella temat stöder det."
+
+#: framework/classes/mega-menus.php:865
+msgid "Move"
+msgstr "Rörelse"
+
+#: framework/classes/mega-menus.php:866
+msgid "Up one"
+msgstr "Upp en"
+
+#: framework/classes/mega-menus.php:867
+msgid "Down one"
+msgstr "Ned en"
+
+#: framework/classes/mega-menus.php:870
+msgid "To the top"
+msgstr "Till toppen"
+
+#: framework/classes/mega-menus.php:877
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: framework/classes/mega-menus.php:890 framework/meta-box/inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "Ta bort"
+
+#: framework/classes/mega-menus.php:891
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: framework/classes/sidebar-generator.class.php:14
+msgid "Add Custom Widget Area"
+msgstr "Lägg till anpassat widgetområde"
+
+#: framework/classes/sidebar-generator.class.php:58
+msgid "Enter Name for new Widget Area"
+msgstr "Ange Namn för nytt Widget Area"
+
+#: framework/classes/sidebar-generator.class.php:59
+msgid "Add Widget Area"
+msgstr "Lägg till Widget Area"
+
+#: framework/dokan/dokan-functions.php:30 functions.php:190
+msgid "Dokan Widget Area"
+msgstr "Dokan Widget Area"
+
+#: framework/dokan/dokan-functions.php:32
+msgid "Add widgets here to appear in your dokan page sidebar."
+msgstr "Lägg till widgets här för att visas i sidans sidor på dokan sidan."
+
+#: framework/dokan/dokan-functions.php:62
+msgid "Store Category"
+msgstr "Butikskategori"
+
+#: framework/dokan/dokan-functions.php:65
+msgid "Store Location"
+msgstr "Store Plats"
+
+#: framework/dokan/dokan-functions.php:69
+msgid "Contact Seller"
+msgstr "Kontakta säljaren"
+
+#: framework/dokan/dokan-functions.php:104
+#, php-format
+msgid "Cart %s"
+msgstr "Varukorg %s"
+
+#: framework/dokan/dokan-functions.php:122
+msgid "Seller Dashboard"
+msgstr "Säljare Dashboard"
+
+#: framework/dokan/dokan-functions.php:125
+msgid "Visit your store"
+msgstr "Besök din butik"
+
+#: framework/dokan/dokan-functions.php:141 inc/theme-function.php:362 inc/theme-function.php:396
+msgid "My Account"
+msgstr "Mitt konto"
+
+#: framework/dokan/dokan-functions.php:142
+msgid "Edit Account"
+msgstr "Redigera konto"
+
+#: framework/dokan/dokan-functions.php:144 woocommerce/myaccount/my-address.php:27 woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "Fakturaadress"
+
+#: framework/dokan/dokan-functions.php:145 woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "leveransadress"
+
+#: framework/dokan/dokan-functions.php:152
+msgid "Log in"
+msgstr "Logga in"
+
+#: framework/dokan/dokan-functions.php:153
+msgid "Sign Up"
+msgstr "Skapa konto"
+
+#: framework/meta-box/inc/field.php:213
+msgid "+ Add more"
+msgstr "+ Lägg till mer"
+
+#: framework/meta-box/inc/fields/autocomplete.php:14 framework/meta-box/inc/fields/autocomplete.php:77 framework/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr "Radera"
+
+#: framework/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr "Klicka här"
+
+#: framework/meta-box/inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "Välj fil"
+
+#: framework/meta-box/inc/fields/file-input.php:41 framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "Select"
+msgstr "Välj"
+
+#: framework/meta-box/inc/fields/file.php:15
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Du får bara ladda upp maximal %d fil"
+
+#: framework/meta-box/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Du får bara ladda upp maximala %d filer"
+
+#: framework/meta-box/inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "Fel: Kan inte ta bort fil"
+
+#: framework/meta-box/inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Ladda upp filer"
+
+#: framework/meta-box/inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Lägg till en ny fil"
+
+#: framework/meta-box/inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Radera"
+
+#: framework/meta-box/inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Redigera"
+
+#: framework/meta-box/inc/fields/image.php:61 framework/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Ladda upp bilder"
+
+#: framework/meta-box/inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Lägg till en ny bild"
+
+#: framework/meta-box/inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Radera"
+
+#: framework/meta-box/inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Redigera"
+
+#: framework/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr "Nyckel"
+
+#: framework/meta-box/inc/fields/key-value.php:25
+msgid "Value"
+msgstr "Värde"
+
+#: framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "Hitta adress"
+
+#: framework/meta-box/inc/fields/media.php:18
+msgctxt "media"
+msgid "Select or Upload Images"
+msgstr "Välj eller ladda upp bilder"
+
+#: framework/meta-box/inc/fields/media.php:19
+msgctxt "media"
+msgid " file"
+msgstr " Fil"
+
+#: framework/meta-box/inc/fields/media.php:20
+msgctxt "media"
+msgid " files"
+msgstr " Filer"
+
+#: framework/meta-box/inc/fields/media.php:21
+msgctxt "media"
+msgid "Remove"
+msgstr "Avlägsna"
+
+#: framework/meta-box/inc/fields/media.php:22
+msgctxt "media"
+msgid "Edit"
+msgstr "Redigera"
+
+#: framework/meta-box/inc/fields/media.php:23
+msgctxt "media"
+msgid "View"
+msgstr "Visa"
+
+#: framework/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "No Title"
+msgstr "Ingen titel"
+
+#: framework/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: framework/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Släpp filer här för att ladda upp"
+
+#: framework/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "Bädda in HTML inte tillgängligt."
+
+#: framework/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "Förhandsvisning"
+
+#: framework/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "Välj ett inlägg"
+
+#: framework/meta-box/inc/fields/post.php:38 framework/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "Välj en %s"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "All"
+msgstr "Allt"
+
+#: framework/meta-box/inc/fields/select.php:91 framework/meta-box/inc/fields/sidebars.php:100
+msgid "None"
+msgstr "Inga"
+
+#: framework/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "Välj en term"
+
+#: framework/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "Välj en användare"
+
+#: framework/meta-box/inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Var god och korrigera de fel som anges nedan och försök igen."
+
+#: framework/openswatch/templates/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "Denna produkt är för närvarande slut i lager och inte tillgänglig."
+
+#: framework/woocommerce/woo-functions.php:29
+msgctxt "placeholder"
+msgid "I'm shopping for..."
+msgstr "Jag söker ..."
+
+#: framework/woocommerce/woo-functions.php:38
+msgid "All Categories"
+msgstr "alla kategorier"
+
+#: framework/woocommerce/woo-functions.php:111
+msgid "No products found."
+msgstr "Inga produkter hittades."
+
+#: framework/woocommerce/woo-functions.php:221 framework/woocommerce/woo-functions.php:228 inc/theme-function.php:655 inc/theme-function.php:671
+#, php-format
+msgid "%d item"
+msgid_plural "%d item(s)"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#: framework/woocommerce/woo-functions.php:247 inc/theme-function.php:416 inc/theme-function.php:670
+msgid "Shopping Cart"
+msgstr "Kundvagn"
+
+#: framework/woocommerce/woo-functions.php:447
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Hemsida"
+
+#: framework/woocommerce/woo-functions.php:509
+msgid "Categories"
+msgstr "Kategorier"
+
+#: framework/woocommerce/woo-functions.php:580 framework/woocommerce/woo-functions.php:1229
+msgid "Items"
+msgstr "Föremål"
+
+#: framework/woocommerce/woo-functions.php:632
+msgid "Brands"
+msgstr "Märken"
+
+#: framework/woocommerce/woo-functions.php:678
+msgid "View as Grid"
+msgstr "Visa som rutnät"
+
+#: framework/woocommerce/woo-functions.php:681
+msgid "View as Expand Grid"
+msgstr "Visa som Expand Grid"
+
+#: framework/woocommerce/woo-functions.php:684
+msgid "View as List"
+msgstr "Visa som lista"
+
+#: framework/woocommerce/woo-functions.php:687
+msgid "View as Thin List "
+msgstr "Visa som tunn lista "
+
+#: framework/woocommerce/woo-functions.php:728
+msgid "View"
+msgstr "Visa"
+
+#: framework/woocommerce/woo-functions.php:835 framework/woocommerce/woo-functions.php:865
+msgid "Quick View"
+msgstr "Snabbvy"
+
+#: framework/woocommerce/woo-functions.php:1063 woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr "Väntar på produktbild"
+
+#: framework/woocommerce/woo-functions.php:1192
+msgid "Product is added in cart"
+msgstr "Produkten läggs i kundvagnen"
+
+#: framework/woocommerce/woo-functions.php:1211
+msgid "View Cart"
+msgstr "Visa kundvagn"
+
+#: framework/woocommerce/woo-functions.php:1267 inc/theme-function.php:1350 inc/theme-function.php:1401
+msgid "Loading..."
+msgstr "Laddar..."
+
+#: framework/woocommerce/woo-functions.php:1269
+msgid "No more product"
+msgstr "Inget mer produkt"
+
+#: framework/woocommerce/woo-functions.php:1418
+msgid "In  Stock"
+msgstr "I lager"
+
+#: framework/woocommerce/woo-functions.php:1472
+msgid "Size Guide"
+msgstr "Storleksguide"
+
+#: framework/woocommerce/woo-functions.php:1489
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] "arumärke"
+msgstr[1] "arumärke"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "Huvudmeny"
+
+#: functions.php:115
+msgid "Vertical Menu"
+msgstr "Vertikal meny"
+
+#: functions.php:163
+msgid "Widget Area"
+msgstr "Widget Area"
+
+#: functions.php:165
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Lägg till widgets här för att visas i din sidofält."
+
+#: functions.php:172
+msgid "Shop Page Widget Area"
+msgstr "Shop Sidan Widget Area"
+
+#: functions.php:174
+msgid "Add widgets here to appear in shop page sidebar."
+msgstr "Lägg till widgets här för att visas i sidoplatsen på sidan."
+
+#: functions.php:181
+msgid "Single Product Widget Area"
+msgstr "Enhetsprodukt Widget Area"
+
+#: functions.php:183
+msgid "Add widgets here to appear in single product page sidebar."
+msgstr "Lägg till widgets här för att visas i sidopanelen för en produktsida."
+
+#: functions.php:192
+msgid "Add widgets here to appear in dokan page sidebar."
+msgstr "Lägg till widgets här för att visas i sid sidans sidor."
+
+#: functions.php:199
+msgid "Menu Widget Area 1"
+msgstr "Meny Widget Area 1"
+
+#: functions.php:201 functions.php:210 functions.php:219
+msgid "Add widgets here to appear in your menu."
+msgstr "Lägg till widgets här för att visas i din meny."
+
+#: functions.php:208
+msgid "Menu Widget Area 2"
+msgstr "Meny Widget Area 2"
+
+#: functions.php:217
+msgid "Menu Widget Area 3"
+msgstr "Meny Widget Area 3"
+
+#: functions.php:227
+msgid "Footer Widget Area 1"
+msgstr "Footer Widget Area"
+
+#: functions.php:229 functions.php:238 functions.php:247 functions.php:256 functions.php:265 functions.php:274 functions.php:283 functions.php:292
+msgid "Add widgets here to appear in your footer."
+msgstr "Lägg till widgets här för att visas i din sidfot."
+
+#: functions.php:236
+msgid "Footer Widget Area 2"
+msgstr "Footer Widget Area"
+
+#: functions.php:245
+msgid "Footer Widget Area 3"
+msgstr "Footer Widget Area"
+
+#: functions.php:254
+msgid "Footer Widget Area 4"
+msgstr "Footer Widget Area"
+
+#: functions.php:263
+msgid "Footer Widget Area 5"
+msgstr "Footer Widget Area"
+
+#: functions.php:272
+msgid "Footer Widget Area 6"
+msgstr "Footer Widget Area"
+
+#: functions.php:281
+msgid "Footer Widget Area 7"
+msgstr "Footer Widget Area"
+
+#: functions.php:290
+msgid "Footer Widget Area 8"
+msgstr "Footer Widget Area"
+
+#: image.php:23
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: image.php:23
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: image.php:85
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class = \\ \"meta-nav \"> Publicerad i </ span> <span class = \\ \"post-title \"> %t itle </ span>"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+#, php-format
+msgid "EmallShop requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "EmallShop kräver åtminstone WordPress version 4.1. Du kör version %s . Var god uppgradera och försök igen."
+
+#: inc/breadcrumbs.php:19
+msgid "Home"
+msgstr "Hem"
+
+#: inc/breadcrumbs.php:58
+#, php-format
+msgid "Tag - %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:60
+#, php-format
+msgid "Product Tag - %s"
+msgstr "Produktetikett - %s"
+
+#: inc/breadcrumbs.php:122
+msgid "Go to Home Page"
+msgstr "Gå till hemsidan"
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search - %s"
+msgstr "%s"
+
+#: inc/breadcrumbs.php:187
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "Basfärgschema"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "Textfärg för sidhuvud och sidofält"
+
+#: inc/customizer.php:47 inc/customizer.php:63 inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Appliceras på rubriken på små skärmar och sidofältet på breda skärmar."
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "Bakgrundsfärg för sidhuvud och sidofält"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "Mörk"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "Gul"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "Rosa"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "Lila"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "Blå"
+
+#: inc/meta-boxes.php:26
+msgid "Post Format: Image"
+msgstr "Postformat: Bild"
+
+#: inc/meta-boxes.php:32
+msgid "Image"
+msgstr "Bild"
+
+#: inc/meta-boxes.php:36
+msgid "Select a image for post"
+msgstr "Välj en bild för inlägg"
+
+#: inc/meta-boxes.php:44
+msgid "Post Format: Gallery"
+msgstr "Postformat: Galleri"
+
+#: inc/meta-boxes.php:50
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/meta-boxes.php:53
+msgid "Select images gallery for post"
+msgstr "Välj bilder galleri för inlägg"
+
+#: inc/meta-boxes.php:61
+msgid "Post Format: Video"
+msgstr "Postformat: Video"
+
+#: inc/meta-boxes.php:67
+msgid "Video URL or Embeded Code"
+msgstr "Video URL eller inbäddad kod"
+
+#: inc/meta-boxes.php:70
+msgid "Enter the URL or embed code of Vimeo.com or YouTube.com streaming services.<br>To get the code, go to the external video page, click \"share\" button and copy the Embed code."
+msgstr "Ange webbadressen eller inbäddningskoden för Vimeo.com eller YouTube.com-streamingtjänster. <br> För att få koden, gå till den externa videosidan, klicka på \\ \"dela \" -knappen och kopiera inbäddningskoden."
+
+#: inc/meta-boxes.php:78
+msgid "Post Format: Audio"
+msgstr "Postformat: Ljud"
+
+#: inc/meta-boxes.php:84
+msgid "Audio URL or Embeded Code"
+msgstr "Ljudadress eller inbäddad kod"
+
+#: inc/meta-boxes.php:87
+msgid "Please enter the URL or Embeded code of the audio."
+msgstr "Ange URL-adressen eller den inbyggda koden för ljudet."
+
+#: inc/meta-boxes.php:95
+msgid "Post Format: Quote"
+msgstr "Postformat: Citat"
+
+#: inc/meta-boxes.php:101
+msgid "Quote"
+msgstr "Offert"
+
+#: inc/meta-boxes.php:104
+msgid "Add a quote."
+msgstr "Lägg till ett citat:"
+
+#: inc/meta-boxes.php:107
+msgid "Author"
+msgstr "Författare"
+
+#: inc/meta-boxes.php:110
+msgid "Add the quote author."
+msgstr "Lägg till citat författaren."
+
+#: inc/meta-boxes.php:113
+msgid "Author Url"
+msgstr "Författare Url"
+
+#: inc/meta-boxes.php:116
+msgid "Add the quote author URL."
+msgstr "Lägg till citatens författaradress."
+
+#: inc/meta-boxes.php:124
+msgid "Post Format: Link"
+msgstr "Postformat: Länk"
+
+#: inc/meta-boxes.php:130
+msgid "Url"
+msgstr "Url"
+
+#: inc/meta-boxes.php:133
+msgid "Add an URL link."
+msgstr "Lägg till en URL-länk."
+
+#: inc/meta-boxes.php:139
+msgid "Add text for the URL link."
+msgstr "Lägg till text för URL-länken."
+
+#: inc/meta-boxes.php:147
+msgid "Portfolio Informations"
+msgstr "Portföljinformation"
+
+#: inc/meta-boxes.php:154
+msgid "Enter Client Name"
+msgstr "Ange kundens namn"
+
+#: inc/meta-boxes.php:157
+msgid "Enter your project client name."
+msgstr "Ange ditt projektklient namn."
+
+#: inc/meta-boxes.php:160
+msgid "Enter Live Project URL"
+msgstr "Ange Live Project URL"
+
+#: inc/meta-boxes.php:163
+msgid "Enter your live project url."
+msgstr "Ange din live-projektadress."
+
+#: inc/meta-boxes.php:171
+msgid "Testimonial Informations"
+msgstr "Testimonial Information"
+
+#: inc/meta-boxes.php:178
+msgid "Enter Designation"
+msgstr "Ange beteckning"
+
+#: inc/meta-boxes.php:181
+msgid "Enter client designation."
+msgstr "Ange klientbeteckning."
+
+#: inc/meta-boxes.php:184
+msgid "Enter Company Name"
+msgstr "Ange företagsnamn"
+
+#: inc/meta-boxes.php:187
+msgid "Enter client company name."
+msgstr "Ange kundföretagets namn."
+
+#: inc/meta-boxes.php:195
+msgid "Page Layout Options"
+msgstr "Sidlayoutalternativ"
+
+#: inc/meta-boxes.php:201
+msgid "Show Title"
+msgstr "Visa Titel"
+
+#: inc/meta-boxes.php:204
+msgid "Show title of the page."
+msgstr "Visa titeln på sidan."
+
+#: inc/meta-boxes.php:213
+msgid "Show Breadcrumb"
+msgstr "Visa Breadcrumb"
+
+#: inc/meta-boxes.php:216
+msgid "Show breadcrumb of the page."
+msgstr "Visa breadcrumb på sidan."
+
+#: inc/meta-boxes.php:225
+msgid "Page Sidebar"
+msgstr "Sidpanel"
+
+#: inc/meta-boxes.php:245 inc/meta-boxes.php:287
+msgid "Select Sidebar"
+msgstr "Välj Sidpanel"
+
+#: inc/meta-boxes.php:258
+msgid "Product Page Layout Options"
+msgstr "Alternativ för produktsidlayout"
+
+#: inc/meta-boxes.php:266
+msgid "Product Page Layout"
+msgstr "Produktsida Layout"
+
+#: inc/meta-boxes.php:280
+#, php-format
+msgid "Choose product page layout for only this product. You can choose  global for all product page layout at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "Välj produktsidayta för endast den här produkten. Du kan välja globalt för alla produktsidor på <a target=\"_blank\" href=\" %1$s \"> här </a> (WooCommerce> Produktprodukt)."
+
+#: inc/meta-boxes.php:293
+msgid "Product Size Guide Image"
+msgstr "Produktstorleksguide Bild"
+
+#: inc/meta-boxes.php:297
+#, php-format
+msgid "Upload product size guide image for only this product. You can use image size guide for all product at <a target=\"_blank\" href=\"%1$s\">here</a> (WooCommerce > Single Product section)."
+msgstr "Ladda upp produktstorlek bild för endast den här produkten. Du kan använda bildstorleksguide för all produkt på <a target=\"_blank\" href=\" %1$s \"> här </a> (WooCommerce> Enhetsproduktsektion)."
+
+#: inc/plugin_activetion_class.php:50
+msgid "PL EmallShop Extensions"
+msgstr "PL EmallShop Extensions"
+
+#: inc/plugin_activetion_class.php:57
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Visual Composer"
+
+#: inc/plugin_activetion_class.php:64
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/plugin_activetion_class.php:71
+msgid "Ultimate Addons for Visual Composer"
+msgstr "Ultimate Addons för Visual Composer"
+
+#: inc/plugin_activetion_class.php:78
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/plugin_activetion_class.php:83
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Jämför"
+
+#: inc/plugin_activetion_class.php:88
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Önskelista"
+
+#: inc/plugin_activetion_class.php:93
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr "YITH WooCommerce Ajax Produktfilter"
+
+#: inc/plugin_activetion_class.php:98
+msgid "MailChimp for WordPress"
+msgstr "MailChimp för WordPress"
+
+#: inc/plugin_activetion_class.php:103
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Kommentar navigering"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:78
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "den"
+
+#: inc/template-tags.php:87
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Författare"
+
+#: inc/template-tags.php:93 inc/template-tags.php:101
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:96
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:104
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Taggar"
+
+#: inc/template-tags.php:115
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full storlek"
+
+#: inc/template-tags.php:125
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lämna en kommentar <span class = \\ \"screen-reader-text \"> på %s </ span>"
+
+#: inc/theme-function.php:151
+msgid "Days"
+msgstr "Antal dagar"
+
+#: inc/theme-function.php:152
+msgid "Hours"
+msgstr "Timmar"
+
+#: inc/theme-function.php:153
+msgid "Mins"
+msgstr "minuter"
+
+#: inc/theme-function.php:154
+msgid "Secs"
+msgstr "sek"
+
+#: inc/theme-function.php:155
+msgid "+ Show more"
+msgstr "Visa mer"
+
+#: inc/theme-function.php:156
+msgid "- Show less"
+msgstr "Visa mindre"
+
+#: inc/theme-function.php:199
+msgid "WARNING: Clicking this button will replace your current theme options, sliders.  It can also take a minute to complete. Importing data is recommended on fresh installs only once. Importing on sites with content or importing twice will duplicate menus, pages and all posts."
+msgstr "VARNING: Om du klickar på den här knappen kommer du att ersätta dina aktuella temanalternativ, reglage. Det kan också ta en minut att slutföra. Importera data rekommenderas endast vid nya installationer en gång. Importera på webbplatser med innehåll eller importera två gånger kommer att duplicera menyer, sidor och alla inlägg."
+
+#: inc/theme-function.php:259
+msgid "News"
+msgstr "Nyheter"
+
+#: inc/theme-function.php:325
+msgid "Login/Register"
+msgstr "Logga in / Registrera"
+
+#: inc/theme-function.php:327
+msgid "Logout"
+msgstr "Logga ut"
+
+#: inc/theme-function.php:341
+msgid "Register"
+msgstr "Registrera"
+
+#: inc/theme-function.php:365 inc/theme-function.php:434
+msgid "Checkout"
+msgstr "Checka ut"
+
+#: inc/theme-function.php:366 inc/theme-function.php:663
+msgid "Cart"
+msgstr "Påse"
+
+#: inc/theme-function.php:370
+msgid "My Wishlist"
+msgstr "min önskelista"
+
+#: inc/theme-function.php:376 inc/theme-function.php:490
+msgid "Compare"
+msgstr "jämför"
+
+#: inc/theme-function.php:379
+msgid "sign Out"
+msgstr "Logga ut"
+
+#: inc/theme-function.php:450
+msgid "Track Order"
+msgstr "Spåra beställning"
+
+#: inc/theme-function.php:469
+msgid "Wishlist"
+msgstr "Önskelista"
+
+#: inc/theme-function.php:579
+msgid "Help"
+msgstr "Hjälp"
+
+#: inc/theme-function.php:693
+msgid "Search"
+msgstr "Sök"
+
+#: inc/theme-function.php:821
+msgid "Shopping Categories"
+msgstr "Shoppingkategorier"
+
+#: inc/theme-function.php:1249
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/theme-function.php:1251
+msgid "Reply"
+msgstr "Svar"
+
+#: inc/theme-function.php:1352 inc/theme-function.php:1403
+msgid "No more blog"
+msgstr "Inget mer blogg"
+
+#: inc/theme-function.php:1438
+msgid "Post Navigation"
+msgstr "Inläggsnavigering"
+
+#: inc/theme-function.php:1521
+msgid "Related Post"
+msgstr "Relaterade inlägg"
+
+#: inc/theme-function.php:1717
+msgid "Share on Facebook"
+msgstr "Dela på Facebook"
+
+#: inc/theme-function.php:1722
+msgid "Share on Twitter"
+msgstr "Dela på Twitter"
+
+#: inc/theme-function.php:1727
+msgid "Share on LinkedIn"
+msgstr "Dela på LinkedIn"
+
+#: inc/theme-function.php:1732
+msgid "Share on Google Plus"
+msgstr "Dela på Google Plus"
+
+#: inc/theme-function.php:1737
+msgid "Share on Stumbleupon"
+msgstr "Dela på Stumbleupon"
+
+#: inc/theme-function.php:1742
+msgid "Share on Pinterest"
+msgstr "Dela på Pinterest"
+
+#: inc/theme-function.php:1747
+msgid "Share on Tumblr"
+msgstr "Dela på Tumblr"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: single-portfolio.php:55
+msgid "Project Description"
+msgstr "projekt beskrivning"
+
+#: single-portfolio.php:65
+msgid "Live Preview"
+msgstr "Live förhandsgranskning"
+
+#: single-portfolio.php:72
+msgid "Project Informations"
+msgstr "Projektinformation"
+
+#: single-portfolio.php:77
+msgid "Client"
+msgstr "Klient"
+
+#: single-portfolio.php:82
+msgid "Date"
+msgstr "Datum"
+
+#: single-portfolio.php:99
+msgid "Skills"
+msgstr "Färdigheter"
+
+#: single-portfolio.php:111
+msgid "Share"
+msgstr "Dela"
+
+#: single-portfolio.php:141
+msgid "Related projects"
+msgstr "Relaterade projekt"
+
+#: single.php:36
+msgid "Share This Post"
+msgstr "Dela det här inlägget"
+
+#: templates/footer/footer-1.php:34 templates/footer/footer-2.php:50 templates/footer/footer-3.php:56
+msgid "&copy; 2016 presslayouts.com. All Rights Reserved."
+msgstr "&kopiera; 2016 presslayouts.com. Alla rättigheter förbehållna."
+
+#: templates/footer/footer-2.php:22
+msgid "Stay Connected"
+msgstr "Förbli uppkopplad"
+
+#: templates/portfolio/portfolio_grid.php:32
+msgid "Skill"
+msgstr "Skicklighet"
+
+#: woocommerce/cart/cart.php:35
+msgid "Item Details"
+msgstr "Artikel detaljer"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:120
+msgid "Price"
+msgstr "Pris"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:126
+msgid "Quantity"
+msgstr "Kvantitet"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:143 woocommerce/order/order-details.php:40
+msgid "Total"
+msgstr "Totalt"
+
+#: woocommerce/cart/cart.php:68 woocommerce/order/order-details.php:39
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr "Finns på backorder"
+
+#: woocommerce/cart/cart.php:153 woocommerce/cart/mini-cart.php:103
+msgid "Remove this item"
+msgstr "Ta bort denna artikel"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon:"
+msgstr "Kupong"
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr "Kupongskod"
+
+#: woocommerce/cart/cart.php:172
+msgid "Apply coupon"
+msgstr "Använd kupong"
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr "Uppdatera varukorg"
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr "Du kan vara intresserad av & hellip;"
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Recent add item"
+msgid_plural "Recent add item(s)"
+msgstr[0] "Senaste tilläggsposten"
+msgstr[1] "Senaste tilläggsposten"
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Subtotal"
+msgstr "Delsumma"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "No products in the cart."
+msgstr "Inga produkter i kundvagnen."
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Du måste vara inloggad till kassan."
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "Du beställer"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By:"
+msgstr "Sortera efter:"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Följande adresser kommer att användas i kassan som standard."
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "Du har inte konfigurerat den här typen av adress än."
+
+#: woocommerce/order/order-details.php:33
+msgid "Order details"
+msgstr "Beställningsinformation"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategorier"
+msgstr[1] "Kategorier"
+
+#: woocommerce/single-product/meta.php:45
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tagg"
+msgstr[1] "Tagg"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s kundrecension"
+msgstr[1] "%s kundrecension"
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr "Relaterade produkter"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "Du kanske också gillar & hellip;"
